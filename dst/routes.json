@@ -1,0 +1,296 @@
+[
+  {
+    "name": "messages",
+    "path": "/messages",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\messages.vue",
+    "chunkName": "pages/messages",
+    "_name": "_3af2dd2f"
+  },
+  {
+    "name": "resources",
+    "path": "/resources",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\resources.vue",
+    "chunkName": "pages/resources",
+    "_name": "_ee59df5c"
+  },
+  {
+    "name": "task",
+    "path": "/task",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\index.vue",
+    "chunkName": "pages/task/index",
+    "_name": "_ebfab5cc"
+  },
+  {
+    "name": "tasks",
+    "path": "/tasks",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\tasks.vue",
+    "chunkName": "pages/tasks",
+    "_name": "_30ab788a"
+  },
+  {
+    "name": "volounteer",
+    "path": "/volounteer",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\volounteer.vue",
+    "chunkName": "pages/volounteer",
+    "_name": "_963668d4"
+  },
+  {
+    "name": "world",
+    "path": "/world",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\world.vue",
+    "chunkName": "pages/world",
+    "_name": "_1ec341bf"
+  },
+  {
+    "name": "task-add-info",
+    "path": "/task/add-info",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\add-info.vue",
+    "chunkName": "pages/task/add-info",
+    "_name": "_180b017c"
+  },
+  {
+    "name": "task-add-task",
+    "path": "/task/add-task",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\add-task.vue",
+    "chunkName": "pages/task/add-task",
+    "_name": "_5e25e6ce"
+  },
+  {
+    "name": "task-arrest-enemies",
+    "path": "/task/arrest-enemies",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\arrest-enemies.vue",
+    "chunkName": "pages/task/arrest-enemies",
+    "_name": "_35e26ac6"
+  },
+  {
+    "name": "task-barricades",
+    "path": "/task/barricades",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\barricades.vue",
+    "chunkName": "pages/task/barricades",
+    "_name": "_345cc092"
+  },
+  {
+    "name": "task-bloggers",
+    "path": "/task/bloggers",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\bloggers.vue",
+    "chunkName": "pages/task/bloggers",
+    "_name": "_2252d3a9"
+  },
+  {
+    "name": "task-cocktail",
+    "path": "/task/cocktail",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\cocktail.vue",
+    "chunkName": "pages/task/cocktail",
+    "_name": "_296b180c"
+  },
+  {
+    "name": "task-communication",
+    "path": "/task/communication",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\communication.vue",
+    "chunkName": "pages/task/communication",
+    "_name": "_62c97a1e"
+  },
+  {
+    "name": "task-cyber-army",
+    "path": "/task/cyber-army",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\cyber-army.vue",
+    "chunkName": "pages/task/cyber-army",
+    "_name": "_aaf8480e"
+  },
+  {
+    "name": "task-cyber-security",
+    "path": "/task/cyber-security",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\cyber-security.vue",
+    "chunkName": "pages/task/cyber-security",
+    "_name": "_594393c8"
+  },
+  {
+    "name": "task-ddos",
+    "path": "/task/ddos",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\ddos.vue",
+    "chunkName": "pages/task/ddos",
+    "_name": "_431d7b68"
+  },
+  {
+    "name": "task-find-home",
+    "path": "/task/find-home",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\find-home.vue",
+    "chunkName": "pages/task/find-home",
+    "_name": "_5356b83b"
+  },
+  {
+    "name": "task-fund",
+    "path": "/task/fund",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\fund.vue",
+    "chunkName": "pages/task/fund",
+    "_name": "_2ef5522d"
+  },
+  {
+    "name": "task-give-blood",
+    "path": "/task/give-blood",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\give-blood.vue",
+    "chunkName": "pages/task/give-blood",
+    "_name": "_cf71f9b4"
+  },
+  {
+    "name": "task-give-transport",
+    "path": "/task/give-transport",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\give-transport.vue",
+    "chunkName": "pages/task/give-transport",
+    "_name": "_254a1ad5"
+  },
+  {
+    "name": "task-help",
+    "path": "/task/help",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\help.vue",
+    "chunkName": "pages/task/help",
+    "_name": "_a4d93eae"
+  },
+  {
+    "name": "task-inform-enemies",
+    "path": "/task/inform-enemies",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\inform-enemies.vue",
+    "chunkName": "pages/task/inform-enemies",
+    "_name": "_bfda66ac"
+  },
+  {
+    "name": "task-media",
+    "path": "/task/media",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\media.vue",
+    "chunkName": "pages/task/media",
+    "_name": "_39b9132c"
+  },
+  {
+    "name": "task-nbu-donation",
+    "path": "/task/nbu-donation",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\nbu-donation.vue",
+    "chunkName": "pages/task/nbu-donation",
+    "_name": "_6836f4f4"
+  },
+  {
+    "name": "task-notify-targets",
+    "path": "/task/notify-targets",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\notify-targets.vue",
+    "chunkName": "pages/task/notify-targets",
+    "_name": "_4a08a966"
+  },
+  {
+    "name": "task-notify-troops",
+    "path": "/task/notify-troops",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\notify-troops.vue",
+    "chunkName": "pages/task/notify-troops",
+    "_name": "_f33f65a6"
+  },
+  {
+    "name": "task-psychology-aid",
+    "path": "/task/psychology-aid",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\psychology-aid.vue",
+    "chunkName": "pages/task/psychology-aid",
+    "_name": "_28c82d20"
+  },
+  {
+    "name": "task-red-cross-donation",
+    "path": "/task/red-cross-donation",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\red-cross-donation.vue",
+    "chunkName": "pages/task/red-cross-donation",
+    "_name": "_6c7253a3"
+  },
+  {
+    "name": "task-refugee-home",
+    "path": "/task/refugee-home",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\refugee-home.vue",
+    "chunkName": "pages/task/refugee-home",
+    "_name": "_2532724f"
+  },
+  {
+    "name": "task-refugee-transport",
+    "path": "/task/refugee-transport",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\refugee-transport.vue",
+    "chunkName": "pages/task/refugee-transport",
+    "_name": "_be515c2e"
+  },
+  {
+    "name": "task-remove-signs",
+    "path": "/task/remove-signs",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\remove-signs.vue",
+    "chunkName": "pages/task/remove-signs",
+    "_name": "_0c688f35"
+  },
+  {
+    "name": "task-remove-targets",
+    "path": "/task/remove-targets",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\remove-targets.vue",
+    "chunkName": "pages/task/remove-targets",
+    "_name": "_bd15ebbe"
+  },
+  {
+    "name": "task-safety",
+    "path": "/task/safety",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\safety.vue",
+    "chunkName": "pages/task/safety",
+    "_name": "_f2b4288c"
+  },
+  {
+    "name": "task-sign-petition",
+    "path": "/task/sign-petition",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\sign-petition.vue",
+    "chunkName": "pages/task/sign-petition",
+    "_name": "_6cb01996"
+  },
+  {
+    "name": "task-thousand",
+    "path": "/task/thousand",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\thousand.vue",
+    "chunkName": "pages/task/thousand",
+    "_name": "_784a25c6"
+  },
+  {
+    "name": "task-tro",
+    "path": "/task/tro",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\tro.vue",
+    "chunkName": "pages/task/tro",
+    "_name": "_b1b6bb0e"
+  },
+  {
+    "name": "task-upvote",
+    "path": "/task/upvote",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\upvote.vue",
+    "chunkName": "pages/task/upvote",
+    "_name": "_a59ad126"
+  },
+  {
+    "name": "task-volounteer",
+    "path": "/task/volounteer",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\volounteer.vue",
+    "chunkName": "pages/task/volounteer",
+    "_name": "_9619234a"
+  },
+  {
+    "name": "task-whistleblower",
+    "path": "/task/whistleblower",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\whistleblower.vue",
+    "chunkName": "pages/task/whistleblower",
+    "_name": "_4e5e4e79"
+  },
+  {
+    "name": "message-id",
+    "path": "/message/:id?",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\message\\\\_id.vue",
+    "chunkName": "pages/message/_id",
+    "_name": "_2201e576"
+  },
+  {
+    "name": "task-id",
+    "path": "/task/:id",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\task\\\\_id.vue",
+    "chunkName": "pages/task/_id",
+    "_name": "_404b2602"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a896a202"
+  }
+]

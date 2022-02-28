@@ -41,16 +41,26 @@ const text = `
 
 Встановіть один із VPN-сервісів у вашому браузері:
 
-* https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
-* https://chrome.google.com/webstore/detail/hotspot-shield-free-vpn-p/nlbejmccbhkncgokjcmghpfloaajcffj?hl=ru
-* https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=en
+* [Touch VPN - Secure and unlimited VPN proxy](https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd)
+* [Hotspot Shield Free VPN Proxy - Unlimited VPN](https://chrome.google.com/webstore/detail/hotspot-shield-free-vpn-p/nlbejmccbhkncgokjcmghpfloaajcffj)
 
-І **тільки після встановлення VPN**, скористайтеся посиланнями, які надають кібер-війська
+Додатково може знадобитися встановлення сервісу [CORS]():
 
-* https://t.me/ddosRussians
-* https://t.me/+9GPKhDPGHPAzZjdi
-* https://docs.google.com/forms/d/e/1FAIpQLSfE0GKGF2_PG65VcFINPesgaRu-IkbZRtJIKMjeFpudXKHxXg/viewform
+* [CORS Unblock](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino)
 
+https://help-ukraine-win.s3.eu-west-1.amazonaws.com/index.html
+
+І **тільки після встановлення VPN**, скористайтеся посиланнями, які надають кібер-війська:
+
+* https://help-ukraine-win.s3.eu-west-1.amazonaws.com/index.html
+* https://stop-russian-desinformation.near.page/
+* https://cyber-yozh.com/
+* https://russianwarshipgofuckyourself.club/
+
+Більш складний варіант можна знайти посиланнями
+
+* https://docs.google.com/document/d/1bUXUjAu527I1LW28A0K1GHZ4v9FiQo6YkaTlD1UXuyI
+* https://bit.ly/ddos_rp_bp
 
 [Долучитися](https://t.me/itarmyofukraine2022#btn-center)
 

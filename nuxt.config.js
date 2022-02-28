@@ -8,7 +8,7 @@ export default {
   },
 
   // Build directory
-  buildDir: 'docs',
+  buildDir: 'dst',
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -54,7 +54,8 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    { src: '~/plugins/i18n.js' },
+    { src: '~/plugins/i18n' },
+    '~/plugins/gtag'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -63,21 +64,15 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/vuetify
-    '@nuxtjs/vuetify'
+    '@nuxtjs/vuetify',
   ],
-
-  googleAnalytics: {
-    // Options
-    id: 'G-G774558P57'
-  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
-    '@nuxtjs/pwa',
-    '@nuxtjs/google-analytics'
+    '@nuxtjs/pwa'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -98,6 +93,10 @@ export default {
       lang: 'uk',
       useWebmanifestExtension: true
     }
+  },
+
+  generate: {
+    dir: 'docs'
   },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify

@@ -82,7 +82,9 @@
         </v-card-text>
         <v-divider></v-divider>
         <v-card-text class="white--text">
-          © <strong>{{ $t('Український спротив') }}</strong>, {{ new Date().getFullYear() }}
+          © <strong>{{ $t('Український спротив') }}</strong>, {{ new Date().getFullYear() }}<br/>
+          зміст доступний за ліцензією <a style="color: white;" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a>, <br/>
+          розробник <a style="color: white;" href="https://github.com/Amice13/resistinua">Amice13</a>
         </v-card-text>
       </v-card>
     </v-footer>
@@ -234,7 +236,5 @@ a[href$='#btn-center'] {
   white-space: inherit !important;
   text-align: left !important;
 }
-
-
 
 </style>
