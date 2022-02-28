@@ -82,7 +82,7 @@
         </v-card-text>
         <v-divider></v-divider>
         <v-card-text class="white--text">
-          © <strong>{{ $t('Український супротив') }}</strong>, {{ new Date().getFullYear() }}
+          © <strong>{{ $t('Український спротив') }}</strong>, {{ new Date().getFullYear() }}
         </v-card-text>
       </v-card>
     </v-footer>
@@ -110,7 +110,7 @@ export default {
         },
         {
           icon: 'mdi-twitter',
-          url: 'https://twitter.com/intent/tweet?url=https://resist.in.ua&text=Інтернет-портал супротиву військовим діям проти України'
+          url: 'https://twitter.com/intent/tweet?url=https://resist.in.ua&text=Інтернет-портал спротиву військовим діям проти України'
         },
         {
           icon: 'mdi-linkedin',

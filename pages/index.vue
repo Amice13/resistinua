@@ -36,7 +36,7 @@
           <p>На порталі можна знайти корисні посилання і поради щодо того як:</p>
           <ul>
             <li>захистити себе і свою родину</li>
-            <li>допомогти кібер-супротиву</li>
+            <li>допомогти кібер-спротиву</li>
             <li>допомогти фінансово</li>
             <li>долучитись волонтером</li>
             <li>допомогти переселенцям</li>
@@ -44,7 +44,7 @@
           </ul>
         </v-card-text>
         <v-card-text>
-          <p class="text-h4 text-center">Супротив чинити може кожен на різних рівнях!</p>
+          <p class="text-h4 text-center">Спротив чинити може кожен на різних рівнях!</p>
           <v-btn ref="todestkop" v-show="showAddToDestkop" color="blue darken-3" dark @click="addToDesktop">Додати на робочий стіл</v-btn>
         </v-card-text>
       </v-card>
