@@ -210,7 +210,7 @@ const source = [
     'description': 'Благодійний фонд, який дозволяє зробити разовий благодійний внесок у фонд, або підключити щомісячну допомогу. Щомісячна допомога означає, що кожного місяця з вашої картки автоматично буде списуватись вказана вами сума благодійного внеску.',
     'link': 'https://everybodycan.com.ua/komanda-fondu',
     'donateLink': 'https://everybodycan.com.ua/dopomogti-zaraz',
-    'logo': '/img/logos/everybodycan.jpg',
+    'logo': '/img/logos/everybodycan.png',
     'id': 16
   },
   
