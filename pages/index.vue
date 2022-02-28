@@ -1,77 +1,76 @@
 <template>
   <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="6">
-      <v-card class="logo py-4 d-flex justify-center">
-        <NuxtLogo />
-        <VuetifyLogo />
-      </v-card>
-      <v-card>
-        <v-card-title class="headline">
-          Welcome to the Vuetify + Nuxt.js template
-        </v-card-title>
-        <v-card-text>
-          <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
-          <p>
-            For more information on Vuetify, check out the <a
-              href="https://vuetifyjs.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              documentation
-            </a>.
-          </p>
-          <p>
-            If you have questions, please join the official <a
-              href="https://chat.vuetifyjs.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="chat"
-            >
-              discord
-            </a>.
-          </p>
-          <p>
-            Find a bug? Report it on the github <a
-              href="https://github.com/vuetifyjs/vuetify/issues"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="contribute"
-            >
-              issue board
-            </a>.
-          </p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
-          <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
-          </div>
-          <hr class="my-3">
-          <a
-            href="https://nuxtjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt Documentation
-          </a>
-          <br>
-          <a
-            href="https://github.com/nuxt/nuxt.js"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt GitHub
-          </a>
+    <v-col cols="12" sm="10" md="8">
+
+      <v-card class="mx-auto mb-4" flat>
+        <v-card-text class="text-h4 flex-grow-1">
+          <div class="fill-height d-flex flex-column justify-center text-center">Як чинити опір російській війні</div>
         </v-card-text>
-        <v-card-actions>
-          <v-spacer />
-          <v-btn
-            color="primary"
-            nuxt
-            to="/inspire"
-          >
-            Continue
-          </v-btn>
-        </v-card-actions>
+      </v-card>
+
+      <v-card class="mx-auto quote" color="#26c6da" dark>
+        <v-img class="white--text d-flex" style="min-height: 250px; height: 250px;" src="/bkg/bullets3.jpg" gradient="to top right, rgba(0,0,0,.6), rgba(25,32,72,.8)">
+          <v-card-title>
+            <v-icon large left :small="$vuetify.breakpoint.smAndDown">mdi-format-quote-open</v-icon>
+            <span class="font-weight-light" :class="{ 'text-h5': $vuetify.breakpoint.mdAndUp }" >Цитата дня</span>
+          </v-card-title>
+          <v-card-text class="text-h4 font-weight-bold flex-grow-1" :class="{ 'text-h4': $vuetify.breakpoint.mdAndUp, 'text-h6': $vuetify.breakpoint.smAndDown }">
+            <div class="fill-height d-flex flex-column justify-center text-center">{{ randomQuote }}</div>
+          </v-card-text>
+          <v-card-title>
+          </v-card-title>
+        </v-img>
+      </v-card>
+
+
+      <v-card class="logo py-4 d-flex justify-center">
+      </v-card>
+      <v-card flat>
+        <v-card-text class="text-center text-h6">
+          <p>Україна захищає себе і весь цивілізований світ від Російської Федерації!</p>
+          <p>Ми захищаємо Україну!</p>
+          <p>Захищати і захищатись може кожен: у містах, в евакуації, з-за кордону.</p>
+        </v-card-text>
+        <hr/>
+        <v-card-text style="max-width: 400px; margin: auto;">
+          <p>На порталі можна знайти корисні посилання і поради щодо того як:</p>
+          <ul>
+            <li>захистити себе і свою родину</li>
+            <li>допомогти кібер-супротиву</li>
+            <li>допомогти фінансово</li>
+            <li>долучитись волонтером</li>
+            <li>допомогти переселенцям</li>
+            <li>долучитись до війська, ТрО та інше</li>
+          </ul>
+        </v-card-text>
+        <v-card-text>
+          <p class="text-h4 text-center">Супротив чинити може кожен на різних рівнях!</p>
+        </v-card-text>
       </v-card>
     </v-col>
   </v-row>
 </template>
+
+<script>
+
+import VueMarkdown from 'vue-markdown'
+import quotes from '@/static/content/quotes'
+
+export default {
+  async mounted () {
+    this.$set(this, 'randomQuote', quotes[Math.floor(Math.random()*quotes.length)])
+  },
+  data () {
+    return {
+      randomQuote: ''
+    }
+  }
+}
+</script>
+
+<style>
+.quote .v-responsive__content {
+  display: flex;
+  flex-direction: column;
+}
+</style>
