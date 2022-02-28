@@ -1,6 +1,7 @@
 {
   "name": "Український спротив",
   "short_name": "Український спротив",
+  "description": "Як чинити опір російській війні",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.36d6e1.png",
@@ -46,7 +47,11 @@
     }
   ],
   "start_url": "/?standalone=true",
-  "display": "standalone",
+  "display": "",
   "background_color": "#ffffff",
-  "lang": "uk"
+  "lang": "uk",
+  "icon": {
+    "source": "/static/android-chrome-512x512.png",
+    "sizes": []
+  }
 }

@@ -55,6 +55,17 @@ const source = [
     url: 'https://www.youtube.com/watch?v=WFxK6Ozpw3w'
   },
   {
+    id: 'Ds6RsUMZ7c8',
+    name: 'Брифінг Дмитра Кулеби щодо російського вторгнення в Україну',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Дмитро Кулеба'],
+    date: '2022-02-27T16:46:05',
+    text: 'Брифінг Дмитра Кулеби для міжнародних журналістів щодо російського вторгнення в Україну',
+    description: 'Брифінг Дмитра Кулеби для міжнародних журналістів щодо російського вторгнення в Україну',
+    url: 'https://www.youtube.com/watch?v=Ds6RsUMZ7c8'
+  },
+  {
     id: 'oDYG09WSD-Q',
     name: 'Заява Володимира Зеленського',
     translated: true,
@@ -264,6 +275,17 @@ const source = [
     url: 'https://www.youtube.com/watch?v=nR6Ct73vZN4'
   },
   {
+    id: 'pufA6K8k1QY',
+    name: 'Термінове звернення міністра оборони Резнікова',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Рєзніков'],
+    date: '2022-02-24T18:22:48',
+    text: 'Термінове звернення міністра оборони Олексія Резнікова від 24.02.2022',
+    description: 'Термінове звернення міністра оборони Олексія Резнікова від 24.02.2022',
+    url: 'https://www.youtube.com/watch?v=pufA6K8k1QY'
+  },
+  {
     id: 'T8Gazh3lz8Y',
     name: 'Президент України – про посилення обороноздатності держави',
     translated: false,
@@ -273,6 +295,17 @@ const source = [
     text: 'Президент України – про посилення обороноздатності держави',
     description: 'Президент України – про посилення обороноздатності держави',
     url: 'https://www.youtube.com/watch?v=T8Gazh3lz8Y'
+  },
+  {
+    id: 'zr_EOydgOy8',
+    name: 'Виступ Дмитра Кулеби щодо ситуації на тимчасово окупованих територіях України',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Дмитро Кулеба'],
+    date: '2022-02-23T20:46:09',
+    text: 'Виступ Дмитро Кулеба на Генасамблеї ООН щодо ситуації на тимчасово окупованих територіях України',
+    description: 'Виступ Дмитро Кулеба на Генасамблеї ООН щодо ситуації на тимчасово окупованих територіях України',
+    url: 'https://www.youtube.com/watch?v=zr_EOydgOy8'
   },
   {
     id: 'TiXdsekwAN4',

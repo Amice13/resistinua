@@ -167,6 +167,36 @@ const source = [
     'donateLink': 'https://www.peoplesproject.com/projects/',
     'logo': '/img/logos/peoplesproject.png',
     'id': 13
+  },
+  {
+    'name': 'Підтримка Сумської реактивної артилерійської бригади А1476',
+    'tags': [
+      'Недержавні',
+      'Волонтерські',
+      'Приватні',
+      'Військові'
+    ],
+    'description': 'Дана спільнота має за мету провокувати будь-яку ініціативу та цільову допомогу Сумській реактивній артилерійській бригаді А1476, в якій служать наші земляки-сумчани, земляки-українці.',
+    'link': 'https://www.facebook.com/sumyartpolk/about/',
+    'donateLink': 'https://www.patreon.com/pavlonarozhnyi',
+    'logo': '/img/logos/psrab.png',
+    'id': 14
+  },
+  {
+    'name': 'Благодійний фонд Сергія Притули',
+    'tags': [
+      'Недержавні',
+      'Приватні',
+      'Волонтерські',
+      'Регіональні',
+      'Невійськові',
+      'Нелетальні'
+    ],
+    'description': 'Волонтерський координаційний штаб для допомоги захисникам Києва.',
+    'link': 'https://www.facebook.com/serhiyprytula/posts/505686287582643',
+    'donateLink': 'https://www.patreon.com/prytula',
+    'logo': '/img/logos/prytula.jpg',
+    'id': 15
   }
 ]
 

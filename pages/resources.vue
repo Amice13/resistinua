@@ -15,7 +15,7 @@
     <v-col cols="12" md="8">
       <v-card class="text-justify ma-0" flat>
         <v-card-text>
-          <p>Тут зібрані корисні ресурси, які стануть вам у нагоді.</p>
+          <p>Тут зібрані корисні ресурси, які стануть вам у нагоді. Якщо ви знаєте ресурси, які не зазначені у переліку, <a href="https://github.com/Amice13/resistinua/issues">напишіть нам!</a></p>
         </v-card-text>
       </v-card>
     </v-col>

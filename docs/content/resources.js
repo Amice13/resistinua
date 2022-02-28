@@ -217,6 +217,15 @@ const source = [
     tags: ['Біженці', 'Житло'],
     type: ['Вебсайт'],
     location: ['Україна']
+  },
+  {
+    id: '25',
+    name: 'Helping Ukraine',
+    description: 'Вебсайт зі зверненням до різних країн світу щодо підтримки України',
+    link: 'https://t.me/shelter_for_ukrainians_bot',
+    tags: ['Міжнародна допомога'],
+    type: ['Вебсайт'],
+    location: ['Світ']
   }
 ]
 

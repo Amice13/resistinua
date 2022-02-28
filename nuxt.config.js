@@ -7,8 +7,15 @@ export default {
     port: 80
   },
 
+  // Build directory
+  buildDir: 'docs',
+
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+
+  router: {
+    mode: 'hash'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -56,8 +63,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/vuetify
-    '@nuxtjs/vuetify',
-    '@nuxtjs/google-analytics'
+    '@nuxtjs/vuetify'
   ],
 
   googleAnalytics: {
@@ -71,6 +77,7 @@ export default {
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
+    '@nuxtjs/google-analytics'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -79,7 +86,17 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      lang: 'uk'
+      name: 'Український спротив',
+      short_name: 'Український спротив',
+      description: 'Як чинити опір російській війні',
+      icons: '',
+      display: '',
+      icon: {
+        source: '/static/android-chrome-512x512.png',
+        sizes: []
+      },
+      lang: 'uk',
+      useWebmanifestExtension: true
     }
   },
 
