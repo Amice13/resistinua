@@ -4,7 +4,7 @@ export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
   server: {
-    port: 3050
+    port: 80
   },
 
   // Target: https://go.nuxtjs.dev/config-target
