@@ -41,11 +41,7 @@
       </v-app-bar-title>
       <v-spacer></v-spacer>
       <!-- <v-btn @click="$i18n.locale = $i18n.locale === 'uk' ? 'en' : 'uk'" text color="white">{{ $i18n.locale }}</v-btn> -->
-      <!--
-      <v-btn icon><v-icon>mdi-magnify</v-icon></v-btn>
-      <v-btn icon><v-icon>mdi-heart</v-icon></v-btn>
-      <v-btn icon><v-icon>mdi-dots-vertical</v-icon></v-btn>
-      -->
+
       <template v-if="$vuetify.breakpoint.mdAndUp" v-slot:extension>
         <v-tabs grow class="main-menu">
           <v-tabs-slider color="yellow darken-2"></v-tabs-slider>
@@ -67,7 +63,7 @@
     <v-footer dark padless>
       <v-card flat tile class="light-blue darken-4 white--text text-center w-100">
         <v-card-text>
-          <div class="text-h6 mb-2">Поділитися</div>
+          <div class="text-h6 mb-2">{{ $t('Поділитися') }}</div>
           <v-btn :href="share.url" target="_blank" v-for="share in shares" :key="share.icon" class="mx-4 white--text" icon>
             <v-icon size="24px">
               {{ share.icon }}
@@ -83,8 +79,8 @@
         <v-divider></v-divider>
         <v-card-text class="white--text">
           © <strong>{{ $t('Український спротив') }}</strong>, {{ new Date().getFullYear() }}<br/>
-          зміст доступний за ліцензією <a style="color: white;" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a>, <br/>
-          розробник <a style="color: white;" href="https://github.com/Amice13/resistinua">Amice13</a>
+          {{ $t('зміст доступний за ліцензією') }} <a style="color: white;" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a>, <br/>
+          {{ $t('розробник') }} <a style="color: white;" href="https://github.com/Amice13/resistinua">Amice13</a>
         </v-card-text>
       </v-card>
     </v-footer>

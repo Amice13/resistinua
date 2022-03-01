@@ -1,5 +1,12 @@
 [
   {
+    "name": "en",
+    "path": "/en",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\en\\\\index.vue",
+    "chunkName": "pages/en/index",
+    "_name": "_5c443e94"
+  },
+  {
     "name": "messages",
     "path": "/messages",
     "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\messages.vue",
@@ -40,6 +47,41 @@
     "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\world.vue",
     "chunkName": "pages/world",
     "_name": "_1ec341bf"
+  },
+  {
+    "name": "en-messages",
+    "path": "/en/messages",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\en\\\\messages.vue",
+    "chunkName": "pages/en/messages",
+    "_name": "_0ec33c18"
+  },
+  {
+    "name": "en-resources",
+    "path": "/en/resources",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\en\\\\resources.vue",
+    "chunkName": "pages/en/resources",
+    "_name": "_2f0e8e89"
+  },
+  {
+    "name": "en-tasks",
+    "path": "/en/tasks",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\en\\\\tasks.vue",
+    "chunkName": "pages/en/tasks",
+    "_name": "_0dd37572"
+  },
+  {
+    "name": "en-volounteer",
+    "path": "/en/volounteer",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\en\\\\volounteer.vue",
+    "chunkName": "pages/en/volounteer",
+    "_name": "_53cdd782"
+  },
+  {
+    "name": "en-world",
+    "path": "/en/world",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\en\\\\world.vue",
+    "chunkName": "pages/en/world",
+    "_name": "_44ec7376"
   },
   {
     "name": "task-add-info",

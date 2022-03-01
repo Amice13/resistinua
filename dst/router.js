@@ -4,12 +4,18 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
+const _5c443e94 = () => interopDefault(import('..\\pages\\en\\index.vue' /* webpackChunkName: "pages/en/index" */))
 const _3af2dd2f = () => interopDefault(import('..\\pages\\messages.vue' /* webpackChunkName: "pages/messages" */))
 const _ee59df5c = () => interopDefault(import('..\\pages\\resources.vue' /* webpackChunkName: "pages/resources" */))
 const _ebfab5cc = () => interopDefault(import('..\\pages\\task\\index.vue' /* webpackChunkName: "pages/task/index" */))
 const _30ab788a = () => interopDefault(import('..\\pages\\tasks.vue' /* webpackChunkName: "pages/tasks" */))
 const _963668d4 = () => interopDefault(import('..\\pages\\volounteer.vue' /* webpackChunkName: "pages/volounteer" */))
 const _1ec341bf = () => interopDefault(import('..\\pages\\world.vue' /* webpackChunkName: "pages/world" */))
+const _0ec33c18 = () => interopDefault(import('..\\pages\\en\\messages.vue' /* webpackChunkName: "pages/en/messages" */))
+const _2f0e8e89 = () => interopDefault(import('..\\pages\\en\\resources.vue' /* webpackChunkName: "pages/en/resources" */))
+const _0dd37572 = () => interopDefault(import('..\\pages\\en\\tasks.vue' /* webpackChunkName: "pages/en/tasks" */))
+const _53cdd782 = () => interopDefault(import('..\\pages\\en\\volounteer.vue' /* webpackChunkName: "pages/en/volounteer" */))
+const _44ec7376 = () => interopDefault(import('..\\pages\\en\\world.vue' /* webpackChunkName: "pages/en/world" */))
 const _180b017c = () => interopDefault(import('..\\pages\\task\\add-info.vue' /* webpackChunkName: "pages/task/add-info" */))
 const _5e25e6ce = () => interopDefault(import('..\\pages\\task\\add-task.vue' /* webpackChunkName: "pages/task/add-task" */))
 const _35e26ac6 = () => interopDefault(import('..\\pages\\task\\arrest-enemies.vue' /* webpackChunkName: "pages/task/arrest-enemies" */))
@@ -59,6 +65,10 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
+    path: "/en",
+    component: _5c443e94,
+    name: "en"
+  }, {
     path: "/messages",
     component: _3af2dd2f,
     name: "messages"
@@ -82,6 +92,26 @@ export const routerOptions = {
     path: "/world",
     component: _1ec341bf,
     name: "world"
+  }, {
+    path: "/en/messages",
+    component: _0ec33c18,
+    name: "en-messages"
+  }, {
+    path: "/en/resources",
+    component: _2f0e8e89,
+    name: "en-resources"
+  }, {
+    path: "/en/tasks",
+    component: _0dd37572,
+    name: "en-tasks"
+  }, {
+    path: "/en/volounteer",
+    component: _53cdd782,
+    name: "en-volounteer"
+  }, {
+    path: "/en/world",
+    component: _44ec7376,
+    name: "en-world"
   }, {
     path: "/task/add-info",
     component: _180b017c,
