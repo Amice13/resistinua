@@ -39,6 +39,10 @@ import VueMarkdown from 'vue-markdown'
 const text = `
 Ознайомтеся із рекомендаціями з підготовки до кроводачі, постійними та тимчасовими протипоказаннями на [Донор.UA](https://donor.ua/news/2500).
 
+Перелік центрів для здачі крові: https://www.donor.ua/centers
+
+[Інструкція для донорів](https://www.donor.ua/pages/2275#btn-center)
+
 `
 
 export default {
