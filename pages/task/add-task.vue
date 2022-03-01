@@ -37,7 +37,7 @@
 import VueMarkdown from 'vue-markdown'
 
 const text = `
-Ви можете додати завдання або інформацію на цей сайт, зробивши запит до репозиторію [ResistInUa](https://github.com/Amice13/resistinua).
+Ви можете додати завдання або інформацію на цей сайт, зробивши Pull Request до репозиторію [ResistInUa](https://github.com/Amice13/resistinua).
 
 [Додати запит](https://github.com/Amice13/resistinua/issues#btn-center)
 `
