@@ -5,7 +5,7 @@
       <v-card class="mx-auto mb-0" flat>
         <v-card-text class="text-h4 flex-grow-1 mb-0 pb-0">
           <div class="fill-height d-flex">
-            <v-icon class="mr-4">mdi-check-outline</v-icon> Додати завдання або інформацію
+            <v-icon class="mr-4">mdi-check-outline</v-icon> Заблокувати російські Телеграм-канали
           </div>
         </v-card-text>
       </v-card>
@@ -38,9 +38,12 @@ import VueMarkdown from 'vue-markdown'
 
 const text = `
 
-Ви можете додати завдання або інформацію на цей сайт, зробивши запит до репозиторію [ResistInUa](https://github.com/Amice13/resistinua) або створивши [завдання розробнику](https://docs.google.com/forms/d/e/1FAIpQLSeVwAv7ljsnXolmVh2Qc3dljsUqtWy64ISD64mfcQGmVaciIQ/viewform?usp=pp_url&entry.600831188=%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F).
+Скористайтеся скриптом, який емулює бразуер та дозволяє поскаржитися одночасно більше ніж на 200 пропагандитських каналів.
 
-[Додати завдання](https://docs.google.com/forms/d/e/1FAIpQLSeVwAv7ljsnXolmVh2Qc3dljsUqtWy64ISD64mfcQGmVaciIQ/viewform?usp=pp_url&entry.600831188=%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F#btn-center)
+Інструкцію щодо використання скрипта можна знайти [тут](https://www.youtube.com/watch?v=ZCqAoU1ZLXY).
+
+[Завантажити скрипт](https://github.com/deli841/tg_reporter#btn-center)
+
 `
 
 export default {

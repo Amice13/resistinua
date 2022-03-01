@@ -15,7 +15,7 @@
     <v-col cols="12" md="8">
       <v-card class="text-justify ma-0" flat>
         <v-card-text>
-          <p>Тут зібрані корисні ресурси, які стануть вам у нагоді. Якщо ви знаєте ресурси, які не зазначені у переліку, <a href="https://github.com/Amice13/resistinua/issues">напишіть нам!</a></p>
+          <p>Тут зібрані корисні ресурси, які стануть вам у нагоді. Якщо ви знаєте ресурси, які не зазначені у переліку, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVwAv7ljsnXolmVh2Qc3dljsUqtWy64ISD64mfcQGmVaciIQ/viewform?usp=pp_url&entry.600831188=%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9+%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81">напишіть нам!</a></p>
         </v-card-text>
       </v-card>
     </v-col>

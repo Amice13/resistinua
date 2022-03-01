@@ -9,6 +9,24 @@ const source = [
     location: ['Україна']
   },
   {
+    id: '73',
+    name: 'Повітряна тривога (Android)',
+    description: 'Встановіть застосунок Повітряна тривога, щоб миттєво отримувати сповіщення системи цивільної оборони у вибраній області України',
+    link: 'https://play.google.com/store/apps/details?id=com.ukrainealarm',
+    tags: ['Офіційні', 'Інформація', 'Безпека'],
+    type: ['Додаток'],
+    location: ['Україна']
+  },
+  {
+    id: '74',
+    name: 'Повітряна тривога (iOS)',
+    description: 'Встановіть застосунок Повітряна тривога, щоб миттєво отримувати сповіщення системи цивільної оборони у вибраній області України',
+    link: 'https://apps.apple.com/ua/app/%D0%BF%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%8F%D0%BD%D0%B0-%D1%82%D1%80%D0%B8%D0%B2%D0%BE%D0%B3%D0%B0/id1611955391?l=uk',
+    tags: ['Офіційні', 'Інформація', 'Безпека'],
+    type: ['Додаток'],
+    location: ['Україна']
+  },
+  {
     id: '2',
     name: 'Офіційний канал IT армія України',
     description: 'Офіційний канал Міністерства цифрової трансформації для фахівців у цифровій сфері. Надає оперативні завдання для боротьби на кіберфронті',
@@ -309,6 +327,15 @@ const source = [
     location: ['Світ']
   },
   {
+    id: '38',
+    name: 'uainfo',
+    description: 'Антипропагандистський ресурс для громадян РФ',
+    link: 'https://uaposition.github.io/uainfo/',
+    tags: ['Інформація', 'Для РФ'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
     id: '35',
     name: 'Ukrainian Witness',
     description: 'Мета проекту зафіксувати і показати світу те, що зараз відбувається в Україні. Це будуть хроніки непростого часу, які наші діти будуть дивитись на уроках історії України. України, яка перемогла Росію у війні.',
@@ -334,7 +361,331 @@ const source = [
     tags: ['Інформація', 'Здоров\'я'],
     type: ['Дані'],
     location: ['Україна']
-  }
+  },
+  {
+    id: '39',
+    name: 'Інструкція під час війни',
+    description: 'Крисні посилання щодо власної діяьності під час війни.',
+    link: 'https://prjctr.notion.site/96bec30d8f024c7abf6ab4281585a0d7',
+    tags: ['Інформація'],
+    type: ['Сайт'],
+    location: ['Україна']
+  },
+  {
+    id: '39',
+    name: 'StopDrugsBot',
+    description: 'Бот для блокування сервісів дезінформації',
+    link: 'https://t.me/stopdrugsbot',
+    tags: ['Інформація'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '39',
+    name: 'StopDrugsBot',
+    description: 'Бот для блокування сервісів дезінформації',
+    link: 'https://t.me/stopdrugsbot',
+    tags: ['Інформація'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '40',
+    name: 'Doc2rbot',
+    description: 'Турбота - медичний бот, який знаходить лікарів для пацієнтів',
+    link: 'https://t.me/Doc2rbot',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '41',
+    name: 'FirstAidRobot',
+    description: 'Бот помічник для надання першої домедичної допомоги',
+    link: 'https://t.me/FirstAidRobot',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '42',
+    name: 'Pharmacy Available Bot',
+    description: 'Чат-бот для отримання інформації про наявність працюючих аптек поблизу',
+    link: 'https://t.me/pharmacy_available_bot',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '43',
+    name: 'Tribunal UA',
+    description: 'Чат-бот фіксації військового злочину рф проти цивільного населення',
+    link: 'https://t.me/tribunal_ua_bot',
+    tags: ['Інформація', 'Збір доказів'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '44',
+    name: 'Bomb Found Bot',
+    description: 'Повідомлення про знайдені снаряди та бомби',
+    link: 'https://t.me/bomb_found_bot',
+    tags: ['Інформація', 'Безпека'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '45',
+    name: 'Gov RF Bot',
+    description: 'Бот який надає контакти влади РФ',
+    link: 'https://t.me/gov_rf_bot',
+    tags: ['Інформація', 'Безпека'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '46',
+    name: 'Turbotnyk Bot',
+    description: 'Необхідні речі для українських переселенців у ЦНАПах, як пункти турботи',
+    link: 'https://t.me/turbotnyk_bot',
+    tags: ['Інформація', 'Біженці'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '47',
+    name: 'Fire Smoothie',
+    description: 'Анонімно допоможе барменам знайти необхідні ресурси для коктейлів',
+    link: 'https://t.me/fire_smoothie_bot',
+    tags: ['Інформація', 'Завдання'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '48',
+    name: 'Help-ukraine-win',
+    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    link: 'https://help-ukraine-win.firebaseapp.com',
+    tags: ['DDOS', 'Завдання'],
+    type: ['Скрипт'],
+    location: ['Світ']
+  },
+  {
+    id: '49',
+    name: 'The list',
+    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    link: 'https://the-list.ams3.cdn.digitaloceanspaces.com/index.html',
+    tags: ['DDOS', 'Завдання'],
+    type: ['Скрипт'],
+    location: ['Світ']
+  },
+  {
+    id: '50',
+    name: 'Stop Russian Desinformation',
+    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    link: 'https://stop-russian-desinformation.near.page/',
+    tags: ['DDOS', 'Завдання'],
+    type: ['Скрипт'],
+    location: ['Світ']
+  },
+  {
+    id: '51',
+    name: 'Cyber Yozh',
+    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    link: 'https://cyber-yozh.com/',
+    tags: ['DDOS', 'Завдання'],
+    type: ['Скрипт'],
+    location: ['Світ']
+  },
+  {
+    id: '52',
+    name: 'Russian Warship Go F*ck Yourself',
+    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    link: 'https://russianwarshipgofuckyourself.club/',
+    tags: ['DDOS', 'Завдання'],
+    type: ['Скрипт'],
+    location: ['Світ']
+  },
+  {
+    id: '53',
+    name: 'Play For Ukraine',
+    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    link: 'https://playforukraine.live/',
+    tags: ['DDOS', 'Завдання', 'Дозвілля'],
+    type: ['Гра'],
+    location: ['Світ']
+  },
+  {
+    id: '54',
+    name: 'Telegram Report Bot UA',
+    description: 'Автоматизоване надсилання скарг Телеграм каналів пропагандистів',
+    link: 'https://github.com/Antcating/telegram_report_bot_ua',
+    tags: ['Завдання', 'Антипропаганда'],
+    type: ['Скрипт'],
+    location: ['Світ']
+  },
+  {
+    id: '55',
+    name: 'Report Russian Telegram',
+    description: 'Автоматизоване надсилання скарг Телеграм каналів пропагандистів',
+    link: 'https://github.com/Dantistnfs/reportrussiantg',
+    tags: ['Завдання', 'Антипропаганда'],
+    type: ['Скрипт'],
+    location: ['Світ']
+  },
+  {
+    id: '56',
+    name: 'EU 4 UA',
+    description: 'Платформа для прихистку біженців у Європі',
+    link: 'https://ua.eu4ua.org/',
+    tags: ['Інформація', 'Біженці'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '57',
+    name: 'Refugees.RO',
+    description: 'Пошук житла для людей, що евакуюються в Румунії',
+    link: 'https://refugees.ro/',
+    tags: ['Інформація', 'Біженці'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '58',
+    name: 'Betha Ukraine',
+    description: 'Проект, що допомагає згуртувати всіх охочих у волонтерській діяльності',
+    link: 'https://betha.in.ua/',
+    tags: ['Волонтерство'],
+    type: ['Сайт'],
+    location: ['Україна']
+  },
+  {
+    id: '59',
+    name: 'UAhelp від Монобанк',
+    description: 'Швидкі перекази на користь Збройних сил України',
+    link: 'https://uahelp.monobank.ua/',
+    tags: ['Благодійність'],
+    type: ['Сайт'],
+    location: ['Україна']
+  },
+  {
+    id: '60',
+    name: 'Defend Ukraine',
+    description: 'Сайт для міжнародної допомоги Україні',
+    link: 'https://www.defendukraine.org/',
+    tags: ['Інформація'],
+    type: ['Сайт'],
+    location: ['Світ']
+  },
+  {
+    id: '61',
+    name: 'Ukraine Support',
+    description: 'Ресурси українським біженцям та ресурси для допомоги Українцям з закордону',
+    link: 'https://ukrainesupport.com.ua/',
+    tags: ['Інформація'],
+    type: ['Сайт'],
+    location: ['Світ']
+  },
+  {
+    id: '62',
+    name: 'Help Ukraine Win',
+    description: 'Колекція засобів для допомоги з-за кордону',
+    link: 'https://helpukrainewin.org/',
+    tags: ['Інформація'],
+    type: ['Сайт'],
+    location: ['Світ']
+  },
+  {
+    id: '63',
+    name: 'PowUkraine',
+    description: 'Сайт з інформацією про полонених та вбитих російських солдатів в Україні',
+    link: 'https://powukraine.org/',
+    tags: ['Інформація', 'Для РФ'],
+    type: ['Сайт'],
+    location: ['Світ']
+  },
+  {
+    id: '64',
+    name: 'How to Help Ukraine Now',
+    description: 'Колекція засобів для допомоги з-за кордону',
+    link: 'https://how-to-help-ukraine-now.super.site/',
+    tags: ['Інформація'],
+    type: ['Сайт'],
+    location: ['Світ']
+  },
+  {
+    id: '65',
+    name: 'Dovidka.info',
+    description: 'Довідник практичних порад, як діяти у часі війни або надзвичайної інформації',
+    link: 'https://dovidka.info/',
+    tags: ['Інформація'],
+    type: ['Сайт'],
+    location: ['Україна']
+  },
+  {
+    id: '66',
+    name: 'Support Ukraine',
+    description: 'Довідник практичних порад, як допомогти Україні ззовні',
+    link: 'https://supportukraine.notion.site/',
+    tags: ['Інформація', 'Гайди'],
+    type: ['Сайт'],
+    location: ['Світ']
+  },
+  {
+    id: '67',
+    name: 'Карта працюючих магазинів',
+    description: 'Карта відображає актуальний статус роботи магазинів в умовах воєнного стану в Україні',
+    link: 'https://www.google.com/maps/d/u/0/embed?mid=16vxeRoA5rBl8L9IwyuNswni1uU59vyZF&ll=50.51967162617199%2C32.21530446152501&z=6',
+    tags: ['Інформація'],
+    type: ['Мапа'],
+    location: ['Україна']
+  },
+  {
+    id: '68',
+    name: 'Карта аптек які зараз працюють',
+    description: 'Карта відображає актуальний статус роботи аптек в умовах воєнного стану в Україні',
+    link: 'https://www.google.com/maps/d/embed?mid=11ftUM5axVYLzh23VvRRUNBcDZ4stmh1l&ehbc=2E312F&ll=49.898792018174966%2C30.33388632909823&z=10',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Мапа'],
+    location: ['Україна']
+  },
+  {
+    id: '69',
+    name: 'MapaHelp',
+    description: 'Карта місць де допомагають українцям: житлом, одягом, медичною допомогою',
+    link: 'https://mapahelp.me',
+    tags: ['Інформація', 'Допомога'],
+    type: ['Мапа'],
+    location: ['Україна']
+  },
+  {
+    id: '70',
+    name: 'World For Ukraine',
+    description: 'Платформа дій проти російської агресії',
+    link: 'https://worldforukraine.net/',
+    tags: ['Інформація'],
+    type: ['Сайт'],
+    location: ['Світ']
+  },
+  {
+    id: '71',
+    name: 'Anti Fake',
+    description: 'Відео матеріали для росіян | Anti Fake',
+    link: 'https://bit.ly/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D1%84%D0%B0%D0%BA%D1%82%D1%8B',
+    tags: ['Інформація', 'Для РФ'],
+    type: ['Дані'],
+    location: ['Світ']
+  },
+  {
+    id: '72',
+    name: 'Поп-ап про російську агресію',
+    description: 'Розмістіть поп-ап на вашому сайті щодо російської агресії',
+    link: 'https://infowarship.pages.dev/howto-en',
+    tags: ['Інформація', 'Для РФ'],
+    type: ['Скрипт'],
+    location: ['Світ']
+  },
 ]
 
 module.exports = source

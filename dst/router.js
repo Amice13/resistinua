@@ -20,9 +20,12 @@ const _180b017c = () => interopDefault(import('..\\pages\\task\\add-info.vue' /*
 const _5e25e6ce = () => interopDefault(import('..\\pages\\task\\add-task.vue' /* webpackChunkName: "pages/task/add-task" */))
 const _35e26ac6 = () => interopDefault(import('..\\pages\\task\\arrest-enemies.vue' /* webpackChunkName: "pages/task/arrest-enemies" */))
 const _345cc092 = () => interopDefault(import('..\\pages\\task\\barricades.vue' /* webpackChunkName: "pages/task/barricades" */))
+const _3dad27ca = () => interopDefault(import('..\\pages\\task\\block-tg.vue' /* webpackChunkName: "pages/task/block-tg" */))
 const _2252d3a9 = () => interopDefault(import('..\\pages\\task\\bloggers.vue' /* webpackChunkName: "pages/task/bloggers" */))
+const _51de071a = () => interopDefault(import('..\\pages\\task\\business-petition.vue' /* webpackChunkName: "pages/task/business-petition" */))
 const _296b180c = () => interopDefault(import('..\\pages\\task\\cocktail.vue' /* webpackChunkName: "pages/task/cocktail" */))
 const _62c97a1e = () => interopDefault(import('..\\pages\\task\\communication.vue' /* webpackChunkName: "pages/task/communication" */))
+const _71b3bce2 = () => interopDefault(import('..\\pages\\task\\copywriting.vue' /* webpackChunkName: "pages/task/copywriting" */))
 const _aaf8480e = () => interopDefault(import('..\\pages\\task\\cyber-army.vue' /* webpackChunkName: "pages/task/cyber-army" */))
 const _594393c8 = () => interopDefault(import('..\\pages\\task\\cyber-security.vue' /* webpackChunkName: "pages/task/cyber-security" */))
 const _431d7b68 = () => interopDefault(import('..\\pages\\task\\ddos.vue' /* webpackChunkName: "pages/task/ddos" */))
@@ -32,6 +35,7 @@ const _cf71f9b4 = () => interopDefault(import('..\\pages\\task\\give-blood.vue' 
 const _254a1ad5 = () => interopDefault(import('..\\pages\\task\\give-transport.vue' /* webpackChunkName: "pages/task/give-transport" */))
 const _a4d93eae = () => interopDefault(import('..\\pages\\task\\help.vue' /* webpackChunkName: "pages/task/help" */))
 const _bfda66ac = () => interopDefault(import('..\\pages\\task\\inform-enemies.vue' /* webpackChunkName: "pages/task/inform-enemies" */))
+const _bfc7ec0a = () => interopDefault(import('..\\pages\\task\\make-photo.vue' /* webpackChunkName: "pages/task/make-photo" */))
 const _39b9132c = () => interopDefault(import('..\\pages\\task\\media.vue' /* webpackChunkName: "pages/task/media" */))
 const _6836f4f4 = () => interopDefault(import('..\\pages\\task\\nbu-donation.vue' /* webpackChunkName: "pages/task/nbu-donation" */))
 const _4a08a966 = () => interopDefault(import('..\\pages\\task\\notify-targets.vue' /* webpackChunkName: "pages/task/notify-targets" */))
@@ -129,9 +133,17 @@ export const routerOptions = {
     component: _345cc092,
     name: "task-barricades"
   }, {
+    path: "/task/block-tg",
+    component: _3dad27ca,
+    name: "task-block-tg"
+  }, {
     path: "/task/bloggers",
     component: _2252d3a9,
     name: "task-bloggers"
+  }, {
+    path: "/task/business-petition",
+    component: _51de071a,
+    name: "task-business-petition"
   }, {
     path: "/task/cocktail",
     component: _296b180c,
@@ -140,6 +152,10 @@ export const routerOptions = {
     path: "/task/communication",
     component: _62c97a1e,
     name: "task-communication"
+  }, {
+    path: "/task/copywriting",
+    component: _71b3bce2,
+    name: "task-copywriting"
   }, {
     path: "/task/cyber-army",
     component: _aaf8480e,
@@ -176,6 +192,10 @@ export const routerOptions = {
     path: "/task/inform-enemies",
     component: _bfda66ac,
     name: "task-inform-enemies"
+  }, {
+    path: "/task/make-photo",
+    component: _bfc7ec0a,
+    name: "task-make-photo"
   }, {
     path: "/task/media",
     component: _39b9132c,

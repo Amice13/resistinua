@@ -15,7 +15,7 @@
     <v-col cols="12" md="8">
       <v-card class="text-justify ma-0" flat>
         <v-card-text>
-          <p>Допоможи Україні впоратись з Російською військовою агресією. Зроби пожертву до перевірених проектів аби підтримати Збройні Сили України або благодійні фонди. Якщо ви знаєте організації, які не зазначені у переліку, <a href="https://github.com/Amice13/resistinua/issues">напишіть нам!</a></p>
+          <p>Допоможи Україні впоратись з Російською військовою агресією. Зроби пожертву до перевірених проектів аби підтримати Збройні Сили України або благодійні фонди. Якщо ви знаєте організації, які не зазначені у переліку, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVwAv7ljsnXolmVh2Qc3dljsUqtWy64ISD64mfcQGmVaciIQ/viewform?usp=pp_url&entry.600831188=%D0%A4%D0%BE%D0%BD%D0%B4+%D0%B0%D0%B1%D0%BE+%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8E+%D0%B4%D0%BB%D1%8F+%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B8">напишіть нам!</a></p>
         </v-card-text>
       </v-card>
     </v-col>

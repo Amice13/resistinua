@@ -5,7 +5,7 @@
       <v-card class="mx-auto mb-0" flat>
         <v-card-text class="text-h4 flex-grow-1 mb-0 pb-0">
           <div class="fill-height d-flex">
-            <v-icon class="mr-4">mdi-check-outline</v-icon> Додати завдання або інформацію
+            <v-icon class="mr-4">mdi-check-outline</v-icon> Фіксувати військові злочини путінського режиму (фото, відео)
           </div>
         </v-card-text>
       </v-card>
@@ -38,9 +38,16 @@ import VueMarkdown from 'vue-markdown'
 
 const text = `
 
-Ви можете додати завдання або інформацію на цей сайт, зробивши запит до репозиторію [ResistInUa](https://github.com/Amice13/resistinua) або створивши [завдання розробнику](https://docs.google.com/forms/d/e/1FAIpQLSeVwAv7ljsnXolmVh2Qc3dljsUqtWy64ISD64mfcQGmVaciIQ/viewform?usp=pp_url&entry.600831188=%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F).
+Військові злочини російської армії та їх найманців мають покарані.
 
-[Додати завдання](https://docs.google.com/forms/d/e/1FAIpQLSeVwAv7ljsnXolmVh2Qc3dljsUqtWy64ISD64mfcQGmVaciIQ/viewform?usp=pp_url&entry.600831188=%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F#btn-center)
+Постраждалі цивільні, нестача необхідного, дитинство в укриттях, розстріли та інші руйнування цивільної інфраструктури, - усе це має бути зафіксовано та стати доказами в міжнародних судах і трибуналах.
+
+Покарання винних має стати запобіжником від повіторення.
+
+Надислайте фото- і відеодокази на пошту resistinua@gmail.com
+
+**ВАЖЛИВО!** Бережіть себе! Не наражайте себе на небезпеку заради фіксації. Здійснюйте фото- і відеофіксацію тільки, коли повністю впевнені в тому, що це не наражає вас на небезпеку.
+
 `
 
 export default {
