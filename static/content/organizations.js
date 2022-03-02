@@ -214,63 +214,129 @@ const source = [
     'id': 16
   },
   {
-    'name': 'Кожен може',
+    'name': 'Українська правда',
     'tags': [
       'Недержавні',
-      'Волонтерські',
-      'Невійськові',
-      'Нелетальні'
+      'ЗМІ'
     ],
-    'description': 'Благодійний фонд, який дозволяє зробити разовий благодійний внесок у фонд, або підключити щомісячну допомогу. Щомісячна допомога означає, що кожного місяця з вашої картки автоматично буде списуватись вказана вами сума благодійного внеску.',
-    'link': 'https://everybodycan.com.ua/komanda-fondu',
-    'donateLink': 'https://everybodycan.com.ua/dopomogti-zaraz',
-    'logo': '/img/logos/everybodycan.png',
-    'id': 16
+    'description': 'Англійська версія української інтернет-газети, заснованої Георгієм Гонгадзе. Газета розрахована на широку читацьку аудиторію з акцентом на гострих питаннях політики України, включаючи висвітлення військового конфлікту з Росією.',
+    'link': 'https://www.pravda.com.ua/',
+    'donateLink': 'https://club.pravda.com.ua/',
+    'logo': '/img/logos/up.png',
+    'id': 17
   },
   {
-    "title": "Українська правда",
-    "tags": [
-      "Non-government",
-      "Press"
+    'name': 'Волонтерська група група Романа Доніка',
+    'tags': [
+      'Військові',
+      'Недержавні',
+      'Приватні'
     ],
-    "description": "English version of the Ukrainian online newspaper founded by Georgiy Gongadze. The newspaper is tailored for a general readership with emphasis on the hot issues of the politics of Ukraine, including coverage of the recent war conflict with Russia.",
-    "link": "https://www.pravda.com.ua/eng/",
-    "donateLink": "https://club.pravda.com.ua/",
-    "logo": "/logos/15.png",
-    "id": 15,
-    "byLang": {
-      "en": {
-        "title": "Ukrayinska Pravda",
-        "tags": [
-          "Non-government",
-          "Press"
-        ],
-        "description": "English version of the Ukrainian online newspaper founded by Georgiy Gongadze. The newspaper is tailored for a general readership with emphasis on the hot issues of the politics of Ukraine, including coverage of the recent war conflict with Russia.",
-        "link": "https://www.pravda.com.ua/eng/",
-        "donateLink": "https://club.pravda.com.ua/"
-      },
-      "es": {
-        "title": "Ukrayinska Pravda",
-        "description": "Versión en inglés del periódico en línea ucraniano fundado por Georgiy Gongadze. El periódico está diseñado para un público general con énfasis en los temas candentes de la política de Ucrania, incluida la cobertura del reciente conflicto bélico con Rusia."
-      },
-      "fr": {
-        "title": "Vérité Ukrainienne",
-        "description": "Version anglaise du journal ukrainien en ligne fondé par Georgiy Gongadze. Le journal est conçu pour un lectorat général et met l'accent sur les questions brûlantes de la politique ukrainienne, y compris la couverture du récent conflit de guerre avec la Russie."
-      },
-      "it": {
-        "title": "Ukrayinska Pravda",
-        "description": "E' la versione inglese del giornale online Ucraino fondato da Georgiy Gongadze. Il giornale è pensato per un ampio pubblico e si focalizza sugli aspetti importanti della politica ucraina, con particolare attenzione al recente conflitto con la Russia."
-      },
-      "nl": {
-        "title": "Ukrayinska Pravda",
-        "description": "Engelse versie van de Oekraïense online krant, opgericht door Georgiy Gongadze. De krant is gericht op een algemeen lezerspubliek en legt de nadruk op de hete hangijzers van de Oekraïense politiek, met inbegrip van het recente oorlogsconflict met Rusland."
-      },
-      "pl": {
-        "title": "Ukrayinska Pravda",
-        "description": "Angielska wersja ukraińskiej gazety internetowej założonej przez Georgija Gongadze. Gazeta jest przeznaczona dla szerokiego grona czytelników, z naciskiem na gorące tematy polityki Ukrainy, w tym relacje z ostatniego konfliktu wojennego z Rosją."
-      }
-    }
-  },  
+    'description': 'Для допомоги армії в зоні АТО було організовано волонтерську групу Романа Доніка. Сьогодні група надає допомогу армії, забезпечує лікарні медикаментами, забезпечує військові та добровольчі частини захисною формою.',
+    'link': 'http://groupdonik.com/',
+    'donateLink': 'http://groupdonik.com/kak-pomoch.html',
+    'logo': '/img/logos/donic.png',
+    'id': 18
+  },
+  {
+    'name': 'Український кризовий медіа-центр',
+    'tags': [
+      'ЗМІ',
+      'Недержавні'
+    ],
+    'description': 'Український кризовий медіа-центр був започаткований у дусі Революції гідності у березні 2014 року як швидка відповідь на окупацію Криму Росією для захисту суверенітету України та її національних інтересів у світовому інформаційному просторі.',
+    'link': 'https://uacrisis.org/uk/pro-nas',
+    'donateLink': 'https://uacrisis.org/uk/donate',
+    'logo': '/img/logos/umc.png',
+    'id': 19
+  },
+  {
+    'name': 'За права людей з інвалідністю',
+    'tags': [
+      'Гуманітарні',
+      'Медичні'
+    ],
+    'description': 'Допомагає українцям з інвалідністю – особливо тим, хто хоче, але не може евакуюватися – захистити себе у разі надзвичайної ситуації.',
+    'link': 'https://ffr.org.ua/support-in-crisis',
+    'donateLink': 'https://www.gofundme.com/f/help-disabled-ukrainians',
+    'logo': '/img/logos/fight-for-right.png',
+    'id': 20
+  },
+  {
+    'name': 'Громадське',
+    'tags': [
+      'ЗМІ',
+      'Недержавні'
+    ],
+    'description': 'Громадське поєднує в одному місці якісну журналістику, нові медіа-інструменти та об\'єктивний аналіз. Громадське – яскравий стартап, заснований унікальною командою українських та зарубіжних журналістів.',
+    'link': 'https://hromadske.ua/',
+    'donateLink': 'https://hromadske.ua/about#donate_gro',
+    'logo': '/img/logos/hromadske.png',
+    'id': 21
+  },
+  {
+    'name': 'Заборона',
+    'tags': [
+      'ЗМІ',
+      'Недержавні',
+      'Права людини'
+    ],
+    'description': '«Заборона» — незалежне ЗМІ про соціальні тенденції та культуру постсоціалістичних країн Східної Європи. Вони охоплюють активістів, які захищають права людини та допомагають людям зрозуміти свою роль у нинішній системі координат.',
+    'link': 'https://zaborona.com/pro-redakciyu/',
+    'donateLink': 'https://www.patreon.com/Zaborona',
+    'logo': '/img/logos/zaborona.png',
+    'id': 22
+  },
+  {
+    'name': 'Texty.org.ua',
+    'tags': [
+      'ЗМІ',
+      'Недержавні'
+    ],
+    'description': 'Видання створює проекти з журналістики даних, а також працює в традиційних журналістських жанрах з українським поглядом на світ.',
+    'link': 'https://texty.org.ua',
+    'donateLink': 'https://www.patreon.com/textyorgua',
+    'logo': '/img/logos/texty.png',
+    'id': 23
+  },
+  {
+    'name': 'The Kyiv Independent',
+    'tags': [
+      'ЗМІ',
+      'Недержавні'
+    ],
+    'description': 'Незалежна українська англомовна журналістика.',
+    'link': 'https://kyivindependent.com/',
+    'donateLink': 'https://www.patreon.com/kyivindependent',
+    'logo': '/img/logos/kyiv-independent.png',
+    'id': 24
+  },
+  {
+    'name': 'Blood Agents',
+    'tags': [
+      'Медичні',
+      'Недержавні'
+    ],
+    'description': 'Ми сприяємо регулярному, свідомому та безоплатному донорству крові. За останні шість років ми заохочували людей здавати кров понад 5000 разів.',
+    'link': 'https://bloodagents.com/',
+    'donateLink': '"https://bloodagents.com/dopomoga_agentam',
+    'logo': '/img/logos/blood-agents.png',
+    'id': 25
+  },
+  {
+    'name': 'Tabletochki',
+    'tags': [
+      'Медичні',
+      'Недержавні'
+    ],
+    'description': 'Цей фонд уже 10 років підтримує онкохворих дітей. Вони закуповують ліки, обладнання, організовують лікування за кордоном.',
+    'link': 'https://tabletochki.org/',
+    'donateLink': '"https://www.globalgiving.org/projects/medications-for-childrens-oncological-units/',
+    'logo': '/img/logos/tabletochki.png',
+    'id': 25
+  },
+
+
 ]
 
 module.exports = source

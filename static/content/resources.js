@@ -381,15 +381,6 @@ const source = [
     location: ['Україна']
   },
   {
-    id: '39',
-    name: 'StopDrugsBot',
-    description: 'Бот для блокування сервісів дезінформації',
-    link: 'https://t.me/stopdrugsbot',
-    tags: ['Інформація'],
-    type: ['Чат-бот'],
-    location: ['Україна']
-  },
-  {
     id: '40',
     name: 'Doc2rbot',
     description: 'Турбота - медичний бот, який знаходить лікарів для пацієнтів',

@@ -65,7 +65,7 @@
                 <v-row v-if="filtered.length">
                     <v-card 
                       :class="{ 'w-50': $vuetify.breakpoint.mdAndUp, 'w-100': $vuetify.breakpoint.smAndDown }"
-                      class="d-flex flex-column" v-for="(org, index) in filtered"
+                      class="d-flex flex-column mb-4" v-for="(org, index) in filtered"
                       :key="'org-' + index"
                     >
                       <v-img height="200px" class="d-flex align-center justify-center flex-grow-0">
