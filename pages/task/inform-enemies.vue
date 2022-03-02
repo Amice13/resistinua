@@ -5,7 +5,7 @@
       <v-card class="mx-auto mb-0" flat>
         <v-card-text class="text-h4 flex-grow-1 mb-0 pb-0">
           <div class="fill-height d-flex">
-            <v-icon class="mr-4">mdi-check-outline</v-icon> Вести пропаганду
+            <v-icon class="mr-4">mdi-check-outline</v-icon> Поширити пропаганду
           </div>
         </v-card-text>
       </v-card>
