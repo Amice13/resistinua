@@ -5,7 +5,7 @@
       <v-card class="mx-auto ma-0" flat>
         <v-card-text class="text-h4 flex-grow-1 pb-0">
           <div class="fill-height d-flex">
-            <v-icon class="mr-4">mdi-hand-front-right-outline</v-icon> Допомога
+            <v-icon class="mr-4">mdi-hand-front-right-outline</v-icon> Help
           </div>
         </v-card-text>
       </v-card>
@@ -15,7 +15,7 @@
     <v-col cols="12" md="8">
       <v-card class="text-justify ma-0" flat>
         <v-card-text>
-          <p>Допоможи Україні впоратись з Російською військовою агресією. Зроби пожертву до перевірених проектів аби підтримати Збройні Сили України або благодійні фонди. Якщо ви знаєте організації, які не зазначені у переліку, <a href="https://github.com/Amice13/resistinua/issues">напишіть нам!</a></p>
+          <p>Help Ukraine to resist Russian invasion. Make a donation to a ont of verified funds or support  Зроби пожертву до перевірених проектів аби підтримати Armed Forces of Ukraine. If you want to submit another organization <a href="https://docs.google.com/forms/d/e/1FAIpQLSfw4YnRoZAmXKS4My60gX0drV02RZXgqWSJGHBhkkh-fyrdjA/viewform?usp=pp_url&entry.600831188=A+charity+organization">please let us know</a> or <a href="https://github.com/Amice13/resistinua/issues">submit an issue</a></p>
         </v-card-text>
       </v-card>
     </v-col>
@@ -28,12 +28,12 @@
           <v-col cols="12" md="4" class="pt-0">
             <v-card color="blue-grey lighten-4" class="text-justify" flat>
               <v-card-title class="pb-0">
-                Фільтри
+                Filters
               </v-card-title>
               <v-card-text class="pa-4 pt-0">
                 <!-- Topic filter -->
                 <div class="mt-6">
-                  <strong>Фільтр за видом діяльності</strong>
+                  <strong>Filter by type of activity</strong>
                 </div>
                 <v-scroll-y-transition>
                   <v-list dense color="blue-grey lighten-4" class="w-100">
@@ -44,7 +44,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -59,7 +59,7 @@
               <v-card-text :class="{ 'pa-0': $vuetify.breakpoint.mdAndUp }">
                 <v-row v-if="filtered.length === 0">
                   <v-col cols="12" class="text-center">
-                    На жаль, за вашими фільтрами немає жодної інформації
+                    Sorry, no organizations match criteria
                   </v-col>
                 </v-row>
                 <v-row v-if="filtered.length">
@@ -78,7 +78,7 @@
                         {{ org.description }}
                       </v-card-subtitle>
                       <v-card-actions class="blue darken-3">
-                        <v-btn :href="org.donateLink" target="_blank" class="mx-auto" block color="yellow lighten-2" text>Зробити внесок</v-btn>
+                        <v-btn :href="org.donateLink" target="_blank" class="mx-auto" block color="yellow lighten-2" text>Donate</v-btn>
                       </v-card-actions>
                     </v-card>
                 </v-row>

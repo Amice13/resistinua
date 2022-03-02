@@ -77,7 +77,7 @@ const source = [
     description: 'На цьому ресурсі можна дізнатися, як надати гуманітарну допомогу народові України. Українські бізнесмени відкрили склад, до якого можна відправити будь-який вантаж, який допоможе людям.',
     link: 'http://www.helpukraine.center/',
     tags: ['Інформація', 'Волонтерство'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Україна']
   },
   {
@@ -368,7 +368,7 @@ const source = [
     description: 'Крисні посилання щодо власної діяьності під час війни.',
     link: 'https://prjctr.notion.site/96bec30d8f024c7abf6ab4281585a0d7',
     tags: ['Інформація'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Україна']
   },
   {
@@ -557,7 +557,7 @@ const source = [
     description: 'Проект, що допомагає згуртувати всіх охочих у волонтерській діяльності',
     link: 'https://betha.in.ua/',
     tags: ['Волонтерство'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Україна']
   },
   {
@@ -566,7 +566,7 @@ const source = [
     description: 'Швидкі перекази на користь Збройних сил України',
     link: 'https://uahelp.monobank.ua/',
     tags: ['Благодійність'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Україна']
   },
   {
@@ -575,7 +575,7 @@ const source = [
     description: 'Сайт для міжнародної допомоги Україні',
     link: 'https://www.defendukraine.org/',
     tags: ['Інформація'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Світ']
   },
   {
@@ -584,7 +584,7 @@ const source = [
     description: 'Ресурси українським біженцям та ресурси для допомоги Українцям з закордону',
     link: 'https://ukrainesupport.com.ua/',
     tags: ['Інформація'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Світ']
   },
   {
@@ -593,7 +593,7 @@ const source = [
     description: 'Колекція засобів для допомоги з-за кордону',
     link: 'https://helpukrainewin.org/',
     tags: ['Інформація'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Світ']
   },
   {
@@ -602,7 +602,7 @@ const source = [
     description: 'Сайт з інформацією про полонених та вбитих російських солдатів в Україні',
     link: 'https://powukraine.org/',
     tags: ['Інформація', 'Для РФ'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Світ']
   },
   {
@@ -611,7 +611,7 @@ const source = [
     description: 'Колекція засобів для допомоги з-за кордону',
     link: 'https://how-to-help-ukraine-now.super.site/',
     tags: ['Інформація'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Світ']
   },
   {
@@ -620,7 +620,7 @@ const source = [
     description: 'Довідник практичних порад, як діяти у часі війни або надзвичайної інформації',
     link: 'https://dovidka.info/',
     tags: ['Інформація'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Україна']
   },
   {
@@ -629,7 +629,7 @@ const source = [
     description: 'Довідник практичних порад, як допомогти Україні ззовні',
     link: 'https://supportukraine.notion.site/',
     tags: ['Інформація', 'Гайди'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Світ']
   },
   {
@@ -665,7 +665,7 @@ const source = [
     description: 'Платформа дій проти російської агресії',
     link: 'https://worldforukraine.net/',
     tags: ['Інформація'],
-    type: ['Сайт'],
+    type: ['Вебсайт'],
     location: ['Світ']
   },
   {

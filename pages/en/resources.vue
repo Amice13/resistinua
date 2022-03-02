@@ -5,7 +5,7 @@
       <v-card class="mx-auto ma-0" flat>
         <v-card-text class="text-h4 flex-grow-1 pb-0">
           <div class="fill-height d-flex">
-            <v-icon class="mr-4">mdi-web</v-icon> Ресурси
+            <v-icon class="mr-4">mdi-web</v-icon> Resources
           </div>
         </v-card-text>
       </v-card>
@@ -15,7 +15,7 @@
     <v-col cols="12" md="8">
       <v-card class="text-justify ma-0" flat>
         <v-card-text>
-          <p>Тут зібрані корисні ресурси, які стануть вам у нагоді. Якщо ви знаєте ресурси, які не зазначені у переліку, <a href="https://github.com/Amice13/resistinua/issues">напишіть нам!</a></p>
+          <p>This is a list of useful resources. If you know other resources that aren’t on this list, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfw4YnRoZAmXKS4My60gX0drV02RZXgqWSJGHBhkkh-fyrdjA/viewform?usp=pp_url&entry.600831188=An+information">please let us know</a> or <a href="https://github.com/Amice13/resistinua/issues">submit an issue</a>!</p>
         </v-card-text>
       </v-card>
     </v-col>
@@ -28,13 +28,13 @@
           <v-col cols="12" md="4" class="pt-0">
             <v-card color="blue-grey lighten-4" class="text-justify" flat>
               <v-card-title class="pb-0">
-                Фільтри
+                Filters
               </v-card-title>
               <v-card-text class="pa-4 pt-0">
 
                 <!-- Location filter -->
                 <div v-show="filtersByLocation.length" class="mt-6" @click="showLocation = !showLocation">
-                  <strong>Фільтр за охопленням</strong>
+                  <strong>Filter by geography</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showLocation ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -46,7 +46,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -56,7 +56,7 @@
 
                 <!-- Type filter -->
                 <div v-show="filtersByType.length" class="mt-6" @click="showType = !showType">
-                  <strong>Фільтр за типом</strong>
+                  <strong>Filter by type</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showType ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -68,7 +68,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -78,7 +78,7 @@
 
                 <!-- Topic filter -->
                 <div v-show="filtersByTopic.length" class="mt-6" @click="showTopic = !showTopic">
-                  <strong>Фільтр за видом діяльності</strong>
+                  <strong>Filter by type of activity</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showTopic ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -90,7 +90,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -105,7 +105,7 @@
               <v-card-text class="pa-0">
                 <v-row v-if="filtered.length === 0">
                   <v-col cols="12" class="text-center">
-                    На жаль, за вашими фільтрами немає жодної інформації
+                    Sorry, no resources match criteria
                   </v-col>
                 </v-row>
                 <v-row v-if="filtered.length">

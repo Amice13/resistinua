@@ -55,10 +55,11 @@
 <script>
 
 import VueMarkdown from 'vue-markdown'
-import quotes from '@/static/content/quotes'
+import quotes from '@/static/content/quotes-en'
 
 export default {
   async mounted () {
+    console.log(this)
     this.$set(this, 'randomQuote', quotes[Math.floor(Math.random()*quotes.length)])
     window.addEventListener('beforeinstallprompt', (e) => {
       e.preventDefault();

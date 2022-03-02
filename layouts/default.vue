@@ -14,7 +14,7 @@
 
     <v-navigation-drawer v-model="drawer" disable-resize-watcher fixed app dark>
       <v-list>
-        <v-list-item v-for="{ title, icon, to } in menu" :key="'drawer-' + title" :to="to" router exact>
+        <v-list-item v-for="{ title, icon, to } in menu" :key="'drawer-' + title" :to="localePath + to" router exact>
           <v-list-item-action>
             <v-icon>{{ icon }}</v-icon>
           </v-list-item-action>
@@ -40,12 +40,21 @@
         </div>
       </v-app-bar-title>
       <v-spacer></v-spacer>
-      <!-- <v-btn @click="$i18n.locale = $i18n.locale === 'uk' ? 'en' : 'uk'" text color="white">{{ $i18n.locale }}</v-btn> -->
+      <v-menu offset-y>
+        <template v-slot:activator="{ on, attrs }">
+          <v-btn color="white" text dark v-bind="attrs" v-on="on">{{ $i18n.locale }}</v-btn>
+        </template>
+        <v-list>
+          <v-list-item @click="setLanguage(lang)" v-for="(lang, index) in langs" :key="index">
+            <v-list-item-title>{{ lang.toUpperCase() }}</v-list-item-title>
+          </v-list-item>
+        </v-list>
+      </v-menu>
 
       <template v-if="$vuetify.breakpoint.mdAndUp" v-slot:extension>
         <v-tabs grow class="main-menu">
           <v-tabs-slider color="yellow darken-2"></v-tabs-slider>
-          <v-tab v-for="({ to, title }, i) in menu" :to="to" :key="'main-menu-' + i">
+          <v-tab v-for="({ to, title }, i) in menu" :to="localePath + to" :key="'main-menu-' + i">
             <span v-if="to === '/'"><v-icon>mdi-home</v-icon></span>
             <span v-else>{{ $t(title) }}</span>
           </v-tab>
@@ -70,7 +79,7 @@
             </v-icon>
           </v-btn>
           <v-row justify="center" no-gutters>
-            <v-btn v-for="{ title, to } in menu" :key="title" :to="to" color="white" text rounded class="my-2">
+            <v-btn v-for="{ title, to } in menu" :key="title" :to="localePath + to" color="white" text rounded class="my-2">
               {{ $t(title) }}
             </v-btn>
           </v-row>
@@ -93,14 +102,17 @@ export default {
     this.shrink = this.$route.path === '/'
     this.drawer = false
     this.loading = false
+    if(!this.$route.path.match(/\/(en|de|ru)(?:\/|$)/)) this.$i18n.locale = 'uk'
+    if(this.$route.path.match(/\/en(?:\/|$)/)) this.$i18n.locale = 'en'
+    if(this.$route.path.match(/\/de(?:\/|$)/)) this.$i18n.locale = 'de'
+    if(this.$route.path.match(/\/ru(?:\/|$)/)) this.$i18n.locale = 'ru'
   },
   data () {
     return {
       loading: true,
       drawer: false,
-      model: 0,
       shrink: true,
-      miniVariant: false,
+      langs: ['uk', 'en'],
       shares: [
         {
           icon: 'mdi-facebook',
@@ -135,19 +147,6 @@ export default {
           title: 'Офіційні звернення',
           to: '/messages'
         },
-        /*
-        {
-          icon: 'mdi-calendar-blank-outline',
-          title: 'Події',
-          to: '/events'
-        },
-        /*
-        {
-          icon: 'mdi-earth',
-          title: 'Світ',
-          to: '/world'
-        },
-        */
         {
           icon: 'mdi-hand-front-right-outline',
           title: 'Допомога',
@@ -162,10 +161,30 @@ export default {
       title: 'Український спротив'
     }
   },
+  methods: {
+    setLanguage (lang) {
+      let path = this.$route.path
+      path = path.replace(/^\/(en|ru|de)/, '')
+      if (lang !== 'uk') {
+        path = `/${lang}${path}`
+      }
+      this.$router.push(path)
+    }
+  },
+  computed: {
+    localePath () {
+      if (this.$i18n.locale === 'uk') return ''
+      return '/' + this.$i18n.locale
+    }
+  },
   watch: {
     '$route' (to, from) {
       this.$vuetify.goTo('#app', { offset: 0 })
       this.shrink = to.path === '/'
+      if(!to.path.match(/\/(en|de|ru)(?:\/|$)/)) this.$i18n.locale = 'uk'
+      if(to.path.match(/\/en(?:\/|$)/)) this.$i18n.locale = 'en'
+      if(to.path.match(/\/de(?:\/|$)/)) this.$i18n.locale = 'de'
+      if(to.path.match(/\/ru(?:\/|$)/)) this.$i18n.locale = 'ru'
     }
   }
 }
@@ -233,4 +252,11 @@ a[href$='#btn-center'] {
   text-align: left !important;
 }
 
+blockquote {
+  margin-left: 32px;
+  border-left: black 3px solid;
+  padding: 24px 24px 12px;
+  background: #F5F5F5;
+  margin-bottom: 32px;
+}
 </style>

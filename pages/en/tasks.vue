@@ -5,7 +5,7 @@
       <v-card class="mx-auto ma-0" flat>
         <v-card-text class="text-h4 flex-grow-1 pb-0">
           <div class="fill-height d-flex">
-            <v-icon class="mr-4">mdi-check-outline</v-icon> Завдання
+            <v-icon class="mr-4">mdi-check-outline</v-icon> {{ $t('Завдання') }}
           </div>
         </v-card-text>
       </v-card>
@@ -15,7 +15,7 @@
     <v-col cols="12" md="8">
       <v-card class="text-justify ma-0" flat>
         <v-card-text>
-          <p>Долучайтеся до допомоги Україні вже сьогодні!</p>
+          <p>Start helping Ukraine today!</p>
         </v-card-text>
       </v-card>
     </v-col>
@@ -28,13 +28,13 @@
           <v-col cols="12" md="4" class="pt-0">
             <v-card color="blue-grey lighten-4" class="text-justify" flat>
               <v-card-title class="pb-0">
-                Фільтри
+                Filters
               </v-card-title>
               <v-card-text class="pa-4 pt-0">
 
                 <!-- Type filter -->
                 <div v-show="filtersBySkills.length" class="mt-6" @click="showSkills = !showSkills">
-                  <strong>Фільтр за навичками</strong>
+                  <strong>Filter by skills</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showSkills ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -46,7 +46,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -56,7 +56,7 @@
 
                 <!-- Topic filter -->
                 <div v-show="filtersByTopic.length" class="mt-6" @click="showTopic = !showTopic">
-                  <strong>Фільтр за видом діяльності</strong>
+                  <strong>Filter by type of activity</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showTopic ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -68,7 +68,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -83,22 +83,32 @@
               <v-card-text class="pa-0">
                 <v-row v-if="filtered.length === 0">
                   <v-col cols="12" class="text-center">
-                    На жаль, за вашими фільтрами немає жодного завдання
+                    Sorry, no tasks match criteria
                   </v-col>
                 </v-row>
                 <v-row v-else class="pt-2">
                   <v-list class="w-100">
-                    <v-list-item to="/task/add-task" class="orange lighten-4">
+                    <v-list-item to="/en/task/add-task" class="orange lighten-4">
                       <template>
                         <v-list-item-action class="text-right" :class="{ 'break-word': $vuetify.breakpoint.smAndDown }">
                           <v-icon>mdi-refresh</v-icon>
                         </v-list-item-action>
                         <v-list-item-content>
-                          <v-list-item-title class="blue--text">Додати завдання або інформацію</v-list-item-title>
+                          <v-list-item-title class="blue--text">Add a task or information</v-list-item-title>
                         </v-list-item-content>
                       </template>
                     </v-list-item>
-                    <v-list-item v-for="(task, index) in filtered" :key="'task-' + index" :to="'/task/' + task.id" :class="{ 'break-word': $vuetify.breakpoint.smAndDown }">
+                    <v-list-item to="/en/task/join-legion" class="red lighten-4">
+                      <template>
+                        <v-list-item-action class="text-right" :class="{ 'break-word': $vuetify.breakpoint.smAndDown }">
+                          <v-icon>mdi-check-bold</v-icon>
+                        </v-list-item-action>
+                        <v-list-item-content>
+                          <v-list-item-title class="blue--text">Join the Foreign Legion of Territorial Defense of Ukraine</v-list-item-title>
+                        </v-list-item-content>
+                      </template>
+                    </v-list-item>
+                    <v-list-item v-for="(task, index) in filtered" :key="'task-' + index" :to="localePath + '/task/' + task.id" :class="{ 'break-word': $vuetify.breakpoint.smAndDown }">
                       <template>
                         <v-list-item-action class="text-right">
                           <v-icon v-show="task.reccuring">mdi-refresh</v-icon>
@@ -125,7 +135,7 @@
 
 <script>
 
-import tasks from '@/static/content/tasks'
+import tasks from '@/static/content/tasks-en'
 
 const intersection = (arr1, arr2) => {
   return arr1.filter(value => arr2.includes(value))
@@ -157,7 +167,11 @@ export default {
       showSkills: true
     }
   },
-  computed: {
+ computed: {
+    localePath () {
+      if (this.$i18n.locale === 'uk') return ''
+      return '/' + this.$i18n.locale
+    },
     filtered () {
       let filtered = this.tasks
       let filtersByTopic = this.filterTopic.map(el => this.filtersByTopic[el])

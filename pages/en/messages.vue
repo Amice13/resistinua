@@ -5,7 +5,7 @@
       <v-card class="mx-auto ma-0" flat>
         <v-card-text class="text-h4 flex-grow-1 pb-0">
           <div class="fill-height d-flex">
-            <v-icon class="mr-4">mdi-message-reply-outline</v-icon> Офіційні звернення
+            <v-icon class="mr-4">mdi-message-reply-outline</v-icon> {{ $t('Офіційні звернення') }}
           </div>
         </v-card-text>
       </v-card>
@@ -19,17 +19,17 @@
           <v-col cols="12" md="4" class="pt-0">
             <v-card color="blue-grey lighten-4" class="text-justify" flat>
               <v-card-title class="pb-0">
-                Фільтри
+                Filters
               </v-card-title>
               <v-card-text class="pa-4 pt-0">
 
                 <!-- General filters -->
-                <v-checkbox v-model="signLanguageOnly" label="Наявний сурдопереклад" hide-details></v-checkbox>
-                <v-checkbox v-model="russianMessage" label="Містить звернення російською" hide-details></v-checkbox>
+                <v-checkbox v-model="signLanguageOnly" :label="$t('Наявний сурдопереклад')" hide-details></v-checkbox>
+                <v-checkbox v-model="russianMessage" :label="$t('Містить звернення російською')" hide-details></v-checkbox>
 
                 <!-- Speaker filter -->
                 <div v-show="filtersBySpeaker.length" class="mt-6" @click="showSpeaker = !showSpeaker">
-                  <strong>Фільтр за спікером</strong>
+                  <strong>Filter by speaker</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showSpeaker ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -41,7 +41,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -51,7 +51,7 @@
 
                 <!-- Topic filter -->
                 <div v-show="filtersByTopic.length" class="mt-6" @click="showTopic = !showTopic">
-                  <strong>Фільтр за темою</strong>
+                  <strong>Filter by topic}</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showTopic ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -63,7 +63,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -73,7 +73,7 @@
 
                 <!-- City filter -->
                 <div v-show="filtersByCity.length" class="mt-6" @click="showCity = !showCity">
-                  <strong>Фільтр за містами</strong>
+                  <strong>Filter by city</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showCity ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -85,7 +85,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -95,7 +95,7 @@
 
                 <!-- Dates filter -->
                 <div class="mt-6" @click="showDate = !showDate">
-                  <strong>Фільтр за датою</strong>
+                  <strong>Filter by date</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showDate ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -107,7 +107,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -122,7 +122,7 @@
               <v-card-text class="pa-0">
                 <v-row v-if="filteredMessages.length === 0">
                   <v-col cols="12" class="text-center">
-                    На жаль, за вашими фільтрами немає жодної інформації
+                    Sorry, no messages match criteria
                   </v-col>
                 </v-row>
 
