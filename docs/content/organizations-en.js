@@ -31,7 +31,7 @@ const source = [
       'Гуманітарні',
       'Медичні'
     ],
-    'description': '"The Ukrainian Humanitarian Fund is one of the UN\'s country-based pooled funds. Contributions are collected into a single, unearmarked fund and managed locally under UN leadership. As crises evolve, funds are made directly and immediately available to a wide range of partner organizations at the front lines of response. This way, funding reaches the people most in need when they need it.',
+    'description': 'The Ukrainian Humanitarian Fund is one of the UN\'s country-based pooled funds. Contributions are collected into a single, unearmarked fund and managed locally under UN leadership. As crises evolve, funds are made directly and immediately available to a wide range of partner organizations at the front lines of response. This way, funding reaches the people most in need when they need it.',
     'link': 'https://www.unocha.org/ukraine/donor-contributions',
     'donateLink': 'https://crisisrelief.un.org/t/ukraine',
     'logo': '/img/logos/uhf.png',
@@ -88,6 +88,18 @@ const source = [
     'donateLink': 'https://voices.org.ua/en/donat/',
     'logo': '/img/logos/voicesofchildren.png',
     'id': 7,
+  },
+  {
+    'name': '24.02fund. Journalism Emergency Fund',
+    'tags': [
+      'ЗМІ',
+      'Недержавні'
+    ],
+    'description': 'We, a community of journalists, photographers, cameramen and editors working in Ukraine, founded the 24.02 Foundation to help equip reporters and newsrooms with the necessary equipment, vehicles and protective gear.',
+    'link': 'https://2402.org/',
+    'donateLink': 'https://2402.org/',
+    'logo': '/img/logos/24-02.png',
+    'id': 26
   },
   {
     'name': 'United Help Ukraine',
@@ -319,7 +331,7 @@ const source = [
     ],
     'description': 'We promote regular, conscious and gratuitous blood donations. We have encouraged people to donate blood over 5,000 times over the past six years.',
     'link': 'https://bloodagents.com/',
-    'donateLink': '"https://bloodagents.com/dopomoga_agentam',
+    'donateLink': 'https://bloodagents.com/dopomoga_agentam',
     'logo': '/img/logos/blood-agents.png',
     'id': 25
   },
@@ -331,7 +343,7 @@ const source = [
     ],
     'description': 'This foundation has been supporting children with cancer for 10 years. They procure medicines, equipment, and arrange overseas treatment, among other things.',
     'link': 'https://tabletochki.org/',
-    'donateLink': '"https://www.globalgiving.org/projects/medications-for-childrens-oncological-units/',
+    'donateLink': 'https://www.globalgiving.org/projects/medications-for-childrens-oncological-units/',
     'logo': '/img/logos/tabletochki.png',
     'id': 25
   },
