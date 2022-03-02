@@ -97,7 +97,7 @@ const source = [
     ],
     'description': 'We, a community of journalists, photographers, cameramen and editors working in Ukraine, founded the 24.02 Foundation to help equip reporters and newsrooms with the necessary equipment, vehicles and protective gear.',
     'link': 'https://2402.org/',
-    'donateLink': 'https://2402.org/',
+    'donateLink': 'https://2402.org/#donate',
     'logo': '/img/logos/24-02.png',
     'id': 26
   },
