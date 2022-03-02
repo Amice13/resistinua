@@ -37,9 +37,13 @@
 import VueMarkdown from 'vue-markdown'
 
 const text = `
-Якщо у Вас є можливість надати гуманітарну допомогу, то звертайтеся до відповідних регіональних штабів.
+Якщо у Вас є можливість надати гуманітарну допомогу, то [звертайтеся](https://varta1.com.ua/news/na-lvivshchini-organizovano-shtabi-kudi-mozhna-prinesti-gumanitarnu-dopomogu_341727.html) до відповідних регіональних штабів.
 
-[Надати допомогу](https://varta1.com.ua/news/na-lvivshchini-organizovano-shtabi-kudi-mozhna-prinesti-gumanitarnu-dopomogu_341727.html#btn-center)
+Також Національний банк України [відкрив рахунок](https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi) для **гуманітарної допомоги** українцям, постраждалим від російської агресії.
+
+Рахунок – мультивалютний, створений та відкритий як для переказу коштів від міжнародних партнерів та донорів – у іноземній валюті (доларах США, євро, британських фунтах), так і від українського бізнесу та громадян – у національній валюті.
+
+[Надати допомогу](https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi#btn-center)
 
 `
 
