@@ -23,6 +23,7 @@ const _35e26ac6 = () => interopDefault(import('..\\pages\\task\\arrest-enemies.v
 const _345cc092 = () => interopDefault(import('..\\pages\\task\\barricades.vue' /* webpackChunkName: "pages/task/barricades" */))
 const _3dad27ca = () => interopDefault(import('..\\pages\\task\\block-tg.vue' /* webpackChunkName: "pages/task/block-tg" */))
 const _2252d3a9 = () => interopDefault(import('..\\pages\\task\\bloggers.vue' /* webpackChunkName: "pages/task/bloggers" */))
+const _1aaf103c = () => interopDefault(import('..\\pages\\task\\business-message.vue' /* webpackChunkName: "pages/task/business-message" */))
 const _51de071a = () => interopDefault(import('..\\pages\\task\\business-petition.vue' /* webpackChunkName: "pages/task/business-petition" */))
 const _296b180c = () => interopDefault(import('..\\pages\\task\\cocktail.vue' /* webpackChunkName: "pages/task/cocktail" */))
 const _62c97a1e = () => interopDefault(import('..\\pages\\task\\communication.vue' /* webpackChunkName: "pages/task/communication" */))
@@ -183,6 +184,10 @@ export const routerOptions = {
     path: "/task/bloggers",
     component: _2252d3a9,
     name: "task-bloggers"
+  }, {
+    path: "/task/business-message",
+    component: _1aaf103c,
+    name: "task-business-message"
   }, {
     path: "/task/business-petition",
     component: _51de071a,
