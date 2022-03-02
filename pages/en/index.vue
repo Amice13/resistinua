@@ -42,6 +42,8 @@
             <li>help the internally displaced</li>
             <li>join the Army, Territorial defense, etc.</li>
           </ul>
+          <v-btn dark to="/tasks" class="mb-4" block color="blue darken-1">Participate</v-btn>
+          <v-btn dark to="/volounteer" block color="blue darken-3">Donate</v-btn>
         </v-card-text>
         <v-card-text>
           <p class="text-h4 text-center">Everyone can resist on different levels!</p>

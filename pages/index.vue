@@ -42,6 +42,8 @@
             <li>допомогти переселенцям</li>
             <li>долучитись до війська, ТрО та інше</li>
           </ul>
+          <v-btn dark to="/tasks" class="mb-4" block color="blue darken-1">Чинити супротив</v-btn>
+          <v-btn dark to="/volounteer" block color="blue darken-3">Підтримати внеском</v-btn>
         </v-card-text>
         <v-card-text>
           <p class="text-h4 text-center">Спротив чинити може кожен на різних рівнях!</p>
