@@ -204,7 +204,7 @@ const source = [
     id: '18',
     name: 'Stand For Ukraine',
     description: 'Перелік організацій та проектів, на користь яких можна зробити пожертву аби підтримати Збройні Сили України.',
-    link: 'https://t.me/Hotovyi_do_vsioho_bot',
+    link: 'https://standforukraine.com/',
     tags: ['Інформація', 'Благодійність'],
     type: ['Чат-бот'],
     location: ['Україна']

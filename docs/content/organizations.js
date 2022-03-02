@@ -213,7 +213,64 @@ const source = [
     'logo': '/img/logos/everybodycan.png',
     'id': 16
   },
-  
+  {
+    'name': 'Кожен може',
+    'tags': [
+      'Недержавні',
+      'Волонтерські',
+      'Невійськові',
+      'Нелетальні'
+    ],
+    'description': 'Благодійний фонд, який дозволяє зробити разовий благодійний внесок у фонд, або підключити щомісячну допомогу. Щомісячна допомога означає, що кожного місяця з вашої картки автоматично буде списуватись вказана вами сума благодійного внеску.',
+    'link': 'https://everybodycan.com.ua/komanda-fondu',
+    'donateLink': 'https://everybodycan.com.ua/dopomogti-zaraz',
+    'logo': '/img/logos/everybodycan.png',
+    'id': 16
+  },
+  {
+    "title": "Українська правда",
+    "tags": [
+      "Non-government",
+      "Press"
+    ],
+    "description": "English version of the Ukrainian online newspaper founded by Georgiy Gongadze. The newspaper is tailored for a general readership with emphasis on the hot issues of the politics of Ukraine, including coverage of the recent war conflict with Russia.",
+    "link": "https://www.pravda.com.ua/eng/",
+    "donateLink": "https://club.pravda.com.ua/",
+    "logo": "/logos/15.png",
+    "id": 15,
+    "byLang": {
+      "en": {
+        "title": "Ukrayinska Pravda",
+        "tags": [
+          "Non-government",
+          "Press"
+        ],
+        "description": "English version of the Ukrainian online newspaper founded by Georgiy Gongadze. The newspaper is tailored for a general readership with emphasis on the hot issues of the politics of Ukraine, including coverage of the recent war conflict with Russia.",
+        "link": "https://www.pravda.com.ua/eng/",
+        "donateLink": "https://club.pravda.com.ua/"
+      },
+      "es": {
+        "title": "Ukrayinska Pravda",
+        "description": "Versión en inglés del periódico en línea ucraniano fundado por Georgiy Gongadze. El periódico está diseñado para un público general con énfasis en los temas candentes de la política de Ucrania, incluida la cobertura del reciente conflicto bélico con Rusia."
+      },
+      "fr": {
+        "title": "Vérité Ukrainienne",
+        "description": "Version anglaise du journal ukrainien en ligne fondé par Georgiy Gongadze. Le journal est conçu pour un lectorat général et met l'accent sur les questions brûlantes de la politique ukrainienne, y compris la couverture du récent conflit de guerre avec la Russie."
+      },
+      "it": {
+        "title": "Ukrayinska Pravda",
+        "description": "E' la versione inglese del giornale online Ucraino fondato da Georgiy Gongadze. Il giornale è pensato per un ampio pubblico e si focalizza sugli aspetti importanti della politica ucraina, con particolare attenzione al recente conflitto con la Russia."
+      },
+      "nl": {
+        "title": "Ukrayinska Pravda",
+        "description": "Engelse versie van de Oekraïense online krant, opgericht door Georgiy Gongadze. De krant is gericht op een algemeen lezerspubliek en legt de nadruk op de hete hangijzers van de Oekraïense politiek, met inbegrip van het recente oorlogsconflict met Rusland."
+      },
+      "pl": {
+        "title": "Ukrayinska Pravda",
+        "description": "Angielska wersja ukraińskiej gazety internetowej założonej przez Georgija Gongadze. Gazeta jest przeznaczona dla szerokiego grona czytelników, z naciskiem na gorące tematy polityki Ukrainy, w tym relacje z ostatniego konfliktu wojennego z Rosją."
+      }
+    }
+  },  
 ]
 
 module.exports = source

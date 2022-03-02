@@ -1,14 +1,14 @@
 const source = [
   {
-    id: 'AXTZIRB65XM',
+    id: 'qVRZNGFXF0Y',
     name: '«Сьогодні українці – символ незламності»',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-02T09:32:42',
     text: '«Сьогодні українці – символ незламності». Звернення Володимира Зеленського.',
     description: '«Сьогодні українці – символ незламності». Звернення Володимира Зеленського.',
-    url: 'https://www.youtube.com/watch?v=AXTZIRB65XM'
+    url: 'https://www.youtube.com/watch?v=qVRZNGFXF0Y'
   },
   {
     id: 'UgacKdlj6HQ',
