@@ -39,6 +39,8 @@ import VueMarkdown from 'vue-markdown'
 const text = `
 Якщо у Вас є необхідність евакуюватися, але немає можливості, залиште заявку на ресурсі Ukraine Ua:
 
+Також ви можете отримати додаткову інформацію про евакуацію на сторінці [Єдиної платформи в Notion](https://ukraineisforever.notion.site/61c28261da6041b884fb305c8cc2234e).
+
 [Подати заявку](https://www.ukrainenow.org/refuge#btn-center)
 `
 

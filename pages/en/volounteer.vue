@@ -15,7 +15,10 @@
     <v-col cols="12" md="8">
       <v-card class="text-justify ma-0" flat>
         <v-card-text>
-          <p>Help Ukraine to resist Russian invasion. Make a donation to a ont of verified funds or support  Зроби пожертву до перевірених проектів аби підтримати Armed Forces of Ukraine. If you want to submit another organization <a href="https://docs.google.com/forms/d/e/1FAIpQLSfw4YnRoZAmXKS4My60gX0drV02RZXgqWSJGHBhkkh-fyrdjA/viewform?usp=pp_url&entry.600831188=A+charity+organization">please let us know</a> or <a href="https://github.com/Amice13/resistinua/issues">submit an issue</a></p>
+          <p>
+            Help Ukraine to resist Russian invasion. Make a donation to a one of verified funds or <a href="https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi">support Armed Forces of Ukraine</a>.
+            If you want to submit another organization <a href="https://docs.google.com/forms/d/e/1FAIpQLSfw4YnRoZAmXKS4My60gX0drV02RZXgqWSJGHBhkkh-fyrdjA/viewform?usp=pp_url&entry.600831188=A+charity+organization">please let us know</a> or <a href="https://github.com/Amice13/resistinua/issues">submit an issue</a>
+          </p>
         </v-card-text>
       </v-card>
     </v-col>
@@ -49,7 +52,7 @@
                         </template>
                       </v-list-item>
                     </v-list-item-group>
-                  </v-list>                
+                  </v-list>
                 </v-scroll-y-transition>
               </v-card-text>
             </v-card>
@@ -63,7 +66,7 @@
                   </v-col>
                 </v-row>
                 <v-row v-if="filtered.length">
-                    <v-card 
+                    <v-card
                       :class="{ 'w-50': $vuetify.breakpoint.mdAndUp, 'w-100': $vuetify.breakpoint.smAndDown }"
                       class="d-flex flex-column mb-4" v-for="(org, index) in filtered"
                       :key="'org-' + index"

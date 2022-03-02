@@ -155,7 +155,7 @@ const source = [
   },
   {
     id: 'inform-enemies',
-    name: 'Поширюйте пропаганду',
+    name: 'Поширити пропаганду',
     skills: ['Без навичок'],
     tags: ['Інформування'],
     reccuring: true

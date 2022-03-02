@@ -347,8 +347,17 @@ const source = [
     'logo': '/img/logos/tabletochki.png',
     'id': 25
   },
-
-
+  {
+    'name': 'Гуманітарна допомога українцям (НБУ)',
+    'tags': [
+      'Гуманітарні',
+    ],
+    'description': 'Національний банк відкрив рахунок для гуманітарної допомоги українцям, постраждалим від російської агресії. Рахунок – мультивалютний, створений та відкритий як для переказу коштів від міжнародних партнерів та донорів – у іноземній валюті (доларах США, євро, британських фунтах), так і від українського бізнесу та громадян – у національній валюті. ',
+    'link': 'https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi',
+    'donateLink': 'https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi',
+    'logo': '/img/logos/nbu.png',
+    'id': 25
+  },
 ]
 
 module.exports = source
