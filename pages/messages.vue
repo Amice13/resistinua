@@ -139,7 +139,7 @@
                         {{ new Date(filteredMessages[0].date).toLocaleDateString('uk', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' }) }}
                       </strong></small>
                     </div>
-                    <div class="text-justify">{{ filteredMessages[0].text }}</div>
+                    <div class="text-justify">{{ filteredMessages[0].description }}</div>
                   </v-col>
                 </v-row>
                 <v-row class="pt-2" style="border-top: 1px solid #ccc;" v-if="filteredMessages.length > 1">
