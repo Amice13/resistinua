@@ -41,7 +41,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -63,7 +63,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -85,7 +85,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>
@@ -107,7 +107,7 @@
                             <v-checkbox :input-value="active"></v-checkbox>
                           </v-list-item-action>
                           <v-list-item-content>
-                            <v-list-item-title>{{ filter }}</v-list-item-title>
+                            <v-list-item-title>{{ $t(filter) }}</v-list-item-title>
                           </v-list-item-content>
                         </template>
                       </v-list-item>

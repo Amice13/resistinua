@@ -60,7 +60,7 @@
 <script>
 
 import VueMarkdown from 'vue-markdown'
-import messages from '@/static/content/messages'
+import messages from '@/static/content/messages-en'
 
 export default {
   components: { VueMarkdown },

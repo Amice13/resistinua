@@ -51,7 +51,7 @@
 
                 <!-- Topic filter -->
                 <div v-show="filtersByTopic.length" class="mt-6" @click="showTopic = !showTopic">
-                  <strong>Filter by topic}</strong>
+                  <strong>Filter by topic</strong>
                   <v-icon style="cursor: pointer; float: right;">{{ showTopic ? 'mdi-chevron-up' : 'mdi-chevron-down' }}</v-icon>
                 </div>
                 <v-scroll-y-transition>
@@ -133,7 +133,7 @@
                     </div>
                   </v-col>
                   <v-col cols="12" md="7">
-                    <NuxtLink class="text-h5 blue--text text-inherit" style="text-decoration: none; text-align: left !important;" :to="'/message/' + filteredMessages[0].id">{{ filteredMessages[0].name }}</NuxtLink>
+                    <NuxtLink class="text-h5 blue--text text-inherit" style="text-decoration: none; text-align: left !important;" :to="localePath + '/message/' + filteredMessages[0].id">{{ filteredMessages[0].name }}</NuxtLink>
                     <div class="small">
                       <small><strong>
                         {{ new Date(filteredMessages[0].date).toLocaleDateString('uk', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' }) }}
@@ -144,7 +144,7 @@
                 </v-row>
                 <v-row class="pt-2" style="border-top: 1px solid #ccc;" v-if="filteredMessages.length > 1">
                   <v-list three-line class="w-100">
-                    <v-list-item v-for="(item, index) in filteredMessages.slice(1)" :key="'video-' + index" :to="'/message/' + item.id">
+                    <v-list-item v-for="(item, index) in filteredMessages.slice(1)" :key="'video-' + index" :to="localePath + '/message/' + item.id">
                       <template>
                         <v-list-item-action class="text-right" :class="{ 'mr-6': $vuetify.breakpoint.smAndDown }">
                           <div>
@@ -183,7 +183,7 @@
 <script>
 
 import VueMarkdown from 'vue-markdown'
-import messages from '@/static/content/messages'
+import messages from '@/static/content/messages-en'
 
 const intersection = (arr1, arr2) => {
   return arr1.filter(value => arr2.includes(value))
@@ -226,6 +226,10 @@ export default {
     }
   },
   computed: {
+    localePath () {
+      if (this.$i18n.locale === 'uk') return ''
+      return '/' + this.$i18n.locale
+    },
     filteredMessages () {
       let filteredMessages = this.messages
       let filtersBySpeaker = this.filterSpeaker.map(el => this.filtersBySpeaker[el])
