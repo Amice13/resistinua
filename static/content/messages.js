@@ -614,8 +614,8 @@ const source = [
     russianTimestamp: '',
     speaker: ['Ірина Верещук'],
     date: '2022-02-26T11:13:07',
-    text: 'вернення Ірини Верещук до Міжнародного комітету Червоного Хреста.',
-    description: 'вернення Ірини Верещук до Міжнародного комітету Червоного Хреста.',
+    text: 'Звернення Ірини Верещук до Міжнародного комітету Червоного Хреста.',
+    description: 'Звернення Ірини Верещук до Міжнародного комітету Червоного Хреста.',
     url: 'https://www.youtube.com/watch?v=wkJjhwKCXiw'
   },
   {
@@ -1014,13 +1014,13 @@ const source = [
   },
   {
     id: 'zr_EOydgOy8',
-    name: 'Виступ Дмитра Кулеби щодо ситуації на тимчасово окупованих територіях України',
+    name: 'Dmytro Kuleba\'s speech on the situation in the temporarily occupied territories of Ukraine',
     translated: true,
     russianTimestamp: '',
     speaker: ['Дмитро Кулеба'],
     date: '2022-02-23T20:46:09',
-    text: 'Виступ Дмитро Кулеба на Генасамблеї ООН щодо ситуації на тимчасово окупованих територіях України',
-    description: 'Виступ Дмитро Кулеба на Генасамблеї ООН щодо ситуації на тимчасово окупованих територіях України',
+    text: 'Speech by Dmytro Kuleba at the UN General Assembly on the situation in the temporarily occupied territories of Ukraine',
+    description: 'Speech by Dmytro Kuleba at the UN General Assembly on the situation in the temporarily occupied territories of Ukraine',
     url: 'https://www.youtube.com/watch?v=zr_EOydgOy8'
   },
   {

@@ -231,9 +231,9 @@ export default {
       let filtersBySpeaker = this.filterSpeaker.map(el => this.filtersBySpeaker[el])
       let filtersByCity = this.filterCity.map(el => this.filtersByCity[el])
       let filtersByTopic = this.filterTopic.map(el => this.filtersByTopic[el])
-      if (filtersBySpeaker.length) filteredMessages = filteredMessages.filter(el => intersection(filtersBySpeaker, el.speaker).length)
-      if (filtersByCity.length) filteredMessages = filteredMessages.filter(el => intersection(filtersByCity, el.cities).length)
-      if (filtersByTopic.length) filteredMessages = filteredMessages.filter(el => intersection(filtersByTopic, el.topics))
+      if (filtersBySpeaker.length) filteredMessages = filteredMessages.filter(el => el.speaker ? intersection(filtersBySpeaker, el.speaker).length : false)
+      if (filtersByCity.length) filteredMessages = filteredMessages.filter(el => el.cities ? intersection(filtersByCity, el.cities).length : false)
+      if (filtersByTopic.length) filteredMessages = filteredMessages.filter(el => el.topics ? intersection(filtersByTopic, el.topics).length : false)
       if (typeof this.filterDate !== 'undefined') {
         let date = new Date().setDate(new Date().getDate() - this.filterDate)
         date = new Date(date)

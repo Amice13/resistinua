@@ -111,7 +111,7 @@ All 40 million are like these fifteen heroes!
 
 **Glory to Ukraine!**
     `,
-    description: '«Кожен окупант повинен знати: вони отримають від українців люту відсіч. Таку, що назавжди запам\'ятають, що ми свого не віддамо!» Звернення Президента України Володимира Зеленського.',
+    description: '«Every invader should know: they will not get anything here. No one will be conquered. Even if they can accumulate more equipment and more people, it doesn\'t change anything for them!»',
     url: 'https://www.youtube.com/watch?v=owxfukITehs'
   },
   {
@@ -298,13 +298,13 @@ Another thing that is very important to say. We've been waiting 30 years for thi
   },
   {
     id: 'l5XTh2DSZCE',
-    name: 'Брифінг Прем’єр-міністра України Дениса Шмигаля',
+    name: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
     translated: false,
     russianTimestamp: '',
     speaker: ['Денис Шмигаль'],
     date: '2022-02-28T19:14:03',
-    text: 'Брифінг Прем’єр-міністра України Дениса Шмигаля',
-    description: 'Брифінг Прем’єр-міністра України Дениса Шмигаля',
+    text: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
+    description: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
     url: 'https://www.youtube.com/watch?v=l5XTh2DSZCE'
   },
   {
@@ -342,13 +342,13 @@ When I ran for presidency, I said that each of us is the President. Because we a
   },
   {
     id: 'dA5f9CXh5bY',
-    name: 'Брифінг радника керівника Офісу Президента Олексія Арестовича',
+    name: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
     translated: true,
     russianTimestamp: '',
     speaker: ['Олексій Арестович'],
     date: '2022-02-27T23:49:59',
-    text: 'Брифінг радника керівника Офісу Президента Олексія Арестовича.',
-    description: 'Брифінг радника керівника Офісу Президента Олексія Арестовича.',
+    text: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
+    description: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
     url: 'https://www.youtube.com/watch?v=dA5f9CXh5bY'
   },
   {
@@ -390,35 +390,35 @@ And the last thing. Yesterday, unfortunately, we lost our "Mriya". But the old "
   },
   {
     id: 'v4qucYm0y70',
-    name: 'Брифінг радника керівника Офісу Президента Олексія Арестовича',
+    name: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
     translated: true,
     russianTimestamp: '',
     speaker: ['Олексій Арестович'],
     date: '2022-02-27T18:45:12',
-    text: 'Брифінг радника керівника Офісу Президента Олексія Арестовича.',
-    description: 'Брифінг радника керівника Офісу Президента Олексія Арестовича.',
+    text: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
+    description: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
     url: 'https://www.youtube.com/watch?v=v4qucYm0y70'
   },
   {
     id: 'WFxK6Ozpw3w',
-    name: 'Ситуація щодо російського вторгнення – брифінг Олексія Арестовича',
+    name: 'The situation regarding the Russian invasion in a briefing by Oleksii Arestovych',
     translated: true,
     russianTimestamp: '',
     speaker: ['Олексій Арестович'],
     date: '2022-02-27T12:09:26',
-    text: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича.',
-    description: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича.',
+    text: 'The situation regarding the Russian invasion in a briefing by Oleksii Arestovych',
+    description: 'The situation regarding the Russian invasion in a briefing by Oleksii Arestovych',
     url: 'https://www.youtube.com/watch?v=WFxK6Ozpw3w'
   },
   {
     id: 'Ds6RsUMZ7c8',
-    name: 'Брифінг Дмитра Кулеби щодо російського вторгнення в Україну',
+    name: 'Dmytro Kuleba\'s briefing on the Russian invasion in Ukraine',
     translated: false,
     russianTimestamp: '',
     speaker: ['Дмитро Кулеба'],
     date: '2022-02-27T16:46:05',
-    text: 'Брифінг Дмитра Кулеби для міжнародних журналістів щодо російського вторгнення в Україну',
-    description: 'Брифінг Дмитра Кулеби для міжнародних журналістів щодо російського вторгнення в Україну',
+    text: 'Dmytro Kuleba\'s briefing on the Russian invasion in Ukraine',
+    description: 'Dmytro Kuleba\'s briefing on the Russian invasion in Ukraine',
     url: 'https://www.youtube.com/watch?v=Ds6RsUMZ7c8'
   },
   {
@@ -466,13 +466,13 @@ Ukrainians! We know exactly what we are defending. We will definitely win.
   },
   {
     id: 'L97NvIYQDIA',
-    name: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича',
+    name: 'The situation regarding the Russian invasion - briefing of the adviser to the head of the President\'s Office Alexei Arestovich.',
     translated: false,
     russianTimestamp: '',
     speaker: ['Олексій Арестович'],
     date: '2022-02-27T10:55:08',
-    text: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича.',
-    description: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича.',
+    text: 'The situation regarding the Russian invasion - briefing of the adviser to the head of the President\'s Office Alexei Arestovich.',
+    description: 'The situation regarding the Russian invasion - briefing of the adviser to the head of the President\'s Office Alexei Arestovich.',
     url: 'https://www.youtube.com/watch?v=L97NvIYQDIA'
   },
   {
@@ -514,35 +514,35 @@ I sincerely wish Belarus to once again become that kind, safe Belarus that every
   },
   {
     id: '7ZHUyOBpQi4',
-    name: 'Брифінг Прем’єр-міністра України Дениса Шмигаля',
+    name: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
     translated: false,
     russianTimestamp: '',
     speaker: ['Денис Шмигаль'],
     date: '2022-02-26T21:11:24',
-    text: 'Ситуація щодо російського вторгнення – брифінг Прем’єр-міністра України Дениса Шмигаля.',
-    description: 'Ситуація щодо російського вторгнення – брифінг Прем’єр-міністра України Дениса Шмигаля.',
+    text: 'The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal.',
+    description: 'The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal.',
     url: 'https://www.youtube.com/watch?v=7ZHUyOBpQi4'
   },
   {
     id: '3pg-K1pMsqM',
-    name: 'Брифінг радника керівника Офісу Президента Олексія Арестовича',
+    name: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
     translated: true,
     russianTimestamp: '',
     speaker: ['Олексій Арестович'],
     date: '2022-02-26T21:06:06',
-    text: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича.',
-    description: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича.',
+    text: 'The situation regarding the Russian invasion in Ukraine. a briefing by Oleksii Arestovych, an adviser to the head of the President\'s Office.',
+    description: 'The situation regarding the Russian invasion in Ukraine. a briefing by Oleksii Arestovych, an adviser to the head of the President\'s Office.',
     url: 'https://www.youtube.com/watch?v=3pg-K1pMsqM'
   },
   {
     id: 'RZIf5oaWKBw',
-    name: 'Звернення Президента Володимира Зеленського',
+    name: 'Address by President Volodymyr Zelensky',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-26T21:00:50',
-    text: '«Світ побачив – українці могутні. Українці сміливі. Українці – на своїй рідній землі і ніколи її не здадуть». Звернення Президента Володимира Зеленського.',
-    description: '«Світ побачив – українці могутні. Українці сміливі. Українці – на своїй рідній землі і ніколи її не здадуть». Звернення Президента Володимира Зеленського.',
+    text: '«The world has seen that Ukrainians are powerful. Ukrainians are brave. Ukrainians are on their native land and will never give it up». Address by President Volodymyr Zelensky',
+    description: '«The world has seen that Ukrainians are powerful. Ukrainians are brave. Ukrainians are on their native land and will never give it up». Address by President Volodymyr Zelensky',
     url: 'https://www.youtube.com/watch?v=RZIf5oaWKBw'
   },
   {
@@ -592,35 +592,36 @@ Our military, national guards, national police, territorial defense, border guar
   },
   {
     id: 'wkJjhwKCXiw',
-    name: 'Звернення Ірини Верещук до Міжнародного комітету Червоного Хреста.',
+    name: 'Address by Iryna Vereshchuk to the International Committee of the Red Cross',
     translated: false,
     russianTimestamp: '',
     speaker: ['Ірина Верещук'],
     date: '2022-02-26T11:13:07',
-    text: 'вернення Ірини Верещук до Міжнародного комітету Червоного Хреста.',
-    description: 'вернення Ірини Верещук до Міжнародного комітету Червоного Хреста.',
+    text: 'Address by Iryna Vereshchuk to the International Committee of the Red Cross',
+    description: 'Address by Iryna Vereshchuk to the International Committee of the Red Cross',
     url: 'https://www.youtube.com/watch?v=wkJjhwKCXiw'
   },
   {
     id: 'az2QFR5pJIs',
-    name: 'Не вірте фейкам!',
+    name: 'Do not believe the fakes!',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-26T08:29:51',
-    text: 'Не вірте фейкам!',
-    description: 'Не вірте фейкам!',
+    topics: ['Фейкова інформація'],
+    text: 'Do not believe the fakes!',
+    description: 'Do not believe the fakes!',
     url: 'https://www.youtube.com/watch?v=az2QFR5pJIs'
   },
   {
     id: 'w9Ej8IzV4fU',
-    name: 'Ситуація щодо російського вторгнення (ранок третього дня) – брифінг Михайла Подоляка ',
+    name: 'The situation regarding the Russian invasion (morning of the third day) - a briefing by Mykhailo Podoliak',
     translated: true,
     russianTimestamp: '',
     speaker: ['Михайло Подоляк'],
     date: '2022-02-26T08:18:14',
-    text: 'Ситуація щодо російського вторгнення (ранок третього дня) – брифінг радника керівника Офісу Президента Михайла Подоляка.',
-    description: 'Ситуація щодо російського вторгнення (ранок третього дня) – брифінг радника керівника Офісу Президента Михайла Подоляка.',
+    text: 'The situation regarding the Russian invasion (morning of the third day) - a briefing by Mykhailo Podoliak',
+    description: 'The situation regarding the Russian invasion (morning of the third day) - a briefing by Mykhailo Podoliak',
     url: 'https://www.youtube.com/watch?v=w9Ej8IzV4fU'
   },
   {
@@ -662,13 +663,13 @@ All thoughts, all prayers of Ukrainians are with our military. We believe in the
   },
   {
     id: 'YnbAyPzqEcw',
-    name: 'Брифінг Михайла Подоляка та Дениса Шмигаля',
+    name: 'Briefing by Mykhailo Podoliak and Denys Shmyhal',
     translated: true,
     russianTimestamp: '',
     speaker: ['Михайло Подоляк', 'Денис Шмигаль'],
     date: '2022-02-25T20:15:28',
-    text: 'Брифінг радника керівника Офісу Президента Михайла Подоляка та Прем’єр-міністра України Дениса Шмигаля.',
-    description: 'Брифінг радника керівника Офісу Президента Михайла Подоляка та Прем’єр-міністра України Дениса Шмигаля.',
+    text: 'Briefing by the Adviser to the Head of the Office of the President Mykhailo Podoliak and the Prime Minister of Ukraine Denys Shmyhal.',
+    description: 'Briefing by the Adviser to the Head of the Office of the President Mykhailo Podoliak and the Prime Minister of Ukraine Denys Shmyhal.',
     url: 'https://www.youtube.com/watch?v=YnbAyPzqEcw'
   },
   {
@@ -720,13 +721,13 @@ And now I want to address the Armed Forces of Ukraine. Stand firmly. You are all
   },
   {
     id: 'zYAsviOQZ3g',
-    name: 'Брифінг Михайла Подоляка та Олексія Арестовича щодо ситуації в Україні',
+    name: 'Briefing of Mykhailo Podoliak and Oleksiy Arestovych on the situation in Ukraine',
     translated: false,
     russianTimestamp: '',
     speaker: ['Михайло Подоляк', 'Олексій Арестович'],
     date: '2022-02-25T10:07:27',
-    text: 'Брифінг радників керівника Офісу Президента Михайла Подоляка та Олексія Арестовича щодо ситуації в Україні.',
-    description: 'Брифінг радників керівника Офісу Президента Михайла Подоляка та Олексія Арестовича щодо ситуації в Україні.',
+    text: 'Briefing of Mykhailo Podoliak and Oleksiy Arestovych on the situation in Ukraine',
+    description: 'Briefing of Mykhailo Podoliak and Oleksiy Arestovych on the situation in Ukraine',
     url: 'https://www.youtube.com/watch?v=zYAsviOQZ3g'
   },
   {
@@ -835,29 +836,29 @@ But now the fate of the country depends entirely on our army, on our heroes, our
   },
   {
     id: 'VMkkuLN7pNs',
-    name: 'Брифінг Михайла Подоляка та Дениса Шмигаля щодо ситуації в Україні',
+    name: 'Briefing of Mykhailo Podoliak and Denys Shmyhal on the situation in Ukraine',
     translated: true,
     russianTimestamp: '',
     speaker: ['Михайло Подоляк', 'Денис Шмигаль'],
     date: '2022-02-24T20:55:04',
-    text: 'Брифінг Михайла Подоляка та Дениса Шмигаля щодо ситуації в Україні',
-    description: 'Брифінг Михайла Подоляка та Дениса Шмигаля щодо ситуації в Україні',
+    text: 'Briefing of Mykhailo Podoliak and Denys Shmyhal on the situation in Ukraine',
+    description: 'Briefing of Mykhailo Podoliak and Denys Shmyhal on the situation in Ukraine',
     url: 'https://www.youtube.com/watch?v=VMkkuLN7pNs'
   },
   {
     id: 'pl6bRXRUeTM',
-    name: 'Онлайн-брифінг мера Києва Віталія Кличка щодо ситуації в столиці',
+    name: 'Online briefing on the situation in the capital by Kyiv Mayor Vitaliy Klitschko',
     translated: false,
     russianTimestamp: '',
     speaker: ['Віталій Кличко'],
     date: '2022-02-24T20:55:04',
-    text: 'Онлайн-брифінг мера Києва Віталія Кличка щодо ситуації в столиці',
-    description: 'Онлайн-брифінг мера Києва Віталія Кличка щодо ситуації в столиці',
+    text: 'Online briefing on the situation in the capital by Kyiv Mayor Vitaliy Klitschko',
+    description: 'Online briefing on the situation in the capital by Kyiv Mayor Vitaliy Klitschko',
     url: 'https://youtu.be/pl6bRXRUeTM?t=184'
   },
   {
     id: 'nR6Ct73vZN4',
-    name: 'Звернення Президента України',
+    name: 'Address of the President of Ukraine',
     translated: true,
     russianTimestamp: 'https://youtu.be/nR6Ct73vZN4?t=118',
     speaker: ['Володимир Зеленський'],
@@ -910,13 +911,13 @@ If you, dear European leaders, dear world leaders, leaders of the free world, do
   },
   {
     id: 'pufA6K8k1QY',
-    name: 'Термінове звернення міністра оборони Резнікова',
+    name: 'Urgent appeal by Defense Minister Reznikov',
     translated: false,
     russianTimestamp: '',
     speaker: ['Олексій Рєзніков'],
     date: '2022-02-24T18:22:48',
-    text: 'Термінове звернення міністра оборони Олексія Резнікова від 24.02.2022',
-    description: 'Термінове звернення міністра оборони Олексія Резнікова від 24.02.2022',
+    text: 'Urgent appeal of the Minister of Defense Oleksii Reznikov dated February 24, 2022',
+    description: 'Urgent appeal of the Minister of Defense Oleksii Reznikov dated February 24, 2022',
     url: 'https://www.youtube.com/watch?v=pufA6K8k1QY'
   },
   {
@@ -984,35 +985,35 @@ Today is not just Valentine's Day. It is the day of those in love with Ukraine. 
   },
   {
     id: 'qSpoE-6r1aA',
-    name: 'Надзвичайний стан в Києві з 00 годин 24 лютого',
+    name: 'State of emergency in Kyiv from the midnight on February 24',
     translated: true,
     russianTimestamp: '',
     speaker: ['Віталій Кличко'],
     date: '2022-02-24T20:55:04',
-    text: 'Надзвичайний стан в Києві з 00 годин 24 лютого',
-    description: 'Надзвичайний стан в Києві з 00 годин 24 лютого',
+    text: 'State of emergency in Kyiv from the midnight on February 24',
+    description: 'State of emergency in Kyiv from the midnight on February 24',
     url: 'https://youtu.be/qSpoE-6r1aA?t=38'
   },
   {
     id: 'zr_EOydgOy8',
-    name: 'Виступ Дмитра Кулеби щодо ситуації на тимчасово окупованих територіях України',
+    name: 'Dmytro Kuleba\'s speech on the situation in the temporarily occupied territories of Ukraine',
     translated: true,
     russianTimestamp: '',
     speaker: ['Дмитро Кулеба'],
     date: '2022-02-23T20:46:09',
-    text: 'Виступ Дмитро Кулеба на Генасамблеї ООН щодо ситуації на тимчасово окупованих територіях України',
-    description: 'Виступ Дмитро Кулеба на Генасамблеї ООН щодо ситуації на тимчасово окупованих територіях України',
+    text: 'Speech by Dmytro Kuleba at the UN General Assembly on the situation in the temporarily occupied territories of Ukraine',
+    description: 'Speech by Dmytro Kuleba at the UN General Assembly on the situation in the temporarily occupied territories of Ukraine',
     url: 'https://www.youtube.com/watch?v=zr_EOydgOy8'
   },
   {
     id: 'Bm15YTRg_9c',
-    name: 'Терміновий онлайн-брифінг мера Києва Віталія Кличка',
+    name: 'Urgent online briefing of Kyiv Mayor Vitaliy Klitschko',
     translated: true,
     russianTimestamp: '',
     speaker: ['Віталій Кличко'],
     date: '2022-02-24T20:55:04',
-    text: 'Терміновий онлайн-брифінг мера Києва Віталія Кличка',
-    description: 'Терміновий онлайн-брифінг мера Києва Віталія Кличка',
+    text: 'Urgent online briefing of Kyiv Mayor Vitaliy Klitschko',
+    description: 'Urgent online briefing of Kyiv Mayor Vitaliy Klitschko',
     url: 'https://youtu.be/Bm15YTRg_9c?t=668'
   },
   {
