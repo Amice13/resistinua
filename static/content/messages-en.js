@@ -1,5 +1,18 @@
 const source = [
   {
+    id: '95GZrpeeJmk',
+    name: 'Address by the President on regarding the shelling of the Energodar nuclear power plant',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-04T04:13:08',
+    topics: ['Атомна станція', 'Енергодар', 'Атомна загроза'],
+    cities: ['Чорнобиль', 'Запоріжжя'],
+    text: `Address by the President on regarding the shelling of the Energodar nuclear power plant`,
+    description: 'Address by the President on regarding the shelling of the Energodar nuclear power plant',
+    url: 'https://www.youtube.com/watch?v=95GZrpeeJmk'
+  },
+  {
     id: 'MldZex7Smi8',
     name: 'For us, this is a patriotic war, and we know how such wars end for the invaders',
     translated: false,
