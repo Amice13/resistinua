@@ -39,40 +39,42 @@ import VueMarkdown from 'vue-markdown'
 const text = `
 Під час військових дій важливо уникати дезінформації. Для отримання достовірної, вчасної та точної інформації, підпишіться на наведені джерела.
 
-## ОФІЦІЙНІ ДЖЕРЕЛА 
+## ОФІЦІЙНІ ДЖЕРЕЛА
 
-* [Офіс Президента України](https://www.facebook.com/president.gov.ua)
-* [Генеральний штаб Збройних сил України](https://www.facebook.com/GeneralStaff.ua)
-* [Кабінет Міністрів України](https://www.facebook.com/KabminUA)
-* [Міністерство оборони України](https://www.facebook.com/MinistryofDefence.UA)
-* [Міністерство внутрішніх справ](https://www.facebook.com/mvs.gov.ua)
-* [Національна поліція України](https://www.facebook.com/UA.National.Police)
-* [Державна служба надзвичайних ситуацій (ДСНС)](https://www.facebook.com/MNS.GOV.UA)
-* [Державна прикордонна служба України](https://www.facebook.com/DPSUkraine)
-* [Центр стратегічних комунікацій та інформаційної безпеки](https://www.facebook.com/StratcomCentreUA)
-* [Державна служба спеціального зв'язку та захисту інформації України](https://www.facebook.com/dsszzi)
-* [Сухопутні війська ЗС України](https://www.facebook.com/UkrainianLandForces)
-* [Військово-морські сили ЗСУ](https://www.facebook.com/navy.mil.gov.ua)
-* [Територіальна оборона ЗСУ](https://www.facebook.com/TerritorialDefenseForces)
+* Офіс Президента України ([сайт](https://president.gov.ua/), [facebook](https://facebook.com/president.gov.ua), [twitter](https://twitter.com/APUkraine), [telegram](https://t.me/OP_UA))
+* Верховна Рада України ([сайт](https://www.rada.gov.ua/), [facebook](https://www.facebook.com/verkhovna.rada.ukraine), [telegram](https://t.me/verkhovnaradaukrainy))
+* Генеральний штаб Збройних сил України ([сайт](https://www.zsu.gov.ua/), [facebook](https://facebook.com/GeneralStaff.ua), [twitter](https://twitter.com/GeneralStaffUA))
+* Кабінет Міністрів України ([facebook](https://facebook.com/KabminUA),[twitter](https://twitter.com/Kabmin_UA))
+* Міністерство оборони України ([сайт](https://www.mil.gov.ua/), [facebook](https://facebook.com/MinistryofDefence.UA), [twitter](https://twitter.com/defenceu/))
+* Міністерство внутрішніх справ ([facebook](https://facebook.com/mvs.gov.ua), [telegram](https://t.me/mvs_ukraine))
+* Національна поліція України ([сайт](https://www.npu.gov.ua/), [facebook](https://facebook.com/UA.National.Police), [twitter](https://twitter.com/NPU_GOV_UA))
+* Державна служба надзвичайних ситуацій (ДСНС) ([сайт](https://dsns.gov.ua/), [facebook](https://facebook.com/MNS.GOV.UA), [twitter](https://twitter.com/SESU_ua), [telegram](https://t.me/dsns_telegram))
+* Державна прикордонна служба України ([сайт](https://dpsu.gov.ua/), [facebook](https://facebook.com/DPSUkraine))
+* Центр стратегічних комунікацій та інформаційної безпеки ([сайт](https://spravdi.gov.ua/), [facebook](https://www.facebook.com/StratcomCentreUA), [twitter](https://twitter.com/stratcomcentre), [telegram](https://t.me/spravdi))
+* Державна служба спеціального зв'язку та захисту інформації України ([сайт](https://cip.gov.ua/), [facebook](https://facebook.com/dsszzi), [twitter](https://twitter.com/dsszzi/), [telegram](https://t.me/dsszzi_official))
+* Служба безпеки України ([facebook](https://facebook.com/SecurSerUkraine), [telegram](https://t.me/SBUkr))
+* Сухопутні війська ЗС України ([facebook](https://facebook.com/UkrainianLandForces))
+* Військово-морські сили ЗСУ ([facebook](https://facebook.com/navy.mil.gov.ua))
+* Територіальна оборона ЗСУ ([facebook](https://facebook.com/TerritorialDefenseForces))
 
-## МЕДІА 
+## МЕДІА
 
 **Свідомі медіа:**
 
 * https://t.me/svidomi_ua
 * https://www.instagram.com/svidomi_ua/
 * https://www.instagram.com/svidomi_ua_reserv/
-* https://www.facebook.com/svidomi.news 
+* https://www.facebook.com/svidomi.news
 
 **Громадське**:
 
-* https://t.me/hromadske_ua 
-* https://www.instagram.com/hromadske.ua/ 
+* https://t.me/hromadske_ua
+* https://www.instagram.com/hromadske.ua/
 * https://www.facebook.com/hromadskeua
 
 **Новини Здорової Людини NZL**
 
-* https://www.instagram.com/nzl.media/ 
+* https://www.instagram.com/nzl.media/
 * https://www.facebook.com/nzl.media
 `
 
