@@ -61,21 +61,33 @@ const text = `
 
 **Свідомі медіа:**
 
-* https://t.me/svidomi_ua
-* https://www.instagram.com/svidomi_ua/
-* https://www.instagram.com/svidomi_ua_reserv/
-* https://www.facebook.com/svidomi.news
+* [telegram](https://t.me/svidomi_ua)
+* [instagram](https://www.instagram.com/svidomi_ua/)
+* [instagram (резервний)](https://www.instagram.com/svidomi_ua_reserv/)
+* [facebook](https://www.facebook.com/svidomi.news)
 
 **Громадське**:
 
-* https://t.me/hromadske_ua
-* https://www.instagram.com/hromadske.ua/
-* https://www.facebook.com/hromadskeua
+* [web-сайт](https://hromadske.ua/)
+* [youtube](https://www.youtube.com/c/HromadskeTvUkraine/videos)
+* [facebook](https://www.facebook.com/hromadskeua)
+* [telegram](https://t.me/hromadske_ua)
+* [twitter](https://twitter.com/Hromadskeua)
+* [instagram](https://www.instagram.com/hromadske.ua/)
+
+**Суспільне мовлення**:
+
+* [web-сайт](https://suspilne.media/)
+* [youtube](https://www.youtube.com/c/1tvUkraine/videos)
+* [facebook](https://www.facebook.com/suspilne.news/)
+* [telegram](https://t.me/suspilnenews)
+* [twitter](https://twitter.com/suspilne_news)
 
 **Новини Здорової Людини NZL**
 
-* https://www.instagram.com/nzl.media/
-* https://www.facebook.com/nzl.media
+* [web-сайт](https://nzl.theukrainians.org/)
+* [instagram](https://www.instagram.com/nzl.media/)
+* [facebook](https://www.facebook.com/nzl.media)
 `
 
 export default {
