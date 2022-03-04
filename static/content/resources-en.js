@@ -347,7 +347,7 @@ const source = [
   {
     id: '36',
     name: 'Video as proof',
-    description: 'Польовий посібник “Відео як Доказ” допомагає активістам використовувати відеозйомку для викриття правопорушень та відновлення справедливості. Цей матеріал допоможе забезпечити, що велика кількість камер в великій кількості рук може привести до справжніх змін і справедливості.',
+    description: 'A Video as Evidence field guide helps activists use video recording to expose law infringements and restore justice. This material will enable real changes and the restoration of justice with the help of a large number of cameras in a large number of hands.',
     link: 'https://vae.witness.org/ua/%D0%B2%D1%96%D0%B4%D0%B5%D0%BE-%D1%8F%D0%BA-%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7/',
     tags: ['Інформація', 'Збір доказів'],
     type: ['Вебсайт'],
@@ -355,8 +355,8 @@ const source = [
   },
   {
     id: '37',
-    name: 'Мережа аптек',
-    description: 'Інформація про мережу аптек в Україні, зібрана Ярославом Гарагуцем.',
+    name: 'Pharmacy network',
+    description: 'Information on the network of pharmacies in Ukraine collected by Yaroslav Harahuts.',
     link: 'https://docs.google.com/spreadsheets/d/16z9JQn3u6Rr0rJwo1_dG-jJbtC7c2ZNd-Fgs9shZgro/edit?fbclid=IwAR0PYtM-09IqcHEDHxF2x70I8emIkEVvfGdZ3JvExazQMvj5q0vqVuJtbXs#gid=503360376',
     tags: ['Інформація', 'Здоров\'я'],
     type: ['Дані'],
@@ -364,17 +364,17 @@ const source = [
   },
   {
     id: '39',
-    name: 'Інструкція під час війни',
-    description: 'Крисні посилання щодо власної діяьності під час війни.',
+    name: 'Instructions during a war',
+    description: 'Useful links regarding personal activities during a war.',
     link: 'https://prjctr.notion.site/96bec30d8f024c7abf6ab4281585a0d7',
     tags: ['Інформація'],
     type: ['Вебсайт'],
     location: ['Україна']
   },
   {
-    id: '39',
+    id: '91',
     name: 'StopDrugsBot',
-    description: 'Бот для блокування сервісів дезінформації',
+    description: 'A bot to block disinformation services',
     link: 'https://t.me/stopdrugsbot',
     tags: ['Інформація'],
     type: ['Чат-бот'],
@@ -392,7 +392,7 @@ const source = [
   {
     id: '41',
     name: 'FirstAidRobot',
-    description: 'Бот помічник для надання першої домедичної допомоги',
+    description: 'Care – a medical bot which finds doctors for patients',
     link: 'https://t.me/FirstAidRobot',
     tags: ['Інформація', 'Здоров\'я'],
     type: ['Чат-бот'],
@@ -401,7 +401,7 @@ const source = [
   {
     id: '42',
     name: 'Pharmacy Available Bot',
-    description: 'Чат-бот для отримання інформації про наявність працюючих аптек поблизу',
+    description: 'A chat bot to get information on the availability of working pharmacies nearby',
     link: 'https://t.me/pharmacy_available_bot',
     tags: ['Інформація', 'Здоров\'я'],
     type: ['Чат-бот'],
@@ -410,7 +410,7 @@ const source = [
   {
     id: '43',
     name: 'Tribunal UA',
-    description: 'Чат-бот фіксації військового злочину рф проти цивільного населення',
+    description: 'A chat bot to record the war crime of the russian federation against civilians',
     link: 'https://t.me/tribunal_ua_bot',
     tags: ['Інформація', 'Збір доказів'],
     type: ['Чат-бот'],
@@ -419,7 +419,7 @@ const source = [
   {
     id: '44',
     name: 'Bomb Found Bot',
-    description: 'Повідомлення про знайдені снаряди та бомби',
+    description: 'Notifications of the found shells and bombs',
     link: 'https://t.me/bomb_found_bot',
     tags: ['Інформація', 'Безпека'],
     type: ['Чат-бот'],
@@ -428,7 +428,7 @@ const source = [
   {
     id: '45',
     name: 'Gov RF Bot',
-    description: 'Бот який надає контакти влади РФ',
+    description: 'A bot that provides the contact details of the government of Russia',
     link: 'https://t.me/gov_rf_bot',
     tags: ['Інформація', 'Безпека'],
     type: ['Чат-бот'],
@@ -437,7 +437,7 @@ const source = [
   {
     id: '46',
     name: 'Turbotnyk Bot',
-    description: 'Необхідні речі для українських переселенців у ЦНАПах, як пункти турботи',
+    description: 'Necessary things for displaced Ukrainians in Administrative Service Centres that operate as care points',
     link: 'https://t.me/turbotnyk_bot',
     tags: ['Інформація', 'Біженці'],
     type: ['Чат-бот'],
