@@ -13,9 +13,48 @@ const source = [
     url: 'https://www.youtube.com/watch?v=95GZrpeeJmk'
   },
   {
-    id: 'MldZex7Smi8',
-    name: 'For us, this is a patriotic war, and we know how such wars end for the invaders',
+    id: 'iGszxUWo_6A',
+    name: 'President of Ukraine Volodymyr Zelenskyi spoke with Western media',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-03T20:24:28',
+    topics: [],
+    cities: [],
+    text: `President of Ukraine Volodymyr Zelenskyi spoke with Western media`,
+    description: 'President of Ukraine Volodymyr Zelenskyi spoke with Western media',
+    url: 'https://www.youtube.com/watch?v=iGszxUWo_6A'
+  },
+  {
+    id: 'Okq2WNVfS_Y',
+    name: 'Address by President Volodymyr Zelensky',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-03T10:56:28',
+    topics: [],
+    cities: [],
+    text: `«They wanted to destroy us so many times. They couldn't. We've been through so much! And if someone thinks that, having overcome all this, Ukrainians will be frightened, broken or surrender - he knows nothing about Ukraine. And he has nothing to do in Ukraine»`,
+    description: '«They wanted to destroy us so many times. They couldn\'t. We\'ve been through so much! And if someone thinks that, having overcome all this, Ukrainians will be frightened, broken or surrender - he knows nothing about Ukraine. And he has nothing to do in Ukraine»',
+    url: 'https://www.youtube.com/watch?v=Okq2WNVfS_Y'
+  },
+  {
+    id: 'YMOZOAQVD6Q',
+    name: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-03T10:56:28',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal`,
+    description: 'The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal',
+    url: 'https://www.youtube.com/watch?v=YMOZOAQVD6Q'
+  },
+  {
+    id: 'owxfukITehs',
+    name: 'For us, this is a patriotic war, and we know how such wars end for the invaders',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-04T00:50:11',
@@ -73,28 +112,28 @@ All 40 million are like these fifteen heroes!
 **Glory to Ukraine!**
     `,
     description: '«Кожен окупант повинен знати: вони отримають від українців люту відсіч. Таку, що назавжди запам\'ятають, що ми свого не віддамо!» Звернення Президента України Володимира Зеленського.',
-    url: 'https://www.youtube.com/watch?v=MldZex7Smi8'
+    url: 'https://www.youtube.com/watch?v=owxfukITehs'
   },
   {
     id: 'KzGncT4vZeQ',
-    name: 'Ситуація щодо російського вторгнення',
+    name: 'The situation regarding the Russian invasion',
     translated: false,
     russianTimestamp: '',
     speaker: ['Олексій Арестович'],
     date: '2022-03-02T12:55:06',
-    text: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича',
-    description: 'Ситуація щодо російського вторгнення – брифінг радника керівника Офісу Президента Олексія Арестовича',
+    text: 'The situation regarding the Russian invasion - briefing of the adviser to the head of the President\'s Office Oleksii Arestovich',
+    description: 'The situation regarding the Russian invasion - briefing of the adviser to the head of the President\'s Office Oleksii Arestovich',
     url: 'https://www.youtube.com/watch?v=KzGncT4vZeQ'
   },
   {
     id: 'Nmot4gqypjQ',
-    name: 'Звернення до російських ІТ-шників',
+    name: 'Appeal to Russian IT specialists',
     translated: false,
     russianTimestamp: 'https://www.youtube.com/watch?v=Nmot4gqypjQ',
     speaker: ['Михайло Федоров'],
     date: '2022-03-02T11:36:48',
-    text: 'Звернення до російських ІТ-шників від Мінцифри України',
-    description: 'Звернення до російських ІТ-шників від Мінцифри України',
+    text: 'Appeal to Russian IT specialists from the Ministry of Digital Transformation of Ukraine',
+    description: 'Appeal to Russian IT specialists from the Ministry of Digital Transformation of Ukraine',
     url: 'https://www.youtube.com/watch?v=Nmot4gqypjQ'
   },
   {
@@ -126,57 +165,60 @@ Ukrainians! Another night of Russia's full-scale war against us, against the peo
   },
   {
     id: 'UgacKdlj6HQ',
-    name: 'Президент України Володимир Зеленський дав інтерв’ю журналістам CNN і Reuters',
+    name: 'Ukrainian President Volodymyr Zelenskyi gave an interview to CNN and Reuters',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-01T22:15:56',
-    text: 'Президент України Володимир Зеленський дав інтерв’ю журналістам CNN і Reuters',
-    description: 'Президент України Володимир Зеленський дав інтерв’ю журналістам CNN і Reuters',
+    text: 'Ukrainian President Volodymyr Zelenskyi gave an interview to CNN and Reuters',
+    description: 'Ukrainian President Volodymyr Zelenskyi gave an interview to CNN and Reuters',
     url: 'https://www.youtube.com/watch?v=UgacKdlj6HQ'
   },
   {
     id: 'FdovXexNqnM',
-    name: 'Ворог атакував столицю! Загинули 5 мирних киян',
+    name: 'The enemy attacked the capital! 5 peaceful citizens of Kyiv were killed',
     translated: true,
     russianTimestamp: '',
     speaker: ['Віталій Кличко'],
     date: '2022-03-01T22:15:56',
-    text: 'Віталій Кличко: Ворог атакував столицю! Загинули 5 мирних киян',
-    description: 'Віталій Кличко: Ворог атакував столицю! Загинули 5 мирних киян',
+    text: 'Vitalii Klychko: The enemy attacked the capital! 5 peaceful citizens of Kyiv were killed',
+    description: 'Vitalii Klychko: The enemy attacked the capital! 5 peaceful citizens of Kyiv were killed',
     url: 'https://www.youtube.com/watch?v=FdovXexNqnM'
   },
   {
     id: 'eEJc4ospS44',
-    name: 'Ми готуємося обороняти Київ',
+    name: 'We are preparing to defend Kyiv',
     translated: true,
     russianTimestamp: '',
     speaker: ['Віталій Кличко'],
     date: '2022-03-01T22:15:56',
-    text: 'Віталій Кличко: ситуація складна. Ми готуємося обороняти Київ',
-    description: 'Віталій Кличко: ситуація складна. Ми готуємося обороняти Київ',
+    text: 'Vitali Klitschko: The situation is difficult. We are preparing to defend Kyiv.',
+    description: 'Vitali Klitschko: The situation is difficult. We are preparing to defend Kyiv',
     url: 'https://www.youtube.com/watch?v=eEJc4ospS44'
   },
   {
     id: 'H56SuEnkAEE',
-    name: 'Ситуація щодо російського вторгнення',
+    name: 'The situation regarding the Russian invasion',
     translated: false,
     russianTimestamp: '',
     speaker: ['Ірина Верещук'],
     date: '2022-03-01T20:31:53',
-    text: 'Ситуація щодо російського вторгнення – брифінг Ірини Верещук',
-    description: 'Ситуація щодо російського вторгнення – брифінг Ірини Верещук',
+    text: 'Situation regarding the Russian invasion - briefing by Irina Vereshchuk',
+    description: 'Situation regarding the Russian invasion - briefing by Irina Vereshchuk',
     url: 'https://www.youtube.com/watch?v=H56SuEnkAEE'
   },
+
   {
     id: 'wIunyEb8h80',
-    name: 'Виступ Володимира Зеленського під час дебатів у ході надзвичайної пленарної сесії Європарламенту',
+    name: 'Speech by Volodymyr Zelensky during the debate during the extraordinary plenary session of the European Parliament',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-01T15:38:31',
-    text: '«Ми боремося за наші права, свободу, за життя. Але ми боремося й за те, щоб бути рівноправними членами Європи. І я вважаю, що сьогодні ми всім показуємо, що ми такі є»',
-    description: '«Ми боремося за наші права, свободу, за життя. Але ми боремося й за те, щоб бути рівноправними членами Європи. І я вважаю, що сьогодні ми всім показуємо, що ми такі є»',
+    topics: ['Ракетний удар', 'Поранені діти'],
+    cities: ['Харків'],
+    text: '«We are fighting for our rights, freedom, for life. But we are also fighting to be the equal member of Europe. And I think today we are showing everyone that we are»',
+    description: '«We are fighting for our rights, freedom, for life. But we are also fighting to be the equal member of Europe. And I think today we are showing everyone that we are»',
     url: 'https://www.youtube.com/watch?v=wIunyEb8h80'
   },
   {
@@ -583,13 +625,39 @@ Our military, national guards, national police, territorial defense, border guar
   },
   {
     id: 'p1653ejfNH0',
-    name: 'Звернення Президента України ввечері другого дня масштабної війни',
+    name: 'Address by the President of Ukraine in the evening of the second day of the large-scale war',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-26T06:58:46',
-    text: '«Це був важкий, але сміливий день!» Звернення Президента України ввечері другого дня масштабної війни.',
-    description: '«Це був важкий, але сміливий день!» Звернення Президента України ввечері другого дня масштабної війни.',
+    topics: ['Міжнародна коаліція', 'Ракетний удар', 'Поранені діти'],
+    cities: ['Ворзель', 'Охтирка', 'Чернігів', 'Суми', 'Харків', 'Київ'],
+    text: `
+Today was a hard yet courageous day. We are fighting for our state absolutely on all frontlines: South, East, North, in many cities of our beautiful country. Fighting around the clock on the diplomatic frontline as well - it's easier to say with whom I did not speak to among world leaders today. We continue this. I have been constantly working and spoke with President Macron, Scholz, Rutte, Mrs. von der Leyen, President of the United States Biden. I outlined what answer Ukrainians still expect from the West to this aggression and agreed on new assistance, new support, significant assistance for our state. I thank all the leaders and I am separately grateful to President Biden.
+
+I was really glad to see the news from friendly Georgia. I want to thank the good, beautiful Georgian people who went out on the streets of their country and supported Ukraine. You are true friends! Thanks.
+
+Our main goal is to end this slaughter. The enemy suffers very-very serious losses. These are hundreds, hundreds of killed soldiers who crossed our border, who came to our land.
+
+We suffer losses as well, unfortunately. Ukrainians resist the aggression heroically. It is impossible to justify. Therefore, the invaders have to come up with more and more absurd accusations to say at least something.
+
+I am convinced that these allegations are biased, nobody will believe them. Ukrainians won’t believe them, the world won’t believe them, citizens of the Russian Federation won’t believe them.
+
+It's simply cannot be such a truth that could clarify why kindergartens and housing infrastructure are fired from a missile artillery. In Vorzel, Kyiv region, they fired "Grads" at an orphanage. Okhtyrka, Sumy region, was shelled by "Uragans". Housing quarters, shelter, kindergartens were under the shelling. What is this war against Ukrainian children in a kindergarten? Who are they? Are they neo-Nazis from kindergarten as well? Or were they NATO soldiers that threatened Russia? Killed and injured children are the sentence to this invasion.
+
+Everyone, I emphasize, everyone must do everything they can to stop this war. Every day of aggression destroys normal life not only in Ukraine, but also in Russia, and in Europe, in the world.
+
+Europeans do not imagine yet what it is like to live when there is such a confrontation next to you. I have to say absolutely frankly: this night will be harder than a day. Many cities of our state are under attack. Chernihiv, Sumy, Kharkiv, our boys, our girls in Donbas, cities of the south of Ukraine. Kyiv requires special attention. We cannot lose the capital.
+
+I appeal to our defenders on all frontlines. This night the enemy will use all the forces available to break our resistance. Treacherously, viciously, inhumanly. This night they will make an assault upon us. We all have to understand what we are going to face. This night we have to withstand. The fate of Ukraine is now being decided. Each civilian should be as careful as possible. Help, please, each other, especially elderly people, lonely, those for whom it is very difficult now. In case of any danger go to the shelter.
+
+Everyone who has already joined the country's defense or can help defend, stop the enemy everywhere you can. Remove special signs that saboteurs leave on the roads and buildings. Burn the enemy’s equipment with anything you can. If even kindergartens are a permissible target for invaders, you must not leave them any chance.
+
+All thoughts, all prayers of Ukrainians are with our military. We believe in them, take care of them. Defend our state. The night will be tough, very tough. But the morning will come.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Today was a hard yet courageous day. We are fighting for our state absolutely on all frontlines: South, East, North, in many cities of our beautiful country.',
     url: 'https://www.youtube.com/watch?v=p1653ejfNH0'
   },
   {
@@ -605,13 +673,49 @@ Our military, national guards, national police, territorial defense, border guar
   },
   {
     id: '3zFAZ4ezNYE',
-    name: 'Звернення Президента України Володимира Зеленського',
+    name: 'Address by the President of Ukraine',
     translated: true,
     russianTimestamp: 'https://youtu.be/3zFAZ4ezNYE?t=173',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-25T14:18:17',
-    text: '«Вторгнення Росії в Україну – це не просто вторгнення, це початок війни проти Європи». Звернення Президента України Володимира Зеленського.',
-    description: '«Вторгнення Росії в Україну – це не просто вторгнення, це початок війни проти Європи». Звернення Президента України Володимира Зеленського.',
+    topics: ['Секторальні санкції', 'Ракетний удар'],
+    cities: ['Київ'],
+    text: `
+Chancellor of Germany **Olaf Scholz** yesterday said Russia's invasion of Ukraine is something Europe has not seen for 75 years. And it's true. But this is not the whole truth.
+
+This is not just Russia's invasion in Ukraine, this is the beginning of the war against Europe. Against the unity of Europe. Against elementary human rights in Europe. Against all coexistence rules on the continent. Against the fact that European states refuse to divide, yes, to divide the borders by force.
+
+The cities of Ukraine undergo rocket bombing for the second day already. Tank columns and air strikes are as similar as something Europe has already seen a long time ago - during the Second World War and talked "never again" about it. But this is it! Again. Now. In 2022. 75 years after the Second World War completion.
+
+I’m confident you see it - all of you, entire Europe. But we do not see in full what you are going to do. How are you going to protect yourself when you help us so slowly in Ukraine?
+
+I’d like to point out what has already happened. And for this we are grateful. Sectoral sanctions. The United States, Canada, United Kingdom, the European Union, Australia and New Zealand introduced precisely sectoral sanctions against Russia. In particular, against all the largest banks. Against the largest Russian enterprises. Against Russia's access to Western technologies.
+
+But Russian tanks are still shooting at residential buildings in our cities. Armored vehicles are still attacking, including civilians. Ordinary citizens of Ukraine.
+
+Europe has sufficient force to stop this aggression. What to expect from European states further?
+
+Cancellation of visas for Russians? Cutting off Swift? Full isolation of Russia? Recalling ambassadors? Oil embargo? Closure of the sky? Today, all this should be on the table, because it is a threat to us, all of us, all of Europe. You can still stop aggression. We must act without delay.
+
+Ordinary people can also do their part of the job, I'm sure, in every country of the world, in each country of Europe. Go out on the square of your cities and demand peace for Europe, peace for Ukraine, stop this war. Go out, go out on the squares and demand to stop the war. This is our right. This is your right.
+
+When bombs fall in Kyiv, this happens in Europe, not only in Ukraine. When missiles kill our people, it's the death of all Europeans. Require more protection for Europe, more protection for Ukraine - as part of a democratic world.
+
+While state institutions in Europe are in no hurry with really strong decisions, every European in the capital can already come to our embassy and offer assistance. Demand from your governments more financial, more military assistance to Ukraine. For this help is a help to you. For it is a help to Europe. You help yourself.
+
+If you have a combat experience in Europe and do not want to look at the indecision of politicians, you can arrive in our state and protect Europe with us where it is now urgently required.
+
+You have already been blackmailed with gas. Already humiliated. They already want to split and divide you the same way as they are trying to divide Ukraine today.
+
+Protect yourself. Just as we protect yourself.
+
+I want to address Russian Federation President once again. Battles take place all over the territory of Ukraine. Let's sit at the negotiating table. To stop the death of people.
+
+And now I want to address the Armed Forces of Ukraine. Stand firmly. You are all we have. You are everything that protects our state.
+
+**Glory to Ukraine!**
+    `,
+    description: 'This is not just Russia\'s invasion in Ukraine, this is the beginning of the war against Europe.',
     url: 'https://www.youtube.com/watch?v=3zFAZ4ezNYE'
   },
   {
@@ -627,24 +731,106 @@ Our military, national guards, national police, territorial defense, border guar
   },
   {
     id: '07i3e0ouFNw',
-    name: 'Звернення Президента на другий ранок масштабної війни',
+    name: 'Address by the President on the second morning of the large-scale war',
     translated: true,
     russianTimestamp: 'https://youtu.be/07i3e0ouFNw?t=209',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-25T08:53:00',
-    text: 'Звернення Президента на другий ранок масштабної війни.',
-    description: 'Звернення Президента на другий ранок масштабної війни.',
+    topics: ['Втрати серед цивільних', 'Ракетний удар'],
+    cities: ['Київ'],
+    text: `
+The second morning of a large-scale war. At 4 am, Russian forces continued to launch missile strikes on the territory of Ukraine.
+
+They say that civilian objects are not a target for them. This is a lie. In fact, they do not distinguish in which areas to operate.
+
+Just as yesterday, the military and civilians are equally under Russian attack. The purpose of this attack is to put pressure on you, the citizens of Ukraine, to put pressure on our entire society. I emphasize: not just on the government - on all Ukrainians. And today - even more than yesterday.
+
+Our men and women - all defenders of Ukraine - did not allow the enemy to realize the operational plan of invasion on the first day. Ukrainians demonstrate real heroism. The enemy was stopped in most directions. There are fights.
+
+Therefore, Russia's attack continues with the expectation that our forces will be tired. But no one is tired.
+
+Ukraine's air defense forces are protecting our sky. As much as possible. Enemy aircraft operate treacherously over residential areas, including the capital.
+
+Terrible explosions in the morning sky over Kyiv, bombing, hitting a house, fire - all this reminds of the first such attack on our capital, which took place in 1941.
+
+This morning we are defending our state alone, as we did yesterday. The world's most powerful forces are watching from afar.
+
+Did yesterday's sanctions convince Russia? We hear in our sky and see on our earth that this is not enough. Foreign troops are still trying to become more active in our territory.
+
+Only the solidarity and determination of Ukrainians can preserve our freedom and protect the state. The army, border guards, the National Guard, the police, intelligence, the Territorial Defense Forces - everyone performs their tasks to the maximum.
+
+It is very important that today our citizens also demonstrate maximum endurance and mutual support. Take care of your family and loved ones, but do not forget about the people around you. Those who are single, those who are older. Help them with food. Help find shelter when there is an air alarm. Help with access to verified official information.
+
+Stop the enemy wherever you see it. The fate of Ukraine depends only on Ukrainians. No one but ourselves will control our lives. We are on our land, the truth is on our side. It will not be possible to destroy our character. Kalibr missiles are helpless against our freedom.
+
+Russia will still have to talk to us sooner or later. Talk about how to end the fighting and stop this invasion. The sooner the conversation begins, the smaller Russia's losses will be.
+
+Dear citizens of the Russian Federation. As I said, tonight they started bombing residential areas of the hero city of Kyiv. It all reminds me of 1941. To all the citizens of the Russian Federation who come out to protest, I want to say - we see you. This means that you heard us. This means that you begin to trust us. Fight for us. Fight against the war.
+
+**Dear citizens of Ukraine.**
+
+**We are defending ourselves! We do not stop!**
+
+**Glory to you!**
+
+**Glory to our army!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'They say that civilian objects are not a target for them. This is a lie. In fact, they do not distinguish in which areas to operate.',
     url: 'https://www.youtube.com/watch?v=07i3e0ouFNw'
   },
   {
     id: 'WGqs0KAHDAo',
-    name: 'Володимир Зеленський звернувся до українців наприкінці першого дня атак Росії.',
+    name: 'Address by the President to Ukrainians at the end of the first day of Russia\'s attacks',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-25T23:35:32',
-    text: 'Володимир Зеленський звернувся до українців наприкінці першого дня атак Росії.',
-    description: 'Володимир Зеленський звернувся до українців наприкінці першого дня атак Росії.',
+    topics: ['Замах на Президента', 'Герої України'],
+    cities: ['Гостомель', 'Київ'],
+    text: `
+**Glory to the Armed Forces of Ukraine!**
+
+Men and women, our defenders! You are brilliantly defending the country from one of the most powerful countries in the world.
+
+Today Russia attacked the entire territory of our state. And today our defenders have done a lot. They defended almost the entire territory of Ukraine, which suffered direct blows. They regain the one that the enemy managed to occupy. For example, Hostomel near Kyiv. This gives more confidence to the capital.
+
+According to preliminary data, unfortunately, we have lost 137 of our heroes today - our citizens. 10 of them are officers. 316 are wounded.
+
+On our Zmiinyi Island, defending it to the last, all the border guards died heroically. But did not give up. All of them will be posthumously awarded the title of Hero of Ukraine.
+
+May the memory of those who gave their lives for Ukraine live forever.
+
+I am grateful to everyone who saves people right now and helps maintain order in the state.
+
+The enemy strikes not only at military facilities, as it claims, but also at civilians. They kill people and turn peaceful cities into military targets. This is vile and will never be forgiven.
+
+I know that a lot of fakes are being produced now. In particular, that I allegedly left Kyiv. I stay in the capital, I stay with my people. During the day, I held dozens of international talks, directly managed our country. And I will stay in the capital. My family is also in Ukraine. My children are also in Ukraine. My family is not traitors. They are the citizens of Ukraine. But I have no right to say where they are now.
+
+According to our information, the enemy marked me as the number one target. My family is the number two target. They want to destroy Ukraine politically by destroying the Head of State.
+
+We also have information that enemy sabotage groups have entered Kyiv. That's why I am asking Kyivites very much: be careful, follow the rules of curfew. I remain in the government quarter together with all those who are necessary for the work of the central government.
+
+No matter how many conversations I had with the leaders of different countries today, I heard a few things. The first is that we are supported. And I am grateful to each state that helps Ukraine concretely, not just in words.
+
+But there is another - we are left alone in defense of our state. Who is ready to fight with us? Honestly - I do not see such. Who is ready to guarantee Ukraine's accession to NATO? Honestly, everyone is afraid.
+
+Today we heard from Moscow that they still want to talk. They want to talk about Ukraine's neutral status.
+
+I tell all the partners of our state: now is an important moment - the fate of our country is being decided. I ask them: are you with us? They answer that they are with us. But they are not ready to take us to the Alliance.
+
+Today, I asked the twenty-seven leaders of Europe whether Ukraine will be in NATO. I asked directly. Everyone is afraid. They do not answer.
+
+And we are not afraid of anything. We are not afraid to defend our state. We are not afraid of Russia. We are not afraid to talk to Russia. We are not afraid to say everything about security guarantees for our state. We are not afraid to talk about neutral status. We are not in NATO now. But the main thing - what security guarantees will we have? And what specific countries will give them?
+
+We need to talk about the end of this invasion. We need to talk about a ceasefire.
+
+But now the fate of the country depends entirely on our army, on our heroes, our security forces, all our defenders. And on our people, your wisdom and the great support of all friends of our country.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Today Russia attacked the entire territory of our state. And today our defenders have done a lot. They defended almost the entire territory of Ukraine, which suffered direct blows.',
     url: 'https://www.youtube.com/watch?v=WGqs0KAHDAo'
   },
   {
@@ -676,8 +862,50 @@ Our military, national guards, national police, territorial defense, border guar
     russianTimestamp: 'https://youtu.be/nR6Ct73vZN4?t=118',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-24T18:22:48',
-    text: 'Звернення Президента України.',
-    description: 'Звернення Президента України.',
+    topics: ['Міжнародні переговори', 'Секторальні санкції'],
+    cities: ['Мелітополь', 'Гостомель'],
+    text: `
+**Citizens of Ukraine.**
+
+What do we hear today? It's not just rocket explosions, battles, the roar of aircraft. It is the sound of a new Iron Curtain lowering and closing Russia away from the civilized world. Our national task is to make this curtain pass not through our Ukrainian territory, but at the home of Russians.
+
+The Ukrainian army, our border guards, police and special services stopped the enemy's attacks. In the language of conflict, this can be called an operational pause.
+
+In Donbas, our Armed Forces are doing great, the Kharkiv direction is very difficult, the forces for the defense of the city are working, they are reliable, they are our men. The most problematic situation today is in the south. Our troops are fighting fierce battles in the suburbs of Kherson. The enemy is pushing out of the occupied Crimea, trying to advance towards Melitopol.
+
+In the north of the country, the enemy is slowly advancing in the Chernihiv region, but there are forces to hold it. Reliable defense is built in the Zhytomyr region. Enemy paratroopers in Hostomel are blocked, troops are ordered to destroy them.
+
+Yes, we, unfortunately, have losses, losses of our heroes. Yes, we have captured Russian soldiers. Our doctors are helping some of them - those who have surrendered. Many Russian aircraft and many armored vehicles were destroyed.
+
+Yes, we see that many Russians are shocked by what is happening. Some Russians are already calling on social media that they are against the war. We see it. But the leadership of the Russian Federation is unlikely to see it.
+
+So please.
+
+If you hear us, if you understand us, if you understand that you are attacking an independent country, please go out to the squares and address the President of your country.
+
+We are Ukrainians. We are on our land. You are Russians. Now your military has started a war. The war in our state. I would very much like you to speak on Red Square or somewhere else on the streets of your capital, in Moscow, St. Petersburg and other cities in Russia. Not only in Instagram - it is very important.
+
+What do we see at this hour? For the world community, Russia is becoming an analogue of the so-called DPR - this is complete isolation.
+
+I am in constant contact with the leaders of partner countries and international organizations. Russia has already begun receiving the first sanctions from a large package of sanctions, the most powerful in world history.
+
+No one will be able to convince or force us, Ukrainians, to give up our freedom, our independence, our sovereignty. But it seems that the Russian leadership is trying to do this by destroying the potential of their country. Everything that Russia has done since 2000 can now be burned live in front of the world.
+
+We emphasize that Ukraine did not choose the path of war. But Ukraine offers to return to peace.
+
+What can Ukrainians do? Help the national defense. Join the ranks of the Armed Forces of Ukraine and territorial defense units. Any citizen with combat experience will now be useful. It is up to you and all of us whether the enemy will be able to advance further into the territory of our independent state. Please help the volunteer community and the medical system, for example by donating blood.
+
+Politicians and community leaders - help people, ensure normal life on the ground as much as possible. Everyone should take care of their loved ones and take care of those neighbors or acquaintances who need it. The duty of journalists, an important duty, is to defend democracy and freedom in Ukraine.
+
+I spoke today with many leaders - the United Kingdom, Turkey, France, Germany, the EU, the United States, Sweden, Romania, Poland, Austria and others.
+
+If you, dear European leaders, dear world leaders, leaders of the free world, do not help us today, then tomorrow the war will knock on your door.
+
+**Glory to the Armed Forces of Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'It\'s not just rocket explosions, battles, the roar of aircraft. It is the sound of a new Iron Curtain lowering and closing Russia away from the civilized world.',
     url: 'https://www.youtube.com/watch?v=nR6Ct73vZN4'
   },
   {
@@ -693,13 +921,65 @@ Our military, national guards, national police, territorial defense, border guar
   },
   {
     id: 'T8Gazh3lz8Y',
-    name: 'Президент України – про посилення обороноздатності держави',
+    name: 'Address of the President of Ukraine on the unity of Ukrainian society',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-24T01:39:42',
-    text: 'Президент України – про посилення обороноздатності держави',
-    description: 'Президент України – про посилення обороноздатності держави',
+    topics: ['Загрози для України'],
+    cities: [],
+    text: `
+**Great people of a great country!**
+
+I am addressing you at this tense moment.
+
+Our state is facing serious external and internal challenges that require responsibility, confidence and concrete actions from me and each of us.
+
+We are being intimidated by the great war and the date of the military invasion is being set again. This is not the first time. 
+
+The war against us is being systematically waged on all fronts. On the military one, they increase the contingent around the border. On the diplomatic one, they are trying to deprive us of the right to determine our own foreign policy course. On the energy one, they limit the supply of gas, electricity and coal. On the information one, they seek to spread panic among citizens and investors through the media.
+
+But our state today is stronger than ever.
+
+This is not the first threat that the strong Ukrainian people have faced. Two years ago, we, like the rest of the world, looked confused in the eyes of the pandemic. However, we united and with clear systemic steps practically defeated it. In this difficult time, the strong Ukrainian people have shown their best qualities - unity and the will to win.
+
+Unlike the pandemic two years ago, today we clearly understand all the challenges we face and what to do about them. We are confident, but not self-confident. We understand all the risks. We are constantly monitoring the situation, working out different scenarios, preparing decent responses to all possible aggressive actions.
+
+We know exactly where the foreign army is near our borders, its numbers, its locations, its equipment and its plans.
+
+We have something to respond with. We have a great army. Our guys have unique combat experience and modern weapons. This is an army many times stronger than eight years ago.
+
+Along with the army, Ukrainian diplomacy is at the forefront of defending our interests. We have managed to gain diplomatic support from almost all leaders of the civilized world. Most of them have either already visited and supported Ukraine, or will do so in the near future. Today, everyone recognizes that the security of Europe and the entire continent depends on Ukraine and its army.
+
+We want peace and we want to resolve all issues exclusively through negotiations. Both Donbas and Crimea will return to Ukraine. Exclusively through diplomacy. We do not encroach on what’s not ours, but we will not give up our land.
+
+We are confident in our Armed Forces, but our military must also feel our support, our cohesion and our unity. The foothold of our army is the confidence of their own people and a strong economy.
+
+We have formed sufficient reserves to repel attacks on the hryvnia exchange rate and our financial system. We will not ignore any industry that will need government support. As it happened the other day with airlines. And evidence of this is a stable hryvnia exchange rate and open skies.
+
+An important front of defense is the objective coverage of the situation by the domestic media. And now I want to address our Ukrainian journalists. Some of you sometimes have to perform the tasks of media owners. Most of them have already fled their own country.
+
+Work for Ukraine, not for those who fled. The fate of the country today depends on your honest position.
+
+And now I want to address not those who stayed with Ukraine and in Ukraine, but those who left it at the most crucial moment. Your strength is not in your money and planes, but in the civic position you can show. Return to your people and the country due to which you got your factories and wealth. Today, everyone passes a real test for a citizen of Ukraine. Pass it with dignity. Let everyone understand for whom Ukraine is really the Homeland, and for whom it is just a platform for money making.
+
+I address separately all representatives of the state: civil servants, people's deputies of all levels who have fled the country or plan to do so. The people of Ukraine have entrusted you not only to govern the state, but also to protect it. It is your direct duty in this situation to be with us, with the Ukrainian people. I urge you to return to your homeland within 24 hours and stand side by side with the Ukrainian army, diplomacy and people!
+
+We are told that February 16 will be the day of the attack. We will make it the Day of Unity. The relevant decree has already been signed. On this day, we will hoist national flags, put on blue and yellow ribbons and show the world our unity.
+
+We have one great European aspiration. We want freedom and are ready to fight for it. 14,000 defenders and civilians killed in this war are watching us from the sky. And we will not betray their memory.
+
+We all want to live happily, and happiness loves the strong ones. We have never known what it is to give up and we are not going to learn that.
+
+Today is not just Valentine's Day. It is the day of those in love with Ukraine. We believe in our own strength and continue to build our future together. Because we are united by love for Ukraine, united and unique. And love will win. Yes, now you may think it's darkness all around. But tomorrow the sun will rise again over our peaceful sky.
+
+**Love Ukraine!**
+
+**We are calm! We are strong! We are together!**
+
+**Great people of a great country.**
+    `,
+    description: 'Our state today is stronger than ever. This is not the first threat that the strong Ukrainian people have faced.',
     url: 'https://www.youtube.com/watch?v=T8Gazh3lz8Y'
   },
   {
@@ -737,24 +1017,24 @@ Our military, national guards, national police, territorial defense, border guar
   },
   {
     id: 'TiXdsekwAN4',
-    name: 'Звернення Президента після зустрічі з лідерами всіх парламентських фракцій',
+    name: 'Address by the President after a meeting with the leaders of all parliamentary factions',
     translated: true,
     russianTimestamp: 'https://youtu.be/T8Gazh3lz8Y?t=122',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-23T09:27:19',
-    text: '«Українці – мирна нація. Ми хочемо тиші. Але якщо ми сьогодні промовчимо, то завтра зникнемо. Нас чекає щоденна важка робота. І ми до неї готові. Впевненість у собі. Впевненість у країні. Впевненість у перемозі», – Володимир Зеленський звернувся до українців після зустрічі з лідерами всіх парламентських фракцій і груп.',
-    description: '«Українці – мирна нація. Ми хочемо тиші. Але якщо ми сьогодні промовчимо, то завтра зникнемо. Нас чекає щоденна важка робота. І ми до неї готові. Впевненість у собі. Впевненість у країні. Впевненість у перемозі», – Володимир Зеленський звернувся до українців після зустрічі з лідерами всіх парламентських фракцій і груп.',
+    text: '«Ukrainians are a peaceful nation. We want silence. But if we remain silent today, we will disappear tomorrow. We have hard work to do every day. And we are ready for it. Self-confidence. Confidence in the country. Confidence in victory», - Volodymyr Zelensky addressed Ukrainians after a meeting with leaders of all parliamentary factions and groups.',
+    description: '«Ukrainians are a peaceful nation. We want silence. But if we remain silent today, we will disappear tomorrow. We have hard work to do every day. And we are ready for it. Self-confidence. Confidence in the country. Confidence in victory», - Volodymyr Zelensky addressed Ukrainians after a meeting with leaders of all parliamentary factions and groups.',
     url: 'https://www.youtube.com/watch?v=TiXdsekwAN4'
   },
   {
     id: '88jGEXGFOBs',
-    name: 'Заява Володимира Зеленського за підсумками засідання РНБО',
+    name: 'Statement by Volodymyr Zelensky following the meeting of the National Security and Defense Council',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-22T11:14:27',
-    text: '«Останні дії РФ – це порушення суверенітету й територіальної цілісності нашої держави. Уся відповідальність за наслідки у зв’язку зі згаданими рішеннями покладається на Росію» – заява Президента України Володимира Зеленського.',
-    description: '«Останні дії РФ – це порушення суверенітету й територіальної цілісності нашої держави. Уся відповідальність за наслідки у зв’язку зі згаданими рішеннями покладається на Росію» – заява Президента України Володимира Зеленського.',
+    text: '«Russia\'s latest actions are a violation of the sovereignty and territorial integrity of our state. All responsibility for the consequences of these decisions lies with Russia», said President of Ukraine Volodymyr Zelensky.',
+    description: '«Russia\'s latest actions are a violation of the sovereignty and territorial integrity of our state. All responsibility for the consequences of these decisions lies with Russia», said President of Ukraine Volodymyr Zelensky.',
     url: 'https://www.youtube.com/watch?v=88jGEXGFOBs'
   }
 ]
