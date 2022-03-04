@@ -63,6 +63,44 @@ It is recommended, if available, to have military clothing or its elements, equi
 
 **Step 7**. Upon arrival in Ukraine at the collection point to join the Foreign Legion of Territorial Defense of Ukraine (sign the contract) and together with fighters from other countries and Ukrainian soldiers go to fight against the Russian occupiers. 
 
+To enlist into the International Legion, contact the Defence Attaché with the Embassy of Ukraine in your country.
+
+### Embassy of Ukraine in Poland:
+
+* **Address**: Al. J. Ch. Szucha 7, 00-580
+* **Tel.**: +48 22 621 39 79
+
+### Embassy of Ukraine in Germany:
+
+* **Address**: Albrechtstrasse 26, 10117, Berlin
+* **Tel:** +49 (030) 2888 71 16
+
+### Consular Department of the Embassy of Ukraine in Denmark:
+
+* **Email**: consul_dk@mfa.gov.ua
+* **Tel.**: +45 81 45 52 60
+
+### Embassy of Ukraine in France:
+
+* **Address**: 21, avenue de Saxe, 75007, Paris
+* **Email**: emb_fr@mfa.gov.ua
+
+### Embassy of Ukraine in the USA:
+
+* **Email**: emb_us@mfa.gov.ua
+* **Tel.**: +1 202-349-2963
+
+### Embassy of Ukraine in the UK:
+
+* **Email**: emb_gb@mfa.gov.ua
+* **Tel.**: +44 20 7727 6312
+
+### Embassy of Ukraine in Spain:
+
+* **Email**: emb_es@mfa.gov.ua
+* **Tel.**: +34 917 48 93 60
+
+[Source](https://news.liga.net/ua/politics/news/ukraine-creates-international-legion-to-fight-russia-how-to-join)
 `
 
 export default {

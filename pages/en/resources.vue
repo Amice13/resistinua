@@ -166,7 +166,7 @@ export default {
       filtersByTopic: [],
       filterTopic: [],
       showTopic: false,
-      filtersByLocation: ['Україна', 'Київ', 'Світ'],
+      filtersByLocation: ['Україна', 'Світ', 'Київ', 'Львів'],
       filterLocation: [],
       showLocation: true,
       filtersByType: [],
