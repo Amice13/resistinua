@@ -446,7 +446,7 @@ const source = [
   {
     id: '47',
     name: 'Fire Smoothie',
-    description: 'Анонімно допоможе барменам знайти необхідні ресурси для коктейлів',
+    description: 'Anonymously helps bartenders find the necessary resources for cocktails',
     link: 'https://t.me/fire_smoothie_bot',
     tags: ['Інформація', 'Завдання'],
     type: ['Чат-бот'],
@@ -455,7 +455,7 @@ const source = [
   {
     id: '48',
     name: 'Help-ukraine-win',
-    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    description: 'utomatic overloading of websites of Russia / Russian propaganda',
     link: 'https://help-ukraine-win.firebaseapp.com',
     tags: ['DDOS', 'Завдання'],
     type: ['Скрипт'],
@@ -464,7 +464,7 @@ const source = [
   {
     id: '49',
     name: 'The list',
-    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    description: 'Automatic overloading of websites of Russia / Russian propaganda',
     link: 'https://the-list.ams3.cdn.digitaloceanspaces.com/index.html',
     tags: ['DDOS', 'Завдання'],
     type: ['Скрипт'],
@@ -473,7 +473,7 @@ const source = [
   {
     id: '50',
     name: 'Stop Russian Desinformation',
-    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    description: 'Automatic overloading of websites of Russia / Russian propaganda',
     link: 'https://stop-russian-desinformation.near.page/',
     tags: ['DDOS', 'Завдання'],
     type: ['Скрипт'],
@@ -482,7 +482,7 @@ const source = [
   {
     id: '51',
     name: 'Cyber Yozh',
-    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    description: 'Automatic overloading of websites of Russia / Russian propaganda',
     link: 'https://cyber-yozh.com/',
     tags: ['DDOS', 'Завдання'],
     type: ['Скрипт'],
@@ -491,7 +491,7 @@ const source = [
   {
     id: '52',
     name: 'Russian Warship Go F*ck Yourself',
-    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    description: 'Automatic overloading of websites of Russia / Russian propaganda',
     link: 'https://russianwarshipgofuckyourself.club/',
     tags: ['DDOS', 'Завдання'],
     type: ['Скрипт'],
@@ -500,7 +500,7 @@ const source = [
   {
     id: '53',
     name: 'Play For Ukraine',
-    description: 'Автоматичне навантаження сайтів РФ / РФ пропаганди',
+    description: 'Create DDOS on websites of Russia by playing',
     link: 'https://playforukraine.live/',
     tags: ['DDOS', 'Завдання', 'Дозвілля'],
     type: ['Гра'],
@@ -518,7 +518,7 @@ const source = [
   {
     id: '55',
     name: 'Report Russian Telegram',
-    description: 'Автоматизоване надсилання скарг Телеграм каналів пропагандистів',
+    description: 'Automatic submission of complaints about Telegram channels of propagandists',
     link: 'https://github.com/Dantistnfs/reportrussiantg',
     tags: ['Завдання', 'Антипропаганда'],
     type: ['Скрипт'],
@@ -527,7 +527,7 @@ const source = [
   {
     id: '56',
     name: 'EU 4 UA',
-    description: 'Платформа для прихистку біженців у Європі',
+    description: 'A platform to find shelter for refugees in Europe',
     link: 'https://ua.eu4ua.org/',
     tags: ['Інформація', 'Біженці'],
     type: ['Мапа'],
@@ -536,7 +536,7 @@ const source = [
   {
     id: '57',
     name: 'Refugees.RO',
-    description: 'Пошук житла для людей, що евакуюються в Румунії',
+    description: 'Search of accommodation for people who are evacuating to Romania',
     link: 'https://refugees.ro/',
     tags: ['Інформація', 'Біженці'],
     type: ['Мапа'],
@@ -545,7 +545,7 @@ const source = [
   {
     id: '58',
     name: 'Betha Ukraine',
-    description: 'Проект, що допомагає згуртувати всіх охочих у волонтерській діяльності',
+    description: 'A project that helps unite all people willing to volunteer',
     link: 'https://betha.in.ua/',
     tags: ['Волонтерство'],
     type: ['Вебсайт'],
@@ -554,7 +554,7 @@ const source = [
   {
     id: '59',
     name: 'UAhelp від Монобанк',
-    description: 'Швидкі перекази на користь Збройних сил України',
+    description: 'Quick wire transfers for the Armed Forces of Ukraine',
     link: 'https://uahelp.monobank.ua/',
     tags: ['Благодійність'],
     type: ['Вебсайт'],
@@ -563,7 +563,7 @@ const source = [
   {
     id: '60',
     name: 'Defend Ukraine',
-    description: 'Сайт для міжнародної допомоги Україні',
+    description: 'A website for international help for Ukraine',
     link: 'https://www.defendukraine.org/',
     tags: ['Інформація'],
     type: ['Вебсайт'],
@@ -572,7 +572,7 @@ const source = [
   {
     id: '61',
     name: 'Ukraine Support',
-    description: 'Ресурси українським біженцям та ресурси для допомоги Українцям з закордону',
+    description: 'Resources for Ukrainian refugees and resources on how to help Ukrainians from abroad',
     link: 'https://ukrainesupport.com.ua/',
     tags: ['Інформація'],
     type: ['Вебсайт'],
@@ -581,7 +581,7 @@ const source = [
   {
     id: '62',
     name: 'Help Ukraine Win',
-    description: 'Колекція засобів для допомоги з-за кордону',
+    description: 'A collection of ways to help from abroad',
     link: 'https://helpukrainewin.org/',
     tags: ['Інформація'],
     type: ['Вебсайт'],
@@ -590,7 +590,7 @@ const source = [
   {
     id: '63',
     name: 'PowUkraine',
-    description: 'Сайт з інформацією про полонених та вбитих російських солдатів в Україні',
+    description: 'A website with information on Russian war prisoners and soldiers killed in Ukraine',
     link: 'https://powukraine.org/',
     tags: ['Інформація', 'Для РФ'],
     type: ['Вебсайт'],
@@ -599,7 +599,7 @@ const source = [
   {
     id: '64',
     name: 'How to Help Ukraine Now',
-    description: 'Колекція засобів для допомоги з-за кордону',
+    description: 'A collection of ways to help from abroad',
     link: 'https://how-to-help-ukraine-now.super.site/',
     tags: ['Інформація'],
     type: ['Вебсайт'],
@@ -608,7 +608,7 @@ const source = [
   {
     id: '65',
     name: 'Dovidka.info',
-    description: 'Довідник практичних порад, як діяти у часі війни або надзвичайної інформації',
+    description: 'A guide of practical advice on how to act at the time of war or an extraordinary situation',
     link: 'https://dovidka.info/',
     tags: ['Інформація'],
     type: ['Вебсайт'],
