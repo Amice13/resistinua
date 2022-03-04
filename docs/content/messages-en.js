@@ -1,13 +1,24 @@
 const source = [
   {
+    id: 'xJwoFDVuvNg',
+    name: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-04T12:00:08',
+    text: `Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office`,
+    description: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=xJwoFDVuvNg'
+  },
+  {
     id: 'gKFyL9a3a5k',
     name: 'We survived the night that could have stopped the history of Ukraine and Europe',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-04T04:13:08',
-    topics: ['Атомна станція', 'Енергодар', 'Атомна загроза'],
-    cities: ['Чорнобиль', 'Запоріжжя'],
+    topics: ['Атомна станція', 'Атомна загроза'],
+    cities: ['Чорнобиль', 'Запоріжжя', 'Енергодар'],
     text: `«We survived the night that could have stopped the history of Ukraine and Europe». Address by the President Volodymyr Zelenskii.`,
     description: '«We survived the night that could have stopped the history of Ukraine and Europe». Address by the President Volodymyr Zelenskii.',
     url: 'https://www.youtube.com/watch?v=gKFyL9a3a5k'

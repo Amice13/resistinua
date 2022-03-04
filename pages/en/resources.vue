@@ -139,7 +139,7 @@
 
 <script>
 
-import resources from '@/static/content/resources'
+import resources from '@/static/content/resources-en'
 
 const intersection = (arr1, arr2) => {
   return arr1.filter(value => arr2.includes(value))
@@ -180,9 +180,9 @@ export default {
       let filtersByLocation = this.filterLocation.map(el => this.filtersByLocation[el])
       let filtersByType = this.filterType.map(el => this.filtersByType[el])
       let filtered = this.resources
-      if (filtersByTopic.length) filtered = filtered.filter(el => intersection(filtersByTopic, el.tags).length)
-      if (filtersByLocation.length) filtered = filtered.filter(el => intersection(filtersByLocation, el.location).length)
-      if (filtersByType.length) filtered = filtered.filter(el => intersection(filtersByType, el.type).length)
+      if (filtersByTopic.length) filtered = filtered.filter(el => el.tags ? intersection(filtersByTopic, el.tags).length : false)
+      if (filtersByLocation.length) filtered = filtered.filter(el => el.location ? intersection(filtersByLocation, el.location).length : false)
+      if (filtersByType.length) filtered = filtered.filter(el => el.type ? intersection(filtersByType, el.type).length : false)
       return filtered
     }
   }
