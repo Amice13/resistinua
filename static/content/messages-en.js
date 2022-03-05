@@ -21,21 +21,115 @@ const source = [
     date: '2022-03-05T11:15:55',
     topics: ['Гуманітарні коридори', 'Втрати Росії'],
     cities: ['Харків', 'Миколаїв', 'Київ', 'Чернігів', 'Суми', 'Маріуполь', 'Волноваха'],
-    text: `«I am sure that soon we will be able to tell our people: come back! Come back, because there is no more threat». Address by the President of Ukraine Volodymyr Zelensky.`,
+    text: `
+**Free people of a free country!**
+
+It is already the tenth day of our national struggle. Sincere faith. And round-the-clock work.
+
+The tenth day is like one infinitely long day. One infinitely long night that does not allow us to have a rest.
+
+Today is Saturday. Saturday. This word means nothing during the war. Like Monday or Thursday or any other day. They all became the same.
+
+We still protect the state. We still save people.
+
+The country does not know weekends anymore. It doesn't matter what time it is. It doesn't matter what date it is. And it will be so until victory.
+
+Late at night I spoke with French President Emmanuel Macron. And with President of Poland Andrzej Duda. Our interaction is constant. Our conversations are daily. I am immensely grateful to each of them. I am immensely grateful to Andrzej for his determination and devotion to our common cause. Protection of people. I am grateful to Andrzej's wife - Agata. They are friends whom I sincerely consider friends and sincerely wish to everyone.
+
+We managed to prevent a humanitarian crisis at the border. We managed to organize the situation so that thousands and thousands of Ukrainian women and children were treated decently. Nobody asks about their nationality, faith or how much money they have. In fact, we no longer have a border with Poland. Because we are together on the side of good. We do not have time for borders.
+
+I am sure that soon we will be able to tell our people: come back!
+
+Come back from Poland, Romania, Slovakia and all other countries.
+
+Come back, because there is no more threat.
+
+We are already thinking about the future. For all Ukrainians. After the war. About how to revive our cities. How to revive the economy. I spoke with World Bank President David Malpass, IMF Managing Director Kristalina Georgieva.
+
+We have an agreement among the largest financial institutions to support Ukraine. There is already a decision on emergency aid and tens of billions of dollars for the reconstruction of Ukraine after the war.
+
+And these are only the first decisions. I emphasize these are only the first. I spoke with Turkish President Erdoğan. I spoke with the leaders of Saudi Arabia and the United Arab Emirates. I spoke with President of the European Council Charles Michel and President of the European Commission Ursula von der Leyen. The main topic is EU membership for Ukraine.
+
+I am grateful to Europeans - hundreds of thousands of people in different cities of our continent. Bratislava, Vilnius, Frankfurt, Lyon, Paris, Tbilisi, Prague. They came out yesterday in support of Ukraine. In support of Europe. They came out for peace to be reached as soon as possible.
+
+I am grateful to Americans for the unwavering bipartisan majority of ordinary people. We saw the poll. We saw the opinion of ordinary people in America who support ordinary people in Ukraine. Who demand tougher sanctions against Russia for aggression already now. Who support closing the sky now to save the lives of our people. 74 percent of Americans stand for the no-fly zone. 74! The vast majority. What else is needed to make a decision? We are sure that the result is similar in other democratic countries.
+
+The Armed Forces of Ukraine bravely hold all key areas of our defense.
+
+They are counterattacking the invaders near Kharkiv - defending the city. They are holding the line in Mykolaiv. Kyiv, Chernihiv region, Sumy region, Donbas. We inflict losses on the invaders they have not seen in their worst dreams.
+
+The Russian army has not reached the planned frontiers. Yet it has reached almost 10 thousand Russian soldiers killed. 10 thousand. This is dreadful! 18-year-old, 20-year-old boys. Very young, almost children. Soldiers who were not even explained why they were going to fight. For what and why they are in a foreign land. 
+
+10 thousand. Russia could definitely give these people something else. Instead of death.
+
+The Ukrainian people are resisting even where the invaders managed to pass. Unfortunately. But not for long. I admire every Ukrainian who is not silent. Who protests. Who takes the national flag and shows the Russian military that they will lose. They will definitely lose. Because it is impossible to win against people who stop military equipment without weapons in their hands. Who refuse to take anything from the hands of the invaders. Whose situation is tough and dangerous. But they do not lose their dignity. And will never lose it.
+
+At the talks in Belarus, the groups agreed on the first step. To bring back at least one percent of humanity from the normal level. Surrounded cities that are being destroyed and experiencing the worst days. Humanitarian corridors must work today. Mariupol and Volnovakha. To save people. Women, children, the elderly. To give food and medicine to those who remain. Our help is already on the way. Everyone who needs help should be able to leave. Those who are willing. Everyone who can defend their city must continue to fight. Must. Because if everyone leaves, then whose city will it be?
+
+We are doing everything - on our part - to make the agreement work. This is one of the main tasks for today. Let's see if we can go further. In the negotiation process.
+
+Let’s pray for our military. Let’s help our civilians.
+
+Let’s work for peace.
+
+**Glory to Ukraine!**
+    `,
     description: '«I am sure that soon we will be able to tell our people: come back! Come back, because there is no more threat». Address by the President of Ukraine Volodymyr Zelensky.',
     url: 'https://www.youtube.com/watch?v=VmNG65OQzy8'
   },
   {
     id: '8kDzO4EWDH8',
-    name: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
+    name: 'Address by the Prime Minister of Ukraine Denys Shmyhal',
     translated: false,
     russianTimestamp: '',
     speaker: ['Денис Шмигаль'],
     date: '2022-03-05T00:20:30',
-    topics: [],
-    cities: [],
-    text: `The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal`,
-    description: 'The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal',
+    topics: ['Воєнний злочин', 'Атомна загроза'],
+    cities: ['Енергодар'],
+    text: `
+**Heroic people of Ukraine!**
+
+It is the 9th day of war.
+
+9 days of heroic confrontation, courage and bravery of the Ukrainian people.
+
+9 days of total resistance.
+
+Intense battles are being fought, the enemy has sustained severe casualties and weaponry losses. The Russian army and its top officials were telling about how they would discharge NATO forces into the English Channel in a week, while their soldiers now drop their equipment and surrender instead.
+
+Fighting is taking place in dozens of cities and hundreds of villages, and everywhere the enemy is facing resistance not only from the military, but from the entire population as well.
+
+In the agony of its own defeat, Russia resorts to increasingly criminal acts.
+
+Buildings, hospitals, schools and even maternity hospitals constantly come under aerial bombing.
+
+The occupier kept fire nightlong from all the sides covering the Zaporizhzhya Nuclear Power Plant in the city of Energodar. The President of Ukraine urgently addressed the leaders of the G7 countries. I made an urgent call to the IAEA Director General Rafael Grossi and told that in the agony of fear, the enemy could cause the largest tragedy since the Chornobyl NPP accident.
+
+Radiation knows no boundaries. The possible area coverage is the whole world. Once again, I call on the international community, represented by the IAEA and the EU, to ensure the arrival of peacekeeping groups consisting of representatives of the EU, IAEA and SNRIU (State Nuclear Regulatory Inspectorate of Ukraine) at all five nuclear power plants in Ukraine. This is a matter of security for the whole world!
+
+The UN Human Rights Council has taken a critical decision to set up a commission of inquiry to investigate Russia's crimes against Ukraine's civilian population. The more so the work of the International Criminal Court to investigate war crimes committed by Russian terrorist forces in Ukraine commences as well. This means that all those responsible for the deaths, especially of civilians, will be held accountable.
+
+Now I want to appeal to all Ukrainians!
+
+Our total resistance to the enemy must take place on all fronts. On the front lines, on the home front, in the territories temporarily occupied by the enemy. It is time for everyone to get a grip and think with calm mind where he or she can be most effective.
+
+If you have the experience and desire - join the ranks of territorial defense. Help volunteers. Join the information attack on the enemy. Work at your company. Support each other. Find your place and make your contribution. The 40 million people united by the common idea of victory are impossible to stop and, most importantly, impossible to conquer.
+
+The Government works 24/7.
+
+Today we have two main objectives. First – to satisfy of the needs of the AFU and other armed formations.
+
+Second is the provision of the civilian population with essential goods even in those regions, that were now blocked through the hostilities or occupation, the organization of green corridors for the evacuation of the civilian population, the humanitarian assistance deliveries.
+
+Yesterday I had a talk with the President of the Red Cross Peter Maurer. He assured me that the Red Cross would do everything possible to help evacuate Ukrainians, deliver food and medicine to places where hostilities are underway.
+
+Today, Ukrzaliznytsia has become a company that purchases food, fuel, medicine for the needs of the state and people affected by the war at the expense of state funds. By the recent decision of the Government, we have allocated UAH 18 billion for these purposes. Let me take this opportunity and thank the railway workers who, despite the risks, continue to perform their jobs and save people!
+
+Ukrainians! Our only goal is to liberate Ukraine from Russian invaders. And we will definitely win.
+
+**Glory to Ukraine!**
+    `,
+    description: '9 days of heroic confrontation, courage and bravery of the Ukrainian people.',
     url: 'https://www.youtube.com/watch?v=8kDzO4EWDH8'
   },
   {
@@ -46,7 +140,7 @@ const source = [
     speaker: ['Володимир Зеленський'],
     date: '2022-03-04T21:06:51',
     topics: ['Саміт НАТО', 'Закрите небо', 'Герої України', 'Відключення телебачення'],
-    cities: ['Харків', 'Чернігів', 'Суми', 'Волноваху', 'Маріуполь', 'Миколаїв', 'Ужгород', 'Київ', 'Херсон', 'Охтирка', 'Гостомель'],
+    cities: ['Харків', 'Чернігів', 'Суми', 'Волноваха', 'Маріуполь', 'Миколаїв', 'Ужгород', 'Київ', 'Херсон', 'Охтирка', 'Гостомель'],
     text: `
 **Great people of a great country!**
 
@@ -266,11 +360,63 @@ I urge Kherson residents to get rid of any despair. Ukraine will not give up wha
     name: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
     translated: false,
     russianTimestamp: '',
-    speaker: ['Володимир Зеленський'],
+    speaker: ['Денис Шмигаль'],
     date: '2022-03-03T10:56:28',
-    topics: [],
+    topics: ['Міжнародна допомога', 'Ракетний удар', 'Соціальні виплати'],
     cities: [],
-    text: `The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal`,
+    text: `
+**Heroic People of Ukraine!**
+
+The national liberation war against Russia's occupier has been going on for 8 days now. The enemy's blitzkrieg failed.
+
+No major regional cities have ever surrendered without a fight.
+
+No one is giving a hospitable welcome to the invaders.
+
+Ukraine is turning to total resistance. In cities, towns and villages, people are blocking columns of armour and vehicles, attacking supply trucks, and capturing Russian soldiers.
+
+The information wave produced by Ukrainians has proliferated worldwide. And the whole world is on our side.
+
+We can feel the support not just in words.
+
+Thousands of volunteers from all over the world come to Ukraine to fight on the side of freedom.
+
+We have already received tons of modern weapons from our partners.
+
+The UN General Assembly unequivocally acknowledged that Russia had committed aggression against Ukraine and demanded that Russia ceases fire.
+
+The world is helping us financially. Today, the Memorandum on EUR 1.2 billion macro-financial assistance from the European Union was signed. An agreement on the establishment of a multi-donor fund with the participation in particular of the World Bank to the tune of USD 1.8 billion will be signed in the coming hours. 
+
+Ukraine has also appealed to the international organizations, in particular the IAEA to immediately call on NATO to close access to the airspace over our nuclear facilities. Close the sky over Ukraine! Now it's a matter of security for the whole world! Not only for Ukraine!!!
+
+We also appeal to the UN and the Red Cross.
+
+After the strikes on civilians, the whole world has seen that Russian troops are terrorists who are killing civilians and do not let anyone help the victims. In some cities, children, pregnant women, and the elderly are trapped by the enemy and have been living without electricity, heat, water, food, and medical care for days now. The invaders do not give safe routes for evacuation. Ukraine demands for the sake of people's lives and health to provide the ‘green corridors’ for us to provide assistance and evacuate everyone who either wishes or needs that!
+
+Despite the full-scale aggression by Russia, the entire life-supporting infrastructure of the state is working sustainably.
+
+And so is the Government.
+
+Despite the war, the Government, the Ministry of Social Policy, and the Pension Fund accrued all pensions with 14% adjustment in favour of all Ukrainians. Pensions have been accrued to 13 million people, and the funds have already been transferred to banks. Payments have already been started on schedule, and, for some categories, payments have been made even sooner.
+
+Also, pursuant to the President's instruction, the Government has developed an assistance program for all Ukrainians who have lost their employment. Every employee, every self-employed person, every citizen of Ukraine who has lost his or her job due to the war and hostilities will unconditionally receive UAH 6’500 each during March. We will announce shortly how this money can be obtained.
+
+Following the Government decision, the Ukrainian Railways have started procuring fuel, medications, electricity and other important goods and services. The company will maintain close contact with the civil-military administrations to promptly cover the urgent needs of the people and the state.
+
+Most importantly, the truth is on our side, and we will never give up! Therefore, already now, in follow-up of the instruction of the President of Ukraine, the Government is now establishing 4 major funds. The financial resources from these funds will be spent to rebuild Ukraine.
+
+First – This will be the Destroyed Property and Infrastructure Restoration Fund. We will rebuild everything that has been destroyed by the Russian occupationists – every house, every apartment, every school, every kindergarden and hospital! Every bridge, and road!
+
+Second – Economic Recovery and Transformation Fund. We will ask our partners to accept the so-called ‘Marshall Plan for Ukraine’. We need not just to rebuild the economy, but we will build a new European country.
+
+Third – Debt Management and Redemption Fund. Today, despite the war, Ukraine continuously fulfils all its commitments. On March 1, our Ministry of Finance made a coupon payment of USD 292 million on Eurobonds. But we believe that the world must help and support Ukraine given the heavy burden on us today.
+
+And fourth – Affected Business Support Fund. We all see how many entrepreneurs and companies help our military, doctors, and ordinary Ukrainians today. We are all united for a common goal – to chase off the enemy from our land. And we understand that our task is to help entrepreneurs return to normal business, normal life.
+
+We are here, we are on our land, and no one will be able to take away our European future! We will rebuilt everything!
+
+**Glory to the Ukrainian Army! Glory to the Ukrainian People! Glory to Ukraine!**
+    `,
     description: 'The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal',
     url: 'https://www.youtube.com/watch?v=YMOZOAQVD6Q'
   },
@@ -526,8 +672,52 @@ Another thing that is very important to say. We've been waiting 30 years for thi
     russianTimestamp: '',
     speaker: ['Денис Шмигаль'],
     date: '2022-02-28T19:14:03',
-    text: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
-    description: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
+    topics: ['Соціальні виплати'],
+    cities: [],
+    text: `
+**Heroic people of Ukraine!**
+
+It is the fifth day of our liberation war against the Russian invaders.
+
+The whole Ukrainian nation stood up for the struggle. While our troops bravely defend the Ukrainian land from the invasion of the occupiers, civilian Ukrainians and the Ukrainian state began to work hard in a mode – ‘all for the frontline, all for victory’
+
+Private businesses provide free-of-charge fuel, medications, food, and equipment for the troops. The courage and valour of our military inspire all Ukrainians to contribute as much as they can to our victory. People cook food for the fighters, weave camouflage nets and set up checkpoints.
+
+The Government also continues to work tirelessly. Today, at an ad-hoc Government meeting, we made the following decisions.
+
+Today, pursuant to the instruction of the President of Ukraine Volodymyr Zelenskyy, the Government has decided that, for the time of martial law, all the servicemen will be paid an additional remuneration of UAH 30’000 per month.
+
+All the servicemen who see action and are direct parties of combat mission or involved in national security and defence operations will be rewarded with an increased monthly remuneration of UAH 100’000.
+
+Moreover, families of the fallen servicemen will be paid a one-time compensation in the amount of UAH 15 million.
+
+These decisions remain valid since February 24 this year – the day when the Russian Federation brought about a full-scale war against Ukraine.
+
+The Cabinet of Ministers has also significantly expanded the list of critical imports. It was supplemented by meat and edible offal, milk and dairy products, vegetables, nuts, coffee, tea, cereals, wheat flour, juices, fats and oils, sugar and confectionery. The list also includes a number of defence goods.
+
+A 24/7 Coordination Centre for food, medicine, drinking water and fuel supplies has been set up to provide war-affected municipalities and regions with everything they need.
+
+During the martial law period, the Cabinet of Ministers facilitated and simplified the procurement procedures for goods, works and services required for the Ukraine's defence and for ensuring livelihood of the population and functioning of the state. The procurement procedures will be initiated by the leaders of contracting entities or the bodies managing state property assets.
+
+That is how our nation is hardened.
+
+The whole world is now talking about Ukraine. People all over the planet gather in streets and squares wearing blue and yellow colours of our flag and shout ‘Glory to Ukraine! Glory to Ukraine! Glory to heroes! Hands off Ukraine!’.
+
+We are grateful to our friends all over the world for the assistance they have been providing to Ukraine – defence, humanitarian, and economic.
+
+We are grateful for the sanctions you are imposing on Russia.
+
+We are appreciative of the support rallies that are taking place all around the world.
+
+We are thankful for the closed sky for Russian planes.
+
+And more, Ukraine has appealed to the European Union to join immediately under a special procedure. We, all the Ukrainian people, will be grateful for the positive decision!
+
+Fellow Ukrainians, keep holding the line! We continue to work as hard as we can for our victory!
+
+**Glory to Ukraine! Glory to the Ukrainian army. Glory to the heroic Ukrainian people!**
+    `,
+    description: 'It is the fifth day of our liberation war against the Russian invaders.',
     url: 'https://www.youtube.com/watch?v=l5XTh2DSZCE'
   },
   {
@@ -742,8 +932,50 @@ I sincerely wish Belarus to once again become that kind, safe Belarus that every
     russianTimestamp: '',
     speaker: ['Денис Шмигаль'],
     date: '2022-02-26T21:11:24',
-    text: 'The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal.',
-    description: 'The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal.',
+    topics: ['Міжнародна допомога', 'Дії уряду'],
+    cities: [],
+    text: `
+**Heroic people of Ukraine!**
+
+For more than 2 days now, our troops have been destroying the occupiers on land, at sea and in the sky. 
+
+Thousands of Russian soldiers were killed, and hundreds were taken prisoner. 
+
+Our army is defending all parts of the frontline. The enemy had expected a cakewalk, but, instead, ended up in a real hell. 
+
+Ukraine is rising! Tens of thousands of volunteers, reservists and territorial defense fighters have already joined the defense of our land. 
+
+The Russian leadership does not understand that it is at war not only with the Armed Forces of Ukraine, but with the whole Ukrainian nation. And this nation has already risen to the liberation war against the occupiers. 
+
+The enemy has never achieved its goal, and, therefore, began shelling peaceful population and civilian infrastructure. They shoot at kindergartens, hospitals, and households; they shoot down ambulances and buses with children. The Russian command must appear before the tribunal for these crimes!
+
+The enemy must definitely be punished for killing Ukrainian children! UKRAINE WILL NEVER FORGIVE!
+
+We stay in Kyiv and continue to work hard. An extraordinary meeting of the Government has taken place today, and a number of important decisions have been made.
+
+First! Ensuring sustained operation of food producers under conditions of martial law. The maximum billing time for socially significant domestic food products will be no more than ten calendar days from the invoice date submitted by the suppliers.
+
+Second! According to the recently passed order, the State Reserve Agency is required to provide sufficient diesel fuel supplies for the needs of the military.
+
+Third! An ordinance on the transfer of property confiscated by a court order and the State Customs Service to the needs of the Armed Forces of Ukraine was adopted.
+
+Fourth! We have established the procedure to coordinate humanitarian aid supplies and their further delivery to the Ukrainians. The State Border Guard Service and the State Customs Service shall secure a simplified border-crossing regime for humanitarian aid vehicles. For their part, the civil-military administrations, together with the National Guard, National Police and State Emergency Service, will ensure acceptance, distribution, and warehousing of humanitarian aid. 
+
+It has to be reminded that yesterday we adopted Resolution 5155 ‘On Recognition of Humanitarian Aid as Goods Required for National Security and Defense’. According to this resolution, for the time while martial law is enforced, the territorial defense leadership will have the right to decide on varieties of goods and humanitarian aid required for national security and defense. Such shipments will be allowed to cross the state border of Ukraine immediately.
+
+Fifth! We have adopted a resolution on payment and delivery of pensions and cash aid for the period of martial law. Whenever any people find themselves unable to receive the money in their communities, or if it is not possible to wire it to the specified account, the pensions and cash aid will be handled through money orders. The Ministry of Social Policy, together with the Pension Fund and other bodies, will contact the recipients through personal e-accounts of the Pension Fund to actualize their place of residence.
+
+And the sixth! The government has decided to temporarily close all the BCPs across the state border of Ukraine with Russia and Belarus. And now, one very important point!!! Citizens of Ukraine who are still in those countries and want to come back home will be able to enter Ukraine. Come back and prove that you stand up for the good!
+
+I want to appeal once again to all civilized countries. It is time to choose your side! Are you on the side of child killers, or you are on the side of a great European nation that protects its freedom and its country from the aggressor? Give Ukraine defense weapons!!! Help us with equipment and materiel! Isolate Russia in all areas where possible! And we will continue to defend our country in the meantime. 
+
+We thank our friends from Poland, Latvia, the Czech Republic, the Netherlands, the U.S., the United Kingdom, and other countries who have already sent and continue to send us weapons. The Ukrainian people will never forget this! 
+
+My Fellow Ukrainians, keep holding the line! We are on our land! Glory to the Ukrainian army! 
+
+**Glory to the Ukrainian people!**
+    `,
+    description: 'For more than 2 days now, our troops have been destroying the occupiers on land, at sea and in the sky.',
     url: 'https://www.youtube.com/watch?v=7ZHUyOBpQi4'
   },
   {
@@ -891,8 +1123,52 @@ All thoughts, all prayers of Ukrainians are with our military. We believe in the
     russianTimestamp: '',
     speaker: ['Михайло Подоляк', 'Денис Шмигаль'],
     date: '2022-02-25T20:15:28',
-    text: 'Briefing by the Adviser to the Head of the Office of the President Mykhailo Podoliak and the Prime Minister of Ukraine Denys Shmyhal.',
-    description: 'Briefing by the Adviser to the Head of the Office of the President Mykhailo Podoliak and the Prime Minister of Ukraine Denys Shmyhal.',
+    topics: ['Воєнний стан'],
+    cities: ['Київ'],
+    text: `
+Ukraine has been at war with Russia for 1.5 days now. For 1.5 days now, the Ukrainian people and Ukrainian soldiers have been fighting the occupier on all fronts. With their heroism, our military has forever engraved their names in the world history of fame and bravery.
+
+On all fronts, the enemy suffers heavy losses and this is only the beginning, if aggressor does not retreat immediately.
+
+Tens of thousands of Ukrainians join the ranks of territorial defence.
+
+Our economy is turning to the format of "everything for the front - everything for the victory". You, fellow citizens, should turn yourself to the same format of work.
+
+Join the ranks of the Armed Forces and the Defence Forces, help the military, help volunteers and medical community.
+
+This is our homeland and we must do everything to protect its sovereignty and freedom.
+
+We held an extraordinary meeting of the Government today. We took several decisions necessary to support the army, stable functioning of hospitals and critical infrastructure during military time in connection with Russia's aggression against Ukraine.
+
+First. Due to the martial law, the State Treasury Service, together with the Ministry of Finance, will redistribute funds to finance the strengthening of national security and defence, urgent measures under the martial law and payments.
+
+Second. The Government has decided to make state domestic borrowings of up to UAH 400 billion through the gradual issuance of military bonds.
+
+Third. In connection with the imposition of martial law, we have approved additional types of financial support for the military.
+
+Fourth. The Government has decided that the funds received by Ukrainians from the state for vaccination under the President's program ePidtrymka can be used to help the army. The money can either be transferred to help Ukrainian military to the International Charitable Foundation Come Back Alive or be credited to a special account of the National Bank, opened to raise funds for the army.
+
+Fifth. Ports of Ukraine are under increased protection. The Cabinet of Ministers has established the level 3 of protection in sea and river ports of Ukraine, port facilities, vessels that have the right to sail under the State Flag of Ukraine for the period of martial law.
+
+Sixth. By the decision of the Government for the period of martial law, the leaders of the territorial defence zone have the right to decide independently what humanitarian aid and what amount of it is needed. The State Customs Service and Border Guards must ensure the immediate clearance of such assistance to be delivered to hospitals, the Armed Forces of Ukraine and the Territorial Defence Forces.
+
+Seventh. We are introducing a temporary suspension of blood exports. The Ministry of Health will also approve the scope of mandatory provision of the healthcare system with donated blood and blood products.
+
+And more. I want to address our international partners.
+
+There are core moments for each nation, which become a part of history textbooks aftermath. Moments when you must decide - to swallow the actions of the aggressor or to repel them. And now it is such a moment.
+
+The moment when Europe, the U.S and the whole civilized world must unite and stop the aggressor and his war against Ukraine. We call on all civilized countries to impose an embargo on oil products from Russia, to ban Russian citizens from entering your territory, to disconnect Russia from the SWIFT system.
+
+We call on NATO, Europe, the United States - close the skies over Ukraine. This won’t mean your military confrontation with Russia. This means that you stop the war and your descendants will remember you as heroes.
+
+We, in turn, will continue to defend our own land. We won’t give up and will continue to destroy our enemies. We are holding the line.
+
+**Glory to the Ukrainian army!**
+
+**Glory to the Ukrainian people! Glory to Ukraine!**
+    `,
+    description: 'On all fronts, the enemy suffers heavy losses and this is only the beginning, if aggressor does not retreat immediately.',
     url: 'https://www.youtube.com/watch?v=YnbAyPzqEcw'
   },
   {

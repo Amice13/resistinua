@@ -156,7 +156,7 @@
 
                         <v-list-item-content>
                           <v-list-item-title class="blue--text">{{ item.name }}</v-list-item-title>
-                          <v-list-item-subtitle>{{ item.text }}</v-list-item-subtitle>
+                          <v-list-item-subtitle>{{ item.description }}</v-list-item-subtitle>
                         </v-list-item-content>
                       </template>
                     </v-list-item>
