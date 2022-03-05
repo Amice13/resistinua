@@ -857,6 +857,24 @@ const source = [
     type: ['Вебсайт'],
     location: ['Україна']
   },
+  {
+    id: '96',
+    name: 'Well, how are you?',
+    description: 'A bot that allows you to better coordinate in these difficult times. It asks two questions - "Are you in touch?" and asks where you are. Then it creates analytics on the obtained data.',
+    link: 'https://t.me/Nu_sho_yak_vy_bot',
+    tags: ['Інформація', 'Безпека'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '97',
+    name: 'Occupant',
+    description: 'The list of the military of the Russian Federation and captured soldiers',
+    link: 'https://invaders-rf.com/',
+    tags: ['Офіційні','Інформація', 'Для РФ'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
 ]
 
 module.exports = source
