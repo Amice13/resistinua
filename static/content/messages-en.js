@@ -1,5 +1,31 @@
 const source = [
   {
+    id: 'ydTFU_bwHUQ',
+    name: 'Address by President Volodymyr Zelenskii',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-05T21:32:37',
+    topics: [],
+    cities: [],
+    text: `"Our people, our Ukrainians are not retreating. Do not give up. Do not stop the resistance. They shout to the occupiers: go home! Like a Russian ship!”. Address by President Volodymyr Zelensky.`,
+    description: '"Our people, our Ukrainians are not retreating. Do not give up. Do not stop the resistance. They shout to the occupiers: go home! Like a Russian ship!”',
+    url: 'https://www.youtube.com/watch?v=ydTFU_bwHUQ'
+  },
+  {
+    id: '7Ql1bzg_StY',
+    name: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-05T13:40:50',
+    topics: [],
+    cities: [],
+    text: `Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office`,
+    description: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=7Ql1bzg_StY'
+  },
+  {
     id: 'WygvUi0kwn0',
     name: 'Briefing by Iryna Vereshchuk',
     translated: false,
@@ -7,7 +33,7 @@ const source = [
     speaker: ['Ірина Верещук'],
     date: '2022-03-05T10:39:52',
     topics: [],
-    cities: [],
+    cities: ['Волноваха'],
     text: `Briefing by Iryna Vereshchuk`,
     description: 'Briefing by Iryna Vereshchuk',
     url: 'https://www.youtube.com/watch?v=WygvUi0kwn0'
