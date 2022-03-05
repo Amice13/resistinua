@@ -832,8 +832,8 @@ const source = [
   },
   {
     id: '93',
-    name: 'Розкажи мені',
-    description: 'Онлайн-платформа «Розкажи мені» починає цілодобово надавати українцям безкоштовну психологічну допомогу. Якщо ви відчуваєте тривогу, у вас трапляються панічні атаки, ви близькі до депресії чи навіть на межі – залиште заявку та очікуйте. Спеціаліст зв’яжеться з вами якомога швидше.',
+    name: 'Tell Me',
+    description: 'The Tell Me online platform has started giving Ukrainians free psychological help around the clock. If you feel anxiety, have panic attacks, are close to depression or even on the edge – please submit a request and wait. A specialist will contact you as soon as possible.',
     link: 'https://tellme.com.ua/',
     tags: ['Інформація', 'Здоров\'я'],
     type: ['Вебсайт'],
@@ -841,8 +841,8 @@ const source = [
   },
   {
     id: '94',
-    name: 'Гаряча лінія для волонтерів',
-    description: 'Цей бот створений для допомоги військовим та населенню України. Гаряча лінія для волонтерів, де можна запропонувати свою допомогу або отримати її.',
+    name: 'A hotline for volunteers',
+    description: 'This bot was created to help the military and the population of Ukraine. A hotline for volunteers where one can offer help or get it from others.',
     link: 'https://t.me/VolunteersHotlineBot',
     tags: ['Інформація', 'Волонтерство'],
     type: ['Чат-бот'],
@@ -850,8 +850,8 @@ const source = [
   },
   {
     id: '95',
-    name: 'Колективна обізнаність України щодо нерозірваних боєприпасів',
-    description: 'Це веб-сайт створений для допомоги особам, які знайшли вибухонебезпечні пристрої в Україні.',
+    name: 'Collective awareness of unexploded ammunition in Ukraine',
+    description: 'This website was created to help people who have found explosive devices in Ukraine.',
     link: 'https://www.ukraine-cat-uxo.com/t-ua',
     tags: ['Інформація', 'Безпека'],
     type: ['Вебсайт'],

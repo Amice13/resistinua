@@ -1,20 +1,46 @@
 const source = [
   {
+    id: 'WygvUi0kwn0',
+    name: 'Briefing by Iryna Vereshchuk',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-05T10:39:52',
+    topics: [],
+    cities: [],
+    text: `Briefing by Iryna Vereshchuk`,
+    description: 'Briefing by Iryna Vereshchuk',
+    url: 'https://www.youtube.com/watch?v=WygvUi0kwn0'
+  },
+  {
+    id: 'VmNG65OQzy8',
+    name: 'Address by the President of Ukraine Volodymyr Zelensky',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-05T11:15:55',
+    topics: ['Гуманітарні коридори', 'Втрати Росії'],
+    cities: ['Харків', 'Миколаїв', 'Київ', 'Чернігів', 'Суми', 'Маріуполь', 'Волноваха'],
+    text: `«I am sure that soon we will be able to tell our people: come back! Come back, because there is no more threat». Address by the President of Ukraine Volodymyr Zelensky.`,
+    description: '«I am sure that soon we will be able to tell our people: come back! Come back, because there is no more threat». Address by the President of Ukraine Volodymyr Zelensky.',
+    url: 'https://www.youtube.com/watch?v=VmNG65OQzy8'
+  },
+  {
     id: '8kDzO4EWDH8',
-    name: 'Брифінг Прем’єр-міністра України Дениса Шмигаля',
+    name: 'Briefing of the Prime Minister of Ukraine Denis Shmygal',
     translated: false,
     russianTimestamp: '',
     speaker: ['Денис Шмигаль'],
     date: '2022-03-05T00:20:30',
     topics: [],
     cities: [],
-    text: `Ситуація щодо російського вторгнення – брифінг Прем’єр-міністра України Дениса Шмигаля`,
-    description: 'Ситуація щодо російського вторгнення – брифінг Прем’єр-міністра України Дениса Шмигаля',
+    text: `The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal`,
+    description: 'The situation regarding the Russian invasion - a briefing by the Prime Minister of Ukraine Denis Shmygal',
     url: 'https://www.youtube.com/watch?v=8kDzO4EWDH8'
   },
   {
-    id: 'IMkipEljefo',
-    name: 'Ми продовжуємо боротися – звернення Президента України',
+    id: 'FQgqrbBnZWs',
+    name: 'We responded to the invasion as we can in times of greatest danger. Responded with heroism',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
@@ -130,8 +156,8 @@ I conferred the military rank of General on Valerii Fedorovych Zaluzhnyi, Comman
 
 **Glory to Ukraine!**
     `,
-    description: 'Ми продовжуємо боротися. Ми захистимо нашу державу. Ми звільнимо нашу землю. Завдяки нашим героям.',
-    url: 'https://www.youtube.com/watch?v=IMkipEljefo'
+    description: 'We responded to the invasion as we can in times of greatest danger. Responded with heroism. Solidarity. Mutual assistance.',
+    url: 'https://www.youtube.com/watch?v=FQgqrbBnZWs'
   },
   {
     id: 'UPrPzUmlXHA',
