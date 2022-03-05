@@ -495,6 +495,17 @@ All 40 million are like these fifteen heroes!
     url: 'https://www.youtube.com/watch?v=KzGncT4vZeQ'
   },
   {
+    id: 'Pm3Dui8n8rs',
+    name: 'Address by Kyiv Mayor Vitaliy Klitschko',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Віталій Кличко'],
+    date: '2022-03-02T12:55:06',
+    text: 'The enemy is gathering forces closer to the capital. We are preparing to defend Kyiv!',
+    description: 'The enemy is gathering forces closer to the capital. We are preparing to defend Kyiv!',
+    url: 'https://www.youtube.com/watch?v=Pm3Dui8n8rs'
+  },
+  {
     id: 'Nmot4gqypjQ',
     name: 'Appeal to Russian IT specialists',
     translated: false,

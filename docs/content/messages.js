@@ -496,6 +496,17 @@ const source = [
     url: 'https://www.youtube.com/watch?v=KzGncT4vZeQ'
   },
   {
+    id: 'Pm3Dui8n8rs',
+    name: 'Звернення мера Київа Віталія Кличка',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Віталій Кличко'],
+    date: '2022-03-02T12:55:06',
+    text: 'Ворог стягує сили все ближче до столиці. Ми готуємося і будемо обороняти Київ!',
+    description: 'Ворог стягує сили все ближче до столиці. Ми готуємося і будемо обороняти Київ!',
+    url: 'https://www.youtube.com/watch?v=Pm3Dui8n8rs'
+  },
+  {
     id: 'Nmot4gqypjQ',
     name: 'Звернення до російських ІТ-шників',
     translated: false,
