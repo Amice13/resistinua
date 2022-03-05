@@ -617,7 +617,7 @@ const source = [
   {
     id: '66',
     name: 'Support Ukraine',
-    description: 'Довідник практичних порад, як допомогти Україні ззовні',
+    description: 'A guide of practical advice on how to help Ukraine from abroad',
     link: 'https://supportukraine.notion.site/',
     tags: ['Інформація', 'Гайди'],
     type: ['Вебсайт'],
@@ -625,8 +625,8 @@ const source = [
   },
   {
     id: '67',
-    name: 'Карта працюючих магазинів',
-    description: 'Карта відображає актуальний статус роботи магазинів в умовах воєнного стану в Україні',
+    name: 'A map of working shops',
+    description: 'The map shows the current working status of shops under martial law in Ukraine',
     link: 'https://www.google.com/maps/d/u/0/embed?mid=16vxeRoA5rBl8L9IwyuNswni1uU59vyZF&ll=50.51967162617199%2C32.21530446152501&z=6',
     tags: ['Інформація'],
     type: ['Мапа'],
@@ -634,8 +634,8 @@ const source = [
   },
   {
     id: '68',
-    name: 'Карта аптек які зараз працюють',
-    description: 'Карта відображає актуальний статус роботи аптек в умовах воєнного стану в Україні',
+    name: 'A map of working pharmacies',
+    description: 'The map shows the current working status of pharmacies under martial law in Ukraine',
     link: 'https://www.google.com/maps/d/embed?mid=11ftUM5axVYLzh23VvRRUNBcDZ4stmh1l&ehbc=2E312F&ll=49.898792018174966%2C30.33388632909823&z=10',
     tags: ['Інформація', 'Здоров\'я'],
     type: ['Мапа'],
@@ -644,7 +644,7 @@ const source = [
   {
     id: '69',
     name: 'MapaHelp',
-    description: 'Карта місць де допомагають українцям: житлом, одягом, медичною допомогою',
+    description: 'A map of places where Ukrainians can get help: accommodation, clothing, healthcare',
     link: 'https://mapahelp.me',
     tags: ['Інформація', 'Допомога'],
     type: ['Мапа'],
@@ -653,7 +653,7 @@ const source = [
   {
     id: '70',
     name: 'World For Ukraine',
-    description: 'Платформа дій проти російської агресії',
+    description: 'A platform of actions against the Russian aggression',
     link: 'https://worldforukraine.net/',
     tags: ['Інформація'],
     type: ['Вебсайт'],
@@ -662,7 +662,7 @@ const source = [
   {
     id: '71',
     name: 'Anti Fake',
-    description: 'Відео матеріали для росіян | Anti Fake',
+    description: 'Video materials for Russians: Anti Fake',
     link: 'https://bit.ly/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D1%84%D0%B0%D0%BA%D1%82%D1%8B',
     tags: ['Інформація', 'Для РФ'],
     type: ['Дані'],
@@ -670,8 +670,8 @@ const source = [
   },
   {
     id: '72',
-    name: 'Поп-ап про російську агресію',
-    description: 'Розмістіть поп-ап на вашому сайті щодо російської агресії',
+    name: 'A pop-up on the Russian aggression',
+    description: 'Place a pop-up on the Russian aggression on your website',
     link: 'https://infowarship.pages.dev/howto-en',
     tags: ['Інформація', 'Для РФ'],
     type: ['Скрипт'],
@@ -680,7 +680,7 @@ const source = [
   {
     id: '75',
     name: 'Stop Putin',
-    description: 'Сайт для координації протестів у вашій країні, вашому місті із часом та місцем протесту.',
+    description: 'A website to coordinate protests in your country, your city with information on the time and place of protests.',
     link: 'https://www.stopputin.net/',
     tags: ['Інформація', 'Протести'],
     type: ['Вебсайт'],
@@ -688,12 +688,174 @@ const source = [
   },
   {
     id: '76',
-    name: 'Відправ Путіна на Юпітер',
-    description: 'Пожертвуй $2,99, щоб допомогти нам побудувати ракету, яка пошле кривавого диктатора подалі від Землі.',
+    name: 'Send Putin to Jupiter',
+    description: 'Donate $2.99 to help us build a rocket to send the bloodthirsty dictator as far from the Earth as possible.',
     link: 'https://putler.io/',
     tags: ['Офіційні', 'Благодійність'],
     type: ['Вебсайт'],
     location: ['Світ']
+  },
+  {
+    id: '77',
+    name: 'UA Anti Spam',
+    description: 'A Telegram bot that removes messages with names of cities, shelters, and words about how troops move',
+    link: 'https://t.me/UaAntiSpam_bot',
+    tags: ['Сервіс'],
+    type: ['Бот'],
+    location: ['Україна']
+  },
+  {
+    id: '78',
+    name: 'Help on the road',
+    description: 'This bot will help people who are trying to go from the east to the west of Ukraine or vice versa around the country.',
+    link: 'https://t.me/help_onroad_ua_bot',
+    tags: ['Транспорт'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '79',
+    name: 'A database of creative posters',
+    description: 'Use posters for the benefit of the Ukrainian fight with the mention of the author and keep up the information front of our fight against Russia. Collected jointly by Projector and Telegraf.design.',
+    link: 'https://standwithukraine.super.site/a441535fb4fb4a9cab4cda445ee3a869',
+    tags: ['Мистецтво'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '80',
+    name: 'Russia-Ukraine War',
+    description: 'Information for citizens of other countries on how to help Ukraine and links to official charity organizations',
+    link: 'https://ukrainewar.carrd.co/',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '81',
+    name: 'How you can support Ukraine',
+    description: 'Information on the collection of funds and petitions for foreigners (in English and German)',
+    link: 'https://how-you-can-support-ukraine.super.site/',
+    tags: ['Інформація', 'Благодійність'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '82',
+    name: 'Russia Canceled',
+    description: 'Information on the sanctions applied to Russia and Russian businesses',
+    link: 'https://t.me/+U6y4VDrDjN01OTIy',
+    tags: ['Інформація'],
+    type: ['Телеграм-канал'],
+    location: ['Україна']
+  },
+  {
+    id: '83',
+    name: 'Russian VC supporting WAR',
+    description: 'Information on the attitude of venture investors, businessmen and public persons towards the war',
+    link: 'https://stopwar2022.notion.site/Russian-VC-supporting-WAR-dc8ac6663eed4eaba91de9e136e239ee',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '84',
+    name: 'A map of help',
+    description: 'A map of help for Ukrainian refugees in Europe (marks in Polish)',
+    link: 'https://www.google.com/maps/d/u/0/viewer?mid=168CYAtRoeK_YIEnD8PJm6dx17d09xrSN&hl=pl&ll=52.217890743009896%2C20.545422563708165&z=6',
+    tags: ['Інформація', 'Біженці'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '85',
+    name: 'A map of safe places for scientists',
+    description: 'A map of places where Ukrainian scientists can find shelter',
+    link: 'https://scienceforukraine.eu/',
+    tags: ['Інформація', 'Біженці', 'Вчені'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '86',
+    name: 'Go out for Ukraine',
+    description: 'A map of demonstrations to support Ukraine',
+    link: 'https://standwithukraine.live/',
+    tags: ['Інформація', 'Протести'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '87',
+    name: 'Safe places in Lviv',
+    description: 'Collection of information on the state of bomb shelters in Lviv',
+    link: 'http://lviv.safemap.in.ua/',
+    tags: ['Інформація', 'Безпека'],
+    type: ['Мапа'],
+    location: ['Львів']
+  },
+  {
+    id: '89',
+    name: 'An open letter to IT',
+    description: 'An open letter to IT giants with the request to stop any interaction with Russia.',
+    link: 'https://www.help99.co/open-letter',
+    tags: ['Офіційні', 'Інформація'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '90',
+    name: 'A map of war in Ukraine',
+    description: 'A map showing events related to the situation in Ukraine',
+    link: 'https://liveuamap.com/',
+    tags: ['Інформація'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '91',
+    name: 'Help for Ukraine 🇺🇦',
+    description: 'A chat bot whose aim is to unite people in one bot where everybody can help others or ask for help.',
+    link: 'https://t.me/TheUkrainiansHelp_bot',
+    tags: ['Інформація'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '92',
+    name: 'Friend. First aid',
+    description: 'Команда Інституту когнітивного моделювання у співпраці з кафедрою медичної психології, психосоматичної медицини та психотерапії Національного медичного університету імені Богомольця та фахівцями проекту «Друг» розробила бот першої психологічної допомоги. Він стане в пригоді у перші години після травматичної події.',
+    link: 'https://t.me/friend_first_aid_bot',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '93',
+    name: 'Розкажи мені',
+    description: 'Онлайн-платформа «Розкажи мені» починає цілодобово надавати українцям безкоштовну психологічну допомогу. Якщо ви відчуваєте тривогу, у вас трапляються панічні атаки, ви близькі до депресії чи навіть на межі – залиште заявку та очікуйте. Спеціаліст зв’яжеться з вами якомога швидше.',
+    link: 'https://tellme.com.ua/',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '94',
+    name: 'Гаряча лінія для волонтерів',
+    description: 'Цей бот створений для допомоги військовим та населенню України. Гаряча лінія для волонтерів, де можна запропонувати свою допомогу або отримати її.',
+    link: 'https://t.me/VolunteersHotlineBot',
+    tags: ['Інформація', 'Волонтерство'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '95',
+    name: 'Колективна обізнаність України щодо нерозірваних боєприпасів',
+    description: 'Це веб-сайт створений для допомоги особам, які знайшли вибухонебезпечні пристрої в Україні.',
+    link: 'https://www.ukraine-cat-uxo.com/t-ua',
+    tags: ['Інформація', 'Безпека'],
+    type: ['Вебсайт'],
+    location: ['Україна']
   },
 ]
 

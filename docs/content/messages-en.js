@@ -1,5 +1,152 @@
 const source = [
   {
+    id: '8kDzO4EWDH8',
+    name: 'Брифінг Прем’єр-міністра України Дениса Шмигаля',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-05T00:20:30',
+    topics: [],
+    cities: [],
+    text: `Ситуація щодо російського вторгнення – брифінг Прем’єр-міністра України Дениса Шмигаля`,
+    description: 'Ситуація щодо російського вторгнення – брифінг Прем’єр-міністра України Дениса Шмигаля',
+    url: 'https://www.youtube.com/watch?v=8kDzO4EWDH8'
+  },
+  {
+    id: 'IMkipEljefo',
+    name: 'Ми продовжуємо боротися – звернення Президента України',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-04T21:06:51',
+    topics: ['Саміт НАТО', 'Закрите небо', 'Герої України', 'Відключення телебачення'],
+    cities: ['Харків', 'Чернігів', 'Суми', 'Волноваху', 'Маріуполь', 'Миколаїв', 'Ужгород', 'Київ', 'Херсон', 'Охтирка', 'Гостомель'],
+    text: `
+**Great people of a great country!**
+
+A country of power. A country of freedom. The people of absolute moral leadership.
+
+We have endured nine days of darkness. Nine days of evil. This is three times more than darkness and evil expected.
+
+We responded to the invasion as we can in times of greatest danger. Responded with heroism. Solidarity. Mutual assistance. We responded in Ukrainian. So that the history of Europe will remember it forever. It will tell children about it. Show it to grandchildren.
+
+The whole continent will know the city of Kharkiv. The city of Chernihiv. The city of Sumy. The city of Volnovakha. The city of Mariupol. The city of Mykolaiv. And many other of our beautiful cities. Living cities! Cities that have withstood the worst invasion since World War II.
+
+I say this specifically as a fait accompli. Withstood. No matter what the situation is at the moment, strategically, everything is clear.
+
+Ukrainians are united from Uzhhorod to Kharkiv, from Kyiv to Kherson. Ukrainians are chasing the enemy near Kyiv. They are beating him for Okhtyrka. Punishing him for Hostomel. They will take revenge for Kherson. Our Kherson! Ukrainian Kherson. Which they tried to humiliate today.
+
+They failed. They were not allowed. Ukrainians have shown themselves.
+
+They did not allow themselves to be deceived in a cheap cynical show. With a handout instead of help. With propaganda instead of sincerity.
+
+Russian propagandists thought of our people as of themselves. And they saw that Kherson residents are proud. And respect themselves. Respect Ukraine.
+
+I understand how difficult the decision is. When in the occupation they come out against armed enemies.
+
+I feel how risky it is.
+
+But I see how our people refuse to play by the rules of the invaders. How our people remain Ukrainians. How our people stay with our state, even temporarily finding themselves in the darkness.
+
+If Russian politicians still have their eyes, they will be able to see what Ukraine is. What our freedom is.
+
+The invaders thought they could turn off our television to Ukrainians. Our connection. They thought they could take away products, shut off the electricity. They thought it would force Ukrainians to submit.
+
+But even if you deprive us of oxygen, we will breathe deeply, to say: get out of our land!
+
+Even in complete darkness we see the truth.
+
+And we will fight until it darkens in our eyes.
+
+Because we are the warriors of light. And today no one on Earth will be able to say that this line is pathos.
+
+The 9th day of the war. Many of us have a tradition to remember those who are not with us on the 9th day.
+
+Eternal memory to everyone who died for Ukraine!
+
+Unfortunately, today there is a complete impression that it is time to give a funeral repast for something else:
+
+Security guarantees and promises.
+
+Determination of alliances.
+
+Values that seem to be dead for someone.
+
+The NATO summit took place today. Weak summit. Confused summit.
+
+Summit, which shows that not everyone considers the struggle for freedom to be Europe's number one goal.
+
+All NATO intelligence offices are well aware of the enemy's plans. They also confirmed that Russia wants to continue the offensive. As best it can.
+
+For 9 days we have seen a brutal war. They are destroying our cities. They are shelling our people, our children, and residential neighborhoods. Churches. Schools. They destroy everything that ensures a normal life. And they want to continue it.
+
+Knowing that new strikes and casualties are inevitable, NATO deliberately decided NOT to close the sky over Ukraine.
+
+We believe that NATO countries themselves have created a narrative that the closure of the sky over Ukraine would provoke Russia's direct aggression against NATO.
+
+This is self-hypnosis. Of those who are weak, underconfident. Internally. Although they may have weapons many times more powerful than ours.
+
+You had to think about people. About humanity itself.
+
+And what did you think about at that summit?
+
+All the people who will die starting from this day will also die because of you.
+
+Because of your weakness. Because of your disunity.
+
+All the Alliance has managed to do so far is to carry fifty tons of diesel fuel for Ukraine through its procurement system. Probably so that we can burn the Budapest Memorandum. To make it burn better.
+
+But it is already burnt for us. In the fire of Russian troops.
+
+Is this NATO we wanted? Is this the Alliance you were building?
+
+Today, the Alliance's leadership gave the green light for further bombing of Ukrainian cities by refusing to make a no-fly zone.
+
+You could close our sky. But…
+
+I do not know who you can protect and whether you can protect NATO countries.
+
+You will not be able to buy us off with liters of fuel for liters of our blood. Shed for our common Europe. For our common freedom. For our common future.
+
+But I am also grateful to our country's friends in NATO. There are many countries of our friends, our partners - most of the powerful partners. Those who help our state no matter what. From the first day of the invasion. And I'm sure, until the victory.
+
+And that's why we do NOT feel alone.
+
+We continue to fight. We will protect our state. We will liberate our land.
+
+Thanks to our heroes.
+
+I awarded decorations and medals to 76 Ukrainian heroes for personal courage and selfless actions for our defense. Unfortunately, 37 of them are awarded posthumously.
+
+I awarded the title of Hero of Ukraine to Lieutenant General Oleksandr Oleksiyovych Pavliuk, Commander of the Joint Forces Operation.
+
+I conferred the military rank of Brigadier General on Colonel Volodymyr Vasyliovych Shvorak, Deputy Commander of the East Operational Command of the Land Forces of the Armed Forces of Ukraine.
+
+I conferred the military rank of Brigadier General of Justice on Colonel of Justice Serhiy Mykolayovych Melnyk, Head of the Military Law Institute of the Yaroslav the Wise National Law University.
+
+I conferred the military rank of Brigadier General on Colonel Artem Yevhenovych Bohomolov, Deputy Commander of the West Operational Command.
+
+I conferred the military rank of General on Valerii Fedorovych Zaluzhnyi, Commander-in-Chief of the Armed Forces of Ukraine.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Ми продовжуємо боротися. Ми захистимо нашу державу. Ми звільнимо нашу землю. Завдяки нашим героям.',
+    url: 'https://www.youtube.com/watch?v=IMkipEljefo'
+  },
+  {
+    id: 'UPrPzUmlXHA',
+    name: 'Володимир Зеленський під час телемосту звернувся до жителів європейських міст',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-04T21:06:51',
+    topics: [],
+    cities: [],
+    text: `Президент України Володимир Зеленський під час телемосту звернувся до жителів європейських міст`,
+    description: 'Президент України Володимир Зеленський під час телемосту звернувся до жителів європейських міст',
+    url: 'https://www.youtube.com/watch?v=UPrPzUmlXHA'
+  },
+  {
     id: 'xJwoFDVuvNg',
     name: 'Briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
     translated: false,
@@ -12,15 +159,41 @@ const source = [
   },
   {
     id: 'gKFyL9a3a5k',
-    name: 'We survived the night that could have stopped the history of Ukraine and Europe',
+    name: 'We have survived the night that could have stopped the history of Ukraine and Europe',
     translated: false,
-    russianTimestamp: '',
+    russianTimestamp: 'https://youtu.be/gKFyL9a3a5k?t=40',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-04T04:13:08',
-    topics: ['Атомна станція', 'Атомна загроза'],
-    cities: ['Чорнобиль', 'Запоріжжя', 'Енергодар'],
-    text: `«We survived the night that could have stopped the history of Ukraine and Europe». Address by the President Volodymyr Zelenskii.`,
-    description: '«We survived the night that could have stopped the history of Ukraine and Europe». Address by the President Volodymyr Zelenskii.',
+    topics: ['Атомна станція', 'Атомна загроза', 'Поранені діти'],
+    cities: ['Чорнобиль', 'Прип\'ять', 'Енергодар', 'Чернігів', 'Охтирка', 'Харків', 'Маріуполь', 'Миколаїв', 'Київ', 'Херсон'],
+    text: `
+**People of Ukraine!**
+
+We have survived the night that could have stopped history. History of Ukraine. History of Europe.
+
+Russian troops attacked the Zaporizhzhia nuclear power plant. The largest in Europe. It alone could be like six Chornobyls. Russian tankers knew what they were firing at. Direct aiming at the station. This is terror of an unprecedented level.
+
+There are 15 nuclear units in Ukraine. And the Russian servicemen have completely forgotten about Chornobyl. About this world tragedy.
+
+Russian people, I want to address you. How is that even possible? Together in 1986 we struggled with the consequences of the Chornobyl disaster. You must remember the burning graphite scattered by the explosion. Victims. You must remember the glow above the destroyed power unit. You must remember the evacuation from Pripyat and the 30 km zone. How could you forget it? And if you have not forgotten, then you cannot be silent. You must tell your authorities, go to the streets and say that you want to live. To live on earth without radioactive contamination. Radiation does not know where the border of Russia is.
+
+All night I was in touch with partners, with the leaders of other countries, so that the world could react. I felt that the world leaders were shocked. Britain is convening a UN Security Council over the attack. The IAEA is launching its 24-Hour Incident and Emergency Center. Immediate sanctions against the nuclear terrorist state are needed. Immediate closure of the sky over Ukraine is needed, because only this can guarantee that Russia will not strike at least missiles and air bombs at nuclear facilities.
+
+I am grateful to our heroes from the National Guard who guarded the station and tried to stop the enemy. I am grateful to the rescuers who extinguished the fire. But a lot depends on the common people of Energodar. You understand the threat to the station better than anyone else. You live there. Next to it. And you see the invaders directly. Drive them away. Let them know that Energodar is Ukraine. That Ukraine is not a place for nuclear ashes.
+
+Ukrainians! The enemy has brought the vast majority of its troops into the territory of our state. Almost the entire Russian army is thrown against our people. But the heroic resistance of Ukrainians has been saving our country from this invasion for the ninth day. Ukrainian cities have not seen such inhuman cruelty since the Nazi occupation. Chernihiv, Okhtyrka, Kharkiv, Mariupol. They are purposefully destroying civilian infrastructure. Destroying people. Residential neighborhoods. Just yesterday, Russian bombs killed 47 people in Chernihiv. Peaceful people. Kharkiv... Kharkiv is simply being destroyed by rocket artillery and air strikes. Russia. Destroys. Kharkiv. How could this happen? This morning in Zhytomyr, the rocket hit the school building. Hit children. This is the reality when “fraternal” Russia comes.
+
+Yesterday, during talks in Belarus, we managed to agree on the creation of humanitarian corridors where people suffer the most. Today we will see whether the agreement works.
+
+Our defense inflicts maximum losses on the enemy. Almost 9,200 invaders were killed. As of the morning of the ninth day of the war. We beat them near Mykolaiv. We beat them near Kharkiv. We beat them near Kyiv. The capital remains a key target for the invaders. But they will not break us, they will not break our statehood. Never. No matter what they do, they will still lose. Because we are at home. We are on our own land.
+
+They are constantly preparing provocations. A provocation is being prepared in Kherson. They are going to put up a performance of a kind of rally for Russia. To do this, they brought strangers to the city. They are looking for local traitors. They want to make a TV picture as if Kherson is no longer Ukrainian. I want to remind you that this is how they started the so-called "DPR" and "LPR". You understand what happened to them later. This must be stopped. Kherson residents, show that this is your city. You can stop everything, any plan of the invaders. Do not listen to anyone - listen to your children, listen to your heart. You are Ukrainians.
+
+I urge Kherson residents to get rid of any despair. Ukraine will not give up what is ours. We are fighting against a powerful enemy that outnumbers us. Which outnumbers us in the amount of equipment. But which is thousands of light years away from normal people who have dignity. Show it. Our national flag. Our national anthem. Our national spirit. Be sure to let the occupiers know that they can only be in Kherson temporarily. And they will never be able to own Kherson. Like any other city in Ukraine. Let the occupiers know that they can only stay in Kherson temporarily. And they will never be able to own your city, Kherson. Like any other Ukrainian city - the city of our state.
+
+**Glory to Ukraine!**
+    `,
+    description: '«We have survived the night that could have stopped the history of Ukraine and Europe» address by President Volodymyr Zelenskyi',
     url: 'https://www.youtube.com/watch?v=gKFyL9a3a5k'
   },
   {
@@ -38,20 +211,20 @@ const source = [
   },
   {
     id: 'iGszxUWo_6A',
-    name: 'President of Ukraine Volodymyr Zelenskii spoke with Western media',
+    name: 'President of Ukraine Volodymyr Zelenskyi spoke with Western media',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-03T20:24:28',
     topics: [],
     cities: [],
-    text: `President of Ukraine Volodymyr Zelenskii spoke with Western media`,
-    description: 'President of Ukraine Volodymyr Zelenskii spoke with Western media',
+    text: `President of Ukraine Volodymyr Zelenskyi spoke with Western media`,
+    description: 'President of Ukraine Volodymyr Zelenskyi spoke with Western media',
     url: 'https://www.youtube.com/watch?v=iGszxUWo_6A'
   },
   {
     id: 'Okq2WNVfS_Y',
-    name: 'Address by President Volodymyr Zelenskii',
+    name: 'Address by President Volodymyr Zelenskyi',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
@@ -189,13 +362,13 @@ Ukrainians! Another night of Russia's full-scale war against us, against the peo
   },
   {
     id: 'UgacKdlj6HQ',
-    name: 'Ukrainian President Volodymyr Zelenskii gave an interview to CNN and Reuters',
+    name: 'Ukrainian President Volodymyr Zelenskyi gave an interview to CNN and Reuters',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-01T22:15:56',
-    text: 'Ukrainian President Volodymyr Zelenskii gave an interview to CNN and Reuters',
-    description: 'Ukrainian President Volodymyr Zelenskii gave an interview to CNN and Reuters',
+    text: 'Ukrainian President Volodymyr Zelenskyi gave an interview to CNN and Reuters',
+    description: 'Ukrainian President Volodymyr Zelenskyi gave an interview to CNN and Reuters',
     url: 'https://www.youtube.com/watch?v=UgacKdlj6HQ'
   },
   {
@@ -234,7 +407,7 @@ Ukrainians! Another night of Russia's full-scale war against us, against the peo
 
   {
     id: 'wIunyEb8h80',
-    name: 'Speech by Volodymyr Zelenskii during the debate during the extraordinary plenary session of the European Parliament',
+    name: 'Speech by Volodymyr Zelenskyi during the debate during the extraordinary plenary session of the European Parliament',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
@@ -274,7 +447,7 @@ And now I want to speak about those whose feat is an example of the highest mora
   },
   {
     id: 'ZbrSG0CMXak',
-    name: 'Звернення Президента України Володимира Зеленського',
+    name: 'Address by the President of Ukraine Volodymyr Zelenskyi',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
@@ -317,7 +490,7 @@ Another thing that is very important to say. We've been waiting 30 years for thi
 
 **Glory to Ukraine!**
     `,
-    description: 'Address by President of Ukraine Volodymyr Zelenskiiy',
+    description: 'Address by President of Ukraine Volodymyr Zelenskyi',
     url: 'https://www.youtube.com/watch?v=ZbrSG0CMXak'
   },
   {
@@ -377,7 +550,7 @@ When I ran for presidency, I said that each of us is the President. Because we a
   },
   {
     id: 'BeidqIRfLhE',
-    name: 'Volodymyr Zelenskii told about the phone call to Oleksandr Lukashenko',
+    name: 'Volodymyr Zelenskyi told about the phone call to Oleksandr Lukashenko',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
@@ -501,7 +674,7 @@ Ukrainians! We know exactly what we are defending. We will definitely win.
   },
   {
     id: 'iwkFfesUFxY',
-    name: 'President of Ukraine Volodymyr Zelenskiiy addressed the citizens of Belarus',
+    name: 'President of Ukraine Volodymyr Zelenskyi addressed the citizens of Belarus',
     translated: true,
     russianTimestamp: 'https://www.youtube.com/watch?v=iwkFfesUFxY',
     speaker: ['Володимир Зеленський'],
@@ -533,7 +706,7 @@ That is why now we say - not Minsk. The venue for the meeting may be other citie
 
 I sincerely wish Belarus to once again become that kind, safe Belarus that everyone saw not so long ago. Make the right choice. I am sure this is the main choice of your great people.
     `,
-    description: 'President of Ukraine Volodymyr Zelenskiiy addressed the citizens of Belarus',
+    description: 'President of Ukraine Volodymyr Zelenskyi addressed the citizens of Belarus',
     url: 'https://www.youtube.com/watch?v=iwkFfesUFxY'
   },
   {
@@ -560,13 +733,13 @@ I sincerely wish Belarus to once again become that kind, safe Belarus that every
   },
   {
     id: 'RZIf5oaWKBw',
-    name: 'Address by President Volodymyr Zelenskii',
+    name: 'Address by President Volodymyr Zelenskyi',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-26T21:00:50',
-    text: '«The world has seen that Ukrainians are powerful. Ukrainians are brave. Ukrainians are on their native land and will never give it up». Address by President Volodymyr Zelenskii',
-    description: '«The world has seen that Ukrainians are powerful. Ukrainians are brave. Ukrainians are on their native land and will never give it up». Address by President Volodymyr Zelenskii',
+    text: '«The world has seen that Ukrainians are powerful. Ukrainians are brave. Ukrainians are on their native land and will never give it up». Address by President Volodymyr Zelenskyi',
+    description: '«The world has seen that Ukrainians are powerful. Ukrainians are brave. Ukrainians are on their native land and will never give it up». Address by President Volodymyr Zelenskyi',
     url: 'https://www.youtube.com/watch?v=RZIf5oaWKBw'
   },
   {
@@ -1047,19 +1220,19 @@ Today is not just Valentine's Day. It is the day of those in love with Ukraine. 
     russianTimestamp: 'https://youtu.be/T8Gazh3lz8Y?t=122',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-23T09:27:19',
-    text: '«Ukrainians are a peaceful nation. We want silence. But if we remain silent today, we will disappear tomorrow. We have hard work to do every day. And we are ready for it. Self-confidence. Confidence in the country. Confidence in victory», - Volodymyr Zelenskii addressed Ukrainians after a meeting with leaders of all parliamentary factions and groups.',
-    description: '«Ukrainians are a peaceful nation. We want silence. But if we remain silent today, we will disappear tomorrow. We have hard work to do every day. And we are ready for it. Self-confidence. Confidence in the country. Confidence in victory», - Volodymyr Zelenskii addressed Ukrainians after a meeting with leaders of all parliamentary factions and groups.',
+    text: '«Ukrainians are a peaceful nation. We want silence. But if we remain silent today, we will disappear tomorrow. We have hard work to do every day. And we are ready for it. Self-confidence. Confidence in the country. Confidence in victory», - Volodymyr Zelenskyi addressed Ukrainians after a meeting with leaders of all parliamentary factions and groups.',
+    description: '«Ukrainians are a peaceful nation. We want silence. But if we remain silent today, we will disappear tomorrow. We have hard work to do every day. And we are ready for it. Self-confidence. Confidence in the country. Confidence in victory», - Volodymyr Zelenskyi addressed Ukrainians after a meeting with leaders of all parliamentary factions and groups.',
     url: 'https://www.youtube.com/watch?v=TiXdsekwAN4'
   },
   {
     id: '88jGEXGFOBs',
-    name: 'Statement by Volodymyr Zelenskii following the meeting of the National Security and Defense Council',
+    name: 'Statement by Volodymyr Zelenskyi following the meeting of the National Security and Defense Council',
     translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-02-22T11:14:27',
-    text: '«Russia\'s latest actions are a violation of the sovereignty and territorial integrity of our state. All responsibility for the consequences of these decisions lies with Russia», said President of Ukraine Volodymyr Zelenskii.',
-    description: '«Russia\'s latest actions are a violation of the sovereignty and territorial integrity of our state. All responsibility for the consequences of these decisions lies with Russia», said President of Ukraine Volodymyr Zelenskii.',
+    text: '«Russia\'s latest actions are a violation of the sovereignty and territorial integrity of our state. All responsibility for the consequences of these decisions lies with Russia», said President of Ukraine Volodymyr Zelenskyi.',
+    description: '«Russia\'s latest actions are a violation of the sovereignty and territorial integrity of our state. All responsibility for the consequences of these decisions lies with Russia», said President of Ukraine Volodymyr Zelenskyi.',
     url: 'https://www.youtube.com/watch?v=88jGEXGFOBs'
   }
 ]

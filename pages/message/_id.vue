@@ -66,14 +66,12 @@ export default {
   components: { VueMarkdown },
   async mounted () {
     let { id } = this.$route.params
-    console.log(id)
     if (!id) return this.$nuxt.error({ statusCode: 404, message: 'Сторінку не знайдено!' })
     let metadata = messages.find(el => el.id === id)
     if (!metadata) return this.$nuxt.error({ statusCode: 404, message: 'Сторінку не знайдено!' })
     for (let [key, value] of Object.entries(metadata)) {
       this.$set(this, key, value)
     }
-    console.log(metadata)
     this.videokey++
   },
   data () {
