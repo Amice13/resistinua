@@ -6,9 +6,57 @@ const source = [
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-05T21:32:37',
-    topics: [],
-    cities: [],
-    text: `"Our people, our Ukrainians are not retreating. Do not give up. Do not stop the resistance. They shout to the occupiers: go home! Like a Russian ship!”. Address by President Volodymyr Zelensky.`,
+    topics: ['Заклик до Росії', 'Оборона міст'],
+    cities: ['Херсон', 'Мелітополь', 'Бердянськ', 'Конотоп', 'Київ', 'Донецьк', 'Луганськ'],
+    text: `
+**Our free people!**
+
+You are now at the height of your spirit. At the maximum of possibilities. Every soldier on the lines of defense. Every doctor who saves lives. Every firefighter who extinguishes fire. Every entrepreneur who continues to work. Dozens and dozens of other professions. Millions of people, which became one whole. Superpower of the spirit.
+
+Programmers who joined the information troops. Everyone who joined the territorial defense. Teachers and educators who do not leave children. Police officers. Civil servants. We all withstood the blow together. We will all rebuild our state together.
+
+What gives us this confidence? Where is it from? It's not just words. It's not just faith. This is our reality. Unconditional reality. Which is fueled by the energy of our people everyday. Our resistance. Our protest.
+
+Kherson. Melitopol. Berdyansk. Konotop. The reality of all cities and towns, rural communities that expel the invaders everyday. By their determination. By their unity.
+
+Freedom Square in Kherson is the whole of Ukraine. The streets of Konotop, where locals are shouting at the invaders, are Ukraine.
+
+Ukraine, which we know, love, protect and will not give up to any enemy.
+
+It is a special heroism to protest when your city is occupied. Even temporarily. When you don't have a weapon and in response you receive gunshots. And you don't run. When you don't have armor and an armored personnel carrier is coming at you. And you do not move aside.
+
+That is why the occupation is temporary! It is artificial.
+
+Our people, our Ukrainians do not retreat. Do not give up. Do not stop the resistance. They shout to the occupiers - go home. Like a Russian ship!
+
+They drive them away from our territory. They block the roads for them. Every meter of our Ukrainian land won by protest and humiliation of the invaders is a step forward, a step towards victory for our entire state. This is a chance to live.
+
+Ukrainians! In all our cities where the enemy entered. Feel it. Go on the offensive! You need to go outside! You have to fight! Every time when there is an opportunity. As in Kherson. As in Berdyansk. As in Melitopol. As in Konotop. You need to go out and drive this evil out of our cities. To prevent the creation of new DPR and LPR where normal life is simply impossible. Only slavery. Only on the knees.
+
+Donbas! Remember what they said about you: Nobody put Donbas on its knees! And no one will be able to do that! Everyone in Donetsk and Luhansk knows these words. They were often repeated. Earlier. What about today?
+
+Donbas, today is the time! We appeal to all people in the temporarily occupied territory. To all who hear us. Whose memory has not been erased by propaganda. Whose eyes have not been closed by fear. Whose soul has not been mutilated by cynicism.
+
+Fight for your rights! For your freedom. For Ukraine. Together with Kherson. Together with Berdyansk. Together with Kyiv and all other Ukrainian cities that value life and are not afraid of anything.
+
+I know that many of you believed that Ukraine allegedly hates you.
+
+Will allegedly attack you. Will allegedly destroy you.
+
+Liars on Russian TV talk about it every day.
+
+Liars. It's their job to lie to you every day. But this should not be your destiny.
+
+Just compare Donetsk after 8 years of war and Kharkiv after 8 days of war.
+
+You were told that we are destroying cities. Look at Kharkiv. At Chernihiv. At 500 kg bombs that were dropped on the houses of Ukrainians. They were killing us. They were killing children. Look at Borodyanka. Look at the destroyed schools. At the blown up kindergartens. At the damaged Kharkiv Assumption Cathedral. Look what Russia has done.
+
+It did it right in front of your eyes. Protect yourself! Otherwise, it will take your life, too. Your houses. Ukraine does not shoot its people. We do not blow up residential buildings. And everyone in Donbas has always been and will be our people. Our citizens.
+
+In Donetsk. Luhansk. Kherson. Berdyansk. Melitopol. Konotop. In all our cities. In all cities of our state. In Ukraine.
+
+**Glory to Ukraine!**
+    `,
     description: '"Our people, our Ukrainians are not retreating. Do not give up. Do not stop the resistance. They shout to the occupiers: go home! Like a Russian ship!”',
     url: 'https://www.youtube.com/watch?v=ydTFU_bwHUQ'
   },

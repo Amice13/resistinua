@@ -54,6 +54,24 @@ const source = [
     location: ['Україна']
   },
   {
+    id: '88',
+    name: 'Russia invaded Ukraine',
+    description: 'Information on Russia\'s invasion of Ukraine, verified by the Ministry of Foreign Affairs',
+    link: 'https://war.ukraine.ua/',
+    tags: ['Офіційні', 'Інформація',],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '98',
+    name: 'Fight for Ukraine',
+    description: 'Join volunteer troops to fight for Ukraine',
+    link: 'https://fightforua.org',
+    tags: ['Офіційні','Завдання', 'Спротив'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
     id: '26',
     name: 'Working pharmacies in Ukraine',
     description: 'The map by the State Drug and Medication Control Service shows the current operational status of pharmacies in Ukraine under martial law.',
