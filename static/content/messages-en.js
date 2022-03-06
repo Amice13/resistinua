@@ -1,9 +1,103 @@
 const source = [
   {
-    id: 'vIvHODPG1Cc',
-    name: 'Ukraine receives support from partners backed by concrete steps',
+    id: 'nQDtSl-l_d8',
+    name: 'Today is Forgiven Sunday. But we will not forgive hundreds and hundreds of victims',
     translated: false,
-    russianTimestamp: 'https://youtu.be/vIvHODPG1Cc?t=152',
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-06T22:44:14',
+    topics: ['Міста-герої'],
+    cities: ['Харків', 'Чергнігів', 'Херсон', 'Маріуполь', 'Волноваха', 'Гостомель'],
+    text: `«Today is Forgiven Sunday. But we will not forgive hundreds and hundreds of victims. Thousands and thousands of sufferings. And God will not forgive. Not today. Not tomorrow. Never. And instead of the Forgiven there will be a Day of Judgment». Address by the President of Ukraine Volodymyr Zelenskii.`,
+    description: '«Today is Forgiven Sunday. But we will not forgive hundreds and hundreds of victims. Thousands and thousands of sufferings. And God will not forgive. Not today. Not tomorrow. Never. And instead of the Forgiven there will be a Day of Judgment». Address by the President of Ukraine Volodymyr Zelenskii',
+    url: 'https://www.youtube.com/watch?v=nQDtSl-l_d8'
+  },
+  {
+    id: 'nQDtSl-l_d8',
+    name: 'The occupier does not adhere to the agreements on humanitarian corridors',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-06T17:38:26',
+    topics: [],
+    cities: [],
+    text: `A briefing by Iryna Vereshchuk: The occupier does not adhere to the agreements on humanitarian corridors`,
+    description: 'A briefing by Iryna Vereshchuk: The occupier does not adhere to the agreements on humanitarian corridors',
+    url: 'https://www.youtube.com/watch?v=nQDtSl-l_d8'
+  },
+  {
+    id: 'We are proud of all those who are fighting for a free Ukraine',
+    name: 'Ситуація щодо російського вторгнення',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-06T13:40:18',
+    topics: ['Втрати Росії', 'Соціальні виплати'],
+    cities: [],
+    text: `
+**Heroic people of Ukraine!**
+
+It is the 11th day of war.
+
+We are proud of all those who are fighting for a free Ukraine. We are proud of the Ukrainian military, rescuers, volunteers, doctors, railroad workers, power engineers ... All those who continue to work and ensure the functioning of vital areas of the state.
+
+We are proud of the Ukrainian citizens who, despite the presence of the Russian occupier, go on pro-Ukrainian rallies and speak out against the "Russian World". We are proud of all of you!
+
+Russian occupation forces sustain considerable losses. Hundreds of international companies cease operation in Russia, close production, ban the sale of goods.
+
+And while Russia is suffering losses on all fronts, we must quickly transfer to the "Martial Law Economy" - to rebuild the efficient operation of all critical enterprises, mobilize resources, create new logistics.
+
+I appeal to the local authorities of those regions that are now in the home front! You are coping well with the challenge of accommodating evacuees. Now is the time to provide them with work.
+
+Before the war, we altogether talked a lot about industrial parks. Now your solutions in this direction should be the basis for the deployment of enterprises that will work for the sake of our victory.
+
+I appeal to businesses! And to those who are now engage in vigorous activities. To those who at that time were evacuated to other regions. We also have a request to you. If you are not exposed to any danger, gather your employees and resume production! The state needs your help today more than ever!
+
+I appeal to Ukrainians! The war came as a shock to each of us. Many have lost their homes, jobs and savings. But they remained to defend Ukraine. Today the state will support you. On commission of the President of Ukraine, an updated ePidtrymka program will be launched next week. Under this initiative, every employee, every self-employed person whose job was taken away as a result of the war, will be able to receive UAH 6,500 each.
+
+The program will function by analogy with vaccination payments - that is, through the Diia application. The Ministry of Digital Transformation will provide details on how to apply for assistance and receive the payment.
+
+It's for now. But in the future, each of you must start working for the benefit of Ukraine and our victory. I am grateful to everyone who in one way or another helped our heroic army, as well as continues to help people who found themselves in difficult conditions of destruction and occupation. Now we must resume production where possible.
+
+What, for its part, is the Government doing to ensure a speedy conversion to a war economy?
+
+First. Financial support for the functioning of the state. We are negotiating financial assistance with all international organizations and countries. Among the recent decisions - the European Investment Bank will transfer EUR 639 million from other projects to the state budget of Ukraine. We have already endorsed the necessary documents within the Government.
+
+The Ministry of Finance has already issued and held an auction of first military government bonds. The second auction is soon to be conducted. Anyone who is willing to invest in Ukraine, our military, our doctors, critical infrastructure workers can do so by purchasing military government bonds.
+
+Moreover, as I told before, we are engaged in establishing the funds with the resources to be directed to restore Ukraine. The Government has already authorized the responsible ministries to open four accounts with the National Bank, to which funds from individuals, organizations, companies and international financial organizations will be credited.
+
+We are talking about the Economic Recovery and Transformation Fund, the Affected Business Support Fund for small and mid-size entreprises. About the Destroyed Property and Infrastructure Restoration Fund. Here we are talking about homes, and apartments, and the housing that people have lost. In fact, this fund will also provide such compensation issues. As well as the Debt Management and Redemption Fund.
+
+Second. Economy under the martial law envisages clear needs planning. The state has already begun to place government orders at enterprises to meet the most critical needs. It's not just about weapons. We are talking about food, medicines, fuel and other important goods.
+
+We must provide Ukraine with everything it needs. The Government has already taken a decision to restrict the export of a number of socially important goods and raw materials for their production. Control over food security is currently one of the priorities of the Ministry of Economy.
+
+Hence, let’s get to work!
+
+**Glory to Ukraine! Glory to the heroic Ukrainian people!**
+    `,
+    description: 'We are proud of all those who are fighting for a free Ukraine – Address by the Prime Minister of Ukraine Denys Shmyhal',
+    url: 'https://www.youtube.com/watch?v=a6k4DdN6wAU'
+  },
+  {
+    id: 'OWMLWvz6ejY',
+    name: 'The situation regarding the Russian invasion',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-06T13:23:56',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion – briefing of the adviser to the head of the President's Office`,
+    description: 'The situation regarding the Russian invasion – briefing of the adviser to the head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=OWMLWvz6ejY'
+  },
+  {
+    id: 'Gec3XU1aEU8',
+    name: 'Ukraine receives support from partners backed by concrete steps',
+    translated: true,
+    russianTimestamp: 'https://youtu.be/Gec3XU1aEU8?t=152',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-06T12:08:54',
     topics: ['Міжнародна допомога', 'Закрите небо'],
@@ -106,7 +200,7 @@ Peace to save Ukraine.
 **Glory to Ukraine!**
     `,
     description: '«We have been fighting for 11 days. For freedom. For the state. We persevered. We already understand how we will rebuild our country»',
-    url: 'https://www.youtube.com/watch?v=vIvHODPG1Cc'
+    url: 'https://www.youtube.com/watch?v=Gec3XU1aEU8'
   },
   {
     id: 'jwOcWw6wsx4',
