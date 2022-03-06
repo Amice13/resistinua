@@ -1,9 +1,118 @@
 const source = [
   {
-    id: 'ydTFU_bwHUQ',
-    name: 'Address by President Volodymyr Zelenskii',
+    id: 'vIvHODPG1Cc',
+    name: 'Ukraine receives support from partners backed by concrete steps',
     translated: false,
-    russianTimestamp: '',
+    russianTimestamp: 'https://youtu.be/vIvHODPG1Cc?t=152',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-06T12:08:54',
+    topics: ['Міжнародна допомога', 'Закрите небо'],
+    cities: ['Харків', 'Чернігів', 'Суми', 'Маріуполь', 'Житомир', 'Коростень', 'Овруч', 'Київ', 'Одеса'],
+    text: `
+**I wish you victory, Ukrainian people!**
+
+I will start with the words of support I hear from our partners. From our friends. Very important words of support backed by concrete steps.
+
+Every day and every night I talk to the leaders of many countries, to the leaders of the business community. During all the days of the war, there is almost no hour when Ukraine does not hear what help it will receive.
+
+I talked about it again with President Biden last night. I am grateful to him for his determination. For preparing more new solutions for Ukrainians and Europeans. More new sanctions against aggression!
+
+And before that I spoke with American congressmen. More than two hundred representatives of both parties of the Congress. They are very sincere. They are fully interested in really helping us, providing concrete assistance.
+
+These are conversations that increase our confidence. Because one who is on the side of light will never fall into darkness.
+
+The world has the power to close our sky from Russian missiles. From Russian combat aircraft, helicopters.
+
+If anyone still doubts, Ukraine needs planes. In fact, it's simple. When you have the will. To make the sky safe. The sky of Ukraine. The sky of Europe.
+
+I spoke with the Prime Minister of Australia. And I am grateful to Australians for their moral stance on Russian exports. There must be no port where a terrorist state can make money.
+
+The Prime Ministers of Albania, Bulgaria and Israel. Support for Ukraine.
+
+Inspirational conversation with Elon Musk. With a man who creates rockets for the future. Instead of killing with rockets for the sake of the past. We talked about how to win now. About how we will cooperate later. After the victory.
+
+Support for Ukraine from global business, from the leaders of the most advanced companies is no less important than support from leading countries. When the corporate world stands by you and is not afraid, you have double protection. Triple weaponry. You have a future.
+
+Ukrainians!
+
+We have already gained our future.
+
+But we are still fighting for our present. It is very important. We are fighting for where the border will be. Between life and slavery.
+
+And this is not only our choice.
+
+The citizens of Russia are making exactly the same choice right now. These days. During these hours.
+
+Between life and slavery. Today. Tomorrow. In the coming week.
+
+This is the time when it is still possible to defeat evil without irreparable losses.
+
+When for a position they threaten with dismissal or a paddy wagon, not with the Gulag. With material losses but not with execution.
+
+Don't miss this opportunity. Social networks, friends, acquaintances, colleagues and relatives. You must be heard! We, Ukrainians, want peace!
+
+Citizens of Russia! For you, this is a struggle not only for peace in Ukraine! This is a fight for your country. For the best it had. For the freedom that you have seen. For the wealth that you have felt.
+
+If you keep silent now, then only your poverty will speak for you later. And only repression will answer it.
+
+Do not be silent!
+
+The Russian servicemen who were taken captive by our defenders started speaking. Hundreds and hundreds of prisoners. Among them are the pilots of the planes that bombed our cities. Our peaceful people. We heard their testimony. We saw the documents. Maps. Plans. Elaborated NOT yesterday.
+
+This is NOT improvisation. This is war.
+
+They prepared this invasion exactly this way - cruelly, cynically. Сonsciously violating the rules of war. Therefore, Kharkiv. Therefore, Chernihiv. Therefore, Sumy. Therefore, Mariupol. And many, many other Ukrainian hero cities have faced pure evil. Atrocity.
+
+This was planned.
+
+But this will not kill our humanity.
+
+Despite everything, we treat war prisoners under the Geneva Convention. Despite everything, our missiles do not hit Russian civilian facilities in response. Or Belarusian. From where rockets fly to our territory every day. Columns of military equipment. Aviation. Against peaceful people. Against peaceful cities. Zhytomyr, Korosten, Ovruch, suburbs of Kyiv, cities in the south... They are preparing to bomb Odesa.
+
+Odesa!
+
+Russians have always come to Odesa. They have always felt only warmth in Odesa. Only sincerity. And now what? Bombs against Odesa? Artillery against Odesa? Missiles against Odesa?
+
+It will be a war crime.
+
+It will be a historical crime.
+
+Ukrainians!
+
+We have been fighting for 11 days. For freedom. For the state.
+
+We withstood. We already understand how we will rebuild our country.
+
+We are already forming special funds for reconstruction. There are already four of them.
+
+Fund for the Restoration of Destroyed Property and Infrastructure. Fund for Economic Recovery and Transformation. Public Debt Service and Repayment Fund. Small and Medium Business Support Fund.
+
+And many more programs to support our people. Heroes who fight for our state.
+
+And this is just the beginning.
+
+And now we still need strength.
+
+Wisdom.
+
+Will.
+
+Victory.
+
+Peace!
+
+Peace to save Ukraine.
+
+**Glory to Ukraine!**
+    `,
+    description: '«We have been fighting for 11 days. For freedom. For the state. We persevered. We already understand how we will rebuild our country»',
+    url: 'https://www.youtube.com/watch?v=vIvHODPG1Cc'
+  },
+  {
+    id: 'jwOcWw6wsx4',
+    name: 'Address by President Volodymyr Zelenskii',
+    translated: true,
+    russianTimestamp: 'https://youtu.be/jwOcWw6wsx4?t=184',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-05T21:32:37',
     topics: ['Заклик до Росії', 'Оборона міст'],
@@ -58,7 +167,7 @@ In Donetsk. Luhansk. Kherson. Berdyansk. Melitopol. Konotop. In all our cities. 
 **Glory to Ukraine!**
     `,
     description: '"Our people, our Ukrainians are not retreating. Do not give up. Do not stop the resistance. They shout to the occupiers: go home! Like a Russian ship!”',
-    url: 'https://www.youtube.com/watch?v=ydTFU_bwHUQ'
+    url: 'https://www.youtube.com/watch?v=jwOcWw6wsx4'
   },
   {
     id: '7Ql1bzg_StY',
