@@ -60,7 +60,7 @@ import tasks from '@/static/content/tasks'
 
 export default {
   async mounted () {
-    jsonp('http://165.22.76.33/posts/', {}, (err, news) => {
+    jsonp('https://api.resist.in.ua/posts/', {}, (err, news) => {
       if (err) {
         console.error(err.message)
       } else {

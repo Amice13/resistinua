@@ -52,7 +52,7 @@ export default {
   components: { VueMarkdown },
   async mounted () {
     let { id } = this.$route.params
-    jsonp('http://165.22.76.33/post/' + id, {}, (err, data) => {
+    jsonp('https://api.resist.in.ua/post/' + id, {}, (err, data) => {
       if (err) {
         console.error(err.message)
       } else {
