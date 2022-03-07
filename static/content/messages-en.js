@@ -1,14 +1,244 @@
 const source = [
   {
+    id: 'c765KlzcINc',
+    name: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-07T13:10:43',
+    topics: [],
+    cities: [],
+    text: `Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office`,
+    description: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=c765KlzcINc'
+  },
+  {
+    id: 'AF1wKMZWM9w',
+    name: 'The future of the continent is being decided by us with our resistance and by our friends with their help',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-07T11:31:18',
+    topics: ['Міжнародна коаліція', 'Санкційна політика'],
+    cities: ['Миколаїв', 'Харків', 'Ірпінь', 'Буча', 'Гостомель', 'Соціальні виплати'],
+    text: `
+**Peaceful people of a belligerent state!**
+
+We have been defending ourselves against the invasion for 12 days already. We never wanted this war. But it was brought to us. We never dreamed of killing. But we have to knock out the enemy. From our land and from our lives.
+
+We have to endure what no other European nation has seen in 80 years.
+
+And it is on our land that it is decided whether someone else in Europe will fall victim to the same aggression.
+
+I’m telling this to the leaders of the world and I hear that they agree.
+
+We decide the future of the continent. WIth our resistance. And our friends - with their help.
+
+I spoke again with Polish President Andrzej Duda. They help us. Keep working.
+
+I spoke with Prime Minister of the United Kingdom Boris Johnson and Prime Minister of Italy Mario Draghi. With President of France Emmanuel Macron and Prime Minister of India Modi.
+
+I received very important signals, which, I'm sure, will only strengthen Ukraine.
+
+Our theses in conversations with partners are absolutely logical. They are fair. Honest.
+
+If the invasion continues and Russia does not abandon its plans against Ukraine, then a new sanctions package is needed. New sanctions, new sanction steps against war and for peace.
+
+Boycott of Russian exports. In particular, the refusal of oil and petroleum products from Russia.
+
+This can be called an embargo. Or just morality. When you refuse to give money to a terrorist. Boycott of imports to Russia. If they do not want to follow civilized rules, they should not receive goods and services from civilization. Let the war feed them.
+
+The international community must act even more decisively.
+
+When someone loses their mind, we have to lose fear and forget about commerce. We need to defend ourselves.
+
+You have to be moral. Both states and companies.
+
+We must fight against the inhuman force that wants to destroy humanity itself.
+
+The success of the Ukrainian army. The will of the Ukrainian people.The principled nature of international sanctions. This is the way to peace.
+
+At night the invaders fired at Mykolaiv. Right at the residential areas. Using rocket artillery.
+
+They fired at Kharkiv, at residential areas of a peaceful city.
+
+They fired at other cities of our state.
+
+No military sense. Just terror.
+
+Residents of Irpen, Bucha, Hostomel and many other towns and villages, which the invader managed to capture, are being held hostage. Temporarily. Until the invaders get punishment. And they will get it.
+
+Our Armed Forces know how to do it.
+
+The enemy is tired. Demoralized. They came to our land to look for something that has never been here: cowardice, consent to slavery.
+
+Any normal person is afraid to look at burned houses. It is obvious. Destroyed panel high-rise buildings. Destroyed ordinary cars.
+
+Missiles, air bombs, "Grads", mortars. Against people.
+
+It feels like it's in another country. But this is in our country. In ours, not somewhere else. In ours.
+
+Which has always wanted peace above anything else.
+
+How many more deaths and losses are needed to secure the sky over Ukraine?
+
+How do civilians in Kharkiv or Mykolaiv differ from Hamburg or Vienna?
+
+We are waiting for a decision. Securing the sky.
+
+Either with the power you have, or give us fighter jets and air defense systems that will provide us with the strength we need.
+
+This is the help that the world should provide not just to Ukraine, but to itself. To prove: humanity will win. As soon as possible.
+
+The Government of Ukraine is already working on how to restore our state after the victory.
+
+How to give more strength to the country while we are fighting.
+
+A special package of assistance to businesses and employees has been created.
+
+Sole proprietors of the first and second groups are completely exempt from UST.
+
+Enterprises and sole proprietors of the third group are exempt from paying UST for employees who were drafted into the Armed Forces of Ukraine and other defense formations. In particular, the territorial defense.
+
+Exemption from land tax and rent for state and communal land in all areas where hostilities are taking place.
+
+All this is during martial law and at least a year after its end.
+
+The payment of taxes for all enterprises that are unable to pay them is postponed.
+
+And this is only the first part of a large aid package. Government support.
+
+All leaders of the central government have a clear task: to develop a system of action so that the recovery of Ukraine is rapid and focused only on people. First of all - on people.
+
+For us all to return to peace, to normal work. When we return our land, return peace to our land.
+
+I am grateful to all business owners and managers who continue to work and fulfill their obligations to their employees.
+
+To pay salaries to people - even if the company does not work as before - is to protect Ukraine.
+
+The state fulfills all its obligations.
+
+Indexed pensions have already been provided to the people. The salary in the budget sphere is paid as it should be.
+
+Ukrainians!
+
+There are millions of us. And these are millions of ways to fight for our future. For our state. For our freedom. For our national flag. Blue and yellow. Not a tricolor. We defend our flag because it is our worldview.
+
+Under the blue and yellow we gained victories at the Olympics. We unfurled this flag both in space and in Antarctica.
+
+Under our national flag, our rescuers, firefighters, peacekeepers, medics and everyone else came to the aid of Turkey, Greece, Israel and Georgia, Afghanistan and Montenegro, India, Italy, the Congo and many other countries.
+
+What we have never done under this flag is attacking other countries, seizing foreign lands, killing people, peaceful people of other nations.
+
+We and terror are different universes.
+
+That is why there is no blood on our flag. There are no and will never be black spots on it. There are no and will never be any swastikas on it. The Ukrainian flag is the land. Peaceful, fertile, golden and without tanks. This is the sky. Peaceful, clear, blue and without missiles. So it was. And so it will be.
+
+I believe!
+
+I know.
+
+**Glory to Ukraine!**
+    `,
+    description: 'The future of the continent is being decided by us with our resistance and by our friends with their help – address by President Volodymyr Zelenskii',
+    url: 'https://www.youtube.com/watch?v=AF1wKMZWM9w'
+  },
+  {
+    id: 'NCNcdXAo51Y',
+    name: 'A briefing by Iryna Vereshchuk',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-07T10:36:39',
+    topics: [],
+    cities: [],
+    text: `A briefing by Iryna Vereshchuk. On the need to organize humanitarian corridors and establish a regime of silence for the evacuation of civilians`,
+    description: 'A briefing by Iryna Vereshchuk. On the need to organize humanitarian corridors and establish a regime of silence for the evacuation of civilians',
+    url: 'https://www.youtube.com/watch?v=NCNcdXAo51Y'
+  },
+  {
     id: 'nQDtSl-l_d8',
-    name: 'Today is Forgiven Sunday. But we will not forgive hundreds and hundreds of victims',
+    name: 'The audacity of the aggressor is a clear signal that sanctions against Russia are not enough',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-06T22:44:14',
-    topics: ['Міста-герої'],
-    cities: ['Харків', 'Чергнігів', 'Херсон', 'Маріуполь', 'Волноваха', 'Гостомель'],
-    text: `«Today is Forgiven Sunday. But we will not forgive hundreds and hundreds of victims. Thousands and thousands of sufferings. And God will not forgive. Not today. Not tomorrow. Never. And instead of the Forgiven there will be a Day of Judgment». Address by the President of Ukraine Volodymyr Zelenskii.`,
+    topics: ['Поранені діти', 'Воєнний злочин', 'Герої України', 'Санкційна політика', 'Гуманітарні коридори'],
+    cities: ['Харків', 'Чернігів', 'Маріуполь', 'Херсон', 'Гостомель', 'Волноваха'],
+    text: `
+**Ukrainians!**
+
+Today is Forgiveness Sunday. A day when we always apologized. To each other. To all people. To God. But today, it seems, many have not mentioned this day at all. Have not mentioned the obligatory words: "Forgive me." And the obligatory answer: "God forgives, and I forgive." These words seem to have lost their meaning today. At least in part. After everything we went through.
+
+We will not forgive the destroyed houses. We will not forgive the missile that our air defense shot down over Okhmatdyt today. And more than five hundred other such missiles that hit our land. All over Ukraine. Hit our people and children.
+
+We will not forgive the shooting of unarmed people. Destruction of our infrastructure.
+
+We. Will. Not. Forgive. Hundreds and hundreds of victims. Thousands and thousands of sufferings. And God will not forgive. Not today. Not tomorrow. Never. And instead of Forgiveness, there will be a Day of Judgment.
+
+I'm sure of it.
+
+It seems everything Russian servicemen have already done is still not enough for them. Not enough ruined destinies. Mutilated lives. They want to kill even more.
+
+Tomorrow Russia has officially announced the shelling of our territory. Our enterprises. Defense complex. Most were built decades ago. By the Soviet government. Built in cities. And now they are in the middle of an ordinary urban environment. Thousands of people work there. Hundreds of thousands live nearby.
+
+This is murder. Deliberate murder.
+
+And I have not heard a reaction from any world leader today. From any Western politician. Reaction to this announcement. Think about the sense of impunity of the invaders: they announce their planned atrocities. Why?
+
+Because there is no reaction. Because there is silence. Not a word, as if Western leaders have dissolved tonight. For this day. I hope that at least tomorrow you will notice it. React. Say something. We know exactly who prepared this attack. We know exactly how orders will follow the vertical command. We know everything.
+
+And we will not forgive anything. The Tribunal is waiting for you. And God's judgment, if you try to hide.
+
+The audacity of the aggressor is a clear signal to the West that sanctions against Russia are not enough. Because they didn't understand. Did not feel. They did not see that the world is really determined. Really determined to stop this war. You will not hide from this reality.
+
+You will not hide from new murders in Ukraine.
+
+There was a lot of talk about humanitarian corridors. There were talks every day about the opportunity for people to leave the cities where Russia came. Russian military.
+
+I am grateful to every Ukrainian who stays to defend our cities, even in the encirclement. Our freedom.
+
+But I also know that there are people who really need to get out. Who cannot stay. And we heard the promise that there would be humanitarian corridors. But there are no humanitarian corridors.
+
+Instead of humanitarian corridors, they can only make bloody ones.
+
+A family was killed in Irpen today. A man, a woman and two children. Right on the road. As in the shooting club. When they were just trying to get out of town. To escape.
+
+The whole family. How many such families have died in Ukraine! We will not forgive. We will not forget.
+
+We will punish everyone who committed atrocities in this war. On our land. We will find every bastard. Which shot at our cities, our people. Which bombed our land. Which launched rockets. Which gave the order and pressed "start".
+
+There will be no quiet place on this earth for you. Except for the grave.
+
+Today I decided to award orders to the heads of regional administrations and mayors who have excelled in the defense of their communities.
+
+The Order of Bohdan Khmelnytsky of the Third Degree is awarded to:
+
+* Head of Kharkiv Regional State Administration **Oleh Vasyliovych Syniehubov**
+* Head of Mykolaiv Regional State Administration **Vitalii Oleksandrovych Kim**
+* Head of Donetsk Regional State Administration **Pavlo Oleksandrovych Kyrylenko**
+* Head of Luhansk Regional State Administration **Serhiy Volodymyrovych Haidai**
+* Head of Chernihiv Regional State Administration **Vyacheslav Anatoliyovych Chaus**
+* Head of Sumy Regional State Administration **Dmytro Oleksiyovych Zhyvytskyi**
+
+The Order of Courage is awarded to:
+
+* Mayor of Kharkiv **Ihor Oleksandrovych Terekhov**
+* Mayor of Mykolaiv **Oleksandr Fedorovych Senkevych**
+* Mayor of Chernihiv **Vladyslav Anatoliyovych Atroshenko**
+* Mayor of Sumy **Oleksandr Mykolayovych Lysenko**
+* Mayor of Kherson **Ihor Viktorovych Kolykhayev**
+* Mayor of Melitopol **Ivan Serhiyovych Fedorov**
+* Mayor of Nova Kakhovka **Volodymyr Ivanovych Kovalenko**
+
+And I decided to award a special title to our heroes, our hero cities. As it has already been once. When we withstood another attack. But a similar attack.
+
+Another invasion. But no less brutal invasion.
+
+**Hero cities** will be: Kharkiv. Chernihiv. Mariupol. Kherson. Hostomel. Volnovakha.
+
+**Glory to Ukraine!**
+    `,
     description: '«Today is Forgiven Sunday. But we will not forgive hundreds and hundreds of victims. Thousands and thousands of sufferings. And God will not forgive. Not today. Not tomorrow. Never. And instead of the Forgiven there will be a Day of Judgment». Address by the President of Ukraine Volodymyr Zelenskii',
     url: 'https://www.youtube.com/watch?v=nQDtSl-l_d8'
   },
