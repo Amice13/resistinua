@@ -143,6 +143,11 @@ export default {
           to: '/tasks'
         },
         {
+          icon: 'mdi-newspaper-variant-outline',
+          title: 'Новини',
+          to: '/news'
+        },
+        {
           icon: 'mdi-message-reply-outline',
           title: 'Офіційні звернення',
           to: '/messages'

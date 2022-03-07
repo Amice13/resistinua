@@ -72,8 +72,13 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
-    '@nuxtjs/pwa'
+    '@nuxtjs/pwa',
+    '@nuxtjs/proxy'
   ],
+
+  proxy: {
+    '/news/': { target: 'http://165.22.76.33/', pathRewrite: {'^/news/': ''}, changeOrigin: true }
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},

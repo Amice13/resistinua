@@ -14,6 +14,13 @@
     "_name": "_3af2dd2f"
   },
   {
+    "name": "news",
+    "path": "/news",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\news.vue",
+    "chunkName": "pages/news",
+    "_name": "_626ca8b6"
+  },
+  {
     "name": "resources",
     "path": "/resources",
     "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\resources.vue",
@@ -635,6 +642,13 @@
     "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\message\\\\_id.vue",
     "chunkName": "pages/message/_id",
     "_name": "_2201e576"
+  },
+  {
+    "name": "new-id",
+    "path": "/new/:id?",
+    "component": "C:\\\\Amice13\\\\GIT\\\\resistinua\\\\pages\\\\new\\\\_id.vue",
+    "chunkName": "pages/new/_id",
+    "_name": "_190c957d"
   },
   {
     "name": "index",

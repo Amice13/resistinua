@@ -6,6 +6,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _5c443e94 = () => interopDefault(import('..\\pages\\en\\index.vue' /* webpackChunkName: "pages/en/index" */))
 const _3af2dd2f = () => interopDefault(import('..\\pages\\messages.vue' /* webpackChunkName: "pages/messages" */))
+const _626ca8b6 = () => interopDefault(import('..\\pages\\news.vue' /* webpackChunkName: "pages/news" */))
 const _ee59df5c = () => interopDefault(import('..\\pages\\resources.vue' /* webpackChunkName: "pages/resources" */))
 const _ebfab5cc = () => interopDefault(import('..\\pages\\task\\index.vue' /* webpackChunkName: "pages/task/index" */))
 const _30ab788a = () => interopDefault(import('..\\pages\\tasks.vue' /* webpackChunkName: "pages/tasks" */))
@@ -95,6 +96,7 @@ const _68625778 = () => interopDefault(import('..\\pages\\en\\task\\volounteer.v
 const _33f6b3f0 = () => interopDefault(import('..\\pages\\en\\task\\whistleblower.vue' /* webpackChunkName: "pages/en/task/whistleblower" */))
 const _7172b042 = () => interopDefault(import('..\\pages\\en\\message\\_id.vue' /* webpackChunkName: "pages/en/message/_id" */))
 const _2201e576 = () => interopDefault(import('..\\pages\\message\\_id.vue' /* webpackChunkName: "pages/message/_id" */))
+const _190c957d = () => interopDefault(import('..\\pages\\new\\_id.vue' /* webpackChunkName: "pages/new/_id" */))
 const _a896a202 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -116,6 +118,10 @@ export const routerOptions = {
     path: "/messages",
     component: _3af2dd2f,
     name: "messages"
+  }, {
+    path: "/news",
+    component: _626ca8b6,
+    name: "news"
   }, {
     path: "/resources",
     component: _ee59df5c,
@@ -472,6 +478,10 @@ export const routerOptions = {
     path: "/message/:id?",
     component: _2201e576,
     name: "message-id"
+  }, {
+    path: "/new/:id?",
+    component: _190c957d,
+    name: "new-id"
   }, {
     path: "/",
     component: _a896a202,
