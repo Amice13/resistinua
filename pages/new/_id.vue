@@ -43,6 +43,7 @@
 </style>
 
 <script>
+import jsonp from 'jsonp'
 
 import VueMarkdown from 'vue-markdown'
 import messages from '@/static/content/messages'
@@ -51,9 +52,14 @@ export default {
   components: { VueMarkdown },
   async mounted () {
     let { id } = this.$route.params
-    let post = await this.$axios('/news/post/' + id)
-    if (!post || !post.status || post.status !== 200) return this.$nuxt.error({ statusCode: 404, message: 'Сторінку не знайдено!' })
-    this.$set(this, 'post', post.data[0])
+    jsonp('http://165.22.76.33/post/' + id, {}, (err, data) => {
+      if (err) {
+        console.error(err.message)
+      } else {
+        this.$set(this, 'post', data[0])
+        console.log(data)
+      }
+    })
   },
   data () {
     return {

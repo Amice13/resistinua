@@ -55,15 +55,18 @@
 </template>
 
 <script>
-
+import jsonp from 'jsonp'
 import tasks from '@/static/content/tasks'
 
 export default {
   async mounted () {
-    let news = await this.$axios('/news/posts')
-    if (news.status && news.status === 200) {
-      this.$set(this, 'news', news.data)
-    }
+    jsonp('http://165.22.76.33/posts/', {}, (err, news) => {
+      if (err) {
+        console.error(err.message)
+      } else {
+        this.$set(this, 'news', news)
+      }
+    })
   },
   data () {
     return {
