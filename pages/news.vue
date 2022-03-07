@@ -29,7 +29,8 @@
             <v-card color="lighten-3" class="text-justify pa-0" flat>
               <v-card-text class="pa-0">
                 <v-row class="pt-2">
-                  <v-card class="w-100 mb-4" v-for="(item, index) in news" :key="'news-' + index">
+                  <v-skeleton-loader v-show="news.length === 0" class="w-100" type="article, actions"></v-skeleton-loader>
+                  <v-card class="w-100 mb-4" v-show="news.length !== 0" v-for="(item, index) in news" :key="'news-' + index">
                     <v-card-title class="display-1 mb-2">
                       {{ item.author }}
                     </v-card-title>
@@ -42,6 +43,8 @@
                       <v-btn :to="'/new/' + item.id" text color="blue darken-3">Читати</v-btn>
                     </v-card-actions>
                   </v-card>
+                  <v-btn block v-show="!loading" color="blue darken-3" text @click="loadMore">Завантажити ще</v-btn>
+                  <v-skeleton-loader v-show="loading" class="w-100" type="article, actions"></v-skeleton-loader>
                 </v-row>
               </v-card-text>
             </v-card>
@@ -70,13 +73,27 @@ export default {
   },
   data () {
     return {
-      news: []
+      news: [],
+      loading: false
     }
   },
   methods: {
     shortText (s) {
       let shortened = s.replace(/<br.*/gis,'')
       return shortened.length < 300 ? s.replace(/(<br.*?)<br.*/gis, '$1') : shortened
+    },
+    async loadMore () {
+      let app = this
+      let offsetId = this.news[this.news.length - 1]
+      app.loading = true
+      jsonp('https://api.resist.in.ua/posts/' + offsetId, {}, (err, news) => {
+          if (err) {
+          } else {
+            console.log(news)
+            for (let n of news) app.news.push(n)
+            app.loading = false
+          }
+      })
     }
   },
   computed: {

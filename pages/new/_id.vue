@@ -13,8 +13,9 @@
   </v-row>
   <v-row justify="center" align="center" class="mt-0">
     <v-col cols="12" sm="10" md="8">
-      <v-card class="mx-auto text-justify mw-100" flat>
-        <v-card-text v-show="post.text" v-html="post.text">
+      <v-skeleton-loader v-show="!post.text" class="w-100" v-bind="attrs" type="article, actions"></v-skeleton-loader>
+      <v-card v-show="post.text" class="mx-auto text-justify mw-100" flat>
+        <v-card-text v-html="post.text">
         </v-card-text>
       </v-card>
       <v-card class="mx-auto mb-4 text-justify mw-100" flat>
@@ -57,7 +58,6 @@ export default {
         console.error(err.message)
       } else {
         this.$set(this, 'post', data[0])
-        console.log(data)
       }
     })
   },
