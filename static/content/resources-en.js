@@ -27,6 +27,15 @@ const source = [
     location: ['Україна']
   },
   {
+    id: '100',
+    name: 'Document the war crimes of the Russian Federation in Ukraine',
+    description: 'Together with Ukrainian and international partners the Office of the Prosecutor General has created this resource to properly document war crimes and crimes against humanity committed by the Russian military in Ukraine.',
+    link: 'https://warcrimes.gov.ua/',
+    tags: ['Офіційні', 'Збір доказів'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
     id: '2',
     name: 'The IT Army of Ukraine official channel',
     description: 'The official channel of the Ministry of Digital Transformation for specialists in the IT sphere. It provide information on relevant tasks to fight on the cyberfront',
@@ -891,6 +900,42 @@ const source = [
     link: 'https://invaders-rf.com/',
     tags: ['Офіційні','Інформація', 'Для РФ'],
     type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '98',
+    name: 'Fight for Ukraine',
+    description: 'Platform to join volunteer troops to fight for Ukraine',
+    link: 'https://fightforua.org',
+    tags: ['Офіційні','Завдання', 'Спротив'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '99',
+    name: 'Spivdiia',
+    description: 'A platform that brings together all volunteer and state initiatives for humanitarian aid at times of war.',
+    link: 'https://spivdiia.org.ua/en',
+    tags: ['Волонтерство'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '101',
+    name: 'Search of missing people',
+    description: 'Chatbot for searching missing people in Ukraine',
+    link: 'https://t.me/poshuk_znyklyh',
+    tags: ['Зниклі громадяни'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '102',
+    name: 'UA Smart News Bot',
+    description: 'The chatbot gathers news from official sources and then filters them by the user defined keywords',
+    link: 'https://t.me/UASmartNewsBot',
+    tags: ['Інформація'],
+    type: ['Чат-бот'],
     location: ['Україна']
   },
 ]

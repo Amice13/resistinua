@@ -1,5 +1,188 @@
 const source = [
   {
+    id: 'ySxmwpRff0E',
+    name: 'A briefing by Iryna Vereshchuk',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-07T10:36:39',
+    topics: [],
+    cities: ['Суми'],
+    text: `A briefing by Iryna Vereshchuk on opening of a humanitarian corridor for Sumy`,
+    description: 'A briefing by Iryna Vereshchuk on opening of a humanitarian corridor for Sumy',
+    url: 'https://www.youtube.com/watch?v=ySxmwpRff0E'
+  },
+  {
+    id: 'AF1wKMZWM9w',
+    name: 'Every day of resistance creates better conditions for Ukraine in the negotiations to guarantee our future in peace',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-07T11:31:18',
+    topics: ['Міжнародні переговори', 'Ракетний удар', 'Герої України'],
+    cities: ['Київ', 'Чаплинка', 'Мелітополь', 'Токмак', 'Новотроїцьке', 'Херсон', 'Старобільськ', 'Маріуполь', 'Харків', 'Чернігів', 'Суми', 'Одеса', 'Миколаїв', 'Житомир', 'Коростень', 'Овруч', 'Енергодар', 'Чорнобиль', 'Макаров'],
+    text: `
+Monday. Evening. You know, we used to say: Monday is a hard day. There is a war in the country. So every day is Monday.
+
+And now we are used to the fact that every day and every night are like that.
+
+Today is the 12th. 12th evening of our struggle. Our defense.
+
+We are all on the ground, we are all working.
+
+Everyone is where they should be. I am in Kyiv. My team is with me. The territorial defense is on the ground. The servicemen are in positions. Our heroes! Doctors, rescuers, transporters, diplomats, journalists...
+
+Everyone. We are all at war. We all contribute to our victory, which will definitely be achieved. By force of arms and our army. By force of words and our diplomacy. By force of spirit, which the first, the second and each of us have.
+
+Take a look at our country today.
+
+Chaplynka, Melitopol, Tokmak, Novotroitske and Kherson. Starobilsk. Everywhere people defended themselves, although they do not have weapons there. But these are our people, and that's why they have weapons.
+
+They have courage. Dignity. And hence the ability to go out and say: I'm here, it's mine, and I won't give it away. My city. My community. My Ukraine.
+
+Every Ukrainian man and woman who protested against the invaders yesterday, today and will protest tomorrow are heroes.
+
+We shout at the invaders together with you. We stand in the squares and streets with you. We are not afraid with you when the invaders open fire and try to drive everyone away.
+
+YOU do not back down.
+
+WE do not back down.
+
+And the one who repeated: "We are one people" - certainly did not expect such a powerful reaction.
+
+In the south of our country, such a national movement has unfolded, such a powerful manifestation of Ukrainianness that we have never seen in the streets and squares there. And for Russia it is like a nightmare.
+
+They forgot that we are not afraid of paddy wagons and batons. We are not afraid of tanks and machine guns. When the main thing is on our side, truth. As it is now.
+
+Mariupol and Kharkiv, Chernihiv and Sumy. Odesa and Kyiv. Mykolaiv. Zhytomyr and Korosten. Ovruch. And many other cities.
+
+We know that hatred that the enemy brought to our cities with shelling and bombing will not remain there. There will be no trace of it. Hatred is not about us. Therefore, there will be no trace of the enemy. We will rebuild everything. We will make our cities destroyed by the invader better than any city in Russia.
+
+Enerhodar. Chornobyl. And other places where barbarians just don't understand WHAT they want to capture. WHAT they want to control. Your work, your hard work on critical objects is a real feat. And we see it. We are sincerely grateful for it.
+
+The Ukrainian army holds positions. Well done! It inflicts extremely painful losses on the enemy. Defends. Counterattacks. If necessary - can take revenge. Necessarily. For every evil. For every rocket and bomb. For each destroyed civilian object.
+
+Today in Makariv, Kyiv region, they fired at the bread factory. For what? The old bread factory! Think about it - to fire at the bread factory. Who should you be to do that?
+
+Or to destroy another church - in the Zhytomyr region. The Church of the Nativity of the Blessed Virgin built in 1862.
+
+These are NOT people.
+
+There was an agreement on humanitarian corridors.
+
+Did it work? Russian tanks worked instead. Russian "Grads". Russian mines. They even mined the road, which was agreed to transport food and medicine for people and children in Mariupol.
+
+They even destroy buses that have to take people out. But ... At the same time, they are opening a small corridor to the occupied territory. For several dozen people. Not so much to Russia, as to propagandists. Directly to their TV cameras. Like, that's the one who saves. Just cynicism. Just propaganda. Nothing more. No humanitarian sense.
+
+The third round of negotiations in Belarus took place today. I would like to say - the third and final. But we are realists. So we will talk. We will insist on negotiations until we find a way to tell our people: this is how we will come to peace.
+
+Exactly to peace.
+
+We must realize that every day of struggle, every day of resistance creates better conditions for us. Strong position to guarantee our future. In peace. After this war.
+
+Apart from the dead people and the destroyed cities, the war leaves destroyed the aspirations that once seemed very important, but now ... You don't even mention them.
+
+Almost three years ago, as soon as the election took place, we entered this building, this office, and immediately began planning our move.
+
+I dreamed of moving from Bankova. Together with the government and parliament. To unload the center of Kyiv and in general - to move to a modern, transparent office - as befits a progressive democratic European country.
+
+Now I will say one thing: I stay here.
+
+I stay in Kyiv.
+
+On Bankova Street.
+
+I’m not hiding.
+
+And I'm not afraid of anyone.
+
+As much as it takes to win this Patriotic War of ours.
+
+Today I signed a decree to present state awards of Ukraine to 96 Ukrainian heroes - our military.
+
+Including…
+
+The Order of Bohdan Khmelnytsky of the second degree is awarded to:
+
+Major Oleksandr Oleksandrovych Sak. Commander of the mechanized battalion who entered the battle with the battalion tactical group of the enemy and won thanks to a rational approach to combat and non-standard tactics.
+
+Captain Rostyslav Oleksandrovych Sylivakin. Commander of the mechanized battalion, which successfully fought the overwhelming forces of the enemy, liberating Ukrainian towns and villages in the Sumy region.
+
+The Order of Bohdan Khmelnytsky of the third degree is awarded to:
+
+Lieutenant Ihor Serhiyovych Lozovyi. Acting as part of the group, he stopped a column of enemy vehicles numbering about 150 units, which was moving in the direction of the Zhytomyr-Kyiv route. Destroyed.
+
+Lieutenant Vitaliy Viktorovych Poturemets. He showed exemplary courage and composure in the battle, destroying a column of enemy equipment near the city of Kyiv. He was wounded.
+
+The Order "For Courage" of the third degree is awarded to:
+
+Master Sergeant, Commander of the Automobile Platoon Valentyn Viktorovych Baryliuk. Thanks to his brave actions and personal determination, the tank unit received fuel in time and left the encirclement, destroying the enemy on the way.
+
+All 96 of our heroes are like these five!
+
+Our gratitude to all the military.
+
+Our gratitude to the Armed Forces of Ukraine!
+
+Our gratitude is boundless.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Everyone. We are all at war. We all contribute to our victory, which will definitely be achieved.',
+    url: 'https://www.youtube.com/watch?v=STN4_VmHPzA'
+  },
+  {
+    id: 'pVI0fyUCtYk',
+    name: 'The Armed Forces of Ukraine are heroically fighting to repel the Russian occupier',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-07T18:08:52',
+    topics: ['Контроль цін', 'Відтермінування сплат'],
+    cities: [],
+    text: `
+**Heroic people of Ukraine!**
+
+The 12th day of our defense operation is ongoing. In the air and on land, day and night, the military of the Armed Forces of Ukraine are heroically fighting to repel the Russian occupier.
+
+Ordinary Ukrainian citizens are fighting to repel the aggressor as well. The whole world now admires the courage of our people, because each of us contributes to the victory of Ukraine.
+
+In times of war, everyone must work in cohesion, in synergy and at full potential. This is what the enemy fears and is trying in every effort to prevent.
+
+But it is not easy to intimidate us, it is not easy to distract our attention and concentration. Already 140,000 Ukrainians, mostly men, have returned back home to Ukraine. We are proud of these people. They stand ready not just to defend their homes, but also to work for the sake of victory.
+
+Ukrainian companies are prepred and invite various specialists to work. There is job for everyone willing to help the country!
+
+Following the instruction of the President Volodymyr Zelenskyy, the Government has formed a package of decisions to support Ukrainian businesses during the war.
+
+First. We will introduce exemption of Natural Persons of the first and second groups from paying USC (Unified Social Contribution – ed.) under the martial law effect and during one year after it officially lifted.
+
+Second, we will introduce exemption of enterprises and Natural Persons (Entrepreneurs) of the third group from paying USC for employees who were drafted into the Armed Forces and other armed formations (including territorial defense). The contribution is to be paid by the state.
+
+Third, we introduce the delay of tax repayment for each company unable to pay.
+
+Fourth, the introduction of PTR (Payment Transaction Recorders – ed.) for all individual entrepreneurs will be postponed.
+
+Fifth, the Government will abolish all measures of market and consumer supervision in all matters except price regulation and control of pricing. A moratorium on inspections of all types for business has already been established.
+
+All the aforesaid decisions and a number of other additional decisions necessary to make this support package work either have already been adopted or will be endorsed by the authorities shortly.
+
+Moreover, the Government and local authorities engage in vigorous activities to undertake new measures to stabilize prices for essential good.
+
+The Cabinet of Ministers has endorsed a decision allowing regional military administrations in synergy with the National Police and the State Service of Ukraine on Medicines and Drugs Control to monitor the prices of socially important food, medicine and fuel. Some entrepreneurs should not, however, seek to profit from warfare.
+
+Another essential front in the work of the Government and local authorities in times of war is ensuring the proper functioning of critical infrastructure. In particular, of those infrastructure facilities supplying people with electricity, heat and water.
+
+It was decided that 12 Ukrainian TPPs will now be able to receive gas from Naftogaz of Ukraine NJSC at a price of UAH 7 per cubic meter. This will enable the relevant companies to buy the necessary volumes of natural gas in order to continue steady operation and supply electricity to Ukrainian families, despite possible disruptions in the supply of coal products, which is just of paramount importance.
+
+In the end I would like to thank the Ukrainian energy sector workers, who are now ensuring operation of a vital energy front for the whole country. You do wonders every day so that, where possible, Ukrainians stay with light, heat and gas. Every family is grateful to you for that!
+
+**Glory to the Ukrainian people! Glory to Ukraine!**
+    `,
+    description: 'Address by the Prime Minister of Ukraine Denys Shmyhal: In times of war, everyone must work in cohesion, in synergy and at full potential. This is what the enemy fears and is trying in every effort to prevent.',
+    url: 'https://www.youtube.com/watch?v=pVI0fyUCtYk'
+  },
+  {
     id: 'c765KlzcINc',
     name: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
     translated: false,

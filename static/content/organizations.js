@@ -358,6 +358,19 @@ const source = [
     'logo': '/img/logos/nbu.png',
     'id': 25
   },
+  {
+    'name': 'Спілка мертвих юристів',
+    'tags': [
+      'Приватні',
+      'Волонтерські',
+      'Недержавні',
+    ],
+    'description': 'Ініціатива юридичної спільноти, яка збирає гроші на оптику, ліки, аптечки, турнікети та інші речі, необхідні волонтерам та ЗСУ.',
+    'link': 'https://www.deadlawyers.org/zbira%D1%94mo-5m-%D1%94vro-dopomozhete-nam/',
+    'donateLink': 'https://www.deadlawyers.org/zbira%D1%94mo-5m-%D1%94vro-dopomozhete-nam/',
+    'logo': '/img/logos/dead_lawyers.jpg',
+    'id': 26
+  },
 ]
 
 module.exports = source

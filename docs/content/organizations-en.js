@@ -347,6 +347,19 @@ const source = [
     'logo': '/img/logos/tabletochki.png',
     'id': 25
   },
+  {
+    'name': 'Dead Lawyers Society',
+    'tags': [
+      'Приватні',
+      'Волонтерські',
+      'Недержавні',
+    ],
+    'description': 'An initiative of the legal community that raises money for optics, medicines, first aid kits, turnstiles and other things needed by volunteers and the Armed Forces of Ukraine',
+    'link': 'https://www.deadlawyers.org/zbira%D1%94mo-5m-%D1%94vro-dopomozhete-nam/',
+    'donateLink': 'https://www.deadlawyers.org/zbira%D1%94mo-5m-%D1%94vro-dopomozhete-nam/',
+    'logo': '/img/logos/dead_lawyers.jpg',
+    'id': 26
+  },
 ]
 
 module.exports = source
