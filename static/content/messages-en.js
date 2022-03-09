@@ -1,12 +1,262 @@
 const source = [
   {
+    id: 'FKVFANBw0C0',
+    name: 'The world does not believe in the future of Russia',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-08T23:35:59',
+    topics: ['Секторальні санкції', 'Гуманітарні коридори', 'Поранені діти'],
+    cities: ['Олешки', 'Бердянськ', 'Мелітополь', 'Запорізькій'],
+    text: `
+**Українці! Українки!**
+
+Сьогодні важливі новини. Сполучені Штати зробили крок, який відчутно послабить окупантів. Змусить платити за агресію, відповідати за зло, яке вони наробили. За все зло. Америка забороняє імпорт нафти з Росії, нафтопродуктів, газу, вугілля. Забороняє громадянам США будь-які інвестиції в російський паливно-енергетичний комплекс.
+
+Я вдячний особисто Президенту Сполучених Штатів Америки Байдену за це рішення. За це лідерство. За цей максимально потужний сигнал усьому світу. Він дуже простий: кожен цент, сплачений Росії, вона перетворює на кулі та снаряди, які летять в інші суверенні держави.
+
+Або Росія матиме повагу до міжнародного права і не буде вести війни, або вона не матиме грошей, щоб війни розпочинати. Знайдуть іншу бензоколонку. Але це не тільки про гроші. Заборона на імпорт нафти до США послабить державу-терориста економічно, політично та ідеологічно. Бо це – про свободу, про майбутнє. Про те, куди буде рухатися світ.
+
+Заборону на імпорт нафти та нафтопродуктів із Росії запроваджує і Велика Британія.
+
+Я вдячний Премʼєр-міністру Борису Джонсону за принциповість, на яку очікуєш від глави уряду Великої Британії у важкі часи.
+
+Виступаючи сьогодні у британському парламенті, я згадав інші важкі часи. Інші, але такі подібні. 1940 рік, коли тиранія загрожувала, як вона думала, невеликому острову. І була впевнена, що острів не витримає жорстоких ударів, бомбардувань і блокади.
+
+А вийшло, що острів зміг більше, ніж та тиранія. Бо мав мудрість. Мав витримку. Друзів. І силу. І вірив у майбутнє – своє та свободи у Європі. Як віримо ми. Як боремося ми. І як ми переможемо.
+
+Погляньте: світ не вірить у майбутнє Росії, не говорить про нього. Жодного слова, жодної перспективи. Вони все розуміють. Вони говорять про нас. Вони допомагають нам. Вони готуються підтримати нашу відбудову. Після війни. Бо всі побачили: для народу, який так героїчно захищається, обовʼязково настане оце «після війни».
+
+Буде і новий план Маршалла для України. Захід сформує цей пакет підтримки. Сьогодні про це сказав британський Премʼєр-міністр. Людина слова, щирий друг України.
+
+Вже очікуємо і жорстких рішень від Європейського Союзу. Санкційних. Проти Росії. За цю війну. За цю агресію. Про яку її автори ще пошкодують. Це буде. Обов'язково. І тому так важливо, щоб у керівництві Росії усвідомили: США, Велику Британію, Євросоюз, Канаду, Австралію, Японію та інші вільні країни світ буде тільки наслідувати. А отже, його не обманути. Санкції не обійти.
+
+Я вдячний тим росіянам, які нас підтримують, виходять на вулиці і борються. Борються щоденно за нас і за себе. Тому що борються за мир.
+
+Війну треба закінчувати. Треба сідати за стіл переговорів. Але чесних, предметних, в інтересах людей, а не застарілих убивчих амбіцій.
+
+Говорив сьогодні з Марком Рютте – Прем'єр-міністром Нідерландів. У нас – нова сторінка у відносинах з Нідерландами. Дякую за підтримку. З Прем'єр-міністром Ізраїлю Беннетом. Премʼєр-міністром Люксембургу Бетелем та з Президентом Франції Макроном. Маємо підтримку. Маємо розуміння.
+
+Мабуть, ви бачили сьогодні у новинах історію про те, що ООН нібито не вважає російське вторгнення війною. Я знаю, це обурило багатьох, і не тільки в Україні.
+
+Вдячний нашій команді. Ми все зʼясували, швидко отримавши запевнення: у структурах ООН не буде брехні. Не буде підігравання агресору. Слово «війна» звучатиме на цьому майданчику. Бо це правда. Ми не дозволимо нікому у світі ігнорувати страждання та вбивства наших людей, наших дітей.
+
+Сьогодні, коли я йшов виступати перед британським парламентом, найстрашнішим числом було для мене 50. 50 убитих українських дітей за 13 днів війни. А вже за годину стало 52. 52 дитинки. Ніколи не пробачу цього. І знаю, що ви ніколи це не пробачите окупантам.
+
+Як Харків, Маріуполь і всі інші міста. Ввечері вони завдали ракетного удару по Корбутівці у Житомирській області. Зруйнували гуртожиток.
+
+Чим міг загрожувати Росії звичайний гуртожиток? Яким геополітичним інтересам ядерної держави? Вічна памʼять усім людям, яких убили ці нелюди.
+
+Сьогодні нам вдалося організувати гуманітарний коридор з міста Суми до Полтави. Сотні людей врятовано. Гуманітарний вантаж доставили. Але це – лише відсоток від того, що треба зробити. Чого очікують наші люди, заблоковані українці. Ми готові. Наші вантажі готові. Наш транспорт готовий. Але... нелюди – вони не готові. Вони обстрілюють маршрути евакуації. Вони блокують доставку необхідних продуктів та ліків для людей.
+
+Чого вони хочуть? Щоб українці взяли з рук окупантів. Все це просто тортури. Свідомі. Системні. Організовані їхньою державою. Чужою для нас. І безжальною для всіх, навіть для її громадян.
+
+Олешки у Херсонській області. Бердянськ та Мелітополь у Запорізькій області. Усі міста, де українці чинять спротив, де протестують проти окупантів... Знайте: ми з вами. Ми вдячні. Вантажі все одно будуть їхати. Скільки б їх не зупиняли кулі. Гуманітарні коридори все одно працюватимуть. І тільки час відділяє вас від свободи. Недовгий час. Вірте в це. Я вірю. І дуже цього хочу.
+
+**Слава Україні**
+    `,
+    description: 'The world does not believe in the future of Russia, yet speaks about Ukraine, helps and is preparing to support our reconstruction after the war - address by President Volodymyr Zelenskyi',
+    url: 'https://www.youtube.com/watch?v=FKVFANBw0C0'
+  },
+  {
+    id: 'Cu2v_W41A6I',
+    name: 'Address by the Prime Minister Denys Shmyhal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-08T17:06:01',
+    topics: ['Економіку воєнного стану', 'Координаційний центр', 'Соціальні виплати'],
+    cities: ['Харків', 'Миколаїв', 'Маріуполь', 'Суми'],
+    text: `
+**Heroic people of Ukraine!**
+
+The 13th day of Ukrainian hell for the russian aggressor is underway.
+
+Our military is confidently holding the line in the south, north and east of the country, leaving the invaders no chance of encircling major cities.
+
+Kharkiv, Mykolayiv, Mariupol, Sumy - these names are known today all over the world.
+
+In areas close to the combat zones, our heroic pilots, National Guard officers and Territorial Defense fighters effectively repel air strikes and aerial attacks by the enemy’s forces on civilians and critical infrastructure.
+
+Under the circumstances, all of us have to transform our lives under the "Martial Law Economy" conditions. Every Ukrainian citizen today should ask himself or herself a question - how exactly can I be efficient to the army, country, state?
+
+And to realize that war is not just a front. War is also a home front that must be reliable and stable.
+
+In times of war, it is difficult to do everyday work, you want to see your personal contribution to the victory here and now. But everyone should mind their own business and be where he or she belongs to.
+
+It is also heroism for everyone to manage to overcome yourself against the backdrop of constant air raid warnings, feelings of anxiety for your relatives and stress, and go to work day after day and do your job. You are all heroes because you work in your country during the war.
+
+The Government also continues to work for our victory.
+
+One week ago, a Coordination Center was established to ensure receiving and distributing humanitarian assistance. We have simplified and further simplify the rules for importing such goods, we remove most of the bureaucratic procedures on a daily basis.
+
+And on behalf of the Government, I would like to thank our partners, all the people who are lending a helping hand to Ukraine today.
+
+In the last 6 days, almost 3,000 trucks carrying 20,000 tons of humanitarian aid have crossed the Ukrainian border. These are mainly food, clothing, medicines and medical supplies that the Government is already sending to the regions.
+
+In addition, more than UAH 10 billion was transferred to an account specially created by the National Bank of Ukraine to support our army.
+
+We want to thank everyone who helps Ukraine. And for formal assistance. And for the real friendly support!
+
+The Cabinet of Ministers, meanwhile, is working to ensure that the most vulnerable population groups receive uninterrupted support.
+
+The Government has adopted a decision that assistance to low-income families, single mothers, children with serious illnesses, and payments to internally displaced persons will be prolonged and there is no need to apply to the social security authorities.
+
+The second essential direction is benefits and subsidies. The Government has changed the procedure for their accrual. If the local social protection authorities are unable to perform their functions, all payments will be made directly by the Ministry of Social Policy through the Oschadbank branches, even if the beneficiaries have accounts in other banks.
+
+I would like to take this opportunity to thank all the volunteers and social workers who during the war are rendering assistance to those who need such aid the most today - the elderly, the disabled, the critically ill.
+
+As long as we care about the weakest among us, we are human. We are the people who are invincible! Who will defeat the darkness!
+
+**Glory to Ukrainian citizens! Glory to Ukraine!**
+    `,
+    description: 'Our military is confidently holding the line in the south, north and east of the country, leaving the invaders no chance of encircling major cities.',
+    url: 'https://www.youtube.com/watch?v=Cu2v_W41A6I'
+  },
+  {
+    id: '44uiAXn5APg',
+    name: 'The situation regarding the Russian invasion',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-08T13:05:11',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion – briefing by Oleksii Arestovych, Adviser to the Head of the President's Office`,
+    description: 'The situation regarding the Russian invasion – briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=44uiAXn5APg'
+  },
+  {
+    id: '44uiAXn5APg',
+    name: 'The situation regarding the Russian invasion',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-08T13:05:11',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion – briefing by Oleksii Arestovych, Adviser to the Head of the President's Office`,
+    description: 'The situation regarding the Russian invasion – briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=44uiAXn5APg'
+  },
+  {
+    id: 'EZ7dWeTFcx8',
+    name: 'Брифінг Ірини Верещук щодо гуманітарних коридорів',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-08T11:58:22',
+    topics: ['Гуманітарні коридори'],
+    cities: ['Маріуполь', 'Запоріжжя'],
+    text: `Брифінг Ірини Верещук щодо гуманітарних коридорів`,
+    description: 'Брифінг Ірини Верещук щодо відкриття гуманітарного коридору для міста Суми',
+    url: 'https://www.youtube.com/watch?v=EZ7dWeTFcx8'
+  },
+  {
+    id: '550kL81akNM',
+    name: 'In the leading capitals, humanity must overcome fear and benefits, and then the Ukrainian sky will be safe, and the cities will be unblocked',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-08T11:39:43',
+    topics: ['Гуманітарні коридори', 'Бомбардування', 'Міжнародні переговори'],
+    cities: ['Суми', 'Маріуполь', 'Чернігів', 'Київ', 'Одеса', 'Харків', 'Полтава', 'Житомир'],
+    text: `
+**Ukrainians!**
+
+We always celebrate this holiday. The holiday of spring. We congratulate Ukrainian women, our girls, wives, mothers.
+
+Always.
+
+But not today.
+
+Today, I just can't tell you the traditional words. I just can't congratulate you. I can’t. When there are so many deaths. When there is so much grief. When there is so much suffering.
+
+When the war continues. A full-scale terrorist war against our people. The people of Ukraine.
+
+The invaders bombed Sumy again. With air bombs. Our peaceful city that has never threatened Russia in its history! Good, quiet, soulful Sumshchyna! Which is turned into hell.
+
+Mariupol. Peaceful and hard-working city without any internal malice. It was surrounded. Blocked. And is being deliberately exhausted. Deliberately tortured. The invaders deliberately cut off communication. Deliberately block the delivery of food, water supply. Turn off the electricity.
+
+In Mariupol, for the first time in dozens of years, perhaps for the first time since the Nazi invasion, a child died of dehydration.
+
+Hear me, today, dear partners!
+
+A child died of dehydration. In 2022!
+
+We have been fighting for the thirteenth day. We destroy the invaders wherever we can. Everywhere. But there is a sky. Hundreds of Russian cruise missiles. Hundreds of fighter jets of the invaders. Hundreds of helicopters. Yes, we destroy them.
+
+Russia has not lost as much aircraft in the past 30 years as in these 13 days in Ukraine.
+
+But they still have enough machinery to kill. There are still enough missiles for terror. They still have enough 500 kg bombs to drop them on us, ordinary people. On Chernihiv and Kyiv. Odesa and Kharkiv. Poltava and Zhytomyr. Dozens and dozens of Ukrainian cities. On millions of peaceful Ukrainian people.
+
+It has been 13 days of promises. 13 days when we are told that there will soon be help in the sky. There will be planes. They will be handed over to us...
+
+The blame for every death of every person in Ukraine from air strikes and in blocked cities, of course, lies with the Russian state, the Russian military, those who give and those who carry out criminal orders, who violate all the rules of warfare, who deliberately exterminate the Ukrainian people.
+
+The fault lies with the invaders. But the responsibility for this lies also with those who have not been able to make an obviously necessary decision somewhere in the West, somewhere in the offices for 13 days. Those who have not yet secured the Ukrainian sky from Russian murderers.
+
+Those who did not save our cities from air strikes. From these bombs, missiles. Although they can.
+
+Those who do not help in lifting the blockade.
+
+Hundreds and hundreds of thousands of people in the cities are on the verge of life and death. Literally.
+
+Not as it sounds in the comments of politicians about providing Ukraine with vital combat aircraft. Vital missile defense.
+
+Vitally important!
+
+We have heard many assurances and seen many agreements. In particular, on the creation of humanitarian corridors. To save our citizens in Mariupol. But they didn't work. All of them didn’t work. Yet. And I have no more time to wait. We do not have. Mariupol doesn’t have time to wait.
+
+It is the invaders who want our people to die. Not us. We sent columns with humanitarian aid to Mariupol. Everything necessary is there! We sent vehicles to rescue people. Drivers understand everything. They are heroes. Brave people! They understand that Russian troops can simply destroy these vehicles on the road. Just as they did, killing people who were just trying to get to a safe territory from the war zone.
+
+But if you fire at these vehicles, these people, you should know that it will be before the eyes of the whole world.
+
+Everyone will be witnesses. And everyone will testify.
+
+When everyone, I repeat this, everyone who gives and fulfills inhuman orders will be severely judged and convicted.
+
+We have seen the concrete consent of the Russian side to organize an evacuation corridor from the city of Sumy. And not just for our people. For hundreds of foreigners. Citizens of India, China. These are students who studied in Sumy.
+
+You know, I was told that the Red Cross, the International Red Cross, forbids us to use the emblem on vehicles carrying out humanitarian missions. The Red Cross prohibits it as if it is their property.
+
+And this is indicative. This says a lot about the fact that some people, very influential, have decided to give up Ukrainians.
+
+But we will not allow it. And I will not allow it.
+
+Our friends. They are next to us.
+
+I will appeal directly to the nations of the world if the leaders of the world do not make every effort to stop this war, this genocide.
+
+Of course, we continue to talk to our partners, to the leaders, parliamentarians of all countries who know how to help Ukraine. We have a very busy negotiation period.
+
+I spoke with Lithuanian President Gitanas Nausėda. The people of Lithuania always stand by Ukrainians in this struggle. We feel this help and appreciate it.
+
+I spoke with President of the European Council, our friend Charles Michel. I also spoke with Prime Minister of India, Mr. Modi.
+
+But there are things that are not decided in negotiations, that depend not directly on us, but on humanity, which must win in the leading capitals, must overcome fear, must overcome any benefits.
+
+And then we will see that the Ukrainian sky is safe and the Ukrainian cities are unblocked.
+
+We can do this together as people of the world. And if the world stands aloof, it will lose itself. Forever. Because there are unconditional values. The same for everyone. First of all, this is life. The right to life for everyone.
+
+This is exactly what we are fighting for in Ukraine. Very fiercely, together with our military. This is exactly what these weak invaders want to deprive us of.
+
+This is exactly what the whole world must protect.
+
+**Glory to Ukraine!**
+    `,
+    description: 'In the leading capitals, humanity must overcome fear and benefits, and then the Ukrainian sky will be safe, and the cities will be unblocked',
+    url: 'https://www.youtube.com/watch?v=550kL81akNM'
+  },
+  {
     id: 'ySxmwpRff0E',
     name: 'A briefing by Iryna Vereshchuk',
     translated: false,
     russianTimestamp: '',
     speaker: ['Ірина Верещук'],
-    date: '2022-03-07T10:36:39',
-    topics: [],
+    date: '2022-03-08T09:11:22',
+    topics: ['Гуманітарні коридори'],
     cities: ['Суми'],
     text: `A briefing by Iryna Vereshchuk on opening of a humanitarian corridor for Sumy`,
     description: 'A briefing by Iryna Vereshchuk on opening of a humanitarian corridor for Sumy',
@@ -153,7 +403,7 @@ But it is not easy to intimidate us, it is not easy to distract our attention an
 
 Ukrainian companies are prepred and invite various specialists to work. There is job for everyone willing to help the country!
 
-Following the instruction of the President Volodymyr Zelenskyy, the Government has formed a package of decisions to support Ukrainian businesses during the war.
+Following the instruction of the President Volodymyr Zelenskyi, the Government has formed a package of decisions to support Ukrainian businesses during the war.
 
 First. We will introduce exemption of Natural Persons of the first and second groups from paying USC (Unified Social Contribution – ed.) under the martial law effect and during one year after it officially lifted.
 
@@ -323,7 +573,7 @@ I know.
 
 **Glory to Ukraine!**
     `,
-    description: 'The future of the continent is being decided by us with our resistance and by our friends with their help – address by President Volodymyr Zelenskii',
+    description: 'The future of the continent is being decided by us with our resistance and by our friends with their help – address by President Volodymyr Zelenskyi',
     url: 'https://www.youtube.com/watch?v=AF1wKMZWM9w'
   },
   {
@@ -422,7 +672,7 @@ Another invasion. But no less brutal invasion.
 
 **Glory to Ukraine!**
     `,
-    description: '«Today is Forgiven Sunday. But we will not forgive hundreds and hundreds of victims. Thousands and thousands of sufferings. And God will not forgive. Not today. Not tomorrow. Never. And instead of the Forgiven there will be a Day of Judgment». Address by the President of Ukraine Volodymyr Zelenskii',
+    description: '«Today is Forgiven Sunday. But we will not forgive hundreds and hundreds of victims. Thousands and thousands of sufferings. And God will not forgive. Not today. Not tomorrow. Never. And instead of the Forgiven there will be a Day of Judgment». Address by the President of Ukraine Volodymyr Zelenskyi',
     url: 'https://www.youtube.com/watch?v=nQDtSl-l_d8'
   },
   {
@@ -617,7 +867,7 @@ Peace to save Ukraine.
   },
   {
     id: 'jwOcWw6wsx4',
-    name: 'Address by President Volodymyr Zelenskii',
+    name: 'Address by President Volodymyr Zelenskyi',
     translated: true,
     russianTimestamp: 'https://youtu.be/jwOcWw6wsx4?t=184',
     speaker: ['Володимир Зеленський'],
@@ -1386,7 +1636,7 @@ Private businesses provide free-of-charge fuel, medications, food, and equipment
 
 The Government also continues to work tirelessly. Today, at an ad-hoc Government meeting, we made the following decisions.
 
-Today, pursuant to the instruction of the President of Ukraine Volodymyr Zelenskyy, the Government has decided that, for the time of martial law, all the servicemen will be paid an additional remuneration of UAH 30’000 per month.
+Today, pursuant to the instruction of the President of Ukraine Volodymyr Zelenskyi, the Government has decided that, for the time of martial law, all the servicemen will be paid an additional remuneration of UAH 30’000 per month.
 
 All the servicemen who see action and are direct parties of combat mission or involved in national security and defence operations will be rewarded with an increased monthly remuneration of UAH 100’000.
 
