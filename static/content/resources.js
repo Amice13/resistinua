@@ -437,7 +437,7 @@ const source = [
   {
     id: '43',
     name: 'Tribunal UA',
-    description: 'Чат-бот фіксації військового злочину рф проти цивільного населення',
+    description: 'Чат-бот фіксації військового злочину РФ проти цивільного населення',
     link: 'https://t.me/tribunal_ua_bot',
     tags: ['Інформація', 'Збір доказів'],
     type: ['Чат-бот'],
@@ -936,6 +936,51 @@ const source = [
     link: 'https://t.me/UASmartNewsBot',
     tags: ['Інформація'],
     type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '103',
+    name: 'Допоможи зараз',
+    description: 'Взаємна допомога речами і послугами',
+    link: 'https://helpnow.org.ua/',
+    tags: ['Інформація', 'Волонтерство'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '104',
+    name: 'Допомагай',
+    description: 'Українська децентралізована координаційна ініціатива, що допомогає українцям подолати гуманітарну кризу та наслідки жорстокого вторгнення Російської Федерації.',
+    link: 'https://dopomagai.org/',
+    tags: ['Інформація', 'Волонтерство'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '105',
+    name: 'Офіційний WhatsApp канал ДСНС',
+    description: 'Офіційний WhatsApp канал Державної служби з надзвичайних ситуацій',
+    link: 'https://api.whatsapp.com/send/?phone=380676785917&text&app_absent=0',
+    tags: ['Інформація', 'Волонтерство'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '106',
+    name: 'Центр допомоги',
+    description: 'Платформа Notion з базою знань щодо воєнного стану та юридичною допомогою',
+    link: 'https://legalaid.notion.site/legalaid/Help-Center-28eaec89f99848a6b0ae8cab48f2b39b',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '106',
+    name: 'Центр допомоги',
+    description: 'Платформа Notion з базою знань щодо воєнного стану та юридичною допомогою',
+    link: 'https://legalaid.notion.site/legalaid/Help-Center-28eaec89f99848a6b0ae8cab48f2b39b',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
     location: ['Україна']
   },
 ]

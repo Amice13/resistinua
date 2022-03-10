@@ -938,6 +938,42 @@ const source = [
     type: ['Чат-бот'],
     location: ['Україна']
   },
+  {
+    id: '103',
+    name: 'Help now',
+    description: 'Mutual assistance with things and services',
+    link: 'https://helpnow.org.ua/',
+    tags: ['Інформація', 'Волонтерство'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '104',
+    name: 'Help Ukrainians',
+    description: 'Ukrainian Decentralized Coordination Initiative, which helps Ukrainians overcome the humanitarian crisis and the consequences of the brutal invasion of the Russian Federation.',
+    link: 'https://dopomagai.org/',
+    tags: ['Інформація', 'Волонтерство'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+    },
+  {
+    id: '105',
+    name: 'Official WhatsApp channel of State Emergency Service',
+    description: 'Official WhatsApp channel of State Emergency Service',
+    link: 'https://api.whatsapp.com/send/?phone=380676785917&text&app_absent=0',
+    tags: ['Інформація', 'Волонтерство'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '106',
+    name: 'Help Center',
+    description: 'Notion page with the knowledge base on martial law and legal aid',
+    link: 'https://legalaid.notion.site/legalaid/Help-Center-28eaec89f99848a6b0ae8cab48f2b39b',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
 ]
 
 module.exports = source

@@ -1,8 +1,224 @@
 const source = [
   {
-    id: 'FKVFANBw0C0',
-    name: 'The world does not believe in the future of Russia',
+    id: 'GQyVOnuE8ec',
+    name: 'Everything that the invaders are doing to Mariupol is beyond atrocities already',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-09T23:33:04',
+    topics: ['Бомбардування', 'Міжнародні санкції', 'Гуманітарні коридори'],
+    cities: ['Волноваха', 'Харків', 'Ізюм', 'Охтирка', 'Чернігів', 'Бородянка', 'Гостомель', 'Житомир', 'Суми','Енергодар'],
+    text: `
+**Europeans! Ukrainians! Mariupol residents!**
+
+Today is the day that defines everything. Defines who is on whose side. Russian bombs fell on a hospital and maternity hospital in Mariupol. Children's hospital. Maternity hospital that is functioning! Buildings are destroyed. As of now, there are 17 wounded. Disassembly of the debris is still ongoing. People began to hide from the air threat in time.
+
+From 500 kg aviation bombs dropped by the invaders on Ukrainian cities. Many times already.
+
+Children's hospital. Maternity hospital. What did they threaten the Russian Federation with? What kind of country is this - the Russian Federation, which is afraid of hospitals and maternity hospitals and destroys them? Were there little Banderivtsi? Or were pregnant women going to fire at Rostov? Did someone in the maternity hospital abuse Russian-speakers? What was that? Was it the denazification of the hospital?
+
+It is beyond atrocities already. Everything that the invaders are doing to Mariupol is beyond atrocities already. Europeans! Ukrainians! Mariupol residents! Today, we must be united in condemning this war crime of Russia, which reflects all the evil that the invaders brought to our land.
+
+All destroyed cities. What they did to Volnovakha, Kharkiv, Izyum, Okhtyrka, Chernihiv, Borodyanka, Hostomel, Zhytomyr and dozens of other Ukrainian cities, which never posed any threat to the Russian Federation.
+
+Destroyed hospitals. Destroyed schools, churches, houses. And all the people killed. All the children killed.
+
+The air bomb on the maternity hospital is the final proof. Proof that the genocide of Ukrainians is taking place.
+
+Europeans! You won’t be able to say that you didn't see what happened to Ukrainians, what happened to Mariupol residents. You saw. You know.
+
+Therefore, you must increase sanctions against Russia so that it no longer has any opportunity to continue this genocide.
+
+You must put pressure on Russia to force it to sit down at the negotiating table and end this brutal war.
+
+Moscow knows very well that Mariupol is also the Donetsk region. We have heard so much from Russia about the inhabitants of the Donetsk region. So many accusations, so many demands... And now we see how Russia actually treats the residents of the Donetsk region. Treats ordinary people who live in the houses of Mariupol, work at the enterprises of the city of Mariupol, are treated in hospitals of Mariupol and give birth to children, imagine, people like you give birth to children in the maternity hospitals of Mariupol.
+
+We have not done and never would have done anything similar to this war crime to any of the cities of the Donetsk, Luhansk or any other region. To any of the cities on earth. Because we are people. And you?
+
+I spoke today with European Council President Charles Michel and European Commission President Ursula von der Leyen. We also worked and spoke with Speaker of the United States House of Representatives Nancy Pelosi, with Prime Minister of the United Kingdom Boris Johnson. Thank you for your support, Boris.
+
+The partners are fully informed about what is happening in our Mariupol. And about the situation in all other regions of Ukraine, where hostilities continue. We are working to make Russia feel the consequences of its actions. We are doing everything to finally secure our sky. I am grateful to the vast majority of Ukrainians who support this position. Those who collect signatures, who convince their acquaintances in the West, write on social networks, organize rallies.
+
+Together we must return courage to some Western leaders. So that they finally do what they had to do on the first day of the invasion. Either close the Ukrainian sky from Russian missiles and bombs, or give us fighter jets so that we can do everything ourselves. A pause without a decision has become simply deadly.
+
+Today we managed to organize the work of three humanitarian corridors. From the city of Sumy, from the cities and towns of the Kyiv region and from Enerhodar.
+
+In total, about 35,000 people were rescued. We will continue tomorrow. We are preparing six corridors. We pray that people will be taken out of Mariupol, Izyum, Volnovakha, etc. Taken to safe cities of our free Ukraine.
+
+And I am sure that every Ukrainian whose help these people need will do everything possible to make them feel our care. Until they can return home.
+
+And finally. Every year on March 9, the winners of the Shevchenko Prize are announced. Our national award for the most significant contribution to the preservation and development of the Ukrainian spirit, our national culture.
+
+I believe that our traditions must be observed during martial law and the fierce battles for our freedom. We must not betray them so that we preserve all ours, Ukrainian, completely while we are heading to victory. While we are heading to peace.
+
+The decree was signed. Now I look forward to meeting the winners. But after the victory. After the victory of Ukraine.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Russian bombs fell on a hospital and maternity hospital in Mariupol. Children\'s hospital. Maternity hospital that is functioning! Buildings are destroyed. As of now, there are 17 wounded.',
+    url: 'https://www.youtube.com/watch?v=GQyVOnuE8ec'
+  },
+  {
+    id: 'KVnSvMf0k',
+    name: 'We are forming new reserves and accumulating resources',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-09T22:27:57',
+    topics: ['Фінансова допомога', 'Соціальні виплати', 'Міжнародна допомога'],
+    cities: [],
+    text: `
+**Heroic people of Ukraine!**
+
+For two weeks our liberation war has been going on. For two weeks we have been resisting the russian invasion.
+
+We are forming new reserves and accumulating resources so that our army is provided with everything necessary for both defense and further liberation of the occupied territories.
+
+Yesterday another auction for the sale of military government bonds to the tune of UAH 6.6 billion took place.
+
+The National Bank of Ukraine decided to buy out the Government's war bonds for UAH 20 billion as well.
+
+Thanks to the efforts of the President of Ukraine, the Government, and diplomats, more and more countries are joining the pro-Ukrainian coalition. Dozens of countries and organizations are providing us financial, humanitarian, military support.
+
+Yesterday, the United States increased the potential aid package for Ukraine from USD 10 billion to USD 12 billion, which will shortly be considered by Congress.
+
+The World Bank has approved a USD 700 million additional support package for Ukraine.
+
+Today, the European Bank for Reconstruction and Development announced the resilience package worth EUR 2 billion to back Ukraine.
+
+In a few hours, the International Monetary Fund is to consider providing EUR 1.4 billion in emergency funding to Ukraine.
+
+Next week, we expect the first tranche of EUR 300 million in macro-financial support from the European Union, which has earmarked a new emergenchy assistance of € 1.2 billions. In a week - the second tranche is to be allotted.
+
+I want to thank those entrepreneurs and companies that today, in wartime, pay taxes, pay salaries to their employees and support the army in every possible way. Your contribution to the victory is invaluable! Thank you!
+
+What critical steps are taken by the Government?
+
+Approximately within a week in the Diia application we commence to register information about damaged and destroyed property of citizens of Ukraine.
+
+Anyone left homeless. Anyone whose house or apartment was destroyed by the occupier will be able to submit an application for compensation in the Diia.
+
+We have already established the Destroyed Property and Infrastructure Restoration Fund. And as soon as the war is over, we will begin to rebuild everything ruined by the enemy.
+
+The war caught Ukrainians in surprise, leaving many people without documents. Therefore, in the Diia there will also be available a new temporary digital certificate eDocument.
+
+It will be flexible: it will contain passport data, Individual Tax Identification Number, as well as photos if possible. It will be recognized by state authorities, the National Police, and the military at checkpoints. The eDocument will be automatically available to all users of the Diia.
+
+We are also creating a food reserve.
+
+The state will purchase grain and other stocks in the amount of annual consumption throughout the country at the expense of the state budget. This will allow us to provide the country with sufficient amount of food.
+
+We continue to expand the list of critical imports. We support the work of critical infrastructure. We are doing everything to ensure that our army and home front are as well provided for as possible.
+
+And we will win.
+
+And aftermath we will build a new, free and happy Ukraine.
+
+Our cities in the North, East and South will flourish again.
+
+Our people will return. They will return to their new, rebuilt homes.
+
+…And on the renovated land 
+
+There’ll be no enemy, no rival, 
+
+There will be son and will be mother, 
+
+There will be people on the land!
+
+**Glory to Ukrainian people! Glory to Ukraine!**
+    `,
+    description: 'We are forming new reserves and accumulating resources so that our army is provided with everything necessary for both defense and further liberation of the occupied territories.',
+    url: 'https://www.youtube.com/watch?v=KVnSvMf0k'
+  },
+  {
+    id: 'M1sGyMff8Sw',
+    name: 'The situation regarding the Russian invasion',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-09T15:12:06',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion – a briefing by Oleksii Arestovych, Adviser to the Head of the President's Office`,
+    description: 'The situation regarding the Russian invasion – a briefing by Oleksii Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=M1sGyMff8Sw'
+  },
+  {
+    id: 'DTc7AVOIOng',
+    name: 'Ukrainians withstood and inspired the whole world with their determination',
+    translated: true,
+    russianTimestamp: 'https://youtu.be/DTc7AVOIOng?t=183',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-09T13:45:06',
+    topics: ['Закрите небо', 'Гуманітарні коридори', 'Поранені діти'],
+    cities: ['Суми', 'Полтава', 'Ізюм', 'Лозова', 'Енергодар', 'Запоріжжя', 'Маріуполь', 'Ворзель', 'Буча', 'Бородянка', 'Гостомель', 'Київ'],
+    text: `
+**Brave Ukrainians of the unconquered country!**
+
+It is already the 14th day of our defense. The 14th day of our unity. Truly all-Ukrainian. The scale of the threat to the state is maximum. The invasion contingent has already brought into our territory almost everyone who was gathered to invade Ukraine. But the scale of our answer is maximum as well. And these are two different words "maximum". 
+
+They have only equipment. At the maximum. We have our people in addition to the equipment. Up to the mark. They only have orders. To attack, to kill, to abuse. And we have a real desire of millions of Ukrainians to win. Defend ourselves. Clear our state...
+
+And on the renewed land
+
+There will be no enemy, adversary,
+
+And there will be a son, and there will be a mother,
+
+And there will be people on the land.
+
+Today is Taras Shevchenko's birthday. This is our old dream. It is his dream to clean the land. And it is alive! And quite real.
+
+Ukrainians!
+
+Everything is in our hands! We withstood and inspired the whole world with our determination. There is no such place on earth where they are not aware of the heroism with which the Ukrainian people defend our beautiful land. Even where we are not supported, they know well what we have achieved. And they feel what else we will achieve if we save the country. If we maintain unity. National force. If we continue to respond wisely and boldly to the activity of the enemy who can destroy the walls of our homes, our schools, our churches, who can destroy Ukrainian enterprises, but will never reach our soul, our heart, our ability to live freely and fight boldly.
+
+Our military and territorial defense units managed to replenish the arsenal of our equipment due to the many trophies they took on the battlefield. Enemy tanks, armored vehicles, ammunition will now work for our defense. For our lives. For our country. What could be more humiliating for the invaders? We will beat the enemy with his own weapons. In addition to ours, which the Russian troops have already felt well, so that more and more enemy soldiers and commanders are asking themselves a simple question: why were they sent to this foreign land, to this war? And we have no answer. Except for one word - death.
+
+Russian soldiers!
+
+You still have a chance to survive. Almost two weeks of our resistance have shown you that we will not give up. Because this is our home. These are our families and children. We will fight until we regain our land and take revenge for all our killed people. For the killed children. You can still be saved if you just leave. Do not believe your commanders when they tell you that you still have a chance in Ukraine. Nothing is waiting for you here. Except for captivity, except for death. You take our lives and give yours. And we know - we have communications interception - that your commanders already understand everything.
+
+This war must be ended. We must return to peace. Leave our home, go back to yours.
+
+14 days of a full-scale brutal war. Terror against our people.
+
+Destruction of cities, blockade of entire districts, constant bombing... 14 days of absence of a vital decision. Not our decision! We would make that decision in hours if we had to help our friends.
+
+From the first day of the Russian invasion, Ukraine has been repeating to its partners that if you do not close the sky, you will also be responsible for this catastrophe, a large-scale humanitarian catastrophe.
+
+Russia uses missiles, aircraft, helicopters against us, against civilians, against our cities, against our infrastructure. This is the world's humanitarian duty to respond. But... There is no decision.
+
+We are grateful to Poland for the alternative - for its readiness to provide Ukraine with combat aircraft. The problem is in logistics. In fact, it is a technical issue. It must be solved! Immediately.
+
+There is an official decision of Poland to transfer the planes to the relevant base - the American base. We also have confirmation - we have all heard - that the agreement between the American party and Poland has been reached. But at the same time we hear that Poland's proposal is allegedly unfounded. And that's what they say in Washington. We also read this. So when will the decision be made? Listen: we have a war! We do not have time for all these signals. This is not ping pong! This is about human lives! We ask once again: solve it faster. Do not shift the responsibility, send us planes.
+
+Yesterday we finally managed to organize a humanitarian corridor. From the city of Sumy to Poltava. 1,600 students and 3,500 residents were rescued. Evacuation of people from cities and towns of the Kyiv region continues. More than 18,000 people have already been rescued from Dymer, Vorzel and Irpin. Today we will do everything to continue the functioning of humanitarian corridors. Sumy - Poltava. Izyum - Lozova. Enerhodar - Zaporizhzhia. Mariupol - Zaporizhzhia. Vorzel, Bucha, Borodyanka, Hostomel to Kyiv. Our government officials are working on this, our servicemen have created all the conditions. If there is at least one shot, full responsibility lies with the invaders.
+
+And you have already seen the world’s response. Powerful. Sanction packages.
+
+In the morning I spoke with Prime Minister of Canada Justin Trudeau. We have full understanding. Full support. Our delegation returned from Belarus last night, from negotiations. I will listen to their report. We will prepare for the next rounds of talks. For the sake of Ukraine. For peace.
+
+And finally. Concerning our unity. This is our strength. This is what is needed at this time. We are receiving a lot of signals that someone in Ukraine has decided that he or she may not fight anymore together with everyone. And tries somehow separately, for something personal, for some personal benefit...
+
+We are receiving various signals that some politicians are looking for threads to Russia again.
+
+And some others are again working for a split, contrary to unity.
+
+I want to say one thing and only once: I see what you are doing. If I hear another signal, the answer will be quick. As befits wartime.
+
+Thank God, our people have already sorted everything and everyone out.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Ukrainians withstood and inspired the whole world with their determination - address by President Volodymyr Zelenskyi',
+    url: 'https://www.youtube.com/watch?v=DTc7AVOIOng'
+  },
+  {
+    id: 'NgZQWm1cCis',
+    name: 'The world does not believe in the future of Russia',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-08T23:35:59',
@@ -56,7 +272,7 @@ const source = [
 **Слава Україні**
     `,
     description: 'The world does not believe in the future of Russia, yet speaks about Ukraine, helps and is preparing to support our reconstruction after the war - address by President Volodymyr Zelenskyi',
-    url: 'https://www.youtube.com/watch?v=FKVFANBw0C0'
+    url: 'https://www.youtube.com/watch?v=NgZQWm1cCis'
   },
   {
     id: 'Cu2v_W41A6I',
