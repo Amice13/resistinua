@@ -1,5 +1,96 @@
 const source = [
   {
+    id: '7xLV27bqaLg',
+    name: 'Завдяки нашим захисникам українці не стали рабами й ніколи не стануть',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-10T13:44:49',
+    topics: ['Бомбардування', 'Пропаганда', 'Гуманітарні коридори', 'Міжнародні переговори'],
+    cities: ['Маріуполь', 'Маріуполь', 'Волноваха', 'Ізюм', 'Суми', 'Буча', 'Бородянка', 'Ірпінь', 'Гостомель', 'Чернігів', 'Охтирка', 'Житомир', 'Харків', 'Салтівка', 'Олексіївка'],
+    text: `
+**Ukrainians!**
+
+Information about the victims of yesterday's bombing of the maternity hospital and the children's hospital in Mariupol appeared last night. We lost three people, including a child, a girl. The number of wounded is 17. These are children, women, medical workers.
+
+You know, this topic was mentioned on Russian television. It was on their talk show. But not a word of truth was said. The Russians were lied to that there had been no patients in the hospital and no women or children in the maternity hospital. The Russians were lied to that "nationalists" had allegedly taken up positions there. They lie confidently, as always.
+
+War crimes are impossible without the propagandists who cover them up. I want to tell them one thing: you will bear responsibility just as all those who give orders to bomb civilians. We will find all the property of the propagandists and their associates. We will do our best to confiscate it wherever it is. You love a rich life. Love prosperous countries. You will not have this anymore. And this is just the beginning.
+
+You will definitely be prosecuted for complicity in war crimes. And then, it will definitely happen, you will be hated by Russian citizens. Everyone whom you have been deceiving constantly, daily, for many years in a row. When they feel the consequences of your lies in their wallets, in their shrinking possibilities. In the stolen future of Russian children.
+
+War is never isolated. It always beats both the victim and the aggressor. The aggressor just realizes it later. But it always realizes and always suffers.
+
+Today, we are once again providing humanitarian corridors for our cities. The buses have already departed, the trucks are already on their way - with food, water, medicine.
+
+Mariupol, Volnovakha, Izyum, Sumy and the region. Cities and towns of the Kyiv region - Bucha, Borodyanka, Irpin, Hostomel... My heart is broken by what the invaders did to our cities, to our state! And by what they want to do to our people who need urgent help.
+
+Russian troops have already created a humanitarian catastrophe in Ukraine. But for them it is part of the plan. They want to humiliate our people. Make them take bread and water from the hands of the invaders standing on their knees. So that Ukrainians can save their lives just by going to the occupied territories or to Russia. That's why they are blocking Mariupol, that's why they are blocking Volnovakha, blocking other cities.
+
+The invaders specially organize this torture to give their propaganda channels new material. Just for that. Monsters.
+
+Despite everything, updated information was received every hour yesterday about people whom we managed to evacuate to the free territory of Ukraine. In total, more than 60,000 of our citizens were rescued yesterday plus those who did not have time until night and continued the evacuation in the morning.
+
+I spoke today, in particular about that, with German Chancellor Olaf Scholz. About the torture of our cities, our people. I spoke with French President Macron.
+
+I felt in a conversation with Prime Minister of the United Kingdom Boris Johnson that our anti-war coalition will soon become much stronger. Consequently, the pressure on Russia for peace will also be much stronger. For us, specifics in relations with world leaders, with European leaders are very important.
+
+We are really fighting for our independence! For freedom, for equality for all on the continent! That is why we want to see from partners the decisions based on reality, not on declarations or abstract considerations.
+
+These days, the EU leaders will convene to discuss Russia's war against Ukraine. To discuss our application for EU membership. We are waiting for a concrete signal. We look forward to strong support. Because it will be fair, real, human, European.
+
+We know exactly the position of every leader. We know exactly who stands with us and who thinks that the European Union is just accounting, profits, expenses and nothing more. We will work, we will persuade. Life will convince them.
+
+**Ukrainians! Our defenders!**
+
+We all have been defending our state for the 15th day. We endured. The Ukrainian army is repelling attacks in key directions. Thanks to our military, National Guards, border guards, police, territorial defense and everyone who joined the defense of the state, we have not become slaves, and will never become!
+
+Because this is our spirit, this is our destiny. Pride for our Armed Forces of Ukraine is boundless!
+
+After the war, after our victory, we will rebuild everything that was destroyed.
+
+Very quickly and with a very high quality. A special state program for reconstruction will be created for each affected city. I have already instructed the government to start the elaboration.
+
+Chernihiv and Sumy, Okhtyrka and Zhytomyr, Izyum, Mariupol and all our beautiful cities to which evil has come will not see a single trace of the Russian invasion.
+
+The best architects, the best companies, the best projects. For every city! I want to say this on the example of Kharkiv. Our Kharkiv, which is now experiencing the worst suffering since World War II.
+
+Saltivka, Oleksiivka... Perhaps most Ukrainians know nothing about these names. But the people of Kharkiv will hear. Freedom Square will be such that everyone, all of us, all Europeans will be there! Poltava Way, Belgorod Highway, Myronosytska Street, Regional Children's Hospital, Kharkiv Oncology Center, Karazin University, Labor Palace, Korolenko Library.
+
+We will rebuild everything! I promise you personally. Kharkiv residents will see that Ukraine stands with them. And it really does.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Воєнні злочини неможливі без пропагандистів, які їх прикривають. Хочу сказати їм одну річ: ви будете відповідати так само, як і всі ті, хто наказує скидати бомби на мирних людей.',
+    url: 'https://www.youtube.com/watch?v=7xLV27bqaLg'
+  },
+  {
+    id: '7xLV27bqaLg',
+    name: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-10T12:39:24',
+    topics: [],
+    cities: [],
+    text: `Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office`,
+    description: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=7xLV27bqaLg'
+  },
+  {
+    id: 'UchtNLoZ8',
+    name: 'Iryna Vereshchuk on the opening of humanitarian corridors',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-10T09:25:08',
+    topics: [],
+    cities: [],
+    text: `Iryna Vereshchuk on the opening of humanitarian corridors`,
+    description: 'Iryna Vereshchuk on the opening of humanitarian corridors',
+    url: 'https://www.youtube.com/watch?v=UchtNLoZ8'
+  },
+  {
     id: 'GQyVOnuE8ec',
     name: 'Everything that the invaders are doing to Mariupol is beyond atrocities already',
     translated: false,

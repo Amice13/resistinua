@@ -974,6 +974,33 @@ const source = [
     type: ['Вебсайт'],
     location: ['Україна']
   },
+  {
+    id: '107',
+    name: 'UABrave',
+    description: 'A tool that connects English-speaking Ukrainian witnesses with media outlets worldwide. Ukraine is fighting a monster raised on lies and propaganda and each truthful interview is a silver bullet.',
+    link: 'https://uabrave.org/',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '108',
+    name: 'УкрЄдність',
+    description: 'A large-scale platform for providing and receiving psychological support and assistance at this difficult time for Ukraine. For security reasons, moderators carefully check the data of experts who join the initiative to prevent misinformation!',
+    link: 'https://uabrave.org/',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '109',
+    name: 'Crisis logistics center "Help"',
+    description: 'Help Ukraine during the war - transport humanitarian goods or evacuate people',
+    link: 'https://pomich.org',
+    tags: ['Інформація', 'Транспорт'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
 ]
 
 module.exports = source
