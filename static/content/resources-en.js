@@ -1001,6 +1001,33 @@ const source = [
     type: ['Вебсайт'],
     location: ['Україна']
   },
+  {
+    id: '110',
+    name: 'Legal advisor for IDPs',
+    description: 'Chat on legal aid for internally displaced persons, residents of settlements located near the demarcation line and persons living in the temporarily occupied territories',
+    link: 'https://chatbot.r2p.org.ua/',
+    tags: ['Чат-бот', 'Біженці'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '111',
+    name: 'Jobs for Ukraine',
+    description: 'We are collating academic, scientific, arts, professional and freelance opportunities that are currently available for people fleeing war. Start looking for jobs by simply searching within a specific country or by switching between academic and industry opportunities.',
+    link: 'https://jobsforukraine.net/',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '112',
+    name: 'Russian Military Movements',
+    description: 'The map of Russian Military Movements during the full-scale Russian invasion',
+    link: 'https://maphub.net/Cen4infoRes/russian-ukraine-monitor',
+    tags: ['Інформація'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
 ]
 
 module.exports = source

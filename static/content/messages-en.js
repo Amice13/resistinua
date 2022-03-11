@@ -1,9 +1,110 @@
 const source = [
   {
-    id: 'P2zMQamV9pM',
+    id: 'SdV4lPGFPyw',
+    name: 'We have already reached a strategic turning point and are moving towards our goal, our victory',
+    translated: true,
+    russianTimestamp: 'https://youtu.be/Hr8vf0MnUkg?t=196',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-11T15:30:03',
+    topics: ['Ракетний удар', 'Гуманітарна катастрофа'],
+    cities: ['Маріуполь', 'Харків', 'Охтирка', 'Чернігів', 'Волноваха', 'Ізюм', 'Чернігів', 'Луцьк', 'Івано-Франківськ', 'Енергодар', 'Пологи', 'Буча', 'Гостомель', 'Бородянка', 'Андріївка', 'Микуличі', 'Макарів', 'Козаровичі', 'Маріуполь'],
+    text: `
+**Free people of a free country!**
+
+We have been fighting for our freedom for the 16th day already. This is four times longer than the enemy planned for his invasion.
+
+Four times longer! Against the army, which was considered one of the strongest in the world. Which hoped that the Ukrainians would surrender. Hoped that someone would meet Russian flags on Ukrainian streets, on our streets with flowers.
+
+But Ukrainians are proud people who always defend their land and will not give the invader a single piece of land. Not a percent of their freedom.
+
+16 days. I know that many people have started to feel tired. I understand. Impatience. I understand.
+
+Emotions play a bad game with people. This is life. When we mobilize, when we see our victories and the loss of the enemy on the battlefield, we expect the struggle to end sooner. We expect the invaders to fall faster. But... This is life, this is war. This is a struggle.
+
+Time is still needed. Patience is still needed. Our wisdom, energy. The ability to do our job to the maximum so that we can win together.
+
+It is impossible to say how many more days we must liberate our Ukrainian land. But it is possible to say - we will do it! Because we strived for that. Because we have already reached a strategic turning point. We are already moving towards our goal, towards our victory.
+
+This is a patriotic war. War with a very stubborn enemy who does not pay attention to the thousands of his killed people, killed soldiers. Who is now gathering reservists and conscripts all over Russia to throw them into the hell of this war.
+
+Who came up with the idea of throwing mercenaries against our people. Thugs from Syria. From the country that was destroyed in the same way as the invaders are destroying us now - our Mariupol, our Kharkiv, Okhtyrka, Chernihiv, Volnovakha, Izyum, etc.
+
+This is how Russian troops treat Ukrainians. This is how they treat Donbas, Russian-speaking people, as they said. How they shouted to everyone about "protection", which they talked about so much in Moscow. Rockets, air bombs, artillery. And now Syrian mercenaries who do not distinguish at all who speaks what language here, what church people go to, what party people supported.
+
+Mercenaries who simply go to kill in a foreign land - in every sense of the word.
+
+Over the past night and morning, the invaders carried out, as they say, "demilitarization" of the water supply system in Chernihiv. The city was left without water. We are doing everything to restore the water supply. Due to constant shelling in parts of the Sumy, Kyiv, Donetsk regions there is no electricity, yes, there are problems with heating, no gas, water. This is a humanitarian catastrophe.
+
+Humanitarian catastrophe - two words that have become fully synonymous with the other two words - the Russian Federation.
+
+At night, the invaders bombed a shoe factory, an apartment building and a kindergarten in Dnipro. For what? How did they threaten the Russian state? They destroyed residential houses in the villages of the Sumy region. They continued torturing Mariupol residents, Kharkiv residents.
+
+They fired rockets at Lutsk and Ivano-Frankivsk...
+
+If this continues, sanctions against Russia are not enough. And I expect, we are already working on this, new sanctions from our partners today.
+
+Russia must pay for this terrible war. Pay daily!
+
+A very important meeting of the leaders of the European Union took place yesterday. Long, substantive. We know what was said at this meeting. What all leaders said. Who specifically spoke. Who supported. Who remained silent. And who tried to make the wording insufficient - for Ukraine, Europe and our common freedom.
+
+How do we evaluate the decision made?
+
+It's very simple: it must be stronger. This is not what we expect.
+
+It is necessary that the decisions of politicians coincide with the mood of their nations, European nations. We are aware of this mood. And they are aware of this mood.
+
+Every politician is well aware!
+
+The numbers are different in different countries, but there are polls and support is huge. At least 60 percent stand in favor. And this is the vast majority which stands for Ukraine to be part of Europe!
+
+Europeans are clearly talking about this. And I'm sure they will clearly tell their politicians about this. If they haven't figured it out yet.
+
+The decision of yesterday's meeting of EU leaders now reaches the level of the European Commission.
+
+For implementation. For specific procedures.
+
+The European Union must do more.
+
+It must do more for us, for Ukraine. And for itself.
+
+We are waiting for that. All European nations are waiting.
+
+Our government officials have organized 12 humanitarian corridors today.
+
+Cargo with food, water, medicine is already on the way. Izyum, Enerhodar, Volnovakha, Polohy, Bucha, Hostomel, Borodyanka, Andriivka, Mykulychi, Makariv, Kozarovychi, of course, Mariupol.
+
+The Ukrainian servicemen have ensured "silence" for the humanitarian corridors to work.
+
+If the invaders shoot and disrupt the rescue of people again, they will eventually receive such a response from the world that they themselves will need humanitarian corridors.
+
+Our government officials, despite difficulties, are doing everything to ensure that there is fuel, products, medicines and all goods people need throughout the country.
+
+Gasoline, diesel - everything is imported.
+
+This morning I was asked a question at a daily conference call. Logical question. Given the spring. What about sowing? How to start it, especially in those areas that are temporarily occupied?
+
+My answer is very simple: all over our land, no matter what, we have to organize a full-fledged sowing campaign this spring. Of course, as much as possible. It all depends on the people and the situation. Because it's about life. Life is more important. It’s about our life. About our dreams. About our future. And therefore, about our victory.
+
+I repeat again and again: when we defend freedom, everyone must be like a full-fledged army.
+
+Do everything we can in our place to get the result we all deserve. That's fair. To win. Necessarily.
+
+Be sure to hold on. Be sure to fight. Be sure to give your all strength.
+
+It will not be easy with such a neighbor. But with us, it will not be easy, too.
+
+As it already turned out.
+
+**Glory to Ukraine!**
+    `,
+    description: 'We have been fighting for our freedom for the 16th day already. This is four times longer than the enemy planned for his invasion.',
+    url: 'https://www.youtube.com/watch?v=SdV4lPGFPyw'
+  },
+  {
+    id: 'Hr8vf0MnUkg',
     name: 'The state is doing everything to help Mariupol',
     translated: false,
-    russianTimestamp: 'https://youtu.be/P2zMQamV9pM?t=196',
+    russianTimestamp: 'https://youtu.be/Hr8vf0MnUkg?t=196',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-11T24:04:30',
     topics: ['Гуманітарні коридори', 'Воєнний злочин', 'Пропаганда', 'Герої України', 'Хімічна зброя'],
@@ -172,7 +273,7 @@ Preferably faster.
 **Thank you!**
     `,
     description: 'We are doing everything to save our people in the cities that the enemy just wants to destroy.',
-    url: 'https://www.youtube.com/watch?v=P2zMQamV9pM'
+    url: 'https://www.youtube.com/watch?v=Hr8vf0MnUkg'
   },
   {
     id: 'xFMk4xoPQtU',
@@ -232,9 +333,9 @@ Step by step, we will stop the aggressor and liberate the occupied territories. 
     url: 'https://www.youtube.com/watch?v=xFMk4xoPQtU'
   },
   {
-    id: '8QZCQnj4lGI',
+    id: 'xzx-d91aVwg',
     name: 'Iryna Vereshchuk on the first results of humanitarian corridors',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Ірина Верещук'],
     date: '2022-03-10T18:32:35',
@@ -242,7 +343,7 @@ Step by step, we will stop the aggressor and liberate the occupied territories. 
     cities: [],
     text: `Iryna Vereshchuk on the first results of humanitarian corridors`,
     description: 'Iryna Vereshchuk on the first results of humanitarian corridors',
-    url: 'https://www.youtube.com/watch?v=8QZCQnj4lGI'
+    url: 'https://www.youtube.com/watch?v=xzx-d91aVwg'
   },
   {
     id: '7xLV27bqaLg',
@@ -559,7 +660,7 @@ Thank God, our people have already sorted everything and everyone out.
     speaker: ['Володимир Зеленський'],
     date: '2022-03-08T23:35:59',
     topics: ['Секторальні санкції', 'Гуманітарні коридори', 'Поранені діти'],
-    cities: ['Олешки', 'Бердянськ', 'Мелітополь', 'Запорізькій'],
+    cities: ['Олешки', 'Бердянськ', 'Мелітополь', 'Запоріжжя'],
     text: `
 **Українці! Українки!**
 
