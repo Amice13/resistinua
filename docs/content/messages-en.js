@@ -1,5 +1,250 @@
 const source = [
   {
+    id: 'P2zMQamV9pM',
+    name: 'The state is doing everything to help Mariupol',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/P2zMQamV9pM?t=196',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-11T24:04:30',
+    topics: ['Гуманітарні коридори', 'Воєнний злочин', 'Пропаганда', 'Герої України', 'Хімічна зброя'],
+    cities: ['Суми', 'Тростянець', 'Краснопілля', 'Ірпінь', 'Буча', 'Гостомель', 'Ізюм', 'Полтава', 'Київ', 'Черкаси', 'Запоріжжя', 'Дніпро', 'Львів', 'Волноваха'],
+    text: `
+**Ukrainians!**
+
+One of the main tasks for us today was the organization of humanitarian corridors.
+
+Sumy, Trostyanets, Krasnopillya, Irpin, Bucha, Hostomel, Izyum. Almost 40,000 people have already been evacuated this day. They were given safety at last. In Poltava, Kyiv, Cherkasy, Zaporizhzhia, Dnipro, Lviv.
+
+Humanitarian cargoes were also delivered. Hundreds of tons of food, medicine.
+
+We are doing everything to save our people in the cities that the enemy just wants to destroy. Taking into account the work of humanitarian corridors in the previous two days, we have already evacuated about one hundred thousand people.
+
+But…
+
+Mariupol and Volnovakha remain completely blocked.
+
+Although we did everything necessary to make the humanitarian corridor work, Russian troops did not cease fire.
+
+Despite this, I decided to send a convoy of trucks to Mariupol anyway. With food, water, medicine. I am grateful to the drivers - brave people who were ready to fulfill this mission. An extremely important mission.
+
+But the invaders started a tank attack exactly in the area where this corridor was supposed to be. Corridor of life. For the people of Mariupol.
+
+They did it consciously. They knew what they were disrupting. They have a clear order to hold Mariupol hostage, to torture it, to carry out constant bombardment.
+
+Today they destroyed the building of the main department of the State Emergency Service in the Donetsk region. Right next to this building was the place where Mariupol residents were to gather for evacuation.
+
+This is outright terror. Blatant terror.
+
+From experienced terrorists.
+
+The world needs to know that. It has to admit it. We are all dealing with a terrorist state.
+
+But no matter what, we will try! Constantly! We will continue to try to bring to Mariupol the aid that people so desperately need. Ukrainians need.
+
+The invaders are doing everything to deceive our people in the besieged cities.
+
+They block communication. Prevent the provision of Information. The state is doing everything to help our city.
+
+Everything to tell the people of Mariupol: we are fighting. And we will not give up this fight.
+
+Therefore, if you have the opportunity to talk to the people of Mariupol, to write to the people of Mariupol, spread the truth. Remind them that Ukraine is with them wholeheartedly and is doing everything to stop the torture of the city.
+
+Russian propagandists have substantially intensified their activity today. And they tried very hard.
+
+Probably in order to cover up the crimes of their army in Ukraine. Crimes against Mariupol. Against Donbas. Against Kharkiv. Against dozens of other cities.
+
+Cover them up with new accusations. New-old fakes.
+
+They accuse us... Again us! That we are allegedly developing biological weapons. Allegedly, we are preparing a chemical attack.
+
+This makes me really worried, because we’ve been repeatedly convinced: if you want to know Russia's plans, look at what Russia accuses others of.
+
+Look, spreading such accusations in the Russian media shows that it is THEY who are capable of this. The Russian military, the Russian special services. It shows that they want it.
+
+They have already done such things in other countries. Similar! They themselves announced, they themselves organized, they themselves complained. And they will do so again.
+
+Again and again. If they are not stopped.
+
+They tore apart Moldova with Transnistria. They tore apart Georgia with Abkhazia. They tore apart Ukraine with Donbas and Crimea.
+
+But they blame us! Those who have become victims.
+
+Those who are forced to defend themselves. Fight for the right to live.
+
+They themselves come to us in tanks and with missiles.
+
+They take something that doesn’t belong to them. Capture.
+
+They are even ashamed to show their officers! They hide their generals. They conceal from their own people that they are sending conscripts to this war only to make the invasion forces larger.
+
+But we are to blame! We are accused of attacks on allegedly peaceful Russia.
+
+And now what? What are these allegations of preparing chemical attacks? Have you decided to carry out "de-chemicalization" of Ukraine? Using ammonia? Using phosphorus? What else have you prepared for us?
+
+Where will you strike with chemical weapons?
+
+At the maternity hospital in Mariupol? At the church in Kharkiv? At the Okhmatdyt Children's Hospital?
+
+Or at laboratories, most of which have remained since Soviet times and are engaged in ordinary science. Ordinary!
+
+NOT military technology.
+
+We are adequate people. I am the President of an adequate country, an adequate nation. And the father of two children.
+
+And no chemical or any other weapons of mass destruction were developed on my land.
+
+The whole world knows that.
+
+YOU know that.
+
+And if YOU do something like that against US, you will get the most severe sanctions response.
+
+Ukrainians! Our defenders!
+
+I have signed several important decrees.
+
+About awarding the title of Hero of Ukraine to thirteen of our defenders:
+
+Lieutenant Colonel Litun Andriy Mykolayovych. Posthumously. He died covering our troops and heroically restraining the enemy's offensive.
+
+Captain Korpan Oleksandr Bohdanovych. Posthumously. He saved our soldiers and civilian houses when he took the falling aircraft away from them.
+
+Junior Lieutenant Blokha Yuriy Ihorovych. Posthumously. In the battles in the Mykolaiv region he heroically protected brothers-in-arms, saving their lives.
+
+Senior Sergeant Ivashko Andriy Oleksandrovych. Posthumously. During the rocket fire, he personally provided information about the enemy's actions at the cost of his own life.
+
+Junior Sergeant Volkov Yevhen Volodymyrovych. Posthumously. For courage and heroism during the evacuation of the wounded in the Donetsk region, for saving our military.
+
+Major General Nikoliuk Viktor Dmytrovych. He skillfully led the defense in the north-eastern direction and managed to prevent the capture of Chernihiv.
+
+Colonel Khoda Leonid Oleksiyovych. During the war, under his command, more than 50 enemy vehicles were destroyed.
+
+Lieutenant Colonel Ponomarenko Vyacheslav Anatoliyovych. Thanks to his actions, a significant number of enemy’s equipment and soldiers in the city of Hostomel were destroyed.
+
+Lieutenant Colonel Yakovenko Oleksandr Oleksiyovych. He withdrew his units from the enemy artillery fire, thanks to which he saved personnel and continued to successfully defend the Donetsk region.
+
+Major Bova Yevhen Petrovych. For the heroic defense of Mariupol and holding positions under constant enemy attacks.
+
+Captain Boyechko Vasyl Vasyliovych. For the extremely successful destruction of enemy equipment and manpower.
+
+Sergeant Moroz Oleh Romanovych. Thanks to his heroic deeds, the enemy's offensive in the Luhansk region was stopped.
+
+Sailor Samofalov Valeriy Mykhailovych. In one battle, for the first time in the history of this war, he shot down three enemy helicopters.
+
+I also signed a decree awarding orders for personal courage to 39 national guardsmen, 31 policemen (9 posthumously), 14 border guards (4 posthumously) and 23 employees of the State Emergency Service.
+
+Today the rank of Brigadier General is awarded to:
+
+Nechayev Oleh Oleksandrovych. For the successful defense of the Kyiv region.
+
+Lishchynsky Vladyslav Vatslavovych. For extremely successful actions against the enemy in the Kherson region.
+
+Hutsol Volodymyr Volodymyrych. For the successful destruction of enemy airborne troops in Vasylkiv.
+
+Demyanchyk Hryhoriy Petrovych. For the successful organization of personnel training for our military units.
+
+And finally.
+
+Discussions on Ukraine's future in the EU continue today and tomorrow in Europe.
+
+I believe that our people, our state, our army did everything for us to be welcome there. As equals. For us to be invited there.
+
+This is the final exam for Europe.
+
+Among the leaders of the states there are those who support us. And there are also those who support only themselves.
+
+But we see how the nations of all European countries treat us. And this is the main thing.
+
+Because I know for sure - if people decided on our membership in the EU, they would definitely choose the people of Ukraine.
+
+Today, when I see the support of the people of each country in the squares of European capitals, I know that the Ukrainian people are already in the European Union.
+
+And politicians... I'm sure they will adjust to that.
+
+Preferably faster.
+
+**Glory to the nations of Europe!**
+
+**Glory to Ukraine!**
+
+**Glory to our military!**
+
+**Thank you!**
+    `,
+    description: 'We are doing everything to save our people in the cities that the enemy just wants to destroy.',
+    url: 'https://www.youtube.com/watch?v=P2zMQamV9pM'
+  },
+  {
+    id: 'xFMk4xoPQtU',
+    name: 'Росія — це держава-терорист',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-10T22:11:46',
+    topics: ['Міжнародна допомога', 'Посівна', 'Соціальні виплати', 'Членство в ЄС', 'Воєнний злочин'],
+    cities: ['Маріуполь'],
+    text: `
+**Heroic people of Ukraine.**
+
+For 15 consecutive days, Europe is suffering from a war being the biggest since World War II.
+
+Yesterday, after bombing a children’s hospital and a maternity hospital in Mariupol, the whole world once again got ascertained that russia is not just an aggressor. Russia is a terrorist state.
+
+Ukraine will win this war! Our main task is to bring this victory closer.
+
+The whole civilized world, which is now united around Ukraine, is helping us in that. And it's not just about governments of different countries, but also about ordinary people around the world, and about companies that operate around the world.
+
+The U.S. House of Representatives has approved a $ 13.6 billion emergency aid package for Ukraine. These are funds that will be used to reinforce our army, to provide humanitarian aid and support for Ukrainians. We are grateful to our American friends for such powerful support.
+
+We are just as much grateful to our friends and partner countries all around the world for isolating the russian federation, we are grateful to the companies that left the Russian market as well. We are grateful to the leaders of the European Union for the next package of punitive sanctions against russia. The aggressor felt that the entire world rose against it. And it is only going to get worse.
+
+In the coming days, the European Union will consider granting Ukraine an EU candidate status. This issue will become one of the key determinants in the history of Europe and the European Union for years to come. We are, definitely, looking forward to this from our European partners.
+
+That is why we appeal not only to European leaders, but also to all citizens of a Greater Europe: support Ukraine now. Ukraine has definitely deserved the right to become a member of the European Union.
+
+The citizens of the EU Member States must speak out so that your governments have no doubt as to what decision they must take.
+
+Together with the whole world, we continue to forge our victory. For this purpose, Ukraine is switching to the war economy.
+
+Energy security and operation of critical infrastructure. Defense-industrial complex. Agro-industrial complex. Logistics. The successful operation of these sectors are also integral components of our victory.
+
+Currently, among the essential topics on the agenda of the Government is organizing a sowing campaign in those regions of our country not affected by active hostilities. Our priority is food crops.
+
+We have intensified our work with agrarians in this direction so that Ukraine can fully satisfied the needs and have the required amount of food. The work of food industry enterprises in the areas currently not being at the forefront must be resumed.
+
+I want to appeal to businesses again. Resume production where possible. Return your staff back to work.
+
+The state, in turn, does its job.
+
+Today the Government has increased the expenditures of the reserve fund of the state budget by UAH 50.8 billion. This will allow the needs of the security and defense sector to be promptly met under martial law.
+
+During March, a UAH 38.3 billion resource has already been allocated for pension payments. In the last two days alone, the Government has financed UAH 13.9 billion for pension payments.
+
+Moreover, today we have approved the procedure for using the already announced eDocument. It can be generated in the Diia application and the portal.
+
+The eDocument will contain all the necessary information and a QR-code for identification. This will help Ukrainians who lost their documents as a result of war to prove their identity if necessary.
+
+Step by step, we will stop the aggressor and liberate the occupied territories. And everyone of us must do the job and exert every effort to bring this day closer.
+
+**Glory to Ukrainians! Glory to Ukraine!**
+    `,
+    description: 'Ukraine will win this war! Our main task is to bring this victory closer.',
+    url: 'https://www.youtube.com/watch?v=xFMk4xoPQtU'
+  },
+  {
+    id: '8QZCQnj4lGI',
+    name: 'Iryna Vereshchuk on the first results of humanitarian corridors',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-10T18:32:35',
+    topics: [],
+    cities: [],
+    text: `Iryna Vereshchuk on the first results of humanitarian corridors`,
+    description: 'Iryna Vereshchuk on the first results of humanitarian corridors',
+    url: 'https://www.youtube.com/watch?v=8QZCQnj4lGI'
+  },
+  {
     id: '7xLV27bqaLg',
     name: 'Завдяки нашим захисникам українці не стали рабами й ніколи не стануть',
     translated: false,
