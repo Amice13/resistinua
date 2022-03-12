@@ -1,5 +1,289 @@
 const source = [
   {
+    id: 'Hu9gbwav_lA',
+    name: 'Today, everyone is gaining glory for Ukraine in his or her place',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/Hu9gbwav_lA?t=352',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-11T21:42:06',
+    topics: ['Викрадення людей', 'Терроризм', 'Гуманітарні коридори', 'Міжнародні переговори'],
+    cities: ['Мелітополь'],
+    text: `
+**Strong people of the steel country!**
+
+This is how the militaries answer the Kremlin command's question about what prevented them from capturing Ukraine in four days. Strong people of the steel country. This information is unverified, but this fact is indisputable.
+
+And if the lost invaders justify their failures with something else, it means that during the 16 days of the war they did not understand anything.
+
+Well, we don’t take it so hard. We are ready to explain. Enlighten the invaders until they fully understand who they are and where exactly they should go. Go out of Ukraine.
+
+Today in Melitopol the invaders captured mayor of the city Ivan Fedorov. A mayor who courageously defends Ukraine and the people of his community.
+
+Obviously, this is a sign of the weakness of the invaders.
+
+They did not find any support on our land. Although they counted on it.
+
+Because for years they have been lying to themselves that people in Ukraine were supposedly waiting for Russia to come.
+
+They did not find collaborators who would hand over the city and the power to the invaders.
+
+Therefore, they have switched to a new stage of terror, when they are trying to physically eliminate representatives of the legitimate local Ukrainian authorities.
+
+It is clear to any democratic state in the world that a legitimately elected mayor is a true representative of the people. Usually it's not about ideology, it's not about politics, it's about the lives of people in a particular community.
+
+Probably Russia has become accustomed to this during the years of autocratic rule.
+
+Perhaps they believe that the mayor is just a boss which is easy to remove, and it means nothing.
+
+But it is Ukraine here. It is Europe here. It is a democratic world here.
+
+Therefore, the capture of the mayor of Melitopol is a crime not only against a particular person. Not only against a particular community. And not only against Ukraine.
+
+This is a crime against democracy as such. I assure you that one hundred percent of people in all democracies will know this. The actions of the Russian invaders will be equated with the actions of ISIS terrorists.
+
+The whole country saw that Melitopol did not surrender to the invaders. Just as Kherson, Berdyansk and other cities where Russian troops managed to enter didn’t. Temporarily managed to enter.
+
+And this will NOT be changed by putting pressure on mayors or kidnapping mayors. This can only get worse. For the invaders.
+
+Ukraine demands the immediate release of the mayor of Melitopol and guarantees of full security to all heads of communities across the country. If you are becoming an analogue of ISIS terrorists, then what is the point of talking to you about something at all?
+
+We will raise this issue, including in talks with international mediators who communicate with Moscow.
+
+Today, Russian troops also disrupted the work of most humanitarian corridors.
+
+But, despite everything, 7,144 people were saved. From Enerhodar, Bucha, Hostomel and Kozarovychi. And these are 7,144 reasons to try to organize evacuation for Ukrainians from the besieged cities tomorrow and the day after tomorrow.
+
+We will do that. We will do everything to bring humanitarian aid to Ukrainian cities. I have to say this with pain - Mariupol remains blocked by the enemy. Russian troops did not let our aid into the city and continue to torture our people, our Mariupol residents.
+
+Tomorrow we'll try again. Once again send food, water and medicine for our city.
+
+I am confident that the Armed Forces of Ukraine will respond to every minute of our people's suffering.
+
+And it's not pathos. Not a threat. This is a statement of reality.
+
+The number of killed Russian servicemen on the territory of Ukraine already exceeds 12 thousand people. 12 thousand! The number of wounded invaders is many times bigger. We did not invite any of them here.
+
+And we repeat to each of the invaders: you can still save yourself. At any moment. Just lay down your weapons and go home, leave our land.
+
+The number of captured invaders has already reached such a level that this issue cannot be left to the structures that we had before the war.
+
+Therefore, today the Cabinet of Ministers of Ukraine established the Coordination Headquarters for the Treatment of Prisoners of War.
+
+Thousands of enemy soldiers who have been captured or surrendered receive from our state the treatment required by international conventions.
+
+But there are so many of them that a special structure is needed to deal with all related issues.
+
+I want to say it again for Russian mothers. Especially for mothers of conscripts.
+
+Do not send your children to war in a foreign land. Do not believe the promises that they will be sent just somewhere for exercises or just somewhere in non-combat conditions.
+
+Check where your son is.
+
+And if you have even the slightest suspicion that your son may be sent to the war against Ukraine, act immediately. Do not give your son to death or captivity.
+
+Ukraine never wanted this dreadful war. And Ukraine doesn’t want it. But it will defend as much as necessary.
+
+Fortunately, we are not alone in this battle.
+
+Ukrainians have sincere friends. Good partners.
+
+Speaking in the Polish Parliament today, I paid a lot of attention to the importance of not being alone in today's world. How important it is to protect common values. And as a result - to feel that the borders between nations are blurred.
+
+To make people closer.
+
+Just like our relationship with Polish brothers and sisters. Just like our relationship with all our sincere partners.
+
+Because the one who has friends can do anything.
+
+I held talks with US President Biden.
+
+We discussed how else we can put pressure on Russia to end this war and establish peace.
+
+Russia will be deprived of the opportunity to trade normally with the G7 countries.
+
+The less dollars Russian business earns and the less taxes the Russian state receives, the less opportunity the Russian military will have to kill our people.
+
+Leading international companies are already leaving the Russian market. The Russian government has put its country outside the global world by starting a war against us. By starting this invasion. This is self-closure. Self-humiliation. Self-destruction.
+
+In Moscow currency exchange offices, the dollar has already reached 200 rubles. And this is just the beginning. The beginning of international sanctions.
+
+The next step is the United States’ ban on bringing dollars into Russia.
+
+Consequently, there will be a shortage of currency. So, the course will raise even more. Consequently, prices will rise. Consequently, every citizen of Russia will feel that the absence of peace is a threat to him personally.
+
+Not a single country in the world wished harm to ordinary citizens of Russia. Nobody tried to cause any damage until your government started a war with neighbors, peaceful people. A war of annihilation.
+
+No one wanted to return ordinary Russian life back to the "wicked 1990s". Is that what you call that era? A time of upheaval and poverty. A time of very limited opportunities for ordinary people and very large inequalities.
+
+Perhaps now, due to the efforts of propagandists, most Russians do not yet understand what awaits them. But the Russian authorities ALREADY understand this very well. Very clear. And they are very afraid.
+
+That is why they are trying to close all free sources of information. Actually all sources of information. Even Instagram and Facebook.
+
+But the modern world has learned to deal with such censorship.
+
+My advice to thinking Russians is to look for ways to get truthful information.
+
+And try to hide your smartphones and computers from the security forces on the streets. They're getting ready to check what's in people's phones. What do people have in laptops. I specifically warn you: learn to resist the repression that your government plans to increase.
+
+Because thinking people should be in every country.
+
+And in Russia, too. And they are in Russia.
+
+And one more thing. Now the good news and the victories of Ukraine for all of us are worth their weight in gold.
+
+Or silver and bronze.
+
+And all this - for Ukraine - is successfully won by our Paralympians in Beijing.
+
+Today, everyone is gaining glory for Ukraine. In his or her place. Shows the world who Ukrainians are and what strength we have.
+
+With a weapon in hands on the battlefield or with a sporting rifle on a biathlon track.
+
+Our boys and girls have already won 25 medals at the Winter Paralympics!
+
+And take second place in the overall standings, second only to the hosts of the competition - China.
+
+The Paralympics will end in two days.
+
+I would very much like to say the same about the war. That it will end in two days.
+
+Unfortunately, this is still unrealistic. But it will definitely happen.
+
+Both victory for Ukraine and peace for Ukraine are achievable.
+
+And they will be more valuable for us than gold, silver and bronze of the whole world.
+
+Well, for now ...
+
+**Hold our ground! Hold on! We will win!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I am confident that the Armed Forces of Ukraine will respond to every minute of our people\'s suffering.',
+    url: 'https://www.youtube.com/watch?v=Hu9gbwav_lA'
+  },
+  {
+    id: 'rebTHXLyKoU',
+    name: 'Iryna Vereshchuk - about the results of the work of humanitarian corridors',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-11T21:42:06',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk - about the results of the work of humanitarian corridors`,
+    description: 'Iryna Vereshchuk - about the results of the work of humanitarian corridors',
+    url: 'https://www.youtube.com/watch?v=rebTHXLyKoU'
+  },
+  {
+    id: '3lvq37c0hnw',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Sejm of the Republic of Poland',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-11T16:12:11',
+    topics: ['Вбиті діти', 'Міжнародна допомога'],
+    cities: [],
+    text: `
+**Dear Mr. President, my friend Andrzej!**
+
+**Dear Mrs. Marshal of the Sejm! Dear Mr. Marshal of the Senate!**
+
+**Ladies and gentlemen deputies and senators!**
+
+**Dear Sirs!**
+
+**Polish brothers and sisters!**
+
+When I became President in 2019, it felt like we had a long way to go with Poland.
+
+Because our relationship was pretty cold, our attitude towards each other wasn’t too warm.
+
+This was the situation. But I wanted to go this way fast. The path to warmth.
+
+Because we are such nations. I knew that we were akin by nature - Ukrainians, Poles.
+
+I remember my first meetings with Andrzej Duda. From meeting to meeting everything changed. The coolness disappeared. We understood each other. As a Ukrainian and a Pole. As Europeans. As friends. As parents who love their families and realize that our children must live in a world of equal good values. Our shared values. They must live in a world where nations are independent, where freedom reigns, where the family matters, and where no one ever has the right to war, to invasion.
+
+It is believed that the number seven brings happiness. That is how many neighbors God has given to Ukraine. Does it bring us happiness? The whole world knows the answer today.
+
+And 78 Ukrainian children who died from rockets and shelling of the Russian Federation know it better than others. A neighbor who brought trouble and war to our land. A neighbor who obviously acts without God.
+
+When there is someone who beats like a savage, it is very important to have someone who will lend a hand. And when the foot of the enemy enters your house, he will lend you a helping hand.
+
+On the morning of February 24, I had no doubt who it would be. Who will say to me: "Brother, your people will not be left alone with the enemy."
+
+And so it happened. And I'm grateful for that. Polish brothers and sisters are with us. And this is natural.
+
+Just in one day, on the first day of the war, it became clear to me and to all Ukrainians, and, I am sure, to all Poles that there are no more borders between us, between our nations. No physical ones. No historical ones. No personal ones.
+
+During the 16 days of this war, Ukrainian pride and Polish honor, Ukrainian courage in battles and Polish sincerity in helping us allow me to say very important words now. Words that there is real peace between our nations. Peace between relatives. Peace between brothers. And now I really want these words to be heard by our common Belarusian neighbors.
+
+Peace between relatives, peace between neighbors, peace between brothers. We have to come to this with them as well! We will definitely come!
+
+Dear Sirs! Polish brothers and sisters!
+
+For a long time, various "stakeholders" tried to create an impression that Ukrainians and Poles live differently. And separately. Why did they do all this?
+
+I will recall the words of President of the Republic of Poland Lech Kaczyński said in Tbilisi in 2008: "We know very well: today - Georgia, tomorrow - Ukraine, the day after tomorrow - the Baltic countries and then, perhaps, the time will come for my country - Poland”.
+
+On February 24, this terrible "tomorrow" for Ukraine came, which President Kaczyński spoke about.
+
+And today we are fighting for such a bad time for Poland and the Baltic States to never come. We fight together. We have strength.
+
+Remember, there are 90 million of us together! We can do everything together. And this is the historical mission, the historical mission of Poland, the historical mission of Ukraine to be leaders who together will pull Europe out of this abyss, save it from this threat, stop the transformation of Europe into a victim.
+
+Dear Sirs! We can do it.
+
+We saw yesterday what the countries of the European Union talked about and in what manner. We saw who was the real leader and fought for a strong Europe. For common European security. And who tried to stop us, tried to stop you.
+
+We understand why it is so important for Poles to fight with us. Together with all those who are for freedom. For us and for you, for Europe.
+
+We remember the terrible tragedy of 2010 near Smolensk. We remember all the facts of the investigation into the circumstances of this catastrophe. We feel what this means for you. And what does the silence of those who also know all this mean to you, but... But they still feast their eyes on Russia. 
+
+**Polish brothers and sisters!**
+
+I feel that we have already formed an extremely strong alliance. Even though it is informal. But this is an alliance that grew out of reality, not words on paper. Of the warmth in our hearts, not of the speeches of politicians at summits. Of the way you treated our people. Ukrainians who fled to your country to escape from the evil that came to our land.
+
+More than one and a half million citizens of Ukraine! The vast majority are women and children. They do not feel like they are in a strange land. You met our people in your families. With Polish delicacy. With fraternal kindness.
+
+Although we did not ask for it. And you did not ask anything for it. It's just the way it is between relatives.
+
+That's why I address so simply: friend Andrzej, dear Agata!
+
+That's why I claim that we have already united. We united to constantly gain and create freedom, as a great Pole, a close friend of Ukraine John Paul II said.
+
+Today, I cannot be sure of all the leaders of all European nations, but I am sure that we will definitely be with you in defending freedom. As much as needed.
+
+I am grateful for all the help we have already received from your state, from your people. I am grateful for your efforts so that we can secure the Ukrainian sky. I believe that we will be able to achieve the result in this, the result that we all desperately need.
+
+If God allows and we win this war, we will share the victory with our brothers and sisters.
+
+**This is our greatness. And your greatness.**
+
+**This is a struggle for our freedom, this is a struggle for your freedom.**
+
+**This is the common history of great nations!**
+
+**May God help us win!**
+    `,
+    description: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Sejm of the Republic of Poland',
+    url: 'https://www.youtube.com/watch?v=3lvq37c0hnw'
+  },
+  {
+    id: '0w9xxv_u1NE',
+    name: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-11T16:12:11',
+    topics: [],
+    cities: [],
+    text: `Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office`,
+    description: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=0w9xxv_u1NE'
+  },
+  {
     id: 'SdV4lPGFPyw',
     name: 'We have already reached a strategic turning point and are moving towards our goal, our victory',
     translated: true,
@@ -415,7 +699,7 @@ We will rebuild everything! I promise you personally. Kharkiv residents will see
     name: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
     translated: false,
     russianTimestamp: '',
-    speaker: ['Ірина Верещук'],
+    speaker: ['Олексій Арестович'],
     date: '2022-03-10T12:39:24',
     topics: [],
     cities: [],

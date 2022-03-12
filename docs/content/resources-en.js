@@ -54,6 +54,15 @@ const source = [
     location: ['Україна']
   },
   {
+    id: '115',
+    name: 'e-Enemy',
+    description: 'Take photos and videos of the occupiers and their equipment and send footage to the Telegram chatbot via smartphone. AUTHORIZATION THROUGH DIIA!',
+    link: 'https://t.me/evorog_bot',
+    tags: ['Офіційні' ,'Інформація', 'Завдання', 'Спротив'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
     id: '4',
     name: 'The Telegram bot of the Security Service of Ukraine',
     description: 'The official chat bot where you can report information on Russian troops and machinery.',
@@ -1026,6 +1035,33 @@ const source = [
     link: 'https://maphub.net/Cen4infoRes/russian-ukraine-monitor',
     tags: ['Інформація'],
     type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '113',
+    name: 'Ukraine is the shield of Europe',
+    description: 'The site with chronicles of the war',
+    link: 'https://ukraine-new.com/',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '114',
+    name: 'Russia will pay',
+    description: 'The resource collects data on material damage caused to citizens and the state as a result of Russian aggression. The Ukrainian government needs these data to assess the damage suffered by the state and citizens of Ukraine as a result of Russian aggression and to file lawsuits against Russia in international courts for damages.',
+    link: 'https://damaged.in.ua/',
+    tags: ['Інформація', 'Збір доказів'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '116',
+    name: 'We are Ukraine',
+    description: 'Repository of truth about Ukraine’s contribution to freedom and lasting peace in the world. Learn about the Ukrainian nation in all its resilience and share the truth about the war in Ukraine. Stand with us in our common fight for freedom.',
+    link: 'https://www.weareukraine.info/',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
     location: ['Світ']
   },
 ]
