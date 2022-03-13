@@ -1,5 +1,235 @@
 const source = [
   {
+    id: 'U5dYdFNF12U',
+    name: 'We still need to fight and inflict maximum damage on the enemy in all areas of defense',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-13T00:36:02',
+    topics: ['Гуманітарні коридори', 'Воєнний злочин', 'Міжнародна коаліція', 'Герої України'],
+    cities: ['Житомир', 'Київ', 'Чернігів', 'Суми', 'Харків', 'Луганськ', 'Донецьк', 'Маріуполь', 'Мелітополь', 'Генічеськ'],
+    text: `
+**Wise people of a strong country!**
+
+The 17th day of the war is over. War for the right to be free. For the right to live on our land the way we, Ukrainians, want it. Not the way someone came up with for us. And against us. Against our nature. Against our character.
+
+The Russian invaders cannot conquer us. They do not have such strength. They do not have such spirit. They are holding only on violence. Only on terror. Only on weapons, which they have a lot. But the invaders have no natural basis for normal life. So that people can feel happy and dream. They are organically incapable of making life normal! Wherever Russia has come to a foreign land, dreams are impossible.
+
+Only a very hard struggle for survival.
+
+As a result of the attack on our land, on Ukraine, the Russian leadership is actually turning its state into an analogue of the so-called "DPR" and "LPR". Into a large area isolated from the rest of the world. Where poverty will reign. Where everything will be determined only by violence. And where people will flee. In any manner they can and whoever can.
+
+Look who is leaving Russia now. Who withdraws business. These are professionals who can be competitive at the global market. These are IT specialists who do not want to live in an area where there is no freedom. These are businessmen who feel that everything will be taken away from them at any moment. These are artists who know that creativity in a territory where human life is worthless is also worthless.
+
+Russia loses its brains. Loses talent. Loses money.
+
+But if this is happening to Russia, then what awaits the so-called "DPR" and "LPR"? Their analogues? Solely complete degradation.
+
+The invaders in the Kherson region are trying to repeat the notorious experience of the formation of pseudo-republics. Blackmail local leaders, put pressure on deputies. Look for someone to bribe. They’re trying to organize the so-called "KPR". Stillborn as "DPR" and "LPR". To organize some "committees" against the legitimate government on our land. And against the will of the people who go out to protest every day. And who want Ukraine. I am grateful to them.
+
+I want to tell some figures who lacked the disgust to refuse to talk to the invaders... I want to say - if some of them were suddenly tempted by proposals from the invaders... You sign your sentence.
+
+The sentence is to follow more than 12,000 invaders who failed to understand in time why Ukraine should not be encroached upon.
+
+An emergency meeting of the Kherson Regional Council took place. 44 deputies decided that the Kherson region is Ukraine, and no pseudo-republics have a place there.
+
+Ukraine will stand the test. We need time and strength to break the military machine that came to our land.
+
+I will not underestimate the threat. And I will not exaggerate the achievements. We are honest people, not Russia's Ministry of Defense. Which lies to everyone - millions of its citizens and even the head of the Russian Federation. So I say frankly: we still need to hold on. We still have to fight. Every day and every night we must look for ways to cause maximum damage to the enemy. In all areas of defense. Near Zhytomyr and Kyiv, near Chernihiv and Sumy, near Kharkiv and Luhansk, near Donetsk and Mariupol, in the south of the country and on the diplomatic frontline.
+
+Having such tactics and having self-confidence, we will regain what’s ours.
+
+We will come to Melitopol and Henichesk. We will come wherever our land is. And let the invaders know. Let all the collaborators they find know. That Ukraine will not forgive them. Nobody. Nothing.
+
+Ukraine will not forget. Ukraine will find and prosecute. Every single one. In any possible way.
+
+By the way, all humanitarian corridors, which were agreed upon, worked. 12,729 people were evacuated. The humanitarian cargo for Mariupol is to arrive tomorrow afternoon. Due to the complexity of the route they had to spend the night in Berdyansk.
+
+On every occasion, I constantly repeat to our friends and partners abroad that they should do more for Ukraine, for Ukrainians. Because it is not only for Ukraine. This is for everyone in Europe.
+
+Evil that purposefully bombs peaceful cities... Evil that fires even at ambulances and blows up hospitals will not be able to stop at one country. If it has the strength to go further.
+
+I said this at a very important rally in support of our people, which was organized in Europe. More than a hundred thousand people in the squares of Italy and other countries of the continent gathered for a rally in support of Ukraine and against Russian aggression.
+
+Millions of people heard my appeal later thanks to broadcasts and recordings.
+
+We now enjoy the greatest support in the history of Ukraine for our aspirations and our independence.
+
+You can take a public opinion poll in any country and you will see that Ukraine is among the leaders of those who are sympathized with and supported.
+
+And Russia is not just among enemies. It is even a bigger enemy, bigger evil than North Korea. That's what Americans think, for example. Ordinary people in all states. As well as ordinary people in all European countries.
+
+And I am grateful to them for this extraordinary support. Grateful for understanding our struggle. Because we are united by one dream - to live freely on our land. And we have the right to what everyone has in the free world. To a safe sky, as well as to our own land.
+
+**Dear Ukrainians!**
+
+**Our heroes!**
+
+The world has always loved those who fight against evil.
+
+It was our resistance, the courage of all our people that inspired the world. Millions of people in different countries. Who 17 days ago might not have felt what they all have in common. We all have. And now it's obvious. Peace. Freedom. And love for our children. The children we are fighting for. For them to have a future.
+
+I signed two important decrees.
+
+On awarding 106 servicemen of the Armed Forces of Ukraine who bravely showed themselves in the battles for the independence of Ukraine. 17 of them, unfortunately, posthumously. But they are heroes.
+
+I - the decree on conferring the title of Hero of Ukraine with the award of the Order of the Golden Star to:
+
+**Senior Sergeant Vasich Serhiy Viktorovych**. Posthumously. He bravely defended our positions in the Kyiv region. Destroyed enemy equipment and a significant amount of enemy manpower.
+
+**Senior soldier Parkhomuk Vitaliy Vasyliovych**. Posthumously. During the counterattack on the enemy near the city of Makariv, he inflicted significant losses on the enemy and died heroically defending his brothers-in-arms.
+
+**Soldier Mrochko Kostiantyn Vasyliovych**. Posthumously. He fought bravely against the overwhelming forces of the enemy. Thanks to his effective actions, the invaders suffered painful losses.
+
+**Soldier Svynchuk Oleh Anatoliyovych**. Posthumously. He heroically performed his duty in the battle against the overwhelming forces of the enemy. He was helping his brothers-in-arms until the last moment.
+
+**Sergeant Khanin Andriy Pavlovych**. Posthumously. Defending Volnovakha, Donetsk region, he destroyed an enemy tank and about 10 enemies. During the battle, when he was wounded, he helped his wounded brothers-in-arms and performed his duty to the last.
+
+**Sergeant Derusova Inna Mykolaivna**. Posthumously. Since February 24, the senior combat medic has performed tasks in the city of Okhtyrka, Sumy region. She saved more than 10 servicemen, risking her own life. She died from artillery shelling by Russian troops, helping the wounded. The first woman - hero of Ukraine, who was posthumously awarded this title.
+
+Eternal memory to all who gave their lives for Ukraine!
+
+The title of Hero of Ukraine with the Order of the Golden Star is conferred upon:
+
+**Senior Lieutenant Hutsul Volodymyr Oleksandrovych**. Thanks to his heroic actions in the Kherson region, 25 units of enemy equipment and about 300 invaders were destroyed.
+
+**Senior Lieutenant Chornyi Volodymyr Volodymyrovych**. Thanks to his skilful actions during the defense of Volnovakha, Donetsk region, about 50 enemies and a T-72 tank were destroyed, as well as 5 invaders were captured.
+
+**Glory to all heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The Russian invaders cannot conquer us. They do not have such strength. They do not have such spirit. They are holding only on violence. Only on terror.',
+    url: 'https://www.youtube.com/watch?v=U5dYdFNF12U'
+  },
+  {
+    id: 'uhwr_Y3grA4',
+    name: 'Briefing of the Prime Minister of Ukraine Denys Shmygal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-12T22:00:45',
+    topics: ['Економіку воєнного стану', 'Гуманітарні коридори', 'Посівна', 'Соціальні виплати'],
+    cities: [],
+    text: `Restructuring the economy to new realities must be the key to victory. That\'s why I urge everyone! Everyone who can work and has a job should work.`,
+    description: 'Restructuring the economy to new realities must be the key to victory. That\'s why I urge everyone! Everyone who can work and has a job should work.',
+    url: 'https://www.youtube.com/watch?v=cORr0ndCF9E'
+  },
+  {
+    id: 'cORr0ndCF9E',
+    name: 'Iryna Vereshchuk - about the results of the humanitarian corridors and tomorrow\'s routes',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-12T22:00:45',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk - about the results of the humanitarian corridors and tomorrow\'s routes`,
+    description: 'Iryna Vereshchuk - about the results of the humanitarian corridors and tomorrow\'s routes',
+    url: 'https://www.youtube.com/watch?v=cORr0ndCF9E'
+  },  {
+    id: '1GSDs_5lC_I',
+    name: 'Address by President of Ukraine Volodymyr Zelenskyy to Italians and all Europeans',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-12T19:07:42',
+    topics: ['Вбиті діти', 'Воєнний злочин', 'Ракетний удар', 'Міжнародні санкції'],
+    cities: ['Маріуполь'],
+    text: `
+Greetings to all friends of Ukraine!
+
+Greetings to all friends of Europe, all friends of freedom!
+
+I know that there are over a hundred thousand of you all over the world today. More than a hundred thousand in the squares of different cities. We, Ukrainians, are grateful for this. And now I ask each of you to remember one number in each square... 79.
+
+You will understand what this means. I will tell you now what it means for our lives, for each of us. I will tell all one hundred thousand and millions who will hear us afterwards.
+
+We are experiencing a terrible war in Ukraine. Europe has not seen such a war since World War II. We did not start this war. This is a brutal and cynical Russian invasion of Ukrainian land. This is a war against the Ukrainian people - against peaceful and sincere people, whom I am sure you have known very well during the years of our independence.
+
+And you saw that we are very similar to you. We equally value freedom. We equally value equality. We equally want to live. We just want to live.
+
+We equally want only the best, the brightest for our children, for our families. But now we and you live differently.
+
+Now when the war is going on and thousands of people have died in it! And 79 children have died in it. 79 children!
+
+I'm sure each of you has photos of your loved ones. At home or just on the phone so you can watch when your heart asks for that. Photos of children, photos of parents. Photos of your loved ones.
+
+We don't even realize it, but we always know that these photos are not the last.
+
+Because we believe that we will see how those who are dearest to us will live. We’ll see how happy our loved ones are. How our children grow up, how they go to university, how they work. How they have their children. And then we will play with our grandchildren. Meet them after school, have dinner together.
+
+Everyone in the millions lives with that hope. Hope for a truly peaceful life.
+
+For new photos, new memories, new moments of happiness, which our state, Ukraine, is deprived of now.
+
+While the war continues, we are in fundamentally different conditions with you. When you can be sure that you and your loved ones have a long future ahead, a normal future. And we want that. And we are happy for you.
+
+And for us, what we have may be the last time. Just one last time. Today and never again. As for 79 Ukrainian children. 79 Ukrainian families. Destroyed by this shameful war - the invasion of Russia. 79 families who have lost the most valuable, but who are still forced to fight. They are forced to pull themselves up and survive. And fight. Fight for a future that is over for them. In those photos of 79 children killed in the war.
+
+And what should we do... All of us - the Ukrainian people, Europeans - so that this number 79 does not change, does not grow. And so that Europe does not forget Ukraine-79.
+
+Russian troops besiege Ukrainian cities. They are trying to destroy them. Imagine! Entire cities! In 2022! In Europe.
+
+Our Mariupol, the largest Ukrainian city on the coast of the Sea of Azov, is under complete blockade. It is bombed around the clock. Russian troops drop air bombs on it and fire missiles. They even bombed a maternity hospital and a children’s hospital in Mariupol...
+
+This is hatred of all mankind. They kill children and destroy maternity hospitals and children's hospitals. Why? So that Ukrainian women don't even give birth?
+
+And this is all over our country, all over Ukraine, which is suffering from the Russian invasion.
+
+They have already destroyed dozens of hospitals, hundreds of schools and kindergartens. They are destroying universities. Completely destroying residential areas with carpet bombing. Imagine what it is! And how to survive in this? What does it mean for Ukrainians, for our families, for our children? What does it mean when you can't find peace even in church. Because aviation bombs even churches!
+
+Even squares... The same squares as yours... Where you are listening to me now. They bombed the square in our city of Kharkiv - Freedom Square. This is the largest square in Europe, which is no different from your squares. Except that it is destroyed. Destroyed by a Russian missile strike.
+
+I am constantly asked in interviews: how can Europe help Ukraine?
+
+I formulate the question differently, namely: how can Europe help itself?
+
+Because this is a war not only against our people, not only against Ukrainians. This is a war against the values that unite us. Against our ability to live. Live, not kill like the Russian military on our land.
+
+Do you feel why we are different from them? We live. And they kill. We are 79 lives. And they are 79 deaths.
+
+I am sure that you want to stop the war just like every Ukrainian.
+
+That is why my answer about the help that is needed for Ukraine sounds logical, natural to millions of people in democracies. You need to put pressure.
+
+Such sanctions against Russia are needed so that every Russian soldier knows the price of every shot at civilians. We need such principles of European business that the Russian state does not have the money to ruin lives.
+
+Put pressure on the companies in your countries to leave Russia, so that you are not indirect sponsors of this war and tragedy.
+
+Tell your politicians to close the sky over Ukraine from Russian missiles and planes. From those who killed 79 children and thousands of adults! Thousands in 17 days...
+
+All this will protect us. We are just like you. Absolutely the same! You know that. You feel it. You see me and you understand all this.
+
+And you know that we must be together in the European community. This is extremely important for Ukraine. And this is very important for you, for Europe. Because this will strengthen Europe. This will protect Europe. This will stop the war forever. This will prove that the 79 lives taken in the war for freedom have not been lost in vain. That they are alive. That they live among us. And they are among other children of Ukraine and Europe, who will be able to be free, will be able to dream, will be able to just live as they want. In peace. And not to be afraid that they may be killed. And not to look for the nearest air bomb shelter. Just as you are not looking for it - each of the hundred thousand in the squares of European cities that are listening to me now. And just as millions who, I'm sure, will hear me.
+
+Hear about Ukraine-79. About Ukraine-2022. About Ukraine, which seeks peace. And about Europe, for which it is time to choose.
+
+Choose Ukraine.
+
+For the sake of peace!
+
+For the sake of all of us.
+
+Glory to Ukraine!
+    `,
+    description: 'Such sanctions against Russia are needed so that every Russian soldier knows the price of every shot at civilians. We need such principles of European business that the Russian state does not have the money to ruin lives.',
+    url: 'https://www.youtube.com/watch?v=1GSDs_5lC_I'
+  },
+  {
+    id: 'uaYIv7EsXi4',
+    name: 'Meeting of the President of Ukraine Volodymyr Zelensky with representatives of foreign media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-12T16:25:24',
+    topics: [],
+    cities: [],
+    text: `Meeting of the President of Ukraine Volodymyr Zelensky with representatives of foreign media`,
+    description: 'Meeting of the President of Ukraine Volodymyr Zelensky with representatives of foreign media',
+    url: 'https://www.youtube.com/watch?v=uaYIv7EsXi4'
+  },
+  {
     id: 'G0EIxA_CW4Y',
     name: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
     translated: false,

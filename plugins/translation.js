@@ -46,6 +46,7 @@ const en = {
   'Вчені': 'Scientists',
   'Вчора': 'Yesterday',
   'Гайди': 'Guides',
+  'Генічеськ': 'Henichesk',
   'Герої України': 'Heroes of Ukraine',
   'Головна': 'Main Page',
   'Гостомель': 'Hostomel',
