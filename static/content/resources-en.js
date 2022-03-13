@@ -9,6 +9,15 @@ const source = [
     location: ['Україна']
   },
   {
+    id: '118',
+    name: 'People for UA',
+    description: 'A platform that brings together volunteers who meet the needs of the Armed Forces and the territorial defense',
+    link: 'https://people4ua.com/',
+    tags: ['Інформація', 'Волонтерство'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
     id: '73',
     name: 'Air Alarm (Android)',
     description: 'Install the Air Alarm app to get instant alerts of the system of civil defense in a given region of Ukraine',
@@ -1063,6 +1072,33 @@ const source = [
     tags: ['Інформація'],
     type: ['Вебсайт'],
     location: ['Світ']
+  },
+  {
+    id: '117',
+    name: 'Get Help UA',
+    description: 'Using geolocation, the bot will help to receive informational and practical support, to form communities and to be in touch with each other, to report on urgent needs or the possibility to fulfill them.',
+    link: 'https://t.me/GetHelpUaBot',
+    tags: ['Інформація'],
+    type: ['Чат-бот'],
+    location: ['Світ']
+  },
+  {
+    id: '119',
+    name: 'Safety of pregnant women',
+    description: 'Information for thousands of pregnant women from all over Ukraine, from Mariupol, Berdyansk, Kiyv, Lviv, and from Warsaw. Contains advice from doctors (as much as possible in such conditions), mutual support and exchange of information.',
+    link: 'https://t.me/bezpekavagitnihua',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '120',
+    name: 'Help for pregnant women',
+    description: 'Information for thousands of pregnant women from all over Ukraine, from Mariupol, Berdyansk, Kiyv, Lviv, and from Warsaw. Contains advice from doctors (as much as possible in such conditions), mutual support and exchange of information.',
+    link: 'https://t.me/vagitnistdopomoga',
+    tags: ['Інформація', 'Здоров\'я'],
+    type: ['Чат-бот'],
+    location: ['Україна']
   },
 ]
 
