@@ -1,5 +1,337 @@
 const source = [
   {
+    id: 'RaUmJxFArVo',
+    name: 'Responsibility for war crimes of the Russian military is inevitable',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/RaUmJxFArVo?t=61',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-15T01:17:33',
+    topics: ['Можливість здатися', 'Пропаганда', 'Міжнародні санкції', 'Воєнні злочини', 'Міжнародні переговори', 'Герої України'],
+    cities: ['Маріуполь', 'Харків', 'Чернігів', 'Суми', 'Охтирка', 'Гостомель', 'Ірпень'],
+    text: `
+**Free people of a free country!**
+
+The 19th day of our resistance is over. Historical war. Another difficult day, which is still approaching our victory. Approaching peace for Ukraine.
+
+As before, the enemy is confused. They did not expect such resistance. They believed in their propaganda, which has been lying about us for decades.They still can't recollect themselves. But they have already begun to understand that they will not achieve anything by war.
+
+Their soldiers know this. Their officers are aware of this. They flee the battlefield. They abandon equipment.
+
+We take trophies and use them to protect Ukraine. Today, Russian troops are, in fact, one of the suppliers of equipment to our army. They could not imagine such a thing in a nightmare.
+
+And I want to tell the Russian soldiers. Those who have already entered our land. And who are just about to be sent to fight against us.
+
+Russian conscripts! Listen to me very carefully. Russian officers! You’ve already understood everything. You will not take anything from Ukraine. You will take lives. There are a lot of you. But your life will also be taken.
+
+But why should you die? What for? I know that you want to survive. We hear your conversations in the intercepts, we hear what you really think about this senseless war, about this disgrace and about your state. Your conversations with each other. Your calls home to your family. We hear it all. We draw conclusions. We know who you are.
+
+Therefore, I offer you a choice. On behalf of the Ukrainian people, I give you a chance. Chance to survive. If you surrender to our forces, we will treat you the way people are supposed to be treated. As people, decently. In a way you were not treated in your army. And in a way your army does not treat ours. Choose!
+
+Our brave defenders continue to inflict devastating losses on Russian troops.
+
+Soon the number of downed helicopters of Russia will reach hundreds of units. They have already lost 80 warplanes. Hundreds of tanks and thousands of other units of equipment.
+
+In 19 days, the Russian army has lost more in Ukraine than in two bloody and years-long wars in Chechnya. For what?
+
+I am grateful to those Russians who do not stop trying to convey the truth. To those who fight disinformation and tell the truth, real facts to their friends and loved ones. And personally to the woman who entered the studio of Channel One with a poster against the war. To those who are not afraid to protest. As long as your country has not completely closed itself off from the whole world, turning into a very large North Korea, you must fight. You must not lose your chance.
+
+The European Union has approved the fourth package of sanctions against Russia. The fourth - and I'm sure not the last.
+
+We are working with partners on new restrictions that will be applied against the Russian state. Everyone who is responsible for the war. Everyone who is responsible for the destruction of democracy. Everyone who is responsible for repression against people. Everyone will get an answer. The answer of the world. And this is just the beginning.
+
+Responsibility for war crimes of the Russian military is inevitable. Responsibility for a deliberate humanitarian catastrophe in Ukrainian cities is inevitable. The whole world sees what is happening in Mariupol. Kharkiv. Chernihiv. Sumy. Okhtyrka. Hostomel. Irpin. In all our cities.
+
+All our partners are informed of the crimes of the invaders against civilians and local self-government in the Kherson and Zaporizhzhia regions. In the temporarily occupied areas. There will be an answer for that. Necessarily. For the disrupted humanitarian corridors. Necessarily.
+
+During the day of March 14, 3,806 Ukrainians were evacuated from the cities and towns of the Kyiv and Luhansk regions. 
+
+Our convoy with one hundred tons of what is most necessary for Mariupol is still kept in Berdyansk. For three days already. But we will try. We will do everything to ensure that Mariupol residents receive food, water and medicine.
+
+I provided full information about the actions of the invaders on the Ukrainian land in conversations with friends and partners of our state. Every aggressive action of the invaders only pushes the world to new sanctions.
+
+I spoke with President of the European Commission Ursula von der Leyen. With President of Poland Andrzej Duda. Prime Minister of Luxembourg Xavier Bettel. We have 100% mutual understanding.
+
+The conversation with Prime Minister of Israel Bennett was also important. As part of a negotiation effort to end this war as soon as possible. With a fair peace.
+
+Our delegation also worked on this in negotiations with the Russian party. Pretty good, as I was told. But let's see. They will continue tomorrow.
+
+The Cabinet of Ministers of Ukraine has agreed on a package of decisions to support our economy.
+
+So that business works. So that people have jobs. Where security allows. Where people are ready for it.
+
+First, we are starting tax reform. Instead of VAT and income tax we give a rate of 2 percent of turnover and simplified accounting. For small businesses - this is the first and second group of sole proprietors - we set a voluntary payment of a single tax. That is, if you can - pay. You can't - no questions asked.
+
+The second is maximum business deregulation. We cancel all inspections for all businesses. So that everyone works normally. So that the cities come to life. So that life continues wherever there is no hostilities.
+
+The only condition is that you ensure the normal operation of your business in the framework of Ukrainian law.
+
+These are just the first two steps of our tax reform. To be continued.
+
+And finally.
+
+I have just signed a decree on awarding state awards of Ukraine to 234 servicemen of the Armed Forces of Ukraine who showed personal courage and heroism in the fight for our land. For our independence. 59 of them posthumously.
+
+May the memory of everyone who gave life for our state live forever!
+
+**Eternal gratitude to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'As before, the enemy is confused. They did not expect such resistance. They believed in their propaganda, which has been lying about us for decades.They still can\'t recollect themselves.',
+    url: 'https://www.youtube.com/watch?v=RaUmJxFArVo'
+  },
+  {
+    id: '5fdT4egZiJU',
+    name: 'Iryna Vereshchuk - about the results of the work of humanitarian corridors on March 14',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-14T21:30:04',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk - about the results of the work of humanitarian corridors on March 14`,
+    description: 'Iryna Vereshchuk - about the results of the work of humanitarian corridors on March 14',
+    url: 'https://www.youtube.com/watch?v=5fdT4egZiJU'
+  },
+  {
+    id: 'qY-sFNRWhO4',
+    name: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-14T15:32:30',
+    topics: [],
+    cities: [],
+    text: `Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office`,
+    description: 'Briefing by Oleksiy Arestovych, Adviser to the Head of the President\'s Office',
+    url: 'https://www.youtube.com/watch?v=qY-sFNRWhO4'
+  },
+  {
+    id: 'BZ_D0iLdZ6o',
+    name: 'Today, volunteers are all those who feel a free call to defend Ukraine',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-14T14:14:25',
+    topics: ['Добровольці', 'Малий та середній бізнес'],
+    cities: ['Київ', 'Чернігів', 'Суми', 'Харків', 'Донбас'],
+    text: `
+**I wish you health, dear Ukrainians!**
+
+Good weather, which we now almost do not notice. Clear sky... There is no such thing over Kyiv today. Over Kyiv and other cities of our state. Due to missile strikes, traces of enemy aircraft. The streets are quiet, but I know, I believe it's not for long. Not forever. That's why we work. That is why we fight. That's why we don't give what’s ours.
+
+Today we celebrate our purely Ukrainian holiday. Volunteer Day.
+
+It is our ability to instantly unite during ordeals, find common ground and fight together that creates our character, Ukrainian character.
+
+We may not notice each other in everyday life. Agree, this happens to us.
+
+But when we see a threat to our way of life, to our spirit, when we see a threat to Ukraine, our state, we do not hesitate even for a moment. If we are Ukrainians.
+
+We unite. We do everything to protect what’s ours.
+
+Ukrainians do not need to be persuaded to become volunteers. Ukrainians do not need to be encouraged to start helping each other.
+
+Strong support for the Armed Forces by all the people of Ukraine, sincere volunteer movement, mass joining the territorial defense, solidarity of all our people - these are the prerequisites for victory. Prerequisites for the liberation of our entire country... The only and the best.
+
+For us, Ukraine is not just a territory, as for the invaders. They do not distinguish anything here. They do not understand anything. That is why for them everything is just a target.
+
+For us, Ukraine is millions of happy moments, native symbols, memorable places.
+
+We feel this land. For us, Ukraine is our life, and that is why millions of people have come to the defense of our state today. That is why today we are all volunteers. All those who defend Ukraine, our children, those who defend our future.
+
+To all who feel this free call... A call to defend Ukraine... Who are volunteers in battles. Or in the information troops. Who protects roads and cities. All diplomats - official and informal. Everyone who helps with technology. Who keeps the business. Who supplies the necessary goods, products. Who saves and heals under any circumstances. Who works in transport. Who provides communication and repairs networks... I am grateful to everyone. And I sincerely congratulate you!
+
+Each of the volunteers. Each of the millions working together to win.
+
+The 19th day of our resistance.
+
+The Armed Forces of Ukraine are holding on bravely. And creatively. We inflict such losses on the enemy that he no longer knows where else to look for reserves. Where else to look for help.
+
+Help for himself. Help for the invader.
+
+This is pathetic.
+
+But we have no right to relax.
+
+The Russian state has been preparing for war for decades. They have accumulated significant military resources. For the evil. For the conquest of neighbors. And for the destruction of Ukraine, Europe, as we know it, as we value it.
+
+That's why we have to hold on. We have to fight. To win. To come to the peace deserved by Ukrainians. Fair peace. With security guarantees for our state. For our people. And to put it on paper. In negotiations. Difficult negotiations.
+
+The video meeting of the delegations has already started today. It continues. Everyone is waiting for the news. We will definitely report in the evening.
+
+As long as the state is at war, as long as the people are defending themselves, the economy must be preserved and restored. As much as possible in the current difficult conditions.
+
+Life must appear on the streets of the cities. Where security allows. Where people can provide it. Pharmacies, trade, any business that can work. For the country to live. For the restoration of Ukraine to already begin. And it depends on each of us, on each of us who is able to work.
+
+Economic suppression of Ukraine is one of the tasks of the war against us. And we have to fight back from that as well. Save our economy. Save our people.
+
+Therefore, the government has received a clear instruction - to return small and medium-sized businesses. Remove any obstacles. Reduce taxes as much as possible, remove all difficulties, absolutely all. So that the system does not press, so that people know that they can work the way they can. Where they can.
+
+A new tax model is needed for the war and for the post-war development. The financial rules also need to be updated. To make people feel that they can be flexible. Feel that all the money and valuables will be saved. And that you shouldn’t be afraid of losing something, because the state guarantees the security of assets and savings.
+
+The Cabinet of Ministers is already working on how to regulate this. A day or two - and there will be details.
+
+Ukrainians!
+
+Russian troops continue to destroy our infrastructure, continue to destroy our cities. Kyiv region, Chernihiv region, Sumy region, Kharkiv, south, Donbas.
+
+But know - we will rebuild everything. We will restore everything. Every street of every city. Every house, every apartment of every Ukrainian. After the war, I'm sure we can do it quickly. We will direct all our efforts to this. All the help of the world. We are already creating funds for Ukraine to live.
+
+But now that the invaders are still on our land, we must beat them as best as we can. Drive them away in any way we can. Defend the cities. Defend the villages. Defend every meter of our land. And every part of our heart. Ukrainian heart. Ukrainian soul.
+
+Help each other! Support each other! Support the defense! And protect the state!
+
+**Together we will definitely win.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Today we celebrate our purely Ukrainian holiday. Volunteer Day.',
+    url: 'https://www.youtube.com/watch?v=BZ_D0iLdZ6o'
+  },
+  {
+    id: 'y5ckCSUZ0D0',
+    name: 'Iryna Vereshchuk - about the work of humanitarian routes planned for March 14',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-14T09:21:29',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk - about the work of humanitarian routes planned for March 14`,
+    description: 'Iryna Vereshchuk - about the work of humanitarian routes planned for March 14',
+    url: 'https://www.youtube.com/watch?v=y5ckCSUZ0D0'
+  },
+  {
+    id: 'wl26_J700sA',
+    name: 'We will win thanks to our ability to unite and always care for our people',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-14T24:09:29',
+    topics: ['Ракетний удар', 'Закрите небо', 'Міжнародні переговори', 'Гуманітарні коридори'],
+    cities: ['Маріуполь', 'Покровськ', 'Часів Яр', 'Черкаси', 'Вінниця', 'Львів', 'Ірпінь'],
+    text: `
+Strong people of an unbreakable country!
+
+Today is the 18th day. The 18th day of our war for life, for Ukraine, for independence.
+
+The beginning of this day was black. Russian missiles and air bombs hit our country again. From east to west.
+
+30 missiles for the Lviv region alone. The shelling of the International Center for Peacekeeping and Security killed 35 people and wounded 134 others.
+
+Nothing was happening there that could threaten the territory of the Russian Federation. And only 20 kilometers away are NATO borders.
+
+Last year, I made a clear warning to NATO leaders that if there were no tough preventive sanctions against Russia, it would start a war. We were right.
+
+I have been saying for a long time that Nord Stream is a weapon that will hit Europe. Now it's obvious.
+
+And now I repeat again - if you do not close our sky, it is only a matter of time before Russian missiles fall on your territory. NATO territory. On the homes of citizens of NATO countries.
+
+An American journalist was killed in the Kyiv region today. Brent Renaud. His colleague was wounded. It was a deliberate attack by the Russian military.
+
+They knew what they were doing. But not everyone in the West seems to know what they are doing.
+
+In the east of our country, the invaders decided to "demilitarize" and "denazify" the Sviatohirsk Lavra of the Ukrainian Orthodox Church, Moscow Patriarchate.
+
+At the time of the attack, only monks and hundreds of refugees were on the territory of the monastery. No military target in or near the monastery. But Russian troops do not stop even before striking at the monastery.
+
+This fact alone demonstrates that the whole ideology of the Russian state is simply a lie.
+
+Today I visited our guys, our defenders who are recovering from wounds at a military hospital.
+
+We talked. I presented awards. Orders and medals - for courage, for glory for Ukraine.
+
+And I really want my greeting "I wish you good health" to work today as powerfully as our Armed Forces have been holding key frontiers. For 18 days already.
+
+By the way, the Russian military from Ryazan is being treated in the same hospital. He is in the same ward with our defenders. Gets the same aid. From the same doctors. Despite what this guy was doing. Against us, against Ukraine. But Ukrainian doctors saved him. And this is obvious. Because they are people. Not savages. And we have to go through this war so that we all remain human.
+
+I am grateful to all the doctors and nurses who work in Kyiv and Dnipro, in Vinnytsia and Lviv, in Chernihiv and Donbas, in Kharkiv, in Melitopol, in Mariupol...
+
+Everyone!
+
+Mariupol Military Hospital.
+
+Pokrovsk Military Mobile Hospital.
+
+Chasiv Yar Military Mobile Hospital.
+
+Military Medical Clinical Center of the Eastern Region.
+
+Cherkaske Military Hospital.
+
+Military Medical Clinical Center of the Central Region, Vinnytsia.
+
+Military Medical Clinical Center of the Western Region, Lviv.
+
+Military Medical Rehabilitation Center, left Irpen, but continues to work.
+
+Sincere gratitude!
+
+From all of us. From all Ukrainians.
+
+I also visited checkpoints today. I didn't want it to be very public.
+
+Just to support our guys. To talk. Courageous men, cheerful guys. Who defend Kyiv and know that WE will win. It is felt.
+
+We will win due to our unique ability to unite.
+
+We can always care for our people. Ours in spirit, in heart, in sincerity.
+
+I met an extraordinary person there at the checkpoint who supports our defenders every day and brings them a pot of borscht every day. Really delicious! Truly Ukrainian. Wholeheartedly. And I know that our state has been based on such people for centuries. It is thanks to such people that we will survive any dark days. Because we are together. And we always protect our own people. And our own property. NOT for money. Without coercion. NOT like those who came to us. Just because we are Ukrainians.
+
+Important international negotiations. Bulgaria, Slovakia, Czech Republic, Romania, Poland, Britain.
+
+We feel the support of these countries. We feel the support for our army. It is important.
+
+I also spoke with Charles Michel, President of the European Council. About our European perspective, which is becoming a reality.
+
+Now about the negotiations with the Russian Federation.
+
+Representatives of our countries’ delegations speak in video format every day. Our delegation has a clear task - to do everything to ensure a meeting of the presidents. The meeting that I am sure people are waiting for.
+
+Obviously this is a difficult story. A hard path. But this path is needed. And our goal is for Ukraine to get the necessary result in this struggle, in this negotiation work. Necessary for peace. And for security.
+
+So that we have guarantees - normal, effective. NOT like the Budapest ones and not like in our sky. So that Ukrainians could say: this is what works. These are the guarantees.
+
+It is necessary to talk.
+
+More than ten humanitarian corridors worked. Kyiv region, Luhansk region... 5550 people were saved in one day. In six days - more than 130,000. It is necessary to talk.
+
+And this is also due to negotiations. We have to understand that.
+
+Unfortunately, the humanitarian corridor to Mariupol was blocked. Again. We did everything necessary. Ensured "silence". Russian troops disrupted the movement of cargo and buses.
+
+But we will try again. Until we can help our people. Because they are ours. Our Mariupol. Heroic Mariupol.
+
+Ukrainians!
+
+We are going through the worst ordeal in our history. In our lives. We protect the most precious thing we have. We must hold on. We must fight. And we will win. I know that. I believe in that.
+
+**Glory to you!**
+
+**Glory to our people!**
+
+**Glory to our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We are going through the worst ordeal in our history. In our lives. We protect the most precious thing we have. We must hold on. We must fight. And we will win.',
+    url: 'https://www.youtube.com/watch?v=wl26_J700sA'
+  },  {
+    id: 'mhgP7EKXtzc',
+    name: 'Iryna Vereshchuk - on the results of the work of humanitarian corridors on March 13',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-13T22:05:38',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk - on the results of the work of humanitarian corridors on March 13`,
+    description: 'Iryna Vereshchuk - on the results of the work of humanitarian corridors on March 13',
+    url: 'https://www.youtube.com/watch?v=mhgP7EKXtzc'
+  },
+  {
     id: 'sJwza0K8hz8',
     name: 'Volodymyr Zelenskyi visited the wounded defenders of Ukraine in the hospital',
     translated: false,
