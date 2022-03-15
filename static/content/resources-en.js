@@ -1100,6 +1100,69 @@ const source = [
     type: ['Чат-бот'],
     location: ['Україна']
   },
+  {
+    id: '121',
+    name: 'UA Talents',
+    description: 'UA Talents is an employment platform for Ukrainians who have been forced to leave their homes and move to other cities in Ukraine or abroad.',
+    link: 'https://www.uatalents.com/',
+    tags: ['Інформація', 'Робота'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '122',
+    name: 'Happy Monday',
+    description: 'Jobs for Ukrainians during the war.',
+    link: 'https://happymonday.ua/',
+    tags: ['Інформація', 'Робота'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '123',
+    name: 'Jons for Ukrainians abroad',
+    description: 'Війна змусила тимчасово покинути свій дім, але пам\'ятай, ти не один, нас підтримує світ. Цей сайт допоможе знайти роботу в країні, яка тебе прихистила.',
+    link: 'https://helpukrainians.jooble.org/',
+    tags: ['Інформація', 'Робота'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '124',
+    name: 'Remote Ukraine',
+    description: 'Over 2 million Ukrainians refugees have now fled the war. This includes thousands of highly skilled professionals. You can support by hiring them, wherever they are.',
+    link: 'https://remoteukraine.org/',
+    tags: ['Інформація', 'Робота'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '125',
+    name: 'Hire for Ukraine',
+    description: 'The attack on Ukraine has left thousands of talented creative and technical professionals without jobs or income. You can help them by hiring them.',
+    link: 'https://hireforukraine.org/',
+    tags: ['Інформація', 'Робота'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '126',
+    name: 'Jobs 4 Ukraine',
+    description: 'We help Ukrainians to find jobs fast ',
+    link: 'https://www.jobs4ukraine.eu/',
+    tags: ['Інформація', 'Робота'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '127',
+    name: 'Imagine Ukraine',
+    description: 'We match refugees from the war in Ukraine with volunteers & diversity-first companies',
+    link: 'https://imagine-ukraine.org/dl/about-us/s/ddecb1',
+    tags: ['Інформація', 'Робота'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
 ]
 
 module.exports = source
