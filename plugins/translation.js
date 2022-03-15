@@ -169,6 +169,7 @@ const en = {
   'Регіональні': 'Local',
   'Ресурси': 'Resources',
   'Референдум': 'Referendum',
+  'Робота': 'Jobs',
   'розробник': 'Developer:',
   'Салтівка': 'Saltivka',
   'Саміт НАТО': 'NATO Summit',
