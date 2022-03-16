@@ -1,5 +1,357 @@
 const source = [
   {
+    id: 'YC48wOjQ1L4',
+    name: 'Resistance, resilience and courage of our defenders make it possible to save our people and our land',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-16T01:19:14',
+    topics: ['Міжнародна допомога'],
+    cities: [],
+    text: `
+**Free people of a free country!**
+
+Eight years of war in Donbas, 20 days of full-scale invasion. The third week is about to be over. We all want peace. As soon as possible. We all want to win. And there is always a feeling that a little more, and we will get what belongs to us, Ukraine, by right. But...
+
+But efforts are still needed. It takes patience. We still have to fight. And work - everyone in their place. Everyone. In particular, our representatives, our delegation in negotiations with the Russian Federation. It is important. It is difficult, but important, because any war ends in an agreement. Meetings continue. As I am told, the positions in the negotiations sound more realistic. However, time is still needed for the decisions to be in Ukraine's interests.
+
+Our heroes, our defenders give us this time. Defending Ukraine everywhere. Wherever the enemy wants to break through.
+
+The invaders did not succeed today. Although thousands of their people were thrown into battle.
+
+In the north and east, in the south of our state. The enemy lost equipment, hundreds of soldiers... Many Russian conscripts died. Dozens of officers. One more general is among the killed invaders. At least one general today.
+
+The invaders also committed new and obvious war crimes. They fired at peaceful cities and civilian infrastructure. The number of missiles that Russia has used against Ukraine already exceeds 900. There are so many air bombs that it is impossible to count them.
+
+Two more journalists were killed in an artillery strike by Russian troops. Ukrainian Oleksandra Kuvshynova and Fox News representative Pierre Zakrzewski. Another journalist was heavily wounded. The shelling took place in the Kyiv region.
+
+And this is another big reason to tighten Western sanctions against the Russian Federation. Tighten until the Russian state stops the war.
+
+Citizens of Russia! Any of you who have access to truthful information could already understand how this war will end for your country. Shame and poverty. Years of isolation. A very cruel repressive system that will treat the citizens of Russia in the same inhumane way as you, invaders, treated Ukrainians. What happens next depends on your actions.
+
+I want to speak directly to all the officials of the Russian Federation, to everyone who is related to the current government: if you remain in office, if you do not oppose the war, the international community will deprive you of everything. Everything you have earned over the years. This is already being done.
+
+The same goes for the propaganda system. The fourth branch of power in Russia. If you stay to work for propaganda, you are putting yourself at much greater risk than if you just leave. Just quit. The risk of sanctions and an international tribunal for propaganda of an aggressive war, for justifying war crimes.
+
+Quit! A few months without a job is definitely better for you than a lifetime of international persecution.
+
+Today the Prime Ministers of the three partner states and the three friendly states of Ukraine visited Kyiv. Poland, the Czech Republic and Slovenia. Poland was also represented by Deputy Prime Minister Jarosław Kaczyński and the Prime Minister of Poland.
+
+I was glad to meet, to talk directly, in person, in our capital. This is important support. When our Kyiv is a target for the invaders, it is especially important and especially courageous to be here, next to us, next to friends. This is how leadership is shown.
+
+And I invite all friends of Ukraine to visit Kyiv. It can be dangerous here. It is true. Because our sky is not yet closed to Russian missiles and planes.
+
+The decision to strengthen our arsenal in the air has not yet been made. We have not received planes. But...
+
+You know for sure that the eyes of all the people of the world are now focused on our capital, on Ukrainians. So everyone who is with us will receive gratitude. Not only ours, but also of other nations of the world. Everyone who is with us has a chance to become a real hero.
+
+I addressed the Canadian Parliament. In fact, in front of the entire political community of this country - our friend. In front of all Canadians. I thanked them for their support - really sincere support. Canada was among the first to come to the rescue of Ukraine. And I called on Canadians to maintain that leadership.
+
+Help Ukraine. Not in words, but in deeds: weapons, new sanctions against Russia. As well as an active moral position. A position as regards all international businesses that still stay in Russia, that do not leave. Although they fully understand that they are sponsoring the war, sponsoring terror.
+
+My address to the United States Congress is scheduled for Wednesday. An important event.
+
+And today I would like to thank President Biden and all the friends of Ukraine in the United States for the new $13.6 billion package of support for our country, our people. The law providing for this funding has been signed. We consider it as the first step towards the full restoration of Ukraine.
+
+The Verkhovna Rada also met today. The meeting was effective.
+
+Economic innovations have been approved - tax cuts that should save jobs and allow Ukraine's business to work. Wherever possible.
+
+There is a zero rate of excise duty and 7% VAT on fuel to stabilize prices and ensure supply.
+
+Business regulation is simplified as much as possible. We are reducing the activities of control bodies so that there are no unnecessary inspections for those who work in accordance with Ukrainian law and do not violate consumer rights.
+
+The new law also provides the necessary guarantees for the territorial defense warriors - all volunteers will be recognized as combat veterans.
+
+A technical decision was made to continue martial law. This is needed to effectively defend the state.
+
+Also all nuances of police activity during martial law are settled. I am waiting for the adopted laws to sign them.
+
+And I am grateful to the people's deputies of Ukraine for the fact that the majority of votes collected more than 340 votes in favor. This demonstrates the political unity of Ukraine. Finally.
+
+When all parties and groups work together in a legitimately elected parliament, one of the main myths of the invaders that the Ukrainian government allegedly does not represent the will of the people is shattered. It definitely does!
+
+And all the collaborators who decided to work a little for the invaders must already think where in Rostov they will hide from punishment.
+
+I hope that on Wednesday the long-awaited rescue of people from the city of Izyum, Kharkiv region, will take place. The humanitarian corridor has been agreed upon.
+
+Over the past 24 hours, 28,893 Ukrainians were rescued from combat areas in Sumy, Kharkiv and Donetsk regions.
+
+20,000 of them managed to leave Mariupol. So far only by personal vehicles. There will be a difficult situation. We are fighting for you. Sorry, everything is very difficult.
+
+The Ukrainian humanitarian convoy is still constantly blocked by Russian soldiers on the way to the city. But we will not give up trying to save people, to save the city. And I am grateful to each of our defenders! To every defender of Mariupol, Kharkiv, Sumy, Chernihiv, Zhytomyr, Mykolaiv and all other cities this evil wants to capture.
+
+I am grateful to all who hold on and fight for life.
+
+Your resistance, your resilience, your courage make it possible for Ukraine to survive. And save our people and our land.
+
+I signed a decree on awarding state awards to 139 servicemen of the Armed Forces of Ukraine who distinguished themselves in the defense of our state. 32 of them - posthumously.
+
+I also signed a decree on conferring the title of Hero of Ukraine with the Order of the Golden Star to:
+
+* **Colonel Hudz Valeriy Fedorovych**. Posthumously. For the heroic defense of Popasna in the Luhansk region.
+* **Colonel Kotenko Serhiy Leonidovych**. Posthumously. Thanks to his courageous actions and personal determination, several columns of enemy equipment were destroyed.
+* **Colonel Maryniak Oleksandr Myroslavovych**. Posthumously. Due to his determination, a large number of enemy soldiers, groups of fuel tanks and enemy equipment were destroyed during the defense of the Kyiv region.
+* **Major Sbytov Pavlo Olehovych**. Posthumously. Thanks to his professionalism and decisive actions, the destruction of several large enemy units was organized.
+
+May the memory of everyone who died for our Ukraine live forever!
+
+On conferring the title of Hero of Ukraine with the Order of the Golden Star to:
+
+* **Senior Lieutenant Dozirchy Dmytro Leonidovych**. His effective actions in the defense of the Kherson region allowed our forces to get out of the encirclement and continue the struggle.
+* **Senior Lieutenant Sydunets Volodymyr Volodymyrovych**. Thanks to his actions, the division of the Russian Iskanders was destroyed.
+
+**Glory to all of you!**
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We all want peace. As soon as possible. We all want to win. And there is always a feeling that a little more, and we will get what belongs to us, Ukraine, by right. But... But efforts are still needed. ',
+    url: 'https://www.youtube.com/watch?v=YC48wOjQ1L4'
+  },
+  {
+    id: 'UvzW0Vt6hO0',
+    name: 'Statement by President Volodymyr Zelenskyi after a meeting with the ministers of Poland, the Czech Republic and Slovenia',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-15T23:37:49',
+    topics: ['Міжнародна допомога'],
+    cities: [],
+    text: `Statement by President Volodymyr Zelenskyi after a meeting with the ministers of Poland, the Czech Republic and Slovenia`,
+    description: 'Statement by President Volodymyr Zelenskyi after a meeting with the ministers of Poland, the Czech Republic and Slovenia',
+    url: 'https://www.youtube.com/watch?v=UvzW0Vt6hO0'
+  },
+  {
+    id: 'Ie7K8hESZ6M',
+    name: 'Iryna Vereshchuk - about the results of the work of humanitarian corridors on March 15',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-15T21:45:10',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk - about the results of the work of humanitarian corridors on March 15`,
+    description: 'Iryna Vereshchuk - about the results of the work of humanitarian corridors on March 15',
+    url: 'https://www.youtube.com/watch?v=Ie7K8hESZ6M'
+  },
+  {
+    id: 'cHfl0ivXmN8',
+    name: 'Уявіть, що значить кожного дня чути доповідь про загиблих людей',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-15T18:58:23',
+    topics: ['Вбиті діти', 'Ракетний удар', 'Атомна загроза', 'Міжнародна коаліція'],
+    cities: ['Суми', 'Охтирка', 'Маріуполь', 'Київ', 'Чернігів', 'Житомир', 'Івано-Франківськ'],
+    text: `
+**Dear speakers!**
+
+**Mr. Prime Minister! Dear Justin!**
+
+**Members of the government and parliament!**
+
+**Dear attendees, Dear friends!**
+
+Before I begin, I want you to understand my feelings, the feelings of Ukrainians. As much as possible. Feelings during these 20 days. 20 days of full-scale invasion of the Russian Federation after eight years of war in Donbas.
+
+Just imagine... Imagine that at four in the morning each of you hears explosions. Terrible explosions. Justin, imagine that you hear it. And your children hear it. Hear missile strikes at Ottawa airport. At dozens of other places throughout your beautiful country, Canada. Cruise missiles. Even before dawn. And your children hug you and ask: “what happened, dad?” And you are already receiving the first reports on which facilities in your country have been destroyed by missiles of the Russian Federation. And you know how many people have already died and where.
+
+Imagine you are looking for words to explain this to children. Explain to them that a large-scale war has begun.
+
+The war aimed at the destruction of your state, at the conquest of your people. And you know it.
+
+The second day - and you get a message about the columns of armored vehicles. Thousands, thousands coming to your land. First - small cities, then larger ones. They want to block them all. And they do so.
+
+They approach Edmonton - imagine - and fire artillery. Fire at residential areas, at people. Schools are being burned down, kindergartens are being blown up. Just as in our cities - in Sumy, in our Okhtyrka. They blockade Vancouver and besiege hundreds of thousands of people who remain in the city. As in our Mariupol. For the second week under fire, without electricity completely, almost without food, definitely without water. In the basements.
+
+**Justin! Dear attendees! Gentlemen!**
+
+Imagine hearing the report on the dead every day. Yes, you are the president or the head of government, but you just hear about it, about the dead children. And the death toll is growing. 97 children were killed as of this morning.
+
+The famous CN Tower in Toronto... How many Russian missiles will be enough to destroy it? Believe me, I do not wish this to all of you...
+
+But we predict every day how many more missiles can hit our TV towers. And they hit them.
+
+Our Freedom Square in Kharkiv and your Churchill Square in Edmonton. Imagine Russian missiles hitting its heart.
+
+Our Babyn Yar is the burial place of the Holocaust victims... The Russians did not stop before bombing even this land. And what about the National Holocaust Monument in Ottawa? Will it withstand the impact of three or five missiles? It happened to us. Air bombs. A minute ago there were people alive. There was a family that just came there. They were alive. And now... You understand.
+
+And then a terrible night... each of these 20, when the Russian militaries fire from tanks at housing estates.
+
+From tanks - at the Zaporizhzhia nuclear power plant. Direct guidance. When the fire started there. Can you imagine that happening to your Bruce Station in Ontario?
+
+And what would you feel if you saw your flag in every city where they pass, how your flag in Montreal is removed... Removed to be thrown away and replaced with a Russian one.
+
+I know that you support Ukraine, sincerely, effectively. We are friends with Justin. But I want you to understand me, and to feel it.
+
+Feel what we feel. Feel how we want to live. And how we want to win. Win for life.
+
+I want you to feel what it's like when you call your friends and say: close the sky, stop the shelling. No matter which way, just do it. Stop the bombing. How many more missiles must fall on our cities?
+
+And in response you hear that someone does not want to do it ... But they are deeply concerned!
+
+Then give us planes, we tell our partners.
+
+They answer: Soon. Be patient a little. Everyone is deeply concerned. They just don't want to. And someone is looking for reasons. The main thing is the result.
+
+They talk about escalation. How can it get worse? They say Ukraine is not in NATO now. Although "the door is open". But for whom are these doors and where do they lead, if we are told that we will not be admitted.
+
+War always shows everything people are capable of. Who is strong. And who is weak. Who is wise. Who does not see the obvious. Who is honest and who is a hypocrite.
+
+And we saw it all. And we understood all this. In 20 days and eight years. I'm sure you've seen it all.
+
+**Dear speakers!**
+
+**Mr. Prime Minister!**
+
+**Members of the government. Members of parliament!**
+
+**Dear friends!**
+
+Canada has always been, is and, I am sure, will be a reliable partner in Ukraine. Partner of our land, our people of Ukraine, each of our families.
+
+You came to our aid as soon as we asked for it. You are giving us the weapons and other support we so desperately need now. You have imposed sanctions against Russia - truly moral. Really substantial. However, we see that the war, unfortunately, continues. That Russian troops are not leaving our territory. You see that our cities: Kharkiv, Mariupol are not as protected as your Edmonton and Vancouver. That Kyiv is under missile strikes. Like Chernihiv, Zhytomyr, Ivano-Frankivsk and dozens, dozens of our Ukrainian cities that yesterday were peaceful and quiet.
+
+That means more needs to be done. Much more! For peace. We all have to do more to stop Russia. To protect Ukraine and protect Europe from this total evil that is destroying everything: memorials, churches, schools, hospitals, neighborhoods and all our businesses.
+
+They have already killed 97 Ukrainian children!
+
+We do not ask for much. We ask for justice. We ask for real support that will help us endure and defend our life. Life of the whole world.
+
+Canada is already showing the necessary leadership! It is already the first to do what other countries come to later. But we need more leadership, and we ask for more participation from you.
+
+Justin! All friends of our country Ukraine! All friends of the truth!
+
+You understand how important it is for us to protect our skies from Russian missiles and planes. You can influence this. It seems so to me.
+
+You can force even more companies to leave the Russian market. So that there is not a single dollar for the war. If they stay in Russia and sponsor the war, they are not allowed to work in Canada. Let it be so - and it will give us peace.
+
+You know, perhaps better than many in the world, that this attack by Russia is an attempt to destroy us, to destroy the Ukrainian people. Nothing else. This is their main goal.
+
+This is a war against the people. Against our people. This is a war to destroy everything that makes Ukrainians Ukrainians. Against our future. Against our character. Against our will. Everything that you, Canadians, know very well, feel very well.
+
+So I ask you: do not stop. Do not stop helping Ukraine. Do not stop in leadership and in efforts to bring peace back to our peaceful land.
+
+I believe, I know you can handle it. I know that with Canada, our anti-war coalition, which we are reinforcing, will definitely yield the result.
+
+I want to address our Ukrainian diaspora, all Ukrainians in Canada.
+
+It is at this historic moment that we need your effective help. And you must prove with your steps that you are a part of the history of Ukraine, the living history of Ukraine.
+
+Remember this - living. Because we want to live. And we strive for peace.
+
+I thank you for your support. I am thankful to everyone present in this hall of parliament. To every citizen of Canada. I'm grateful to you, Justin. Grateful on behalf of the entire Ukrainian nation.
+
+I am sure that together - and only together - we will defeat all enemies.
+
+**Glory to Ukraine!**
+
+**Thank you Canada!**
+    `,
+    description: 'Хочу, щоб ви відчували, що це таке, коли телефонуєш друзям і кажеш: закрийте небо, зупиніть обстріли. Неважливо, яким чином, просто зробіть це.',
+    url: 'https://www.youtube.com/watch?v=cHfl0ivXmN8'
+  },
+  {
+    id: 'B38hBtaKE3Q',
+    name: 'The Ukrainian people have never demonstrated such unity they are demonstrating nowadays',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-15T17:26:47',
+    topics: ['Посівна', 'Малий та середній бізнес'],
+    cities: [],
+    text: `
+**Great people of Ukraine!**
+
+It is the 20th day of our liberation war. The war for the right to live freely on our land.
+
+The Ukrainian people have never demonstrated such unity they are demonstrating nowadays. Never before have so many millions of people in the history of our independence been united by a common goal.
+
+This goal is the peace that we will have after our victory as well as the liberation of Ukrainian lands from the Russian invader.
+
+And these days, an efficient economy and logistics are becoming one of the vital preconditions for our victory.
+
+We must shape a solid economic rear that will allow us to provide the army and the country with everything they need: from nutrition and medicines to ammunition and modern weaponry.
+
+Obviously, the economic and tax system that existed in peacetime is unable to correspond to the challenges we are facing nowadays.
+
+Therefore, in close cooperation with the President of Ukraine, with the Verkhovna Rada people’s deputies, we have embarked on a complete reformatting of the economic model of Ukraine.
+
+Business will get maximum freedom, in particular:
+
+* reduction of taxes;
+* removal of all regulations;
+* facilitated access to finance;
+* liberalized labor relations.
+
+In synergy with the MPs, we have drafted a revolutionary bill in the tax domain.
+
+Thus, at the initiative of the Government during the martial law effect, an opportunity to use the single tax option will be significantly expanded for medium and large businesses.
+
+Enterprises with a turnover of up to UAH 10 billion will have a chance to switch to the payment of a single tax. We remove all other restrictions regarding the number of employees and kinds of activities (except for excisable goods and gambling business).
+
+Instead of VAT and income tax, entrepreneurs will pay only 2% of turnover.
+
+The draft law also contains a number of other positive innovations.
+
+* Individual entrepreneurs of the I and II groups will pay a single tax on a voluntary basis. If there is an opportunity and understanding of the need to support Ukraine – just pay it.
+* Also, individual entrepreneurs will not pay USC [Unified Social Contribution] for their mobilized employees. The state will do it instead.
+* For the period of martial law, individual entrepreneurs will not pay USC if they do not receive income.
+* Sanctions for violating the ‘PRT law’ [Payment Transaction Recorders] will not be applied until the end of martial law.
+* For the period of starting from February 24, 2022, until the end of the year, taxpayers are exempt from paying for land in areas of active hostilities.
+* VAT will not be paid on goods destroyed during the war as well as handed over for the defense needs.
+* Excise duty on fuel will also be abolished, while the VAT rate on these items will be reduced from 20% to 7%.
+
+Within a few hours after the entry into force of these laws, the Cabinet of Ministers will adopt all necessary bylaws to ensure the new tax system operating already this week.
+
+The Government will also adopt a decision today to ban business inspections, except for those related to the safety and health of citizens.
+
+Meanwhile, the requirements for obtaining permits for a significant part of business activities will be abolished.
+
+I would like to appeal to farmers. The Government has already launched additional financial support programs to trigger a spring sowing campaign in Ukraine at the earliest opportunity.
+
+Ukrainian agricultural producers can already get loans at 0%, while the state guarantees 80% for the amount of such loans to banks.
+
+The Government has planned more than UAH 25 billion for these two directions of assistance. These resources will be sufficient to support all small and medium-sized farmers who are planning to start a sowing campaign this year.
+
+And one more thing. The business support steps we are talking about today are just the initial steps.
+
+We prolong our activities. Hold the line. We will definitely win.
+
+**Glory to Ukrainians! Glory to Ukraine!**
+    `,
+    description: 'Never before have so many millions of people in the history of our independence been united by a common goal. This goal is the peace that we will have after our victory as well as the liberation of Ukrainian lands from the Russian invader.',
+    url: 'https://www.youtube.com/watch?v=B38hBtaKE3Q'
+  },
+  {
+    id: 'Qro8cVXj_IU',
+    name: 'Speech by President Volodymyr Zelenskyi at the meeting of the leaders of the Joint Expeditionary Force',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-15T14:40:10',
+    topics: ['Безпека', 'Міжнародні переговори'],
+    cities: [],
+    text: `Speech by President Volodymyr Zelenskyi at the meeting of the leaders of the Joint Expeditionary Force`,
+    description: 'Speech by President Volodymyr Zelenskyi at the meeting of the leaders of the Joint Expeditionary Force',
+    url: 'https://www.youtube.com/watch?v=Qro8cVXj_IU'
+  },
+  {
+    id: 'JNkCKtKwOG4',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-15T14:50:17',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=JNkCKtKwOG4'
+  },
+  {
     id: '5Y7-OrzKydw',
     name: 'Iryna Vereshchuk - about the results of the work of humanitarian corridors on March 15',
     translated: true,
