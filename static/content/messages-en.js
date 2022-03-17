@@ -1,12 +1,371 @@
 const source = [
   {
-    id: 'YC48wOjQ1L4',
-    name: 'Resistance, resilience and courage of our defenders make it possible to save our people and our land',
+    id: 'fjfdEe2dMUw',
+    name: 'The world must officially recognize that Russia has become a terrorist state',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/fjfdEe2dMUw?t=58',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-16T17:37:25',
+    topics: ['Терроризм', 'Гуманітарні коридори', 'Міжнародна підтримка', 'Енергетика', 'Оборонний союз'],
+    cities: ['Мелітополь', 'Бердянськ', 'Запоріжжя', 'Василівка', 'Кам\'янське', 'Чернігів', 'Маріуполь', 'Дніпро'],
+    text: `
+**Wise people of a strong country!**
+
+We have finally managed to release the mayor of Melitopol from captivity. Our Ukrainian Melitopol, which did not submit and will not submit to the occupiers. Ivan Fedorov is free. I talked to him today. The Russian military abducted him on March 11, trying to persuade him to collaborate. But our man withstood. He did not give up. Just as we all endure. You all. Just as we all do not give up. Because we are Ukrainians. And we always protect our own. 
+
+Today a protest action took place in Berdyansk again. Protest against the occupiers from the Russian Federation. Thousands of brave civilians came out against the armed Russian military. And they told them everything, everything they deserve. It is very important.
+
+I know it's hard. But it is also important that what they heard from our people, including in Russian, is clear and unambiguous: occupiers, go home.
+
+There is still such an opportunity. Every soldier thrown into the territory of our country has such an opportunity. Everyone who has not yet been killed, wounded or taken prisoner.
+
+Russian troops suffer such losses in Ukraine, which were inflicted neither in Syria, nor in Chechnya. Neither did the Soviet troops suffer such losses in Afghanistan. If your war, the war against the Ukrainian people, continues, the mothers of Russia will lose more children than in the Afghan and Chechen wars combined. What’s the point of it?
+
+Every Russian soldier who lays down weapons will get a chance, a chance to survive.
+
+I appeal specifically to the conscripts who were thrown into the furnace of this war. Not your war. And to the rest of the Russian soldiers who still have the instinct of self-preservation.
+
+Lay down your weapons. It's better than dying on the battlefield, on our land.
+
+Unfortunately, the humanitarian corridors did not work on Wednesday. The Russian military did not stop shelling, did not guarantee security.
+
+We are ready to ensure silence. We are ready to take people out and send humanitarian aid. But we can't expose people to shelling on the road. Understand us. Expose to the fact that for the Russian military there is no such war crime, which they would not commit.
+
+We are taking away Mariupol residents who managed to escape to Berdyansk... We are taking them to Zaporizhzhia. In total, more than 6,000 Mariupol residents were transported in one day, more than 2,000 of them are children.
+
+The Russian military tried to disrupt this movement as well. They opened mortar fire on the section of the road between Vasylivka and Kamyanske in the Zaporizhzhia region. Only by a miracle there were no casualties. Five Ukrainians were wounded, including two children.
+
+In Chernihiv, the occupiers fired at civilians who were simply standing in line for bread. Imagine. Ten dead people.
+
+In Mariupol, in besieged Mariupol, Russian aircraft purposefully dropped a huge bomb on the Drama Theater in the city center. Hundreds of people were hiding from the shelling there... The building was destroyed. The death toll is still unknown. Our hearts are broken by what Russia is doing to our people. To our Mariupol. To the Donetsk region...
+
+Citizens of Russia! How is your blockade of Mariupol different from the blockade of Leningrad during World War II? Who do you inherit?
+
+We will not forget anyone whose lives were taken by the occupiers. We will not forgive any murdered soul. Eternal memory to all victims of this terror! To all the victims of the war unleashed by the Russian state.
+
+What else do the occupiers have to do, how many more people do they have to kill in order for Western leaders, NATO leaders to respond positively to Ukraine's request for a no-fly zone or for providing our country with the aircraft we so desperately need?
+
+I spoke about this today in a speech to the United States Congress.
+
+Ukraine has received strong support from our American friends. And I'm grateful to President Biden for that. I am grateful for the leadership that has united the democratic world.
+
+But the war does not end. Russia's war crimes do not stop. The Russian economy is still able to maintain their military machine. That is why new packages of sanctions against Russia are needed. The world must finally officially recognize that Russia has become a terrorist state.
+
+And most importantly, Ukraine needs to get more support. Even more than we get now. Air defense systems. Aircraft. Enough lethal weapons and ammunition to stop the Russian occupiers.
+
+It was in this speech in Congress that I addressed both the United States and all the relevant states as regards creating a new U-24 union.
+
+A new alliance that will ensure that each aggressor receives a coordinated response from the world. Fast and efficient. Immediately. Not in weeks, months, years, but in the first 24 hours after the attack.
+
+We can no longer trust the existing institutions. We cannot expect bureaucrats in international organizations to change so quickly. Therefore, we must look for new guarantees. Create new tools. Take those who have courage and do what justice requires. We have already proved that we can do historical things. This is not just our resistance. Not just defense.
+
+Even at this time - the biggest test for Ukraine - we managed to join the European energy network. Now Ukraine can use electricity flows from the European Union. We have been moving towards this for decades. It finally happened! I am grateful to all the power engineers of our country, to all those who worked for this result.
+
+We are already working on programs to restore our country after the war.
+
+I promise everyone, every Ukrainian who has lost home, who has lost an apartment as a result of hostilities or shelling that the state will restore everything. Restore independently.
+
+I am confident that we will be able to rebuild our state quickly. Whatever the damage may be... It will be a historic reconstruction. A project that will inspire the world just as our struggle for our freedom. Just as our struggle for our Ukraine.
+
+During the day I spoke with friends of Ukraine - President of Turkey Erdoğan and Prime Minister of Canada Trudeau. I thanked them for their support. We agreed on new steps for the sake of peace for our country.
+
+In a conversation with the Prime Minister of Ireland, I expressed condolences over the murder by the Russian military of an Irish citizen - journalist Pierre Zakrzewski.
+
+I also spoke with European Commission President Ursula von der Leyen. We agreed on the support for our citizens - temporary displaced persons.
+
+I will address the German Parliament on Thursday morning. I will continue to fight for even greater support for Ukraine, for even greater pressure on Russia. For the sake of our common victory, for the sake of peace for us.
+
+For the sake of peace for us, the Ukrainian delegation speaks with the Russian delegation. And I want all our citizens, citizens of Ukraine, to hear me now.
+
+Negotiations are ongoing. Negotiations for the sake of Ukraine.
+
+My priorities in the negotiations are absolutely clear: the end of the war, security guarantees, sovereignty, restoration of territorial integrity, real guarantees for our country, real protection for our country.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We will not forget anyone whose lives were taken by the occupiers. We will not forgive any murdered soul. Eternal memory to all victims of this terror! To all the victims of the war unleashed by the Russian state.',
+    url: 'https://www.youtube.com/watch?v=fjfdEe2dMUw'
+  },
+  {
+    id: 'vnAV9TRna54',
+    name: 'Iryna Vereshchuk sums up the results on March 16',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-16T21:56:59',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk sums up the results on March 16`,
+    description: 'Iryna Vereshchuk sums up the results on March 16',
+    url: 'https://www.youtube.com/watch?v=vnAV9TRna54'
+  },
+  {
+    id: '6viGEEi7JjU',
+    name: 'Address by President of Ukraine Volodymyr Zelenskyy to the US Congress',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
+    date: '2022-03-16T17:37:25',
+    topics: ['Ракетний удар', 'Терроризм', 'Закрите небо', 'Міжнародна підтримка', 'Санкційна політика'],
+    cities: ['Одеса', 'Харків', 'Чернігів','Суми', 'Житомир', 'Львів', 'Маріуполь', 'Дніпро'],
+    text: `
+**Mrs. Speaker,**
+
+**Members of Congress,**
+
+**Ladies and Gentlemen,**
+
+**Americans! Friends!**
+
+I am proud to greet you from Ukraine, from our capital - Kyiv. From a city that is under missile and air strikes by Russian troops. Daily. But it does not give up. And it didn't even think to give up for a single minute! Just as dozens of other cities and communities in our country, which found themselves in the worst war since World War II.
+
+I have the honor to greet you on behalf of the Ukrainian people, brave and freedom-loving people. For eight years they have been resisting the aggression of the Russian Federation. They sacrifice the best children - sons and daughters to stop the full-scale Russian invasion.
+
+Now the fate of our state is being decided. The fate of our people. It is being decided whether Ukrainians will be free. Whether they will preserve their democracy.
+
+Russia has attacked more than just our land and our cities. It went on a brutal offensive against our values. Basic human values. It threw tanks and planes against our freedom. Against our right to live freely in our country, choosing our own future. Against our desire for happiness. Against our national dreams. Just like yours, ordinary people of America. Just like those of everyone in the United States.
+
+I remember your Rushmore National Memorial. The faces of your prominent presidents. Those who laid the foundations of America. As it is today. Democracy, independence, freedom and care for everyone. Everyone who works diligently. Who lives honestly. Who respects the law.
+
+We in Ukraine want the same for ourselves. All that is a normal part of life for you.
+
+**Ladies and Gentlemen!**
+
+**Americans!**
+
+In your great history you have pages that will allow you to understand Ukrainians. Understand us now. When it is needed most.
+
+Remember Pearl Harbor. Terrible morning of December 7, 1941. When your sky was black from the planes attacking you. Just remember that.
+
+Remember September 11th. A terrible day in 2001, when evil tried to turn your cities into a battlefield. When innocent people were attacked. Attacked from the air. In a way no one expected.
+
+In a way you could not stop it. Our state experiences this every day! Every night! For three weeks now! Different Ukrainian cities... Odesa and Kharkiv, Chernihiv and Sumy, Zhytomyr and Lviv, Mariupol and Dnipro. Russia has turned the Ukrainian sky into a source of death. For thousands of people.
+
+Russian troops have already fired nearly a thousand missiles at Ukraine. Countless bombs. They use drones to kill more precisely. This is a terror Europe has not seen for 80 years!
+
+And we ask for a response. For the response from the world. For the response to terror. Is this too much of a request?
+
+To establish a no-fly zone over Ukraine is to save people. Humanitarian no-fly zone. Conditions under which Russia will no longer be able to terrorize our peaceful cities every day and night. If that's too much, we offer an alternative.
+
+You know what defense systems we need. C-300 and other similar systems.
+
+You know how much depends on the battlefield on the ability to use aircraft. Powerful, strong aircraft. To protect your people. Your freedom. Your land. Aircraft that can help Ukraine. That can help Europe.
+
+And you also know that they are available. But on land. Not in the Ukrainian sky. They do not protect our people.
+
+"I have a dream" - these words are known to each of you. Today I can say: I have a necessity. The necessity to protect our sky. The necessity for your decision. Your help. And it will mean exactly the same thing. The same thing you feel. When you hear: I have a dream.
+
+**Ladies and Gentlemen!**
+
+**Friends!**
+
+Ukraine is grateful to the United States for its overwhelming support. For all that your state and your people have already done for our freedom. For weapons and ammunition, for training and funding, for leadership in the free world, which helps put pressure on the aggressor economically.
+
+I am grateful to President Biden for his personal involvement, for his sincere commitment to the defense of Ukraine and democracy around the world.
+
+I am grateful to you for the resolution, which recognizes all those who commit crimes against the Ukrainian people as war criminals.
+
+However, now, in the darkest time for our country, for the whole of Europe, I urge you to do more! New packages of sanctions are needed every week. Until the Russian military machine stops. Restrictions are needed as regards everyone on whom this unjust regime is based.
+
+We offer the United States to impose sanctions against all politicians in the Russian Federation who remain in office and do not sever ties with those responsible for the aggression against Ukraine. From State Duma deputies to the last official who lacks the morale to sever ties with state terror. All American companies must leave Russia, their market. Leave this market flooded with our blood.
+
+**Ladies and Gentlemen.**
+
+**Members of Congress!**
+
+Take the lead! If you have companies in the constituencies that sponsor the Russian military machine, keeping their business in Russia... You have to put pressure. So that the Russian state does not receive a single dollar, which it spends on the destruction of Ukraine. On the destruction of Europe.
+
+All American ports must be closed to Russian goods and ships. Peace is more important than profit. And we must defend this principle throughout the world together.
+
+We have already become part of the anti-war coalition. The great anti-war coalition, which unites many states, dozens of states. Those who reacted in a principled manner to President Putin's decision - to Russia's invasion of our state.
+
+But we have to move on. We have to create new tools. To respond quickly! And stop the war. The full-scale Russian invasion of Ukraine began on February 24. And it would be fair if it ended in a day. In 24 hours. So that evil is punished immediately. Today the world does not have such tools.
+
+The wars of the past have prompted our predecessors to create institutions that were supposed to protect us from war. But... They don't work. We see it. You see it. So, we need new ones. New institutions. New alliances.
+
+And we offer them.
+
+We offer to create an association - U-24. United for peace. A union of responsible states that have the strength and conscience to stop conflicts. Immediately. Provide all necessary assistance in 24 hours. If necessary - weapons. If necessary - sanctions. Humanitarian support. Political support. Funding. Everything necessary to preserve peace quickly. To save lives.
+
+In addition, such an association could provide assistance to those who are experiencing natural disasters, man-made disasters. Who fell victim to a humanitarian crisis or epidemic.
+
+Remember how difficult it was for the world to do the simplest thing - to give everyone vaccines. Vaccines against Covid. To save lives. To prevent new strains. The world spent months and years doing things that could have been done much faster. So that there were no human losses.
+
+**Ladies and Gentlemen!**
+
+**Americans!**
+
+If such an alliance, the U-24, had already been formed, I believe it would have saved thousands of lives. In our country, many other countries that need peace so crucially, that suffered inhuman destruction... I ask you to watch one video now. Video of what Russian troops did on our land. We have to stop this. We must prevent such things. Preventively destroy every aggressor who seeks to conquer another nation.
+
+Please watch...
+
+And in the end to sum it up.
+
+Today it is not enough to be the leader of the nation.
+
+Today it takes to be the Leader of the world. Being the Leader of the world means to be the Leader of Peace.   
+
+Peace in your country does not depend anymore only on you and your people.
+
+It depends on those next to you, on those who are strong.
+
+Strong does not mean big. Strong is brave and ready to fight for the life of his citizens and citizens of the world.
+
+For human rights, for freedom, for the right to live decently and to die when your time comes, not when it is wanted by someone else, by your neighbor.       
+
+Today the Ukrainian people are defending not only Ukraine, we are fighting for the values of Europe and the world, sacrificing our lives in the name of the Future.
+
+That’s why today the American people are helping not just Ukraine, but Europe and the world to keep the planet alive, to keep justice in history.
+
+Now I am almost 45 years old. Today my age stopped when the hearts of more than 100 children stopped beating. I see no sense in life if it cannot stop death. And this is my main mission as the Leader of my people – great Ukrainians.
+
+And as the Leader of my nation I am addressing President Biden.  
+
+You are the Leader of the nation, of your great nation.
+
+I wish you to be the Leader of the world. Being the Leader of the world means to be the Leader of Peace.
+
+Thank you.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Now the fate of our state is being decided. The fate of our people. It is being decided whether Ukrainians will be free. Whether they will preserve their democracy.',
+    url: 'https://www.youtube.com/watch?v=6viGEEi7JjU'
+  },
+  {
+    id: 'ysM-la0KB0A',
+    name: 'The President had a conversation with the Prosecutor of the International Criminal Court in The Hague Karim Khan',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-16T14:24:15',
+    topics: ['Воєнний злочин'],
+    cities: [],
+    text: `The President had a conversation with the Prosecutor of the International Criminal Court in The Hague Karim Khan`,
+    description: 'The President had a conversation with the Prosecutor of the International Criminal Court in The Hague Karim Khan',
+    url: 'https://www.youtube.com/watch?v=ysM-la0KB0A'
+  },
+  {
+    id: 'oj6HTztCLM8',
+    name: 'For every act of terrorism by Russian troops on the territory of Ukraine there will be an international tribunal',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-16T13:37:59',
+    topics: ['Міжнародна допомога', 'Міжнародні переговори', 'Герої України', 'Воєнний злочин', 'Вбиті діти'],
+    cities: ['Запоріжжя', 'Одеса', 'Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+We are stepping up work to bring the invaders to justice. There must be an international tribunal. And it will be. For everything they did against Ukraine. Against our people. For every act of terrorism of Russian troops on the territory of our state.
+
+The Prosecutor's Office of Ukraine and law enforcement agencies have already started this work. The launch of the activity of the investigative group of the International Criminal Court in Ukraine is also important, which together with our law enforcement officers is already collecting all the evidence, collecting the facts of war crimes of the invaders on the territory of our state. So that they receive the legal answer - legal and concrete.
+
+I spoke with Karim Khan, the Prosecutor of the International Criminal Court in The Hague. He is already in Ukraine, he has already started working. Therefore, the invaders will be responsible for all war crimes against Ukrainians.
+
+Last night, Russian troops continued shelling Ukrainian territory, our peaceful cities, our citizens. Kharkiv and the region... They bombed the coast of the Odesa region. They fired missiles at Kyiv. Hit civilian infrastructure of Zaporizhzhia.
+
+As of this morning, 103 children have been killed.
+
+Russian troops have now inflicted hundreds of times more damage on Ukraine than on Donbas in eight years of war. And the territories of Donbas, border regions in the Russian direction, Kyiv region and the south of Ukraine suffered the most. The most affected areas are those that Russian propagandists have always spoken of as the place of residence of people especially close to Russia.
+
+Apparently, there are no non-nuclear weapons that the invaders have not yet used against our civilians. That's their closeness. That’s their friendship. That’s, as they said in Moscow, "a divided nation."
+
+A total of 400 educational institutions have been destroyed in Ukraine to date, the largest number is in the Donetsk region - 119. In Mariupol, the invaders seized a hospital, a regional intensive care hospital. Already damaged by Russian bombs. Patients and doctors are in captivity. Residents of neighboring houses were forced to go inside the hospital as well. More than 400 people are hostages!
+
+And the invaders are using the hospital as a firing position to shell the city.
+
+This regular crime of the Russian military against Mariupol is no different from Basayev's seizure of the hospital in Budyonnovsk. Although... It is different. Now it's even more treacherous.
+
+Last night, the invaders took hostage six people in the Bucha City Council.
+
+A Ukrainian rescuer who was captured in an agreed humanitarian corridor is being held hostage! The mayors of several of our cities, activists, a journalist are being held hostage... The Russian state has become an outspoken terrorist. And it is not ashamed. But it will be responsible for everything.
+
+The world is already beginning to understand that without the recognition of Russia as a terrorist state, it will be impossible to restore justice for Ukraine, it will be impossible to restore international order.
+
+Today I signed an important decree on a nationwide minute of silence to honor the memory of all Ukrainians who died in our patriotic war. All those we lost because of the Russian invasion. Because of the terror committed by the invaders .
+
+Every morning at 9 am in the whole territory of our state we will remember the Ukrainians who gave their lives. All who fought. All military and all civilians. Adults and children... Everyone! All those who could still be alive if Russia had not started this war.
+
+May the memory of everyone who died for Ukraine live forever!
+
+The losses of the invaders continue to grow.
+
+The number of killed enemy soldiers is already approaching 14,000. Tens of thousands of Russian servicemen were wounded. They have already lost more than a hundred helicopters. Soon there will be hundreds of lost planes.
+
+More than 400 Russian tanks were destroyed, plus several thousand units of other equipment.
+
+We take abandoned enemy equipment from the battlefield and use it to protect our state and our people.
+
+**Ukrainians!**
+
+If you know where the enemy is and where he abandoned his tanks or other armored vehicles, ordnance, inform the Ukrainian forces. Let's use everything for our victory! And for the sake of victory be wise.
+
+Don't publish details of our air defense work when you hear the guys work. Do not publish maps that you find in abandoned Russian vehicles and in the broken command posts of the invaders. Please give them to our military. Let them use it to make the enemy suffer!
+
+Today at 3 pm Kyiv time I will address the Congress of the United States of America.
+
+This will be an important speech. A speech from all of us, from each of our defenders, from each of our citizens. Addressed to the most powerful democracy in the world. To the state and the people who can do a lot to stop Russian aggression, to restore peace on our land.
+
+Eight years ago, on this day, the Russian state organized a fake "referendum" on the territory of our Ukrainian Crimea. Which it later used to justify the seizure of our territory. It was illegal. This was the destruction of the entire security architecture in Europe, which was created after World War II. But Russia went for it.
+
+If then there had been at least a hint of such resistance, which we are showing now, which you are showing now... If then the world had reacted at least half as it should react now and reacts... I'm sure we would have had neither this invasion, nor eight years of war in Donbas. All this evil was born from the occupation of Crimea. From our weakness, the brutal actions of Russia, for which it should have been punished already in 2014.
+
+We are much stronger now, we are united. Now we are a great nation.
+
+But... We don't have a time machine and we can't go back to the moment when everything was decided.
+
+We can and must fight today, now. We can and must protect our state, our Ukrainian life. We can and must hold negotiations on a just and fair peace for Ukraine. On the real security guarantees that will work.
+
+This is an ambitious task. A difficult one. This is a long way. But I am sure that we, Ukrainians, can do all this. We, Ukrainians, can win. And return to peace.
+
+To the peace we all so strive for.
+
+**Glory to our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We are stepping up work to bring the invaders to justice. There must be an international tribunal. And it will be.',
+    url: 'https://www.youtube.com/watch?v=HXIPiuXraik'
+  },
+  {
+    id: 'wBEbdxapTFM',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-16T11:35:47',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=wBEbdxapTFM'
+  },
+  {
+    id: 'k7Kb5KPPoHE',
+    name: 'Irina Vereshchuk - about the work of humanitarian corridors planned for the March, 16',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-16T09:32:13',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Irina Vereshchuk - about the work of humanitarian corridors planned for the March, 16`,
+    description: 'Irina Vereshchuk - about the work of humanitarian corridors planned for the March, 16',
+    url: 'https://www.youtube.com/watch?v=k7Kb5KPPoHE'
+  },
+  {
+    id: 'HXIPiuXraik',
+    name: 'Resistance, resilience and courage of our defenders make it possible to save our people and our land',
+    translated: true,
+    russianTimestamp: 'https://youtu.be/HXIPiuXraik?t=126',
+    speaker: ['Володимир Зеленський'],
     date: '2022-03-16T01:19:14',
-    topics: ['Міжнародна допомога'],
+    topics: ['Міжнародна допомога', 'Герої України', 'Воєнний злочин'],
     cities: [],
     text: `
 **Free people of a free country!**
@@ -108,7 +467,7 @@ On conferring the title of Hero of Ukraine with the Order of the Golden Star to:
 **Glory to Ukraine!**
     `,
     description: 'We all want peace. As soon as possible. We all want to win. And there is always a feeling that a little more, and we will get what belongs to us, Ukraine, by right. But... But efforts are still needed. ',
-    url: 'https://www.youtube.com/watch?v=YC48wOjQ1L4'
+    url: 'https://www.youtube.com/watch?v=HXIPiuXraik'
   },
   {
     id: 'UvzW0Vt6hO0',
