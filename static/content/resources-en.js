@@ -1163,6 +1163,51 @@ const source = [
     type: ['Вебсайт'],
     location: ['Світ']
   },
+  {
+    id: '128',
+    name: 'Ukraine Take Shelter',
+    description: 'UkraineTakeShelter.com is an independent platform connecting Ukrainian refugees with potential hosts and housing.',
+    link: 'https://www.ukrainetakeshelter.com/',
+    tags: ['Інформація', 'Біженці', 'Житло'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '129',
+    name: 'I Can Help',
+    description: 'The main goal of our platform is to assist and facilitate people in need to find a host and also for the host to find those who need solidarity housing.',
+    link: 'https://icanhelp.host/',
+    tags: ['Інформація', 'Біженці', 'Житло'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '130',
+    name: 'Ukraine shelter',
+    description: 'Assistance to Ukrainians displaced by the Russian invasion. The map shows the countries where locals are ready to take you into their homes.',
+    link: 'https://www.ukraineshelter.com/',
+    tags: ['Інформація', 'Біженці', 'Житло'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '131',
+    name: 'Homes for Ukraine',
+    description: 'The UK is one of the most generous nations in the world and the British public are now being asked to go one step further and open their homes to those fleeing the war in Ukraine.',
+    link: 'https://homesforukraine.campaign.gov.uk/',
+    tags: ['Інформація', 'Біженці', 'Житло'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '132',
+    name: 'Palianytsia',
+    description: 'We want to support our homeland the best way we can. We make stickers and merchandise with pieces of art created by talented Ukrainian artists. All sales profits will be donated to the official foundations, like Come Back Alive. Show your support for freedom and democracy in Ukraine and in the world!',
+    link: 'https://palianytsia.com',
+    tags: ['Мистецтво', 'Благодійність'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
 ]
 
 module.exports = source

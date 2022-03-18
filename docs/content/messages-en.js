@@ -1,9 +1,288 @@
 const source = [
   {
-    id: 'fjfdEe2dMUw',
+    id: 'Uk0RJnE4948',
+    name: 'Our tactics is when the enemy does not know what to expect from us',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/Uk0RJnE4948?t=89',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-18T00:24:00',
+    topics: ['Міжнародні переговори', 'Економіка'],
+    cities: ['Маріуполь', 'Харків', 'Чернігів', 'Ізюм'],
+    text: `
+**Great people of a great country!**
+
+The 22nd day of our struggle, our defense against one of the world's largest armies is over. Which we make smaller every day. Every day. But it still has numbers, equipment and reserves.
+
+We have information that the Russian military is recruiting mercenaries from other countries, trying to deceive as many young people as possible into military service.
+
+We know that this will not help them.
+
+So now I warn everyone who will try to join the occupiers on our Ukrainian land. This will be the worst decision of your life.
+
+Long life is better than the money you are offered for a short one.
+
+Our courageous defenders continue to hold all the key areas that the enemy is pressing. And respond to every attack. To every blow of the occupiers to our peaceful cities, to our people. New Russian conscripts have been taken prisoner.
+
+Among them are those who refuse to return to Russia. And there are many who are not even mentioned in Russia. They don't even try to take them back.
+
+Their death notifications have been sent to their families although they are in captivity and alive.
+
+All Russians who can hear me now, speak about it. Tell it in Russia.
+
+Every mother who knows that her son was sent to war against Ukraine must check where her son is. And especially those who cannot contact their children, who have been told that their children had been killed. And who didn't receive the bodies. There are phone numbers on the Internet that you can call and find out what is really happening to your children.
+
+We did not plan to take thousands of prisoners. We do not need 13 or any number of thousands of dead Russian soldiers. We do not need it. We didn't want this war. We only want peace. And we want you to love your children more than you fear your authorities.
+
+I addressed the parliament of Germany today. One of the most influential countries in the world. In Europe. One of the natural leaders of the European continent.
+
+I spoke not just as President, but as a Ukrainian citizen. As a European. As someone who has felt for many years that the German state seems to have fenced itself off us with a wall. Invisible yet solid wall.
+
+We have seen Germany fight for the economy for decades. For new Russian gas pipelines and old European dreams. Dreams of some kind of cooperation that Russia has not taken seriously for a long time.
+
+We see that the views of the Germans are changing. And this is very important. We see Germany looking for a new path. We see how sincerely the majority of Germans stand in favor of revising the old policy.
+
+We see that Chancellor Olaf Scholz has a great chance, a great mission - to give Germany a renewed leadership. Give Europe peace. Long-lasting and most importantly - fair. One that guarantees security to every state in Europe and Ukraine in the first place. And I sincerely wish Chancellor Scholz from all Ukrainians, from all Europeans that Germany and its partners succeed in carrying out this mission.
+
+I will continue such speeches in the parliaments and squares of the partner states. Necessarily. As much as it takes to stop the war. To restore our territorial integrity. To return to all of us, Ukrainians and all Europeans, the long-awaited peace.
+
+I feel that we are being increasingly understood. In Europe, in the world, in different countries. And it gives us more and more support. The one we have been asking for for so long.
+
+I spoke with French President Macron. We are strengthening the defense of Ukraine. We coordinated our joint steps towards peace. I’m grateful for that.
+
+I am also grateful to President Biden for his new and effective support for our country. Please, understand: I can't reveal all the details of this support package and others to you. Because this is our tactic. Our defense. When the enemy does not know what to expect from us. Just as they did not know what would await them after February 24. Didn't know what we had for the defense and how we were preparing to face the attack.
+
+The occupiers thought they were going to Ukraine, which they had seen before, in 2014-2015. Which they constantly corrupted and which they were not afraid of. But we are different.
+
+And this allows us to defend ourselves against a full-scale strike for 22 days already. Everything we have done in a few years. For our defense. For our tactics. For defense tactics, which is not the time to reveal while the war is going on.
+
+It is not the time to reveal our tactics of negotiations as well. Negotiations for peace, sovereignty, territorial integrity of our state, our freedom. Working more in silence than on television, radio or Facebook. I think this is right.
+
+Today I visited the wonderful Vlasenko family from Vorzel, Kyiv region, at the hospital.
+
+Escaping, they got under Russian shelling. The eldest daughter, Katya, who is only 16 years old, covered her brother Ihor, who is 8. The brother got out of the car and cursed the occupiers. Tetiana, mother, received shrapnel wounds. The father carried his daughter in his arms.
+
+Thank God they all survived. Because they stayed together, as a family, and defended each other. I was really moved to talk to them. Probably the most during this war. I sincerely wish health and happiness to this family, the Vlasenko family. Like all other families. I wish you peace and work for it.
+
+Also today, I awarded five employees of the State Emergency Service with the Order of Courage. Everyone is a hero. Everyone was awarded for selfless actions, for dedication with which they save all of us, save Ukrainians.
+
+And some more news, very important and, of course, positive. About our economy. About how we bring our country back to life. Right now, wherever security allows. Wherever business can run.
+
+Our government has already prepared a decision to expand the lending program for entrepreneurs on the basis of the program "5-7-9%" creating a new opportunity. Any business will be able to get a loan at 0%. For the time of martial law plus 1 month after the war.
+
+Then there will be a minimum rate of 5%. And the total loan amount can be up to 60 million hryvnias. So that a wider range of businesses can take advantage of our program.
+
+The second news is that the Cabinet of Ministers will vote tomorrow for a large-scale reduction of regulations.
+
+There were more than 600 permits and licenses for business, and about 20 remain mandatory. Only those that simply cannot be revoked. For example, radioactive waste management.
+
+So, for the vast majority of businesses in Ukraine, the declarative principle will work: you have announced the start of business and you work freely.
+
+And the third news, which concerns millions of Ukrainians. This is a special task for the National Bank of Ukraine, for people's deputies and our government officials.
+
+I instructed to find such a legislative opportunity for the state to guarantee 100% of deposits in Ukrainian banks. 100%. Not part, as now, as always, but 100%.
+
+The whole deposit. In any bank of our state. So that people do not lose money and are not afraid of it under any circumstances.
+
+So I'm waiting for specifics. Draft decision. And I hope that the Verkhovna Rada will not delay the support.
+
+Because Ukrainians need it. Ukraine needs this.
+
+And finally.
+
+Our Mariupol, our Kharkiv, our Chernihiv, Kyiv region, Izyum and all our hero cities. Which are in a very difficult situation. Extremely difficult.
+
+We are doing everything. All of us. Absolutely.
+
+Our army, police, SES, humanitarian convoys, church... All our people.
+
+We will not leave you. And we will not forgive them.
+
+You will be free. Definitely. I know it. Like all of us on our land.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Our Mariupol, our Kharkiv, our Chernihiv, Kyiv region, Izyum and all our hero cities. Which are in a very difficult situation. Extremely difficult. We will not leave you. And we will not forgive them.',
+    url: 'https://www.youtube.com/watch?v=Uk0RJnE4948'
+  },
+  {
+    id: 'BoN7iEkAKaw',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 17',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-17T21:43:48',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 17`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 17',
+    url: 'https://www.youtube.com/watch?v=BoN7iEkAKaw'
+  },
+  {
+    id: 'LO9jWcp888M',
+    name: 'Volodymyr Zelenskyi awarded employees of the State Emergency Service of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-17T17:38:25',
+    topics: [],
+    cities: [],
+    text: `Volodymyr Zelenskyi awarded employees of the State Emergency Service of Ukraine`,
+    description: 'Volodymyr Zelenskyi awarded employees of the State Emergency Service of Ukraine',
+    url: 'https://www.youtube.com/watch?v=LO9jWcp888M'
+  },
+  {
+    id: 'AO-Xx36Lkfg',
+    name: 'The President visited in the hospital residents of Kyiv region wounded by enemy shelling',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-17T17:01:50',
+    topics: [],
+    cities: [],
+    text: `The President visited in the hospital residents of Kyiv region wounded by enemy shelling`,
+    description: 'The President visited in the hospital residents of Kyiv region wounded by enemy shelling',
+    url: 'https://www.youtube.com/watch?v=AO-Xx36Lkfg'
+  },
+  {
+    id: '7_AkLEj9_Qc',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-17T12:22:07',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=7_AkLEj9_Qc'
+  },
+  {
+    id: 'YtDifMeMC68',
+    name: 'Address by President of Ukraine Volodymyr Zelenskyy to the Bundestag',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-17T12:07:31',
+    topics: ['Ракетний удар', 'Міжнародні санкції', 'Міжнародні переговори', 'Вступ до НАТО', 'Економіка'],
+    cities: [],
+    text: `
+**Dear President Göring-Eckardt.**
+
+**Dear Mr. Scholz.**
+
+**Dear ladies and gentlemen, deputies, guests, journalists.**
+
+**German people!**
+
+I am addressing you after three weeks of full-scale Russian invasion of Ukraine, after eight years of war in the east of my country, in Donbas.
+
+I appeal to you when Russia is bombing our cities, destroying everything in Ukraine. Everything - houses, hospitals, schools, churches. Using missiles, air bombs, rocket artillery.
+
+Thousands of Ukrainians died in three weeks. The occupiers killed 108 children. In the middle of Europe, in our country, in 2022.
+
+I am addressing you after numerous meetings, negotiations, statements and requests. After steps in support, some of which are overdue. After sanctions, which are obviously not enough to stop this war. And after we saw how many ties your companies still have with Russia. With a state that just uses you and some other countries to finance the war.
+
+During the three weeks of war for our lives, for our freedom, we became convinced of what we had felt before. And what you probably do not all notice yet.
+
+You are like behind the wall again. Not the Berlin Wall. But in the middle of Europe. Between freedom and slavery. And this wall grows stronger with each bomb that falls on our land, on Ukraine. With every decision that is not made for the sake of peace. Not approved by you, although it may help.
+
+When did it happen?
+
+**Dear politicians.**
+
+**Dear German people.**
+
+Why is this possible? When we told you that Nord Stream was a weapon and a preparation for a great war, we heard in response that it was an economy after all. Economy. Economy. But it was cement for a new wall.
+
+When we asked you what Ukraine needs to do to become a member of NATO, to be safe, to receive security guarantees, we heard the answer: such a decision is not on the table yet and will not be in the near future. Just as the chair for us at this table. Just as you are still delaying the issue of Ukraine's accession to the European Union. Frankly, for some it is politics. The truth is that it is stones. Stones for a new wall.
+
+When we asked for preventive sanctions, we appealed to Europe, we appealed to many countries. We turned to you. Sanctions for the aggressor to feel that you are a force. We saw delays. We felt resistance. We understood that you want to continue the economy. Economy. Economy.
+
+And now the trade routes between you and the country that has once again brought a brutal war to Europe are barbed wire over the wall. Over the new wall that divides Europe.
+
+And you don't see what's behind this wall, and it's between us, between people in Europe. And because of this, not everyone is fully aware of what we are going through today.
+
+I am addressing you on behalf of Ukrainians, I am addressing you on behalf of Mariupol residents - civilians of a city that Russian troops have blocked and razed to the ground. They just destroy everything there. Everything and everyone who is there. Hundreds of thousands of people are under shelling around the clock. No food, 24 hours a day without water, no electricity, 24 hours a day without communication. For weeks.
+
+Russian troops do not distinguish between civilians and military. They don’t care where civilian objects are, everything is considered a target.
+
+A theater that was a shelter for hundreds of people and was blown up yesterday, a maternity hospital, a children's hospital, residential areas without any military facilities - they are destroying everything. Round the clock. And they do not let any humanitarian cargo into our blocked city. For five days, Russian troops have not stopped the shelling specifically to prevent the rescue of our people.
+
+You can see it all. If you climb over this Wall.
+
+If you remember what the Berlin Airlift meant to you. Which could be realized because the sky was safe. You were not killed from the sky as now in our country, when we cannot even make an airlift! When the sky gives only Russian missiles and air bombs.
+
+I am addressing you on behalf of older Ukrainians. Many survivors of World War II. Those who escaped during the occupation 80 years ago. Those who survived Babyn Yar.
+
+Babyn Yar that President Steinmeier visited last year. On the 80th anniversary of the tragedy. And that was hit by Russian missiles now. It is exactly this place that was hit. And the missile strike killed the family that went to Babyn Yar, to the monument. Killed again, 80 years after.
+
+I appeal to you on behalf of everyone who has heard politicians say: "Never again." And who saw that these words are worthless. Because again in Europe they are trying to destroy the whole nation. Destroy everything we live by and live for.
+
+I am addressing you on behalf of our military. Those who defend our state, and therefore the values that are often talked about everywhere in Europe, everywhere - and in Germany as well.
+
+Freedom and equality. Opportunity to live freely, not to submit to another state, which considers a foreign land its "living space". Why are they defending all this without your leadership? Without your strength? Why are overseas states closer to us than you are?
+
+Because this is the Wall. The wall that someone doesn't notice and that we are hammering on while fighting to save our people.
+
+**Ladies and Gentlemen!**
+
+**German people!**
+
+I am grateful to everyone who supports us. I am grateful to you. Ordinary Germans who sincerely help Ukrainians on your land. To journalists who do their job honestly, showing all the evil that Russia has brought to us. I am grateful to the German businessmen who put morality and humanity above accounting. Above the economy. Economy. Economy. And I am grateful to the politicians who are still trying... Trying to break this Wall. Who choose life between Russian money and the deaths of Ukrainian children. Who support the strengthening of sanctions against Russia that can guarantee peace. Peace to Ukraine. Peace to Europe. Who do not hesitate to disconnect Russia from SWIFT.
+
+Who know that an embargo on trade with Russia is needed. On imports of everything that sponsors this war. Who know that Ukraine will be in the European Union. Because Ukraine is already more Europe than many others.
+
+I am grateful to everyone who is taller than any wall. And who knows that the stronger one bears more responsibility when it comes to saving people.
+
+It is difficult for us to endure without the help of the world, without your help. It is difficult to defend Ukraine, Europe without what you can do. So that you don’t look over your shoulder even after this war. After the destruction of Kharkiv... For the second time in 80 years. After the bombing of Chernihiv, Sumy and Donbas. For the second time in 80 years. After thousands of people tortured and killed. For the second time in 80 years. Otherwise, what is the historical responsibility to the Ukrainian people still not redeemed for what happened 80 years ago?
+
+And now - so that a new one does not appear, behind the new Wall, which will again demand redemption.
+
+I appeal to you and remind you of what is needed. The things without which Europe will not survive and will not preserve its values.
+
+Former actor, President of the United States Ronald Reagan once said in Berlin: Tear down this wall!
+
+And I want to tell you now.
+
+Chancellor Scholz! Tear down this wall.
+
+Give Germany the leadership you deserve. And what your descendants will be proud of.
+
+**Support us.**
+
+**Support peace.**
+
+**Support every Ukrainian.**
+
+**Stop the war.**
+
+**Help us stop it.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Thousands of Ukrainians died in three weeks. The occupiers killed 108 children. In the middle of Europe, in our country, in 2022.',
+    url: 'https://www.youtube.com/watch?v=YtDifMeMC68'
+  },
+  {
+    id: 'BIN3R0qOAPY',
+    name: 'Iryna Vereshchuk talks about 9 humanitarian corridors coordinated on March 17',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-17T10:41:24',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about 9 humanitarian corridors coordinated on March 17`,
+    description: 'Iryna Vereshchuk talks about 9 humanitarian corridors coordinated on March 17',
+    url: 'https://www.youtube.com/watch?v=BIN3R0qOAPY'
+  },
+  {
+    id: 'nLRzT24BvRU',
     name: 'The world must officially recognize that Russia has become a terrorist state',
     translated: false,
-    russianTimestamp: 'https://youtu.be/fjfdEe2dMUw?t=58',
+    russianTimestamp: 'https://youtu.be/nLRzT24BvRU?t=58',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-16T17:37:25',
     topics: ['Терроризм', 'Гуманітарні коридори', 'Міжнародна підтримка', 'Енергетика', 'Оборонний союз'],
@@ -86,7 +365,7 @@ My priorities in the negotiations are absolutely clear: the end of the war, secu
 **Glory to Ukraine!**
     `,
     description: 'We will not forget anyone whose lives were taken by the occupiers. We will not forgive any murdered soul. Eternal memory to all victims of this terror! To all the victims of the war unleashed by the Russian state.',
-    url: 'https://www.youtube.com/watch?v=fjfdEe2dMUw'
+    url: 'https://www.youtube.com/watch?v=nLRzT24BvRU'
   },
   {
     id: 'vnAV9TRna54',
