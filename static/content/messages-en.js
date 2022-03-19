@@ -1,9 +1,343 @@
 const source = [
   {
-    id: 'Uk0RJnE4948',
-    name: 'Our tactics is when the enemy does not know what to expect from us',
+    id: 'xDiT-RaceKo',
+    name: 'Meaningful talks on peace and security for Ukraine are the only chance for Russia to reduce the damage from its own mistakes',
     translated: false,
-    russianTimestamp: 'https://youtu.be/Uk0RJnE4948?t=89',
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-19T00:45:34',
+    topics: ['Митниця', 'Економіка', 'Житло', 'Воєнний злочин', 'Міжнародні переговори', 'Герої України'],
+    cities: ['Харків', 'Ізюм'],
+    text: `
+**Good evening to everyone**.
+
+Usually on such days we used to say: “Spring has come”. 
+
+But now we are saying: “War has come”.
+
+But we will definitely defeat everyone no matter what. Because we are free people of a free country.
+
+Today, government officials have elaborated the decision to fully reboot the customs service.
+
+Cargo for our defense, for our people will be brought into Ukraine as easily as the physics laws allow that. 
+
+We eliminate the whole bureaucracy, all paperwork, VAT, all customs duties. 
+
+The goal is clear - to prevent the human factor from hindering the speedy supply of goods, which are really needed now. 
+
+Chairman of the Verkhovna Rada of Ukraine Ruslan Stefanchuk and profile committees are working to ensure the support of people’s deputies for the innovations. I emphasize: this decision is necessary for the defense of the state, for ensuring normal life during martial law. 
+
+I urge certain MPs not to speculate on this issue, as it is for the benefit of our state, not the government or the opposition. We must all work jointly for the sake of our Ukraine, our people. Let’s think about PR after the victory. 
+
+Another important area of government work is helping Ukrainians who have been forced to flee their homes due to hostilities.
+
+I commissioned the Cabinet of Ministers to develop a comprehensive program to support such people, our citizens. Everyone who was deprived of home because of the war. We already have the outlines of this program. The first component is financial. State support for all displaced persons. Adults and children. Government support for jobs for such people - where they are temporarily staying. So that every person, every family has a basis for life.
+
+The second component is housing. The government is preparing concrete proposals for housing for IDPs right now. And also organizes the reconstruction of destroyed housing after the war.
+
+The third component is no less important. This is the support for the families who have housed people from areas of hostilities or temporary occupation. At a minimum, they will be reimbursed for the cost of utilities related to the stay of IDPs.
+
+Prime Minister of Ukraine Denys Shmyhal will soon explain all the details of such a comprehensive program to support our citizens.
+
+A coordination headquarters has been set up to regulate all issues related to the delivery of humanitarian aid to Ukraine. Under the chairmanship of Head of the Office of the President Andriy Yermak, a meeting was held with Ukrainian ambassadors to intensify the supply of humanitarian goods to Ukraine, primarily to help internally displaced persons.
+
+I also commissioned the government to provide assistance together with the International Committee of the Red Cross to those of our citizens who found themselves abroad after February 24 and need the attention of our state and international organizations.
+
+Today there were seven humanitarian corridors in Ukraine. Six - in the Sumy region, one - in the Donetsk region. More than 9,000 people were evacuated from the besieged Mariupol. In total, more than 180,000 Ukrainians have been rescued by the humanitarian corridors. Hundreds of tons of essential products were delivered.
+
+But the occupiers continue to block the supply of humanitarian aid to the besieged cities in most areas. This is a totally deliberate tactic. They have a clear order to do absolutely everything to make the humanitarian catastrophe in Ukrainian cities an "argument" for Ukrainians to cooperate with the occupiers.
+
+This is a war crime. They will be held accountable for this. 100%. Every Russian figure who gives such orders and every Russian soldier who carries out such orders will be identified. And will receive a compulsory one-way ticket to The Hague. To the city where the International Criminal Court is located.
+
+People are being rescued from the rubble of the drama theater destroyed by the occupiers in Mariupol, where civilians had been hiding from Russian shelling and bombs. More than 130 people are already on the surface. Some of them are seriously wounded. But at the moment there is no information about the dead.
+
+Thanks to the courage and professional training of the Ukrainian Armed Forces, the occupation forces were stopped in almost all directions.
+
+Heavy fighting in the Kharkiv region - especially heavy near Izyum. Russian troops have already thrown people from training centers there. Absolutely unprepared contingent. People who can't endure half an hour in battle.
+
+Kyiv region, Sumy region, Chernihiv region, the south of our state - the army stopped the occupiers. The initial plan of the Russian military to seize our state failed. And it seems that they do not know what else can be done to us. It seems that their military commanders are not able to offer their political leadership anything but cruel and erroneous tactics to exhaust us, to exhaust Ukraine. Nothing but constant strikes at the civilian population, peaceful cities, people, children, missiles, air bombs, shelling from "Grads", "Uragans". Nothing but the destruction of non-military infrastructure - residential buildings, hospitals, schools, churches.
+
+But this tactic of their military only worsens the situation for the Russian state. Leads to new and new destructive sanctions. Encourages new members to join our anti-war coalition. It allows us to unite even those states that have always tried to remain neutral to put pressure on Russia.
+
+Therefore, negotiations on peace, on security for us, for Ukraine - meaningful, fair and without delay - are the only chance for Russia to reduce the damage from its own mistakes.
+
+We have always insisted on negotiations. We have always offered dialogue, offered solutions for peace. Not only during 23 days of invasion.
+
+And I want everyone to hear me now, especially in Moscow. It's time to meet. Time to talk. It is time to restore territorial integrity and justice for Ukraine. Otherwise, Russia's losses will be so huge that several generations will not be enough to rebound.
+
+Many words were heard in Moscow today in connection with the anniversary of the seizure of Crimea. A big rally took place. And I want to pay attention to one detail. It is reported that a total of about 200,000 people were involved in the rally in the Russian capital. 100,000 on the streets, about 95,000 at the stadium.
+
+Approximately the same number of Russian troops were involved in the invasion of Ukraine.
+
+Just imagine 14 thousand corpses and tens of thousands of wounded and maimed people at that stadium in Moscow. There are already so many Russian losses as a result of this invasion.
+
+This is the price of war. In a little more than three weeks. The war must end.
+
+Ukraine's proposals are on the table.
+
+In the coming days, I will continue to appeal to the nations of the world to call for peace for Ukraine. My appeal to the Swiss people is ahead, to the people and to the state.
+
+Appeals to Israel, Italy and Japan are also planned. The world hears Ukraine's position. The world supports our defenders, defenders of Ukraine.
+
+Today I want to express my sincere gratitude to each defender of our strong Mariupol. Our heroic city, which is experiencing the greatest ordeal in its history, in the history of Ukraine.
+
+* 36th Separate Marine Brigade.
+* 501st Separate Marine Battalion.
+* 1st Separate Marine Battalion.
+* 12th Brigade of the National Guard.
+* And a separate detachment of special purpose "Azov".
+
+I am grateful to each and every one of our defenders of Mariupol. I am grateful to everyone who defends Ukraine.
+
+Also at the request of the Commander-in-Chief of the Armed Forces of Ukraine I decided to confer the title of Hero of Ukraine upon:
+
+* **Colonel Baranyuk Volodymyr Anatoliyovych**, Commander of the 36th Separate Marine Brigade.
+* And **Major Prokopenko Denys Hennadiyovych**, Commander of a separate detachment of special purpose "Azov". For courage, for effective actions to repel enemy attacks, for the defense of the hero city of Mariupol.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'It\'s time to meet. Time to talk. It is time to restore territorial integrity and justice for Ukraine. Otherwise, Russia\'s losses will be so huge that several generations will not be enough to rebound.',
+    url: 'https://www.youtube.com/watch?v=xDiT-RaceKo'
+  },
+  {
+    id: 'onOohxdOdEw',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 18',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-18T22:04:16',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 18`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 18',
+    url: 'https://www.youtube.com/watch?v=onOohxdOdEw'
+  },
+  {
+    id: 'b58zuFHkVOA',
+    name: 'The address by Andriy Yermak on encouraging international investors to buy Ukrainian military bonds',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Єрмак'],
+    date: '2022-03-18T20:11:58',
+    topics: [],
+    cities: [],
+    text: `The address by Andriy Yermak on encouraging international investors to buy Ukrainian military bonds and transfer their business from the aggressor country to Ukraine`,
+    description: 'The address by Andriy Yermak on encouraging international investors to buy Ukrainian military bonds and transfer their business from the aggressor country to Ukraine',
+    url: 'https://www.youtube.com/watch?v=b58zuFHkVOA'
+  },
+  {
+    id: 'Tp0YYZdrIY4',
+    name: 'The address by Denis Shmygal on the maximum simplification of all customs procedures',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-18T19:50:18',
+    topics: ['Економіка', 'Митниця'],
+    cities: [],
+    text: `
+**Heroic people of Ukraine!**
+
+During the three weeks of Russia's full-scale invasion of Ukraine, the whole world have witnessed that Russia is a terrorist country, while Ukraine is a country of indomitable and brave people who are ready to fight to the bitter end for their land.
+
+Russia is falling into international isolation, and the whole civilized world is uniting around Ukraine. That's why we will definitely win!
+
+All that we have to do now is to bring our victory closer. To work as a single team and a united front. Everyone doing his or her job. The more effort we pursue to win now, the sooner that victory will come.
+
+Our Government has clearly determined as one of the topmost priorities of our work now is to build a strong economic rear for our victory.
+
+In the last week, we have intensified changes in the economic model along a number of key areas in order to support Ukrainian businesses and simplify at most their activities in times of war.
+
+First. Food security issues. We cannot allow Ukrainians to be left without food, so the state will directly buy essential social products from Ukrainian producers. Starting tomorrow, these products will be distributed free of charge to people in those cities that are already under the siege or on the confrontation line.
+
+How will we implement that? We have compiled a list of key social products: from cereals and grains to canned food and oil. The Ministry for Communities and Territories Development forms a list of cities destinations for these products to be delivered on a daily basis.
+
+Local military administrations will apply for the amount of such products to cover the needs of each of such cities.
+
+The Ukrzaliznytsia [Ukrainian Railways company] purchases products and delivers them to the regions in cooperation with the Humanitarian Headquarters.
+
+As for delivery to the temporarily occupied settlements, we will involve international humanitarian organizations.
+
+I would like to reiterate that the distribution of relevant products will be free of charge for the people. The Government has already alotted UAH 18 billion to Ukrzaliznytsia to ensure the implementation of this and other objectives.
+
+Nobody will be left alone in trouble.
+
+The relevant program will also encourage the development of Ukraine's domestic food production, while the food industry is now becoming one of the key sectors of the economy.
+
+The second issue. As the President of Ukraine has already announced, we are in fact abolishing the vast majority of permits, except for those related to the country's security.
+
+Against the background of the martial law effect, businesses switch to a declarative principle of operation. It means one submits documents through the Diia portal and, without waiting for the decision of the government body, starts working.
+
+Permits will remain for literally several activities, such as handling hazardous waste, drug production, and nuclear energy issues.
+
+Earlier, the Government abolished all inspections that could complicate business activities. Now the maximum freedom of business is a necessary condition for the formation of a strong economy in our country.
+
+The third issue. Interest-free business lending and easier access to financial resources.
+
+The Government is lifting all restrictions pertaining to the Affordable Loans at 5-7-9 program. Any Ukrainian business that needs support will be able to get a loan on favorable terms.
+
+From now on, the maximum loan amount will be increased to UAH 60 million. At the time of martial law and one month after its completion, the interest rate on loans will be 0%. Currently, the state will pay interest for those who want to make business.
+
+After martial law period is over, the interest rate on this program will not exceed 5%. Restrictions regarding the business plan or workplaces, or any other, are also removed.
+
+Fourth. The Government has adopted a decision to simplify all customs procedures as much as possible. We aim to create the fastest customs service in the world.
+
+No paperwork at customs.
+
+Abolishing VAT, customs tax and duties immediately after the adoption and entry into force of amendments to the Customs and Tax Codes.
+
+On a declarative basis only.
+
+Anyone who wants to abide by the general system pays only VAT, and such clearance procedure should take no more than 15 minutes.
+
+Those who just want to import goods to Ukraine without any customs clearance procedure just fill out the customs declaration in advance and enter.
+
+The cargoes will travel across the border without any obstacles.
+
+The resolution of the Cabinet of Ministers has already been endorsed. We expect that the Verkhovna Rada will shortly exempt all goods imported to Ukraine today from customs tax and VAT.
+
+Together with the tax incentives already supported by the Verkhovna Rada, the aforesaid measures create extremely powerful incentives to support existing businesses and even to open new enterprises.
+
+Therefore, we hold the line. We are working for the sake of victory. We believe in Ukraine and the Armed Forces of Ukraine.
+
+**Glory to Ukrainians! Glory to Ukraine!**
+    `,
+    description: 'Russia is falling into international isolation, and the whole civilized world is uniting around Ukraine. That\'s why we will definitely win!',
+    url: 'https://www.youtube.com/watch?v=Tp0YYZdrIY4'
+  },
+  {
+    id: 'WB0mrU4StU0',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-18T16:38:12',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=WB0mrU4StU0'
+  },
+  {
+    id: '88iUSVVvpB8',
+    name: 'By attacking Ukraine, Russia will destroy everything it has achieved over the past 25 years',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-18T15:34:26',
+    topics: ['Міжнародні переговори', 'Економіка', 'Міжнародні санкції', 'Гуманітарні коридори', 'Герої України'],
+    cities: ['Львів', 'Київ', 'Житомир', 'Суми', 'Харків', 'Чернігів', 'Сєвєродонецьк', 'Краматорськ', 'Маріуполь', 'Конотоп', 'Тростянець', 'Лебедин', 'Краснопілля', 'Велика Писарівка'],
+    text: `
+**Strong people of the indomitable country!**
+
+The 23rd day of our patriotic war continues. After eight years of war in the east.
+
+The occupiers do not stop burning their national wealth in the war against Ukraine.
+
+I am confident that by attacking us, they will destroy everything that Russian society has achieved over the past 25 years. And they will return to where they once began to rise from, as they say, to the "the wicked 90's". But without freedom, without the creative desire of millions of people to work for the development of their state.
+
+This will be the price of war against Ukraine for Russia.
+
+It will be a fall for them, a painful fall. And they will feel it even in spite of the "opium for the people" from television propagandists.
+
+Unjust and aggressive war always has a high price for the aggressor.
+
+But no matter what happens to them, it cannot comfort us. It will not resurrect our dead people. It will not restore our cities. It will not heal the emotional wound that will stay with us forever.
+
+We will rebuild everything - I have no doubt about that. We will become a full member of the EU - each representative of our state works for this 24/7.
+
+But life will be different, and for many - without the thousands of hearts stopped by this war.
+
+May the memory of everyone who gave life for Ukraine live forever!
+
+Russian troops have continued treacherous shelling of our peaceful cities and our communities. Lviv, Kyiv and the region, Zhytomyr region, Sumy region, Kharkiv and the region, Chernihiv, cities of Donbas - Severodonetsk, Kramatorsk, our Mariupol... Missile strikes, air bombs, "Grads".
+
+We are shooting down Russian missiles as much as we can. We are destroying their planes and helicopters. And this despite the fact that we do not yet have adequate anti-missile weapons. Advanced weapons. We do not have enough combat aircraft. But we have a goal, pure and fair - to protect our people, our state.
+
+Undoubtedly, we will continue to do everything we can. We will remind some Western leaders even louder that this will be a moral defeat for them, it will destroy their prestige if Ukraine does not receive advanced weapons that will really save the lives of thousands of our people.
+
+Russian missiles will not fall from shotguns, which some are trying to replace really useful supplies with.
+
+Today is a busy day of negotiations for me. Ursula von der Leyen, President of the European Commission. Charles Michel, President of the European Council. Ukraine's great friend, Prime Minister of the United Kingdom Johnson.
+
+The subject is clear. First, these are concrete steps that will give Ukraine even more strength, not only directly for the defense, but also for the economy. For our people, for Ukrainians who really defend Europe. Here and now. On our land.
+
+President Ursula von der Leyen has promised to do everything possible to speed up Ukraine's accession to the EU. We reduce bureaucratic processes for our state, which usually take years, to weeks, to months. It's not easy, but we do it. I am sure.
+
+We also agreed on the EU’s support for Ukrainians who were forced to flee their homes due to the war. For those who are abroad and within our state.
+
+We agreed on a new macro-financial aid - another 300 million euros for Ukraine. In addition to those on which a decision has already been made.
+
+Secondly, we are discussing the next package of sanctions against Russia. Significant enough. To make them feel that every missile against our state, every bomb, every shot has its price. For the Russian budget, for Russian companies, for Russian ambitions and for specific people who represent the Russian government.
+
+And until there is peace for Ukraine, sanctions against Russia must grow steadily.
+
+I am grateful to all public initiatives from around the world that offer restrictions for Russia not only at the state level, but also at the level of societies. In particular, I am grateful to the Swedish Port Workers' Union, which promises not to service vessels connected with Russia. This is right. This is a good example for all public structures, all trade unions and business associations to follow.
+
+If Russia is not stopped now, if Russia is not punished now, other aggressors in the world will start other wars. In different regions of the world. On different continents. Wherever a state dreams of conquering its neighbors.
+
+We need to act now so that all other potential aggressors see that war is only a loss and no benefit.
+
+That is why it is necessary for all Europeans to block ports for all Russian ships. So that all Russian commercial vessels follow the Russian warship.
+
+It is necessary that all Western companies leave the Russian market and not cover with cheap PR their thirst for profit despite blood, despite war crimes. Like Nestle or Auchan for example.
+
+To date, humanitarian corridors in the Sumy, Donetsk and Kharkiv regions have been agreed upon. Sumy, Konotop, Trostyanets, Lebedyn, Krasnopillya, Velyka Pysarivka. It is especially difficult from the besieged Mariupol to Zaporizhzhia. The occupiers are doing everything to complicate the movement of people and prevent Ukrainian humanitarian cargo from entering the city. This is outright terror. But we try, we do our best. More than 35,000 people have already been rescued from Mariupol.
+
+Rescue work is underway at the site of the bombing by the occupiers of the theater where Mariupol residents hid from shelling, used it as a shelter.
+
+It is known that as of now, more than 130 people were rescued. But hundreds of Mariupol residents are still under the debris. Despite the shelling, despite all the difficulties, we will continue rescue work.
+
+The situation in the Kharkiv region is very difficult. The occupiers do not stop trying to destroy our city of Izyum. People in Balakliya are being tortured. Our team is doing everything to organize a working humanitarian corridor to these cities and deliver food, water and medicine.
+
+I instructed the Cabinet of Ministers, the Secretary of the National Security and Defense Council and the Speaker of the Verkhovna Rada to develop a format of decisions that will speed up the supply of all necessary goods from abroad.
+
+This is especially topical for food, fuel and other goods that meet the basic needs of society.
+
+War is not a time for bureaucrats and careerists from different departments to complicate the provision of goods for people. We want to simplify the passage of goods that Ukrainians need now through customs as much as possible.
+
+If this requires the removal of taxes and excises during martial law, we are ready to do so. If it is necessary to remove customs officers who do not understand the tasks of wartime to act quickly, we will do so.
+
+Our borders must be open to everything Ukrainians need. I am waiting for the appropriate decisions by the end of the day. And then - the support from people's deputies.
+
+Because now everyone has to work only for Ukrainians, only for our state, for defense. Not for ambitions. Not for fear. Not for bureaucracy.
+
+Everything is for the protection of Ukraine!
+
+Today I signed a decree on the awarding of state awards to 138 servicemen of the Armed Forces. In particular, the Order of Bohdan Khmelnytsky of the II degree is awarded to:
+
+Syrskyi Oleksandr Stanislavovych, Commander of the Land Forces. Since the beginning of the full-scale Russian invasion, he has been leading the defense of Kyiv. Thanks to his professional and courageous actions, the enemy suffered significant losses and was driven away from the capital. During the defense of Kyiv, more than 30 settlements in the Kyiv region, which were temporarily occupied by the enemy, were liberated.
+
+Major Mazurok Taras Leonidovych, commander of the tank battalion. Defending the Donetsk region, he inflicted significant losses on the enemy and significantly stopped his advance.
+
+Sergeant Nutsa Ruslana Vasylivna was awarded the Order of Courage of the III degree. Senior combat medic. She personally took part in the evacuation of the wounded from Vodyane, Shyrokyne and Mariupol. Thanks to her actions, 31 of our defenders were saved. She continues to perform tasks in Mariupol.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We will rebuild everything - I have no doubt about that. We will become a full member of the EU - each representative of our state works for this 24/7.',
+    url: 'https://www.youtube.com/watch?v=88iUSVVvpB8'
+  },
+  {
+    id: '7Bnlef5HWmE',
+    name: 'Iryna Vereshchuk talks about the organization of the work of humanitarian corridors on March 18',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-18T09:17:33',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the organization of the work of humanitarian corridors on March 18`,
+    description: 'Iryna Vereshchuk talks about the organization of the work of humanitarian corridors on March 18',
+    url: 'https://www.youtube.com/watch?v=7Bnlef5HWmE'
+  },
+  {
+    id: 'mv65UD6SqK0',
+    name: 'Our tactics is when the enemy does not know what to expect from us',
+    translated: true,
+    russianTimestamp: 'https://youtu.be/mv65UD6SqK0?t=89',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-18T00:24:00',
     topics: ['Міжнародні переговори', 'Економіка'],
@@ -104,7 +438,7 @@ You will be free. Definitely. I know it. Like all of us on our land.
 **Glory to Ukraine!**
     `,
     description: 'Our Mariupol, our Kharkiv, our Chernihiv, Kyiv region, Izyum and all our hero cities. Which are in a very difficult situation. Extremely difficult. We will not leave you. And we will not forgive them.',
-    url: 'https://www.youtube.com/watch?v=Uk0RJnE4948'
+    url: 'https://www.youtube.com/watch?v=mv65UD6SqK0'
   },
   {
     id: 'BoN7iEkAKaw',

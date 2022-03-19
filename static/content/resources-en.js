@@ -1208,6 +1208,15 @@ const source = [
     type: ['Вебсайт'],
     location: ['Світ']
   },
+  {
+    id: '133',
+    name: 'Propagandony',
+    description: 'Volunteers from IT #StandForUkraine together with the Propagandony team created a chatbot that helps block propaganda sources that spread panic, misinform and demotivate the people, promote a "special operation" and merge the location of the Armed Forces.',
+    link: 'https://t.me/Propagandony_bot',
+    tags: ['Завдання'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
 ]
 
 module.exports = source
