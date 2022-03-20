@@ -1,5 +1,166 @@
 const source = [
   {
+    id: 'lI4yXBKoOcA',
+    name: 'The more Russia uses terror against Ukraine, the worse the consequences for it',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/lI4yXBKoOcA?t=185',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-20T02:26:26',
+    topics: ['Терроризм', 'Міжнародні санкції', 'Гуманітарні коридори', 'Міжнародні переговори', 'Герої України', 'Заборона діяльності партій'],
+    cities: ['Бородянка', 'Буча', 'Бервиці', 'Богданівка', 'Бровари', 'Лисичанськ', 'Попасна', 'Сєвєродонецьк', 'Рубіжне', 'Бахмут', 'Запоріжжя'],
+    text: `The more Russia uses terror against Ukraine, the worse the consequences for it`,
+    description: 'The more Russia uses terror against Ukraine, the worse the consequences for it',
+    url: 'https://www.youtube.com/watch?v=lI4yXBKoOcA'
+  },
+  {
+    id: 'QeetGk_4oWA',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 18',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-19T20:58:08',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 18`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 18',
+    url: 'https://www.youtube.com/watch?v=QeetGk_4oWA'
+  },
+  {
+    id: '80qTJOLk1sI',
+    name: 'Address by President of Ukraine Volodymyr Zelenskyy to the people of Switzerland',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-19T18:29:49',
+    topics: ['Терроризм', 'Вбиті діти', 'Міжнародні санкції'],
+    cities: [],
+    text: `
+**Dear Mr. President, dear Ignazio!**
+
+My greetings to all Swiss friends of Ukraine! To all your beautiful people, the people of Switzerland!
+
+I am grateful to you for supporting our people.
+
+Thank you for defending freedom together with all those who value it.
+
+This is very important now. Nowadays. At a special time period.
+
+And especially important - from you.
+
+When terror became the national idea of one of the largest nations in the world. The basis of their foreign policy.
+
+When the crimes of terrorism are committed not by some outcast or group of persons and not by an organization, but by the state. Which has a nuclear arsenal.
+
+When a permanent member of the UN Security Council deliberately destroys everything for which the UN was built. Having unleashed a cruel, bloody, senseless war against us.
+
+But we now have a chance. A chance to show not only to Russia, but also to any aggressor in the world, any terrorist state, that war will destroy not the victim, but the one who came with it.
+
+And, perhaps, this is the last chance for humanity - to stop the wars. Stop the state terror.
+
+And I'm telling you now. Switzerland. A state that has a very long history of peace. And an even longer history of influence. In many areas - a decisive influence on the world.
+
+Even before I became President, I was thinking what life of our beloved Ukrainians I would like to see.
+
+I have often been to your country. And I know very well how you live. And one day, standing near Chillon Castle, I asked my friends - we were one company - why can't we live like this?
+
+To have such a standard of living. A high level. And with the same freedom. In such friendly communities. And with such confidence in our own strength.
+
+And I sincerely wanted the Ukrainians to live like the Swiss. So that we can jointly decide everything about our own lives. About our land. Not expecting anything from politicians, unnecessary words, but voting in a referendum.
+
+So that we can be sure, despite all the financial crises in the world, that our state will withstand and remain a leader. A leader of trust, a leader of stability. A dream for all people. Successful, not very successful - no matter what level, just for all people.
+
+So that the Ukrainians, like the Swiss, can feel that they live in real communities that care about what is common to all - for the good of all.
+
+Maybe these are all ordinary things to you. For us, these are reforms. And this is the path we are taking and we wanted to take.
+
+And we passed the relevant laws. For all this to work. We gave opportunities. Opportunities for our people.
+
+So that we gradually reach your standard of living.
+
+And we did it until the black day. February 24. The day of the beginning of the full-scale Russian invasion of our land, Ukraine.
+
+And then everything changed.
+
+It has changed for each of us, Ukrainians. I'm sure it has changed for all Europeans. And it has changed for all world democracies.
+
+It has changed for you, too.
+
+I am grateful to you and your state for supporting us in such a difficult time. I am thankful that you did not stay away, didn't say that it wasn't related to you at all
+
+Because, in fact, it is impossible to stay away from the fact that in the 21st century, in the heart of Europe, hundreds of rockets and bombs are flying at peaceful cities.
+
+It is impossible to stay away when the army of the world's largest state, albeit only in size, directs all its deadly potential to destroy us, to destroy hospitals, ordinary schools, churches, universities, maternity hospitals, residential areas.
+
+It is impossible to be indifferent when children are killed. As of this morning, the Russian army has killed 112 Ukrainian children.
+
+And just as I wanted the Ukrainians to live like the Swiss... I also want you to be and become like the Ukrainians. In the fight against evil.
+
+So that there is no question about banks. About your banks. Where the money of all those who started this war is kept.
+
+It's painful and it's hard. But it is also a struggle against evil.
+
+It is necessary to completely freeze all the assets of these people and their accounts. It's a big fight, and you can do it.
+
+I want you to become Ukrainians who feel what it is like when whole cities are destroyed, peaceful cities. Destroyed on the orders of those who like to live in communities - different, European, in your communities, in beautiful Swiss communities.
+
+Who enjoys real estate in your country.
+
+And it would be fair to deprive them of this privilege. To deprive of what they are taking from us.
+
+And I want you to be as Ukrainians in the issue of business. Business that works in Russia in spite of everything. Despite this war.
+
+Despite all our murdered children. Despite the people killed. Despite the destroyed cities. Like our city of Mariupol, heroic Mariupol, which has been under complete blockade for weeks. Imagine - no food, no water, no electricity. Just under the bombs.
+
+"Good food. Good life." This is the slogan of Nestlé. Your company that refuses to leave Russia. Even now - when there are threats from Russia to other European countries. Not only to us. When there is even nuclear blackmail from Russia.
+
+And I want all of you, Swiss people, to become like all of us, Ukrainians. I want us not to lose our common chance now.
+
+A chance to restore peace, a chance to stop any wars in the world. Because when Switzerland is with you, you are definitely successful. Because when Ukraine is with you, you are definitely strong.
+
+Last year we agreed on a big conference with the President of your country. Conference in Lugano. For the sake of economic transformation, for the sake of Ukraine's reforms.
+
+It was to take place this July. As well as the next summit of the first ladies and gentlemen.
+
+And I believe, I know we can hold them. This year. On your land.
+
+For the restoration and development of Ukraine. So that you have the opportunity to show again and again all the best that is in your hearts. In our hearts.
+
+In the hearts of all those people who are fighting for freedom and fighting for life.
+
+**I am grateful to you. I am grateful to Switzerland!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Thank you for defending freedom together with all those who value it. This is very important now. Nowadays. At a special time period. And especially important - from you.',
+    url: 'https://www.youtube.com/watch?v=80qTJOLk1sI'
+  },
+  {
+    id: 'y3zgeCReX-I',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-19T11:40:33',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=y3zgeCReX-I'
+  },
+  {
+    id: 'mac2cQ85wRk',
+    name: 'Iryna Vereshchuk talks about the humanitarian corridors agreed on March 19',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-19T09:56:03',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the humanitarian corridors agreed on March 19`,
+    description: 'Iryna Vereshchuk talks about the humanitarian corridors agreed on March 19',
+    url: 'https://www.youtube.com/watch?v=mac2cQ85wRk'
+  },
+  {
     id: 'xDiT-RaceKo',
     name: 'Meaningful talks on peace and security for Ukraine are the only chance for Russia to reduce the damage from its own mistakes',
     translated: false,

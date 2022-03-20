@@ -1217,6 +1217,15 @@ const source = [
     type: ['Чат-бот'],
     location: ['Україна']
   },
+  {
+    id: '134',
+    name: 'Coming to Lithuania',
+    description: 'Information for Ukrainians who are going to find refuge in Lithuania',
+    link: 'https://investlithuania.com/guide-for-ukrainians/',
+    tags: ['Інформація', 'Біженці', 'Житло'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
 ]
 
 module.exports = source

@@ -1217,6 +1217,15 @@ const source = [
     type: ['Чат-бот'],
     location: ['Україна']
   },
+  {
+    id: '133',
+    name: 'Інформація для військових біженців з України',
+    description: 'Інформація для біженців з України, які збираються знайти прихисток у Литві',
+    link: 'https://investlithuania.com/guide-for-ukrainians-ru/',
+    tags: ['Інформація', 'Біженці', 'Житло'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
 ]
 
 module.exports = source
