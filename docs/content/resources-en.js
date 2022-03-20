@@ -54,6 +54,15 @@ const source = [
     location: ['Україна']
   },
   {
+    id: '138',
+    name: 'The National portal for collecting facts about human rights violations',
+    description: 'Official portal of the Ministry of Justice of Ukraine, where you can record and send evidence if you have witnessed or been a victim of human rights violations',
+    link: 'https://humanrights.gov.ua/',
+    tags: ['Завдання', 'Збір доказів'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
     id: '3',
     name: 'Ukraine Avenger Bot',
     description: 'The Telegram bot created by the cyberpolice to detect and neutralize enemy marks, detect troop and machinery movements, detect unexploded ammunition, saboteurs',
@@ -1223,6 +1232,33 @@ const source = [
     description: 'Information for Ukrainians who are going to find refuge in Lithuania',
     link: 'https://investlithuania.com/guide-for-ukrainians/',
     tags: ['Інформація', 'Біженці', 'Житло'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '135',
+    name: 'From-Ukraine.HELP',
+    description: 'All information about humanitarian services abroad is collected on the single site! This is a resource to provide verified information to migrants, especially women and children who are forced to leave Ukraine temporarily.',
+    link: 'https://www.from-ukraine.help/',
+    tags: ['Інформація', 'Біженці', 'Житло'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '136',
+    name: 'Ukraine Borders',
+    description: 'The purpose of the portal is to provide access to verified practical and up-to-date information on the countries to which Ukrainians are evacuated and the peculiarities of border crossings.',
+    link: 'https://borders.in.ua/',
+    tags: ['Інформація', 'Біженці'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '137',
+    name: 'The UK stands with Ukraine',
+    description: 'Information for citizens of the United Kingdom on how to support Ukrainian refugees.',
+    link: 'https://ukstandswithukraine.campaign.gov.uk/',
+    tags: ['Інформація', 'Біженці'],
     type: ['Вебсайт'],
     location: ['Світ']
   },

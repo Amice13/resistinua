@@ -1,5 +1,130 @@
 const source = [
   {
+    id: 'XD6AM4UkfNY',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-20T14:53:28',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=XD6AM4UkfNY'
+  },
+  {
+    id: 'b551GvdS6Xo',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 20',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-20T11:22:53',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 20`,
+    description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 20',
+    url: 'https://www.youtube.com/watch?v=b551GvdS6Xo'
+  },
+  {
+    id: 'oKW2yOwVvtQ',
+    name: 'The more Russia uses terror against Ukraine, the worse the consequences will be for it',
+    translated: true,
+    russianTimestamp: 'https://youtu.be/oKW2yOwVvtQ?t=185',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-20T02:26:26',
+    topics: ['Терроризм', 'Міжнародні санкції', 'Гуманітарні коридори', 'Міжнародні переговори', 'Герої України', 'Заборона діяльності партій'],
+    cities: ['Бородянка', 'Буча', 'Бервиці', 'Богданівка', 'Бровари', 'Лисичанськ', 'Попасна', 'Сєвєродонецьк', 'Рубіжне', 'Бахмут', 'Запоріжжя'],
+    text: `
+**Our strong people of our indomitable country!**
+
+The 24th day of Russia's full-scale invasion of Ukraine is over. After eight years of aggression. Ukrainians have proved that they know how to fight more professionally than an army that has been fighting for decades in different regions and under different conditions. We respond with wisdom and courage to the huge number of their equipment and soldiers sent to Ukraine.
+
+That is why, for example, the Ukrainian Chornobaivka will go down in war history. This is a place where the Russian military and their commanders have shown themselves completely as they are: incompetent, capable of simply driving their people to slaughter. Six times our military destroyed the occupiers near Chornobaivka. Six times! And they still come there.
+
+The besieged Mariupol will go down in history of responsibility for war crimes. The terror the occupiers did to the peaceful city will be remembered for centuries to come. And the more Ukrainians tell the world about it, the more support we find. The more Russia uses terror against Ukraine, the worse the consequences will be for it.
+
+Today I addressed the people of Switzerland.
+
+This is a special state. It does not elbow its way on the international stage. But when it speaks its word, it is heard by absolutely everyone. Switzerland has backed European Union sanctions against Russia. This means a lot for the Russian state machine. For people who are used to the fact that power is money. Hence, banks. Hence, Switzerland and other countries that help save capital. I am grateful to the President and to the people of Switzerland and to their country for their sincere support in our struggle for life and liberty. For not staying away. And I urged them to take a few more steps.
+
+So that all Swiss companies that have not yet left the Russian market do so immediately in order not to give a single dollar, franc or euro to a Russian military machine to kill our people.
+
+So that all those responsible for the war against our state cannot enjoy life in Switzerland, real estate in Switzerland, banks in Switzerland.
+
+Our Armed Forces continue to deter the enemy in all major areas. Inflict unprecedented losses on Russian troops. Some units of the occupiers were destroyed by 80-90%.
+
+In places of especially fierce battles, the frontline of our defense is simply piled with the corpses of Russian soldiers. And these corpses, these bodies, are not taken away. New units are driven on the offensive through these bodies. Some reserves that the command of the Russian troops collect wherever they can.
+
+We are well aware that Russia has just a bottomless human resource and a lot of equipment, missiles and bombs.
+
+But I want to ask the citizens of Russia. What have they done to you over the years that you stopped noticing your losses?
+
+Do the words “son”, “mother”, “father” mean nothing to you anymore?
+
+Already more than 14 thousand of your soldiers have been killed. This is 14 thousand mothers. This is 14 thousand fathers. These are wives, these are children, relatives and friends. And you don't notice it? But there will only be more victims. As long as this war continues. Your war against us, Russia against Ukraine. On our land.
+
+Eight humanitarian corridors worked on Saturday. 6623 people were rescued.
+
+Due to the shelling of the occupiers, we were unable to rescue people from Borodyanka, Kyiv region. But we will not abandon these attempts.
+
+Ukrainians were evacuated from Bervytsya, Bucha, and Bohdanivka to Brovary.
+
+People were taken to Bakhmut from Lysychansk, Popasna, Severodonetsk, and Rubizhne in the Luhansk region.
+
+More than 4000 Mariupol residents managed to leave for Zaporizhzhia.
+
+Unfortunately, it was not possible to deliver the humanitarian cargo to the cities of the Kherson region. Russian troops blocked the movement of our convoy. Why? Their goal has not changed - in the same way they try to portray in their propaganda that Ukraine has left its citizens without the essentials. As if Russia is constantly saving them from something.
+
+Although on February 23 our Kherson residents had more than the regions of Russia itself.
+
+I spoke today with French President Macron. About our interaction. About finding a solution for peace, for the liberation of our territories. To save our people.
+
+I am sure you understand that negotiations are not easy and pleasant. But they are needed. Because it's about life.
+
+Ukraine has always sought a peaceful solution. The more we are interested in peace now.
+
+Because we count everyone killed. Because every ruined family, every ruined house matters to us. Because we are Ukrainians, and for us a person is priceless.
+
+Today I signed a decree on awarding 161 of our defenders with state awards of Ukraine. 40 of them posthumously. And the decree on awarding the title of Hero of Ukraine to 12 servicemen. 8 of them posthumously.
+
+I also met with warriors of the special unit of the National Police of Ukraine KORD to award them. I thanked them for their service, for the protection of our peaceful cities and for their help to the army.
+
+In total, during the days of the full-scale war, 70 of our defenders have already been awarded the title of Hero of Ukraine. 2180 Ukrainians were awarded orders and medals for courage, for saving brothers-in-arms and civilians, for effective actions in defense of the state.
+
+I am sure I can say on behalf of all our Ukrainian people: we are sincerely grateful to each of you. To each and everyone who defends our state and stops the army of occupiers, which was called one of the few most powerful in the world.
+
+Ukrainian poet Lina Kostenko celebrates her birthday on March 19. I sincerely congratulate you. On behalf of all Ukrainians.
+
+And let me remind you today her words:
+
+*[Quotes Lina Kostenko’s poem]*
+
+In fact, each of us has a nation. And we should not think meanly. Especially those whom Ukrainians have given the right to be politicians.
+
+I want to remind all politicians from any camp: wartime shows very well the meanness of personal ambitions of those who try to put their own ambitions, their own party or career above the interests of the state, the interests of the people.
+
+Those who hide somewhere in the rear, but pretend to be the only one who cares about defense.
+
+Any activity of politicians aimed at splitting or collaborating will not succeed. But it will get a tough response.
+
+That is why the National Security and Defense Council of Ukraine decided… Given the full-scale war waged by the Russian Federation and the ties of some political structures with this state, any activity of a number of political parties during the martial law is suspended. Namely: "Opposition Platform - For Life", "Shariy Party", "Nashi", "Opposition Bloc", "Left Opposition", "Union of Left Forces", "State", "Progressive Socialist Party of Ukraine", "Socialist Party of Ukraine”, “Socialists” Party, “Volodymyr Saldo Bloc”.
+
+The Ministry of Justice is instructed to immediately take comprehensive measures to ban the activities of these political parties in the prescribed manner.
+
+Everyone must now take care of the interests of our state, the interests of Ukraine.
+
+Because it's for us.
+
+Because it is for the sake of life.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine**
+    `,
+    description: 'We respond with wisdom and courage to the huge number of Russian equipment and soldiers sent to Ukraine.',
+    url: 'https://www.youtube.com/watch?v=oKW2yOwVvtQ'
+  },
+  {
     id: 'lI4yXBKoOcA',
     name: 'The more Russia uses terror against Ukraine, the worse the consequences for it',
     translated: false,
@@ -26,7 +151,7 @@ const source = [
     url: 'https://www.youtube.com/watch?v=QeetGk_4oWA'
   },
   {
-    id: '80qTJOLk1sI',
+    id: 'oKW2yOwVvtQ',
     name: 'Address by President of Ukraine Volodymyr Zelenskyy to the people of Switzerland',
     translated: false,
     russianTimestamp: '',
