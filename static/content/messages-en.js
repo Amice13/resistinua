@@ -1,5 +1,194 @@
 const source = [
   {
+    id: 'Tp0YYZdrIY4',
+    name: 'Briefing of the Prime Minister of Ukraine Denys Shmygal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-21T14:57:36',
+    topics: ['Ракетний удар', 'Житло', 'Соціальні виплати'],
+    cities: [],
+    text: `Briefing of the Prime Minister of Ukraine Denys Shmygal`,
+    description: 'Briefing of the Prime Minister of Ukraine Denys Shmygal',
+    url: 'https://www.youtube.com/watch?v=Tp0YYZdrIY4'
+  },  {
+    id: 'FZCX-FAA8HY',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-21T12:48:08',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=FZCX-FAA8HY'
+  },
+  {
+    id: 'b5FaRe_DOus',
+    name: 'Address of Volodymyr Zelensky to the citizens of Germany',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-21T11:19:53',
+    topics: ['Ракетний удар', 'Вступ до ЄС'],
+    cities: [],
+    text: `You see our desire to be with Europe. Our aspiration, which we fight on the battlefield. And which you can win just in your society. In my own opinion, in short, pressure on politicians. For Ukraine to finally become part of the EU. Germans, you have strength`,
+    description: 'You see our desire to be with Europe. Our aspiration, which we fight on the battlefield. And which you can win just in your society. In my own opinion, in short, pressure on politicians. For Ukraine to finally become part of the EU. Germans, you have strength',
+    url: 'https://www.youtube.com/watch?v=b5FaRe_DOus'
+  },
+  {
+    id: 'j_azFeQ9o9Y',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 21',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-21T10:19:19',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 21`,
+    description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 21',
+    url: 'https://www.youtube.com/watch?v=j_azFeQ9o9Y'
+  },
+  {
+    id: 'UYi86RI2sC8',
+    name: 'We are working to make the whole world friends of Ukraine',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/UYi86RI2sC8?t=163',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-20T20:50:19',
+    topics: ['Терроризм', 'Ракетний удар', 'Закрите небо', 'Міжнародна підтримка'],
+    cities: ['Охтирка', 'Харків', 'Бородянка', 'Чернігів', 'Волноваха', 'Маріуполь', 'Запоріжжя'],
+    text: `
+**Free people of a free country!**
+
+The 25th day has come to an end since the Russian military has gone to the exercise and found themselves on our land. They all say so when taken captive. 
+
+It is already the 25th day since the Russian military has been vainly trying to find imaginary “Nazis” from whom they allegedly wanted to defend our people. Just as they are vainly trying to find Ukrainians who would meet them with flowers. At least in one city of our state. At least in one village.
+
+And most importantly - the Russian military cannot find a way home. That is why our soldiers help them with the path to God's judgment.
+
+To God's judgment where I am sure they receive only one punishment, one for all: the eternal cellar. Forever under the bombs. Forever without food, water and heat. For everything they did to our people, ordinary Ukrainians. To peaceful people. In Okhtyrka and Kharkiv, in Borodyanka and Chernihiv. In Volnovakha and Mariupol. And many of our other courageous cities.
+
+In besieged Mariupol, Russian aircraft dropped a bomb on an art school. People were hiding there. Hiding from shelling, from bombing. There were no military positions. There were about four hundred civilians. Mostly women and children, the elderly. They are under the debris. We do not know how many are alive at the moment.
+
+But we know that we will definitely shoot down the pilot who dropped that bomb. As we already did to almost a hundred other similar mass murderers.
+
+Today, in the Knesset, I addressed all deputies and government officials. But first of all, I spoke on your behalf, on behalf of all Ukrainians with the people of Israel, who, I am sure, understand us. As free people understand free people.
+
+Of course, Israel has its own interests, a strategy to protect its citizens. We understand that. Israeli Prime Minister Bennett is trying to find a way to negotiate with Russia. And we are grateful for that. For every effort. So that sooner or later we start talking to Russia, perhaps in Jerusalem. This is the right place to find peace. If it is possible.
+
+Well, Russian propagandists today have a rather difficult task.
+
+After all, for the first time in history, the president of a foreign state spoke in the Knesset via video call. And spoke to the people of Israel. The President of Ukraine accused in Moscow of "Nazism” spoke in the Knesset to the people of Israel.
+
+This fact alone confirms how wrong things are in Moscow.
+
+During the day on March 20, only 4 humanitarian corridors worked. A total of 7,295 people were evacuated. Almost 4,000 Mariupol residents arrived in Zaporizhzhia in one day.
+
+Tomorrow morning we are preparing to send new buses to Mariupol to continue this important mission. More than 3,000 people were rescued in the Kyiv region. But in the Kharkiv region... Russian troops captured our convoy, our humanitarian cargo for the city of Vovchansk. There is no connection now with six people. Five drivers and one doctor. We will release them. We will try again and again to deliver to our people what they need.
+
+The Kherson region fought again today. I am grateful to them. Again on the streets. And as always - for all of us, for Ukraine. With national flags. And with our Ukrainian courage. Unarmed against the occupiers. Against shots and military vehicles. This is a feat that inspires us all. This is Ukraine we are proud of. These are Ukrainians to whom I am immensely grateful. Just as all our people are.
+
+In the afternoon I spoke with Prime Minister of the United Kingdom Boris Johnson. A true friend of Ukraine who does not hesitate and does not seek excuses.
+
+We agreed on concrete support for our country at next week's G7 and NATO summits. Although we are not members of these organizations, I see that Ukraine has at least one vote there.
+
+I also spoke with Ashton Kutcher and Mila Kunis. A star couple who sincerely believe in us, in our victory, in our future. They help Ukrainian IDPs by raising funds. And the two of them have already raised $ 35 million. I thanked them on behalf of our people, on behalf of all of us. Agree, this is a good result for one couple of our friends in America.
+
+And we are working to make the whole world our friends.
+
+I personally presented state awards to Ukrainian intelligence officers. Please understand - I can't say their names publicly.
+
+But believe me, the contribution of these people to our defense is so significant that the orders and the title of Hero of Ukraine for them is the minimum we can give. Just to express gratitude. To them and to all our heroes. Thanks to which we are holding on. And we’re doing it pretty well.
+
+**And Ukraine lives.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The Russian military cannot find a way home. That is why our soldiers help them with the path to God\'s judgment.',
+    url: 'https://www.youtube.com/watch?v=UYi86RI2sC8'
+  },  {
+    id: 'd00Lmalc-iM',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 20',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-20T22:12:02',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 20`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 20',
+    url: 'https://www.youtube.com/watch?v=d00Lmalc-iM'
+  },
+  {
+    id: 'jt_CPMYawQs',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Knesset',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-20T20:50:19',
+    topics: ['Біженці', 'Терроризм', 'Ракетний удар', 'Закрите небо'],
+    cities: [],
+    text: `
+**Dear Mr. Speaker, members of the Knesset.**
+
+**Dear Prime Minister Bennett, thank you very much for your support.**
+
+**Dear members of the Government of the State of Israel, all attendees, guests, people of Israel!**
+
+The Ukrainian and Jewish communities have always been and, I am sure, will be very intertwined, very close. They will always live side by side. And they will feel both joy and pain together.
+
+That is why I want to remind you of the words of a great woman from Kyiv, whom you know very well. The words of Golda Meir. They are very famous, everyone has heard of them. Apparently, every Jew. Many, many Ukrainians as well. And certainly no less Russians. "We intend to remain alive. Our neighbors want to see us dead. This is not a question that leaves much room for compromise."
+
+I don't need to convince you how intertwined our stories are. Stories of Ukrainians and Jews. In the past, and now, in this terrible time. We are in different countries and in completely different conditions. But the threat is the same: for both us and you - the total destruction of the people, state, culture. And even of the names: Ukraine, Israel.
+
+I want you to feel it all. I want you to think about this date. About February 24. About the beginning of this invasion. Russia's invasion of Ukraine. February 24 - this day has twice gone down in history. And both times - as a tragedy. A tragedy for Ukrainians, for Jews, for Europe, for the world.
+
+On February 24, 1920, the National Socialist Workers' Party of Germany (NSDAP) was founded. A party that took millions of lives. Destroyed entire countries. Tried to kill nations.
+
+102 years later, on February 24, a criminal order was issued to launch a full-scale Russian invasion of Ukraine. The invasion, which has claimed thousands of lives, has left millions homeless. Made them exiles. On their land and in neighboring countries. In Poland, Slovakia, Romania, Germany, the Czech Republic, the Baltic States and dozens of different countries.
+
+Our people are now scattered around the world. They are looking for security. They are looking for a way to stay in peace. As you once searched.
+
+This Russian invasion of Ukraine is not just a military operation, as Moscow claims. This is a large-scale and treacherous war aimed at destroying our people. Destroying our children, our families. Our state. Our cities. Our communities. Our culture. And everything that makes Ukrainians Ukrainians. Everything that Russian troops are now destroying. Deliberately. In front of the whole world.
+
+That is why I have the right to this parallel and to this comparison. Our history and your history. Our war for our survival and World War II.
+
+Listen to what the Kremlin says. Just listen! There are even terms that sounded then. And this is a tragedy. When the Nazi party raided Europe and wanted to destroy everything. Destroy everyone. Wanted to conquer the nations. And leave nothing from us, nothing from you. Even the name and the trace. They called it "the final solution to the Jewish issue". You remember that. And I'm sure you will never forget!
+
+But listen to what is sounding now in Moscow. Hear how these words are said again: "Final solution". But already in relation, so to speak, to us, to the "Ukrainian issue".
+
+It sounded openly. This is a tragedy. Once again, it was said at a meeting in Moscow. It is available on official websites. This was quoted in the state media of Russia. Moscow says so: without the war against us, they would not be able to ensure a "final solution" allegedly for their own security. Just like it was said 80 years ago.
+
+**People of Israel!**
+
+You saw Russian missiles hit Kyiv, Babyn Yar. You know what kind of land it is. More than 100,000 Holocaust victims are buried there. There are ancient Kyiv cemeteries. There is a Jewish cemetery. Russian missiles hit there.
+
+**People of Israel!**
+
+On the first day of this war, Russian projectiles hit our city of Uman. A city visited by tens of thousands of Israelis every year. For a pilgrimage to the tomb of Nachman of Breslov. What will be left of all such places in Ukraine after this terrible war?
+
+I am sure that every word of my address echoes with pain in your hearts. Because you feel what I'm talking about. But can you explain why we still turn to the whole world, to many countries for help? We ask you for help... Even for basic visas...
+
+What is it? Indifference? Premeditation? Or mediation without choosing a party? I will leave you a choice of answer to this question. And I will note only one thing - indifference kills. Premeditation is often erroneous. And mediation can be between states, not between good and evil.
+
+Everyone in Israel knows that your missile defense is the best. It is powerful. Everyone knows that your weapon is strong. Everyone knows you're doing great. You know how to defend your state interests, the interests of your people. And you can definitely help us protect our lives, the lives of Ukrainians, the lives of Ukrainian Jews.
+
+One can keep asking why we can't get weapons from you. Or why Israel has not imposed strong sanctions against Russia. Why it doesn’t put pressure on Russian business. But it is up to you, dear brothers and sisters, to choose the answer. And you will have to live with this answer, people of Israel.
+
+Ukrainians have made their choice. 80 years ago. They rescued Jews. That is why the Righteous Among the Nations are among us.
+
+People of Israel, now you have such a choice.
+
+**Thank you!**
+
+**Thank you for everything.**
+    `,
+    description: 'Ми відповідаємо мудрістю й хоробрістю на величезну кількість їхньої техніки та відправлених в Україну солдатів.',
+    url: 'https://www.youtube.com/watch?v=jt_CPMYawQs'
+  },
+  {
     id: 'XD6AM4UkfNY',
     name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
     translated: true,
