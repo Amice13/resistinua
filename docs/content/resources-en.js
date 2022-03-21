@@ -1298,6 +1298,24 @@ const source = [
     type: ['Вебсайт'],
     location: ['Світ']
   },
+  {
+    id: '143',
+    name: 'Losses of the Russian economy since the beginning of war',
+    description: 'A site providing the exchange rates of the Russian ruble, the value of shares of Russian companies, the dynamics of credit ratings and organizations that have stopped cooperating with Russia.',
+    link: 'https://russian.fail/en/',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '144',
+    name: 'Don\'t Fund War',
+    description: 'A comprehensive list of companies that still operate in Russia, despite their military aggression on Ukraine.',
+    link: 'https://www.dontfundwar.com/',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
 ]
 
 module.exports = source

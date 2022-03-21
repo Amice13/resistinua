@@ -1,14 +1,123 @@
 const source = [
   {
+    id: 'jMmYe-nKF5A',
+    name: 'Drive the occupiers out, drive these slaves out',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-21T20:52:58',
+    topics: ['Воєнний злочин', 'Герої України'],
+    cities: ['Херсон', 'Мелітополь', 'Каховка', 'Енергодар', 'Київ', 'Харків', 'Чернігів', 'Суми', 'Охтирка', 'Лебедин', 'Ізюм', 'Дергачі', 'Волноваха', 'Попасна', 'Бородянка', 'Гостомель', 'Макарів', 'Миколаїв', 'Маріуполь', 'Львів', 'Івано-Франківськ', 'Хмельницький', 'Чернівці', 'Тернопіль', 'Луцьк', 'Ужгород', 'Кропивницький', 'Запоріжжя', 'Дніпро', 'Кривий Ріг', 'Вінниця', 'Рівне', 'Черкаси', 'Полтава', 'Одеса', 'Донецьк', 'Луганськ'],
+    text: `
+**Great people of great Ukraine!**
+
+In this video, I want to appeal separately to the Ukrainian cities and the brave inhabitants of these cities. To the free south of Ukraine, where the sun shines only to welcome guests, not to random "tourists" on tanks. To Berdyansk, Kakhovka, Enerhodar, Melitopol and, of course, Kherson.
+
+To Kherson, where today we saw slaves shooting at free people. Slaves of propaganda that replaces their consciousness. Slaves who used to pack everyone in paddy wagons. Even an old woman with a clean white poster. Even a girl with an A4 sheet on which only one word is written - "peace".
+
+These slaves sent by Russia have never seen so many free people in the squares and streets. They have never seen thousands of people who are not afraid of them, of slaves with weapons in their hands. Slaves perceive freedom as savagery, as danger. They are scared. The fear that propagandists know how to turn into hatred. And then - shots at peaceful free people.
+
+Kherson, hold on! We will never forget these shots. Shots from your city. We were all with you in your square and streets. 40 million Ukrainians of our state. Millions and millions of Ukrainians in the world. We've all seen you stand. We’ve seen who you are. We have all felt how you want to regain your freedom. On land, where, watching the Milky Way, the Chumaks went for salt, the enemies felt terrible.
+
+And as soon as we can break through to you, every occupier who shot at peaceful Kherson residents just for the blue-yellow color will have a black stripe.
+
+And the same awaits the Russian military pale from the fright who were driven out today in Enerhodar. Peaceful Ukrainians drove them out with bare hands.
+
+The occupiers in Berdyansk, Melitopol and Kakhovka will have a black stripe. Wherever the occupiers kidnap our people. Those who they think are organizing the resistance. But we are not Russia. Remember. And there is no need to organize resistance here. Resistance for Ukrainians is a feature of the soul. And I really want you, all our Ukrainians in the south, to never think even for a moment that Ukraine does not remember you.
+
+Whenever you are in pain, when you resist in spite of everything, please know that our hearts are broken at this time, because we are not with you.
+
+And we ask God to support you until we can drive strangers out. This is a feat that you are protesting. This is happiness that we have such people. That we are all Ukraine.
+
+During this invasion, heroes have constantly declared themselves among millions of our people. Once - ordinary Ukrainians, and now - fighters. Men and women who stand up for our state. Everywhere: in the south, in the east, in the north, in the center, in the west and abroad. Stand up so that the enemy does not believe that this is a reality.
+
+But we will make them believe. And we will make them remember that they are not welcome.
+
+And they will never be. In Kyiv, which stands bravely and majestically above the Dnieper. In Kharkiv... Proud, tidy, educated Kharkiv. Which they beat, and it does not obey. Chernihiv. Ancient! Chernihiv, which since the time of the Horde has not faced such atrocities committed by the Russian military now.
+
+Sumy, Okhtyrka and Lebedyn... Izyum, Derhachi ... Volnovakha, Popasna... Borodyanka, Hostomel, Makariv... Mykolaiv...
+
+Mariupol! Hardworking and honest city! Mariupol. Which the occupiers are simply destroying. Destroying to ashes. But it will survive them all. Worthless slaves who do not know how to take care of their own country. Of their own people. And they go to someone else's.
+
+We are fighting for every Ukrainian! And we remember everyone! We are grateful to everyone. Both to the people and to these beautiful cities.
+
+As well as to Lviv, as well as to Ivano-Frankivsk, Khmelnytskyi, Chernivtsi, Ternopil, Lutsk, our Uzhhorod... Kropyvnytskyi, Zaporizhzhia, Dnipro, Kryvyi Rih... Vinnytsia, Rivne... Cherkasy, Poltava... Odesa!
+
+Those who may be infrequently mentioned in speeches. But who care about our common future. About Ukraine. And about freedom - for each of us. Who shelter people who have been forced to leave their home. Who work for defense. Who send humanitarian goods. Who deploy the evacuated businesses. Who heal, who help. Help all of us, and therefore themselves.
+
+**Great people of great Ukraine!**
+
+And I say this not accidentally - great Ukraine. Because I appeal to everyone in our country and to those abroad. In cities and villages. Those who are free and who are temporarily under occupation. In Crimea, in Donetsk, in Luhansk. Where they must also fight for freedom, not sit and wait.
+
+I appeal to all Ukrainians. Wherever we are. Do everything to protect our state.
+
+To save our people. Fight. Fight and help. Drive these slaves out! Drive the occupiers out! So that Ukraine lives. So that all of us live with it.
+
+**Free and peaceful. Which we love so much.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Kherson, hold on! We will never forget these shots. Shots from your city. We were all with you in your square and streets. 40 million Ukrainians of our state.',
+    url: 'https://www.youtube.com/watch?v=jMmYe-nKF5A'
+  },
+  {
     id: 'Tp0YYZdrIY4',
-    name: 'Briefing of the Prime Minister of Ukraine Denys Shmygal',
+    name: 'Address by Prime Minister of Ukraine Denys Shmyhal',
     translated: false,
     russianTimestamp: '',
     speaker: ['Денис Шмигаль'],
     date: '2022-03-21T14:57:36',
     topics: ['Ракетний удар', 'Житло', 'Соціальні виплати'],
     cities: [],
-    text: `Briefing of the Prime Minister of Ukraine Denys Shmygal`,
+    text: `
+**Heroic people of Ukraine!**
+
+It is the 26th day of the war.
+
+Having failed all plans to occupy Ukraine, the Russian aggressor resorted to outright genocide of the civilian population of Ukraine.
+
+In the last two days alone, the enemy has bombed from air the House of Arts in Mariupol. They opened direct fire from tanks at a nursing home in Luhansk region. In Trostyanets, Sumy region, the occupiers threw a live grenade at civilians. In Kyiv, a shopping center where civilian population were hiding was attacked from the air.
+
+As a result of the war, millions of Ukrainians were forced to flee their homes. Millions were left homeless. This is our reality that the entire civilized world can already see.
+
+President of Ukraine Volodymyr Zelenskyy has announced a substantial program to help Ukrainians who were forced to escape from their war-torn towns.
+
+The Government has embarked on implementation of this program.
+
+Money, jobs, housing are the three main directions covered by this program.
+
+First. Money. The state will pay each displaced in Ukraine a minimum monthly allowance of 2,000 hryvnias. Simply, through the Diia, to the bank account. No extra documents. Avoiding bureaucracy. For all the citizens who moved from areas of active hostilities.
+
+Also, a 3,000 hryvnias resource will be paid for each child who was forced to move to safer regions because of the war and all those atrocities.
+
+Second. Jobs. We are launching an employment program for all the displaced persons. To do this, the state commences payment of benefits to those employers who hire IDPs from the affected regions.
+
+A 6,500 hryvnias sum for each employee. These funds will be spent by employers on the salaries for such employees.
+
+I will appeal to entrepreneurs again.
+
+The state supports you in your desire to continue working where it is safe. Complete deregulation of business, simplification of the tax system, affordable loans.
+
+Now the Government bears part of the resources for paying wages to those people who need work. Hence, let's get work! I urge everyone to start working, to admit people, to provide them with work.
+
+Third. Housing. A week ago, the Government adopted a decision on a mechanism to reimburse utility costs to communities that provide free shelter to IDPs in schools, kindergartens, cultural centers and municipal institutions.
+
+We are now working to supplement the program so that families receiving displaced persons in their homes can also get compensation for utility bills.
+
+All those who responded to the hardship the IDPs face, provided them with shelter for free, will receive 450 UAH per month for each of those whom they helped to compensate while paying for utilities.
+
+All the three programs have already been approved by the Government of Ukraine. Their implementation triggers today, March 21, with the registration of temporary displaced persons by territorial communities and CASPs.
+
+Registration through the Diia will be available starting March 30.
+
+And after the war ends we will rebuild everything. Every building, every apartment, every facility. And everyone will have a chance to return home.
+
+But everyone who today has found shelter, work and everything necessary for life in this time of trials will forever keep in their hearts the memory of and gratitude to those hospitable communities and people.
+
+**We will never forget that either.**
+
+**Glory to Ukrainians! Glory to Ukraine!**
+    `,
     description: 'Briefing of the Prime Minister of Ukraine Denys Shmygal',
     url: 'https://www.youtube.com/watch?v=Tp0YYZdrIY4'
   },  {
