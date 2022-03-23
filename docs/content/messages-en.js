@@ -1,5 +1,341 @@
 const source = [
   {
+    id: 'P3-HU0-tlJk',
+    name: 'The G7, NATO and EU summits, new sanctions packages and new assistance take place this week',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-22T23:46:41',
+    topics: ['Воєнний злочин', 'Гуманітарні коридори', 'Міжнародні санкції', 'Міжнародні переговори'],
+    cities: ['Маріуполь'],
+    text: `
+**Free people of a free country!**
+
+Today was one of those days that allows us to say with confidence that the whole world is with us.
+
+In the morning I spoke with His Holiness Pope Francis about the search for peace for Ukraine, for our state, about the atrocities of the occupiers, about the humanitarian corridors to the besieged cities. I thanked His Holiness for a clear and strong position against the war and for his prayers for Ukraine. I invited him to visit our country at this crucial time. I believe that we will be able to organize this important visit, which will unequivocally support each of us, each of the Ukrainians.
+
+I addressed both chambers of the Italian parliament today. I felt maximum support. Sincere warmth in words. I called on Italy to strengthen sanctions against Russia and its regime. And strike hard at all Russian figures responsible for this war. For the war against us. Strike at their real estate, accounts and yachts. Strike at their habit to earn money by war and to live and have a rest far away, in Europe, where it is peaceful and cozy.
+
+I am sure that new sanctions will be introduced this week. And I am grateful to Italy for supporting Ukraine's membership in the EU.
+
+I spoke with President of Slovakia Zuzana Čaputová. About our cooperation and our security. About the development of Ukraine - with all together, in the European Union.
+
+An important conversation also took place with the Prime Minister of Canada. We continue to coordinate our positions on the eve of this week's NATO and G7 summits. Justin Trudeau will support us.
+
+A special aspect is security guarantees for Ukraine. They are vital not only for us, but also for all neighboring countries. Because of our security, which will cement peace in Eastern Europe.
+
+I am grateful to the Minister of Foreign Affairs of Greece who was the first European official to decide to support the work of our humanitarian corridors in Mariupol. To evacuate our people from the city and bring in humanitarian aid, which is crucially important for everyone.
+
+As of today, there are about a hundred thousand people in the city. In inhumane conditions. In a complete blockade. No food, no water, no medicine. Under constant shelling, under constant bombing.
+
+For more than a week now we have been trying to organize stable humanitarian corridors for Mariupol residents. And almost all our attempts, unfortunately, are disrupted by the Russian occupiers. By shelling or deliberate terror.
+
+Today, one of the humanitarian columns was simply captured by the occupiers. On the agreed route near Manhush. SES employees and bus drivers were taken prisoner.
+
+We are doing everything we can to free our people and unblock the movement of humanitarian aid. That is why I am grateful when a high-level representative of a European state agrees to personally join the humanitarian mission.
+
+We expect the implementation of this plan by the Greek Foreign Minister in the coming days.
+
+Despite all the difficulties, 7,026 Mariupol residents were rescued today.
+
+Tomorrow we will continue this important work.
+
+Our representatives are trying to agree on humanitarian corridors in the Kyiv, Kharkiv, Zaporizhzhia and Luhansk regions.
+
+Another important news is that an online tool has been created for everyone who can and wants to help with humanitarian goods for Ukraine.
+
+In the last two weeks alone, our country has received more than 100,000 tons of humanitarian aid.
+
+These cargoes are quickly distributed through special hubs for the regions. But there are even more appeals. Even more opportunities. Even more work.
+
+Therefore, to simplify the process as much as possible, the website help.gov.ua was created.
+
+On the website you can learn how to buy, how to send and whom to address humanitarian aid. This is for everyone who wants to join. For anyone who can help. In Ukraine and in the world. So that the aid is sent constantly, 24/7.
+
+Our Armed Forces pleased us today. Chornobaivka again - the defeat of the occupiers again. Russian planes were shot down again. Especially important - the bomber was shot down over Mariupol. And so it will be with everyone who kills our people, peaceful people on our peaceful land.
+
+I want to repeat once again to all Russian pilots who do not think about the order they fulfill. Killing civilians is a crime. And you will be responsible anyway. Today or tomorrow - this is less important. The main thing is that it is inevitable.
+
+We continue to work at various levels to force Russia to peace. To the end of this brutal war. Ukrainian representatives are working on the negotiations, which continue virtually every day. It's very difficult. Sometimes scandalous. But step by step we are moving forward.
+
+I am also grateful to all the international mediators who are fighting for Ukraine, for Europe, for the truth. Who bring to Moscow the real picture. Honest. And encourage to look realistically. At what happens in battles. And at the fact that the world will not stop defending the truth. Our truth.
+
+Three important summits this week: the G7, NATO and the EU. New sanctions packages, new aid. We will work, we will fight in any way we can. Till the end. Bravely and openly. At all these sites. With full energy.
+
+For the result. With all our strength. And we will not get tired. Let's rest when we win. And it definitely will happen.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Сьогодні був один із тих днів, які дають змогу впевнено говорити, що з нами – увесь світ.',
+    url: 'https://www.youtube.com/watch?v=P3-HU0-tlJk'
+  },
+  {
+    id: 'mIfAeDGjSq8',
+    name: 'Speech by Head of the Office of the President Andriy Yermak at Chatham House',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Єрмак'],
+    date: '2022-03-22T22:42:40',
+    topics: ['Гуманітарна катастрофа', 'Закрите небо', 'Вступ до ЄС'],
+    cities: [],
+    text: `
+The hardest part of any speech is the beginning. You all probably know that. In other circumstances, I would have spent a lot of time on it. On the right, most appropriate beginning. But I don't have time. So I'll start with the simple.
+
+We have been told for years that Ukraine is not reforming properly. But let's look at the results. The modernized Armed Forces have been holding back the aggression of one of the world's most powerful armies for almost a month already. Logistics chains are functioning. The courts are working. Trains run and transport millions of people. Utilities are doing their job even under shelling and bombing.
+
+The test of war is perhaps the most severe. We are successfully reforming even now. And our sustainability turned out to be absolutely real.
+
+But sustainability is not an absolute category. It's not about availability, it's about measure. How much is left? Depends on many factors:
+
+* **On our determination** - here there are no changes. We are on our land. We defend our values. Our way of life. Our freedom. You can be sure of us.
+* **On external support** - everything is ambiguous here.
+
+We now enjoy serious support. The West has finally become collective. This is evidenced by sanctions against Russia and support for Ukraine - humanitarian, economic, political, military and technical. But is that enough? And for how long will the West keep it? For how long are those states that have sought to maintain economic ties with Russia at all costs, even in the face of Russia's invasion of Ukraine willing to suffer losses from disruption of these ties?
+
+Given the experience of the previous eight years, we cannot be too optimistic here. However, now the risks for the whole world have grown so much that they will simply not be allowed to do business as usual.
+
+The next factor is the factor of Russia itself. What is its margin of safety? What are its goals?
+
+The West is constantly talking about increasing the price that Russia will have to pay for aggression. But can we imagine the limit beyond which the Russian leadership will say: it is too expensive? It should be understood that the narrative of "victory at any cost" is not just a propaganda cliche. Moscow has repeatedly instrumentalized it, beating the stake of those it considered enemies. In the number of victims. In the violation of international law. In resorting to blackmail, including threats of man-made disasters and unconventional weapons. In everything. This must be understood.
+
+At the same time, it should be understood that "small victorious wars" that do not achieve their goal always increase Russia's risk of a social explosion and coup. Success in war, on the other hand, stabilizes and preserves the regime. Nourishes its desire for further conquests.
+
+You may ask, what is the conclusion?
+
+And the conclusion is that Ukraine must win the war that Russia has started against us.
+
+We must work only for such a result. All of us.
+
+What is happening in Ukraine now concerns everyone. Everyone in this room. Every government. Everyone in the world. The war in Ukraine is not just another local conflict. This is a world war that is so far going on in our country.
+
+I would like to emphasize once again that Russia's encroachments go far beyond Ukraine. It claims to restore the Soviet sphere of influence in both Europe and Asia. It claims to break the entire system of international relations and discredit all security institutions.
+
+Therefore, Kazakhstan, Poland, the Baltic States, Slovakia, Moldova, and Georgia may be next… Yes, Moldova and Georgia again. Georgia, which after Saakashvili is again afraid to say the wrong word to Moscow. Well, apparently, this is such a non-trivial course of Tbilisi's European integration.
+
+On the Russian military equipment they write "To Berlin!" once again. Do you know what that means? We know. The Israelis know. Believe those who promise to kill you.
+
+In the case of Ukraine, the goal of Russia is one - to destroy. To deprive of agency. To stop nation building. According to the program thesis about one nation, which we have been hearing for two decades. Therefore, one may say that this war has no rational basis. It is a war of will, not of necessity. But this is probably the first historiosophical war in history.
+
+Therefore, we must assume that the current leadership of Russia will not abandon this goal. And it is ready to pay. The question of whether its entourage is willing to pay can now be omitted.
+
+So let's focus on this - the intention to destroy Ukraine.
+
+This was not achieved by rapid operation. None of the strategic tasks of the invading force were fulfilled.
+
+Therefore, the aggressor is trying to provoke a humanitarian catastrophe, destroy critical civilian infrastructure and industrial potential.
+
+We must take into account that the war is taking place on our territory. That our people are dying, that our cities are being destroyed. Our Armed Forces and citizens are holding on with superhuman courage, but we cannot win the war without offensive weapons, without medium-range missiles that can be a means of deterrence (I emphasize: in our case - deterrence, not aggression) threatening Russian territory with comparative destruction.
+
+Without a full Lend-Lease, we can only defend ourselves. But it is impossible to defend effectively for a long time without a reliable echelon of air defense systems that shoot down enemy ballistic missiles at a long distance.
+
+However, we are not given it. Just as we are not given fighter jets. Just as we are not welcome in NATO.
+
+This fear of escalation is understandable. But this fear will not save you.
+
+Winston Churchill explained everything: he who chooses shame between shame and war, gets both shame and war.
+
+I once produced "Forebodings" movie directed by the talented Vyacheslav Kristofovich. So, the protagonist has such a remarkable phrase: "Everything must happen on time." Today I feel the power of this phrase more than ever. Everything must happen on time. Now it is high time.
+
+An extraordinary meeting of the Allies is scheduled to take place in Brussels this Thursday, March 24. There is still time to take concrete steps towards Ukraine. Or to say honestly and publicly that there will be no such steps. That NATO is refusing to allow Ukraine to join, not Ukraine is refusing to join, as many have been trying to pretend lately. To say - and together start building a new security system.
+
+The Russian leadership understands only the language of power and always confuses peacefulness with weakness. I want to ask our European partners: what are you really like? Are you peaceful or weak?
+
+Will you finally give us the weapons that will allow Ukraine to remain an independent sovereign state within internationally recognized borders? Will you finally launch a full-fledged Lend-Lease for us? Or will you continue to watch with concern as our cities turn into ruins?
+
+I'll just say simply: close our skies or at least give us long-range air defense systems. Your fear of escalation nurtures aggression. Your determination holds it back.
+
+Clearly articulated position "We will shoot down planes that are instruments of terror. We will destroy the Russian air defense systems that will attack our air police,” is what we need.
+
+Tomorrow. Now. Yesterday. Otherwise, Ukraine will bleed out. Become depopulated. We will not surrender, it is already clear to everyone. But let me remind you what I said at the beginning: sustainability is not about availability, but about measure.
+
+After the Russian occupation of Crimea and the invasion of Donbas, foreign experts began to talk about the "Finlandization" of Ukraine. They meant only one thing: neutral status and "special" relations with Russia. But for some reason none of them said that "Finlandization" is the preservation of the state, its agency and the freedom of the people at the cost of the forced loss of certain territories as a result of aggression.
+
+But we will not give up our sovereignty or territorial integrity. And when we return our territories at the cost of incredible efforts and sacrifices, it will be our victory, but not Russia's defeat.
+
+Because without decisive actions of the world community, nothing will prevent the aggressor from continuing to strike at any place of our state.
+
+And every such blow to Ukraine will be a blow to international law. The intensification of the refugee crisis in the EU. The collapse of the world security system and the institutions that guarantee it. After all, it is a blow to global food security.
+
+In fact, all this is a key sign of a world order crisis. An order where the readiness of the international community to punish acts of aggression, punish genocide remains largely declarative. Profit over justice - was that why the UN was created? Has Europe united around this?
+
+If so, none of the existing security systems is suitable for Ukraine. We need a new one. Fair. This system will have to be built from scratch. We are ready. And we paid for it. Paid the highest price - pain, sweat, blood, lives. This fee gives us the moral right to demand: act! Right now!
+
+To put it simply, the "Finlandization" of Ukraine or any other model of neutralization on Russian terms, which does not involve building a new security system, will only guarantee that these challenges and threats will last forever.
+
+So I will ask: European countries, where will your refugees flee to?
+
+Ukraine remains Europe's only shield. But what happens if this shield is critically damaged?
+
+The half-hearted position of the world community, unfortunately, makes this scenario possible. In this case, reliable guarantees of our security become fundamentally important for us. Multilateral legally binding guarantees. But is there anything as reliable in the West as the NATO umbrella? Sorry, we are not aware of that.
+
+And the world needs the same credible assurances that Russia will no longer be able to successfully pursue its military ambitions in the international arena. We demand such guarantees from our partners. Citizens of other states, demand such guarantees from your government officials. Demand now, because tomorrow will be late.
+
+Without such guarantees, any of our agreements will be fragile and temporary. And they will hold until the moment when Russia regains its strength and tries to attack again. The timing of this will depend directly on the pace of easing of sanctions pressure on Russia and its ability to circumvent restrictive measures. We therefore call for steady and unwavering strengthening of these sanctions. International businesses should not think about how to bypass them for the sake of profits. They must not become an accomplice in crimes against humanity. Such complicity should not only be a burden on the conscience. We call on foreign governments to prosecute such collaborations. Up to the criminal liability.
+
+President Zelenskyy said this very clearly: "Do not sponsor Russia's military machine. No euro for the occupiers. Close all your ports to them, do not supply goods, give up Russian energy resources, force Russia to leave Ukraine. I believe that peace is possible, but you must act to come to peace."
+
+Governments are hesitant. But ordinary people have already made a choice. They are convinced that Ukraine has a place in the EU. This is the average opinion of 71% of respondents. 79% of Europeans believe that sanctions against Russia are the right thing to do. 67% of EU citizens believe that Ukraine needs to be provided with weapons. These are the results of a poll published by the French Institute of Public Opinion (IFOP).
+
+These figures are more than eloquent. So I will tell governments to finally listen to your voters.
+
+We call on the international community - not only the collective West, but also China and India - to put aside discord among themselves. The war in Ukraine affects all of you. You are the leaders of this world. Someone will talk about the two poles. I'm talking about two parts of the whole. The Russian issue should not prevent you from reaching an agreement. The interpenetration of economies and integration is a much more powerful guarantee of global peace than the threat of mutual destruction.
+
+You can reach an agreement. Russia's aggression against Ukraine may seem to some a good opportunity to fulfill their own ambitions. However, in reality this is a false impression: hopes that the war will be "localized" in Ukraine are in vain. Without proper rebuff, Moscow will not stop, and each of its subsequent ventures will inevitably bring the world closer to the hot global conflict.
+
+The dramatic events in Ukraine, the heroic struggle of our country for freedom and democracy have shown the whole world: our east and west are together. Now we call on the world to become a little bit like Ukraine.
+
+East and West, stand together to protect the planet from those who seek to replace the force of law with the law of force.
+    `,
+    description: 'The test of war is perhaps the most severe. We are successfully reforming even now. And our sustainability turned out to be absolutely real.',
+    url: 'https://www.youtube.com/watch?v=mIfAeDGjSq8'
+  },
+  {
+    id: 'mIfAeDGjSq8',
+    name: 'The address by Andriy Yermak on encouraging international investors to buy Ukrainian military bonds',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Єрмак'],
+    date: '2022-03-18T20:11:58',
+    topics: [],
+    cities: [],
+    text: `The address by Andriy Yermak on encouraging international investors to buy Ukrainian military bonds and transfer their business from the aggressor country to Ukraine`,
+    description: 'The address by Andriy Yermak on encouraging international investors to buy Ukrainian military bonds and transfer their business from the aggressor country to Ukraine',
+    url: 'https://www.youtube.com/watch?v=mIfAeDGjSq8'
+  },
+  {
+    id: 'rhuMWtP4rOI',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 22',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-22T22:12:02',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 22`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 22',
+    url: 'https://www.youtube.com/watch?v=rhuMWtP4rOI'
+  },
+  {
+    id: 'UM3EgrL_ekU',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-22T15:25:39',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=UM3EgrL_ekU'
+  },
+  {
+    id: 'I6-OklpB2ac',
+    name: 'Address by President of Ukraine Volodymyr Zelenskyy to the Italian Chamber of Deputies',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-22T13:35:22',
+    topics: ['Вбиті діти', 'Голод', 'Міжнародні санкції', 'Міжнародна допомога'],
+    cities: ['Маріуполь'],
+    text: `
+**Dear speakers!**
+
+**Dear Mr. Prime Minister Draghi!**
+
+**Dear ladies and gentlemen, senators and deputies!**
+
+**Dear Italian people!**
+
+This morning I spoke with His Holiness Pope Francis and he said very important words: “I understand that you want peace. I understand that you have to protect yourself. Both the servicemen and civilians courageously defend the homeland. Everyone is defending the homeland."
+
+And I replied: "Our people have become this army."
+
+They became this army when they saw the trouble the enemy was causing. The devastation it leaves behind. And the huge amount of blood it wants to shed.
+
+When I addressed a rally in Florence and dozens of other European cities a little over a week ago, I asked all Italians, all Europeans to remember the number 79. The number of children killed in Ukraine at that time.
+
+Now it's 117.
+
+38 children more during these days.
+
+This is the price of the delay.
+
+Delay with pressure on Russia. So that it ends this brutal war. 117 children, thousands of adults. Thousands wounded. Tens of thousands of destroyed families. Hundreds of thousands of ruined destinies. Millions, already millions of abandoned homes. And it all started with one person.
+
+In the occupied areas, murdered families are buried right in the yards of high-rise buildings. In the parks. In mass graves. This is happening today. In 2022. And we know that every next day of the war will take the lives of our children. 117 is not a final number. The Russian invasion will destroy more families and destinies. Unfortunately, the full-scale war continues. Russian missiles, aircraft and artillery do not stop killing. Ukrainian cities are being ruined. Some are almost completely destroyed.
+
+Like Mariupol. You heard of it. Our city on the shore of the Sea of Azov. Where about half a million people lived. Just as in your city of Genoa. I was there. And now there is nothing in Mariupol. Only ruins.
+
+Imagine completely burned Genoa. After three weeks of total blockade. Bombing, shelling, which did not stop for a moment. Ruined Genoa, from which people are being evacuated, your wonderful people. On foot, by cars, by buses... Just to get to where it is safe.
+
+I am addressing you from Kyiv, our capital. From a city that is as important to our region as Rome is to the whole world. The origin of the great culture of a great nation is in Kyiv. And now we are on the verge of survival. Kyiv has gone through brutal wars throughout its history. And it deserves, after all the losses and tragedies, to live in peace. In eternal peace.
+
+As Rome and any other city in our world deserves. But, unfortunately, there is an air alarm in Kyiv every day. Bombs and rockets fall every day.
+
+Near Kyiv, in neighboring towns and districts, there are several groups of Russian troops. Those who kill and torture, rape and kidnap children, destroy and rob. The occupiers take our property to Russia by trucks. The last one who did something like this in Europe were the Nazis. When they invaded other countries.
+
+Russian troops have even mined the sea near our ports. And now it threatens neighboring shores and neighboring countries, because mines can drift by sea to them.
+
+**Ladies and Gentlemen!**
+
+**Italian people!**
+
+It’s time to do everything possible to ensure peace!
+
+This is a war that Russia has been preparing for a long time. Which one person has been preparing for a long time. One! For decades. Earning crazy money on oil and gas exports and directing them to prepare for war. And not only against Ukraine. Their goal is Europe. Decisive influence on your life, control over your policy, destruction of your values. Not only ours. Democracy, human rights, equality, freedom... The same values as ours.
+
+Ukraine is the gateway to Europe for Russian troops. They want to break in. But barbarism must not pass. Ukrainians were one of the first to come to your aid when you needed it during the COVID pandemic. We sent our doctors. Italians were among the first to come to our aid when our people were affected by the terrible floods.
+
+You supported us - sincerely, quickly. Without asking for anything in return. You are helping us now - we really appreciate it. But still...
+
+The invasion has not stopped in 27 days. Almost a month. So more sanctions are needed, even more pressure, so that Russia is looking not for military reserves or mercenaries somewhere in Libya or Syria, but for peace. So that the same one person is looking for peace. The consequences of this war are already felt in many parts of the world. Not only in Europe. And the worst thing will be famine. Approaching different countries.
+
+Ukraine has always been one of the largest exporters of food. But how can we sow under the blows of Russian artillery? How can we sow when the enemy deliberately mines the fields, destroys fuel bases? We do not know what harvest we will have and whether we’ll be able to export. When our ports are blocked and seized. Corn, vegetable oil, wheat and many other products. Vital goods. For your neighbors as well. Across the sea.
+
+Prices are already rising. So how many tens of millions of people will need help? In front of your shores...
+
+**Ladies and Gentlemen!**
+
+**Italian people!**
+
+You know Ukrainians well. Our people who never wanted to fight. Who are Europeans just like you. You know those who brought war to Ukraine. You know for sure. Those who order to fight. And those who promote it. Almost all of them use Italy. As a place for vacation. So don't be a resort for murderers. Block all their real estate, accounts and yachts - from "Scheherazade" to the smallest ones. Block the assets of all those who have influence in Russia. Let them apply their influence for peace. To be able to come back to you someday. Support greater sanctions against Russia. A complete embargo on trade, starting with oil. Support a ban on entering your ports for Russian ships. So that they feel the price for their aggression and for mining the sea.
+
+There should be no exceptions to the sanctions regime for any Russian bank. Do not allow the food crisis in your neighboring regions. Help us. Stop the killings. Save Ukrainian families.
+
+This war must end as soon as possible. Peace must be restored. Enemy troops must be withdrawn from Ukraine. Demining must be carried out. And reconstruction. Reconstruction of Ukraine after this war. Together with you, together with Italy. Together with Europe. Together - in the European Union.
+
+Before the war, I often visited your country. I appreciate your hospitality, sincerity and sometimes loudness. I saw what family and children mean to you. You have wonderful families, you have wonderful children. What life means to you. I want to thank you for helping the Ukrainians who found a shelter from this war in your country.
+
+Today, there are more than 70,000 of our people in Italy who, unfortunately, had to hide from the war. More than 25 thousand children. And many of them have received warmth in your Italian families. Including in the families present in this hall. The first Ukrainian was born in Italy, whose mother found refuge on your land. Dozens of Ukrainian children with severe shell shock and injuries are being treated by you.
+
+We are grateful to you for that, very grateful! And we are waiting for them to return home. To Ukraine - already peaceful. And you can definitely help us with that.
+
+From the first day of this war, you have shared our pain and are helping sincerely - from the heart. Ukrainians will always remember this. Your warmth, your care and your strength that must stop one person. Just one person for millions to survive.
+
+**Glory to Ukraine!**
+
+**Grazie Italia!**
+`,
+    description: 'В окупованих районах ховають убиті родини прямо у дворах багатоповерхівок. У парках. У братських могилах. Це відбувається у наш з вами час. У 2022 році. І ми знаємо, що кожен наступний день війни забере ще життя наших дітей.',
+    url: 'https://www.youtube.com/watch?v=I6-OklpB2ac'
+  },
+  {
+    id: 'L75CdsEaIO4',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 22',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-22T09:31:35',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 22`,
+    description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 22',
+    url: 'https://www.youtube.com/watch?v=L75CdsEaIO4'
+  },
+  {
     id: 'CFyAeJwNIeg',
     name: 'Interview of the President of Ukraine Volodymyr Zelenskyi to world public broadcasters',
     translated: false,
@@ -71,15 +407,15 @@ To peace for our state.
   },
   {
     id: 'rhuMWtP4rOI',
-    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 20',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 21',
     translated: false,
     russianTimestamp: '',
     speaker: ['Ірина Верещук'],
     date: '2022-03-21T22:12:02',
     topics: ['Гуманітарні коридори'],
     cities: [],
-    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 20`,
-    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 20',
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 21`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 21',
     url: 'https://www.youtube.com/watch?v=rhuMWtP4rOI'
   },
   {
@@ -203,7 +539,8 @@ But everyone who today has found shelter, work and everything necessary for life
     `,
     description: 'Briefing of the Prime Minister of Ukraine Denys Shmygal',
     url: 'https://www.youtube.com/watch?v=Tp0YYZdrIY4'
-  },  {
+  },
+  {
     id: 'FZCX-FAA8HY',
     name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
     translated: true,

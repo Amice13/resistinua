@@ -57,6 +57,7 @@ const en = {
   'Генічеськ': 'Henichesk',
   'Герої України': 'Heroes of Ukraine',
   'Головна': 'Main Page',
+  'Голод': 'Hunger',
   'Гостомель': 'Hostomel',
   'Гра': 'Game',
   'Громадянська відсіч': 'Civil rebuff',
