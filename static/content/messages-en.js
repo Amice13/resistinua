@@ -1,8 +1,176 @@
 const source = [
   {
-    id: 'kMjEawKR3vk',
-    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 24',
+    id: 'olUWGHVkQF8',
+    name: 'Speech by the President of Ukraine at the Riksdag in Sweden',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-24T13:35:16',
+    topics: ['Воєнний злочин', 'Пропаганда', 'Наступ на Європу', 'Викрадення людей', 'Міжнародна підтримка'],
+    cities: [],
+    text: `
+**Greetings, Mr. Speaker!**
+
+**It is a great honor and opportunity to address you today.**
+
+**Greetings also to the Prime Minister!**
+
+**To the Swedish Riksdag MPs and members of the Government!**
+
+**Swedish people!**
+
+Now the blue and yellow flag in the world is probably the most popular. These colors are associated with freedom. This is true for different people on different continents. And of course in Europe.
+
+The blue and yellow colors of the national flag are not just about Ukraine. This is about you as well, about Sweden. And obviously this is not a coincidence. This is fate. Because we are equally for freedom. We are equally for a peaceful life. We are equally for respect for everyone. We are equally for justice and equally for caring for the natural world in which we live. Therefore, it is logical that Sweden is now among those who support Ukraine the most.
+
+And I am sincerely grateful to each of you for this.
+
+Today is exactly the month of the worst ordeal - the full-scale war waged by Russia against our state.
+
+Europe has never known such a dark month since World War II. It has not seen such destruction and such war crimes. The list of those killed already reaches thousands. Dozens of our cities and communities were destroyed. Russian troops do not distinguish between civilian and military targets. They destroy everything. They burn residential neighborhoods and houses. They blow up hospitals. They even fire at kindergartens with rocket artillery! Hundreds of educational facilities and more than 200 schools were destroyed. Russian troops bombed universities.
+
+Imagine - they destroy any infrastructure that simply serves life. Warehouses with food and medicine. They seized two nuclear power plants. Yesterday they hit the second chemical production already. Phosphorus bombs were used today! Both adults and children were killed.
+
+What is the purpose of such actions of Russia? What is the reason of such terror against us?
+
+This is an attempt to conquer the whole nation. An attempt to make the neighboring state a slave.
+
+**Ladies and Gentlemen!**
+
+**Swedish people!**
+
+Modern Europe, which has finally become peaceful, is built on clear principles. Namely: there can be no forced border revision. And every nation has the right to choose its own future - without dictatorship, without coercion, without occupation. Thanks to these two principles, we in Europe have had an unprecedented era of cooperation. Peace. Confidence.
+
+We had it until the Russian leadership decided that it could travel in time. That it allegedly could cancel the 21st century. Allegedly could act as in the old days of totalitarian ideologies.
+
+If Ukraine failed to endure, defend itself, it would mean that everything we, living and modern people, value was lost. Everything you value. Everything that is valued by any free people of any state. This would mean that all of Russia's neighbors are in danger. This would mean that you are in danger, because only the sea separates you from this aggressive policy of this state.
+
+And Russian propagandists are already discussing on state television how Russia is occupying your Gotland island in particular. And how to keep it under control for decades. They show it to the Russians on the map, show the directions of the offensive... You may ask for what purpose? They say it will be beneficial for Russia to deploy air defense systems and a military base in Gotland. To cover the capture of the Baltic states.
+
+Russia went to war against Ukraine because it expects to go further to Europe. Expects to destroy freedom further in Europe. This is a fundamental challenge for the European security system.
+
+Please take a look at what the Russian military has already done in our country. 8 years of war in the east. Occupation of Crimea. This is repression. Torture of people, suppression of all manifestations of freedom and diversity.
+
+A month of full-scale war. Total cruelty. The bombing of peaceful cities is as terrible as it was in Syria. Abduction of children. Forced transportation of children and adults to Russia. Rape in the occupied areas. Large-scale looting by the Russian military. Now tens of thousands of houses and tens of thousands of apartments have been destroyed. And there are already almost ten million migrants, three and a half million of them in the European Union.
+
+I deliberately do not want to call these Ukrainians refugees. Because I know that they will return to Ukraine. As soon as Russia leaves our land, as soon as peace is established.
+
+**Ladies and Gentlemen!**
+
+**Swedish people!**
+
+Sweden was one of the first to come to our aid. I am grateful to you! Your support is absolutely sincere. It is based on values. On our love for freedom. On what our blue-yellow national colors symbolize.
+
+The whole world knows what Sweden wants. The whole world has seen in a month of this shameful war what Ukraine wants. We are together in our anti-war coalition. And we must do everything to make Russia seek peace.
+
+Sweden has made a historic decision to provide Ukraine with the necessary weapons. We thank you for that! For your prudence. For your foresight.
+
+Sweden supports the sanctions policy. A policy without which there will be no peace. Because the Russian leadership will not understand any language other than effective sanctions.
+
+But for peace to come faster, sanctions packages against Russia must be applied on a weekly basis. Not a single barrel of Russian oil! No Russian ships at your ports! Not a single euro of taxes of your companies in Russia! Their military machine must be left without means of subsistence.
+
+Deliberate actions of Russian troops to destroy civilians in Ukraine, to destroy our peaceful cities must receive an inevitable and principled response from all European countries. From the free world.
+
+This has already become the typical feature of Russian troops... Syria, Ukraine... Massacres. Cities destroyed to the ground. Phosphorus and other prohibited munitions. To prevent this from becoming a victorious strategy, all war crimes must be punished. Those who gave the order to kill and those who killed must face the Tribunal. So that no other country in the world thinks that it can kill people with impunity just like that, that it can destroy neighboring countries.
+
+I am confident that together we will be able to ensure peace, and that is why we must now think about rebuilding Ukraine after this war. And it will happen!
+
+I invite Swedish architects, Swedish companies, the Swedish state, your people to take part in this historic project.
+
+Ukraine was beautiful. But now it will be great, because this is our nation. Great Ukraine. Great recovery project. For the sake of the people. For the development of our country and the whole of Europe.
+
+I invite you to show to the world, to all present and future generations that war does not bring the result. And peace does. And it gives life.
+
+Sweden is the first country we offer this project to. You can take patronage over any city, region or industry to restore them. I am confident that your leadership will be indispensable. Your technology, business and your love of life. Your ability to organize space in people's best interest.
+
+Ukraine - all our heroic defenders, all our citizens - has already done a lot to protect our common European values, our common European home.
+
+We are fighting not only for Ukraine, but also for the security of the European Union! And we have proved that we deserve to be a full member of the European Union. The decision is already being elaborated. It's time to adopt it!
+
+I believe that you will support us in this as well.
+
+**Thank you, thank you Sweden!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Ми однаково – за свободу. Ми однаково – за мирне життя. Ми однаково – за повагу до кожної людини. Ми однаково – за справедливість і однаково – за турботливе ставлення до природного світу, у якому живемо. Тому й логічно, що Швеція зараз – серед тих, хто підтримує Україну найбільше.',
+    url: 'https://www.youtube.com/watch?v=olUWGHVkQF8'
+  },
+  {
+    id: 'AUUnNToFx18',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy at the NATO Summit',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-24T12:17:41',
+    topics: ['Закрите небо', 'Гарантії безпеки'],
+    cities: ['Маріуполь', 'Бердянськ', 'Мелітополь'],
+    text: `
+**Dear attendees!**
+
+I am addressing you from Kyiv, our capital, which has been fighting for a month already, just as our entire state.
+
+Yes, it is true - we are not in the Alliance. Not in the most powerful defense union in the world. Not one of the 30 states under the umbrella of joint protection. Under the umbrella of Article 5. It feels like we are in the "gray zone". Between the West and Russia. But we defend all our common values. And we are bright people! And we have been defending all these values for a month now!
+
+A month of heroic resistance. A month of the darkest suffering.
+
+A month of unpunished destruction of the peaceful state, and with it - the whole architecture of global security. All this is before the eyes of the whole world.
+
+Over the decades, Russia has accumulated considerable resources, military resources, manpower and equipment, air bombs, missiles.
+
+They invested crazy money in death while the world invested in life. But Ukraine is holding on bravely! At the cost of thousands of lives. At the cost of destroyed cities. At the cost of almost ten million migrants. Three and a half of them are already in your territories, in the territories of NATO countries. I am grateful for the support of these people. And people, unfortunately, continue to leave their homes. They are fleeing the terror that the occupiers brought with them.
+
+The very first hours of the invasion meant brutal missile strikes for us. During the month of the war, Russia fired more than a thousand different missiles at our cities. Made hundreds of air raids.
+
+On February 24, I addressed you with a perfectly clear, logical request to help close our skies. In any format. Protect our people from Russian bombs and missiles. We did not hear a clear answer. Ukraine does not have powerful anti-missile weapons, and has a much smaller aircraft fleet than Russia. Therefore, their advantage in the sky is like the use of weapons of mass destruction.
+
+And you see the consequences today - how many people were killed, how many peaceful cities were destroyed.
+
+The Ukrainian army has been resisting for a month in unequal conditions! And I have been repeating the same thing for a month now. To save people and our cities, Ukraine needs military assistance - without restrictions. As Russia uses without restrictions its entire arsenal against us. Destroys all living things. Any objects - from houses to churches, from food warehouses to universities, from bridges to hospitals.
+
+Ukraine asked for your planes. So that we do not lose so many people. And you have thousands of fighter jets! But we haven't been given any yet.
+
+We asked for tanks. So that we can unblock our cities that are now dying - Mariupol, Berdyansk, Melitopol, others. Cities where Russia is keeping hundreds of thousands of people hostage and artificially creating famine - no water, no food, nothing there.
+
+You have at least 20,000 tanks! Ukraine asked for a percent, one percent of all your tanks to be given or sold to us! But we do not have a clear answer yet... The worst thing during the war is not having clear answers to requests for help.
+
+Ukraine never wanted this war. And does not want to fight for years. We just want to save our people. We want to survive! Just survive! Like any nation, we have the right to it. The right to life. The right to this one percent.
+
+And I do not blame NATO - I want to be clear. You are not guilty. It's not your missiles, it's not your bombs that are destroying our cities. This morning, by the way, there were phosphorus bombs. Phosphorus Russian bombs. Adults were killed again and children were killed again. I just want you to know that the Alliance can still prevent the deaths of Ukrainians from Russian strikes, from Russian occupation, by providing us with all the weapons we need.
+
+Yes, we are not in the Alliance. And I do not make these claims. But Ukrainians never thought that the Alliance and the Allies were different.
+
+That in matters of life and death you can be a force separately, but together - no. That NATO may be afraid of Russia's actions. I am sure you already understand that Russia does not intend to stop in Ukraine. Does not intend and will not. It wants to go further.
+
+Against the eastern members of NATO. The Baltic states, Poland - that's for sure. Will NATO then stop thinking about it, worrying about how Russia will react? Who can be sure of that? And do you have confidence that Article 5 can work?
+
+"Budapest" hasn’t worked for us already. Our Budapest Memorandum. Has not worked for peace in Ukraine.
+
+And I will tell you honestly - today Budapest is not working for peace in Ukraine as well. Yes, we receive help from individual members of the Alliance. I am very grateful. Ukrainians are sincerely grateful for this. To each of you who gives what you have, supporting us.
+
+But what about the Alliance? The question of Article 5 is fundamental. I just want you to know what we think about it. And I sincerely wish you that we are wrong in our assessments and in our doubts. I sincerely wish that you actually have a very strong Alliance. Because if we are wrong, the world is safe. But if we are at least one percent right, I ask you to reconsider your attitude. Your own estimates. And really take care of security, security in Europe and, consequently, in the world.
+
+You can give us one percent of all your aircraft. One percent of all your tanks. One percent! We can't just buy it. Such a supply directly depends only on NATO's decisions, on political decisions, by the way.
+
+MLRS systems. Anti-ship weapons. Means of air defense. Is it possible to survive such a war without it?
+
+So when it's finally available, it will give us and you as well, one hundred percent security. And we need one. And the only thing I demand from you… After such a month of war. This is a request for the sake of our military. After such a war against Russia ... Never, please, never tell us again that our army does not meet NATO standards.
+
+We have shown what our standards are capable of. And how much we can give to the common security in Europe and the world. How much we can do to protect against aggression against everything we value, everything you value. But NATO has yet to show what the Alliance can do to save people. To show that this is truly the most powerful defense union in the world. And the world is waiting. And Ukraine is very much waiting. Waiting for real actions. Real security guarantees. From those whose word is trustworthy. And whose actions can keep the peace.
+
+Truly. All offers are on the table. Our needs are on the table. We need peace immediately. The answers are up to you.
+
+I am thankful to those who help us! Thank you!
+
+**Glory to Ukraine!**
+    `,
+    description: 'We defend all our common values. And we are bright people! And we have been defending all these values for a month now!',
+    url: 'https://www.youtube.com/watch?v=AUUnNToFx18'
+  },
+  {
+    id: 'X1X3yB6DTm8',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 24',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Ірина Верещук'],
     date: '2022-03-24T09:27:32',
@@ -10,13 +178,13 @@ const source = [
     cities: [],
     text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 24`,
     description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 24',
-    url: 'https://www.youtube.com/watch?v=kMjEawKR3vk'
+    url: 'https://www.youtube.com/watch?v=X1X3yB6DTm8'
   },
   {
-    id: 'Bvlv9wrWPOA',
+    id: '8lPVIYP1ZXE',
     name: 'Address by President Volodymyr Zelenskyy to Ukrainians and the nations of the world',
-    translated: false,
-    russianTimestamp: 'https://youtu.be/Bvlv9wrWPOA?t=207',
+    translated: true,
+    russianTimestamp: 'https://youtu.be/8lPVIYP1ZXE?t=207',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-24T00:19:35',
     topics: ['Воєнний злочин', 'Пропаганда', 'Міжнародна підтримка', 'Міжнародні переговори', 'Закрите небо'],
@@ -125,7 +293,7 @@ May the memory of all who died for Ukraine live forever!
 **Glory to Ukraine!**
     `,
     description: 'On March 24 it will be the month of our resistance. Heroic resistance of the Ukrainian state, the Ukrainian people to the ruthless invasion of Russia. It\'s already a month of our defense against the attempt to destroy us. Wipe off the face of the earth.',
-    url: 'https://www.youtube.com/watch?v=Bvlv9wrWPOA'
+    url: 'https://www.youtube.com/watch?v=8lPVIYP1ZXE'
   },
   {
     id: 'AZ_ITlqI5ag',

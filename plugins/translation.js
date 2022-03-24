@@ -155,6 +155,7 @@ const en = {
   'Містить звернення російською': 'Contains an address in Russian',
   'Можливість здатися': 'Opportunity to surrender',
   'Наявний сурдопереклад': 'Sign language translation',
+  'Наступ на Європу': 'Attack on Europe',
   'Невійськові': 'Non-military',
   'Недержавні': 'Non-government',
   'Нелетальні': 'Non-lethal',
