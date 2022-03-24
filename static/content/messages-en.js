@@ -1,8 +1,366 @@
 const source = [
   {
-    id: 'P3-HU0-tlJk',
-    name: 'The G7, NATO and EU summits, new sanctions packages and new assistance take place this week',
+    id: 'Bvlv9wrWPOA',
+    name: 'Address by President Volodymyr Zelenskyy to Ukrainians and the nations of the world',
     translated: false,
+    russianTimestamp: 'https://youtu.be/Bvlv9wrWPOA?t=207',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-24T00:19:35',
+    topics: ['Воєнний злочин', 'Пропаганда', 'Міжнародна підтримка', 'Міжнародні переговори', 'Закрите небо'],
+    cities: ['Житомир', 'Суми', 'Київ', 'Чернігів', 'Харків', 'Маріуполь', 'Волноваха', 'Миколаїв', 'Охтирка', 'Гостомель', 'Херсон', 'Одеса', 'Ізюм', 'Донецьк', 'Луганськ', 'Чорнобаївка'],
+    text: `
+**Free people of the free world!**
+
+**Ukrainians and citizens of all countries who value freedom!**
+
+**Friends!**
+
+On March 24 it will be the month of our resistance. Heroic resistance of the Ukrainian state, the Ukrainian people to the ruthless invasion of Russia. It's already a month of our defense against the attempt to destroy us. Wipe off the face of the earth.
+
+The original plan of the Russian troops failed already in the first days of the invasion. They thought Ukrainians would be frightened. They thought Ukrainians would not fight. They were wrong.
+
+They know nothing about us, about Ukrainians. They know nothing at all about freedom. About how valuable it is. They do not know how freedom enriches life. Gives meaning to life.
+
+But there are many of them! There are still many invaders. Russia is getting manpower from everywhere. Equipment. Air bombs, missiles. Looking for mercenaries around the world. Any scum capable of shooting at civilians.
+
+Russian troops destroy our cities. Kill civilians indiscriminately. Rape women. Abduct children. Shoot at refugees. Capture humanitarian convoys. They are engaged in looting.
+
+They burn museums, blow up schools and hospitals. The target for them is universities, residential neighborhoods... Anything! Russian troops do not know the limits of evil.
+
+But...
+
+The war of Russia is not only the war against Ukraine. Its meaning is much wider. 
+
+Russia started the war against freedom as it is. 
+
+This is only the beginning for Russia on the Ukrainian land. Russia is trying to defeat the freedom of all people in Europe. Of all the people in the world. It tries to show that only crude and cruel force matters. 
+
+It tries to show that people do not matter, as well as everything else that makes us people. 
+
+That’s the reason we all must stop Russia. The world must stop the war. 
+
+I thank everyone who acts in support of Ukraine. In support of freedom. But the war continues. The acts of terror against peaceful people go on. One month already! That long! It breaks my heart, hearts of all Ukrainians and every free person on the planet. 
+
+That’s why I ask you to stand against the war! Starting from March 24 – exactly one month after the Russian invasion… From this day and after then. 
+
+Show your standing! Come from your offices, your homes, your schools and universities. Come in the name of peace. Come with Ukrainian symbols to support Ukraine, to support freedom, to support life. 
+
+Come to your squares, your streets. Make yourselves visible and heard. Say that people matter. Freedom matters. Peace matters. Ukraine matters. 
+
+From March 24. 
+
+In downtowns of your cities.
+
+All as one together who want to stop the war.
+
+I want to address the citizens of Russia separately.
+
+I am sure that there are many of you who are disgusted by the policy of your state. Who are already just sick of what you see on TV. Of the lies of your propagandists on the Internet. Propagandists who are paid by your taxes. And they lie about the war, which is paid for by your taxes. And which makes all the citizens of Russia poorer. Poorer every day.
+
+Isn't that stupid? Your state collects taxes from you to make you poorer. To isolate you from the world. To make it easier for them to control you. And easier to send you to the war to die.
+
+Ukraine has never threatened the security of Russia.
+
+Even now, we are doing everything just to bring peace back to our land. Not to yours - to our land. To our people.
+
+We are doing everything to end this war. And when we succeed - it will certainly happen - you will be sure of at least one thing: your children will no longer be sent to die on our land, on our territory.
+
+Therefore, you, the citizens of Russia, are also interested in peace. Save your sons from the war. Tell the truth about the war. And if you can leave Russia so as not to give your taxes to the war, do it.
+
+All polls show that the people of Europe and America support us.
+
+I am grateful to all of you for that. Grateful on behalf of Ukraine. To everyone in the European Union, the United States, Canada, Britain and other countries for supporting us. For supporting freedom. For supporting Ukraine.
+
+On March 24, three important summits will take place in Brussels, Europe. Important for the security of each of us. NATO Summit. EU Summit. G7 Summit.
+
+I'm sure people will show how they support us. But politicians must also support freedom. All of them. They must support the struggle for life.
+
+We are waiting for meaningful steps. From NATO, the EU and the G7.
+
+We know that the Russians have already begun to lobby their interests. These are the interests of war. We know that they are working with some partners. We know that they want to put this issue out. The struggle against war. But this is the war that needs to be put out. 
+
+Our firm position will be represented at these three summits. At these three summits we will see: Who is a friend, who is a partner, and who betrayed us for money.
+
+Life can be defended only when united. Freedom must be armed.
+
+Ukrainian sky has not been made safe from Russian missiles and bombs. We have not received aircraft and modern anti-missile weapons. We have not received tanks, anti-ship equipment. Russian forces can keep killing thousands of our citizens, destroying our cities. Just because there are too many invaders. Just because Russia has been preparing for such a war for decades.
+
+We asked to close our sky. And we asked for assistance from NATO to be effective and without limits. Any support in weapons that we need. We asked the Alliance to say it will fully help Ukraine win this war, clear our territories of the invaders and restore peace in Ukraine. 
+
+**Free people of the free world! **
+
+Together we must prevent Russia from breaking someone in NATO, EU or G7. From breaking and taking it to the war side. We will see on March 24.
+
+**Ukrainians! All our heroes!**
+
+A month has passed. We withstood six times longer than the enemy had planned, than the Russian command had reported to the Russian president.
+
+They were convinced that Ukraine is not a state. They were convinced that Ukrainians are not a nation. They deceived themselves. But we don't care about them. This is their state suicide. And we are just protecting our lives. Our freedom. Our own state. Our children. Hence, our future.
+
+This is a war for independence. And we must win.
+
+We will rebuild every city that heroically resists. We will bring the invaders to justice for every crime. Zhytomyr and Sumy, Kyiv and Chernihiv, Kharkiv and Mariupol, Volnovakha and Mykolaiv, Okhtyrka and Hostomel, Kherson and Odesa, Izyum and Donetsk, Luhansk and Chornobaivka... All our people will live! In a free Ukraine. After our victory. Which will come sooner, the more we will all be united.
+
+We are all Ukrainians. We are all Europeans. We are all free people of the free world.
+
+In unity! On the battlefield and in political positions, at rallies and summits, at work and in communication with people. By all our actions, we must force Russia to seek peace. By all our actions, we must bring the victory of freedom closer.
+
+May the memory of all who died for Ukraine live forever!
+
+**Eternal glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'On March 24 it will be the month of our resistance. Heroic resistance of the Ukrainian state, the Ukrainian people to the ruthless invasion of Russia. It\'s already a month of our defense against the attempt to destroy us. Wipe off the face of the earth.',
+    url: 'https://www.youtube.com/watch?v=Bvlv9wrWPOA'
+  },
+  {
+    id: 'AZ_ITlqI5ag',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 23',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-23T21:53:13',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 23`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 23',
+    url: 'https://www.youtube.com/watch?v=AZ_ITlqI5ag'
+  },
+  {
+    id: 'HEHKqfhxo6U',
+    name: 'Speech by the President of Ukraine at a joint meeting of the Senate, the National Assembly of the French Republic and the Council of Paris',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-23T18:11:42',
+    topics: ['Воєнний злочин', 'Гуманітарна катастрофа', 'Вбиті діти', 'Економічна ізоляція', 'Гарантії безпеки'],
+    cities: ['Чорнобиль'],
+    text: `
+**Ladies and gentlemen senators!**
+
+**Ladies and gentlemen deputies!**
+
+**Councillors of Paris!**
+
+**French people!**
+
+Thank you for the honor of speaking to you today.
+
+I am sure that you are well aware of what is happening in Ukraine. You know why this is happening. And you know who is to blame. Even those who hide their heads in the sand know. And whose hands are still trying to get money from Russia.
+
+So today I am addressing you. Honest, brave, rational and freedom-loving. I am addressing you with questions: how to stop the war? How to return peace to our state? Because most of the puzzles that make up the answer are in your hands.
+
+On March 9, Russian bombs were dropped on a children's hospital and a maternity hospital in our city of Mariupol. It was a peaceful city in the south of Ukraine. Absolutely peaceful - until Russian troops approached and besieged it, as in the Middle Ages. Until they began to torture people with famine, thirst, kill with fire.
+
+There were people in the maternity hospital on which the Russians dropped bombs. There were women in labor. Most of them were saved. Some were seriously injured. One woman had to have her foot amputated, as it was completely shattered.
+
+And another woman... She had a shattered pelvis. Her child died before birth. Doctors tried to save the woman. Fought for her life! But she begged the doctors for her death. She begged to leave her, not to help her. Because she didn't know what to live for. They fought. She died. In Ukraine. In Europe. In 2022. When hundreds of millions of people could not even think that it could be so, that the world could be so ruined.
+
+I ask you now to honor the memory of thousands of Ukrainian men and women, all those who were killed as a result of Russia's invasion of the territory of our peaceful Ukraine with a moment of silence.
+
+After weeks of Russian invasion, Mariupol and other Ukrainian cities hit by the occupiers resemble the ruins of Verdun. As in the photos of the First World War, which, I'm sure, each and every one of you saw. The Russian militaries do not care which targets to hit. They destroy everything: residential neighborhoods, hospitals, schools, universities. Warehouses with food and medicine are being burned. They burn everything.
+
+They do not take into account concepts such as "war crime" and "binding conventions". They brought terror to Ukraine, state terror. Each and every one of you is aware of this. All information is available. All the facts are there.
+
+About women raped by the Russian military in the temporarily occupied areas. About refugees shot on the roads. About journalists they kill knowing for sure that they are journalists. About old people who survived the Holocaust and are now forced to save themselves from Russian attacks on peaceful cities in bomb shelters.
+
+For 80 years, Europe has not seen the things that are happening in Ukraine now. Because of Russia's actions. When there are people so desperate that they beg for death! Like this woman.
+
+In 2019, when I became President, there was already a format for negotiations with Russia. It was the Normandy format. The format of negotiations that were to end the war in Donbas. The war in eastern Ukraine, which has been going on for 8 years, unfortunately.
+
+Four countries took part in the Normandy format - Ukraine, Russia, Germany and France. Four, but through them the whole world, all positions were represented. Someone supported. Someone was trying to delay the process. Someone wanted to ruin everything. But it seemed important that the world was always present at that Normandy table, the table of peace.
+
+And when the negotiations yielded the result, when we managed to free people from captivity, when we were able to agree on some decisions in December 2019, it was like a breath of fresh air. Like a glimmer of hope. Hope that talks with Russia can help. That the Russian leadership can be convinced in words so that Moscow chooses peace.
+
+But February 24 came. A day that ruined all those efforts. All of us. Ruined the old meaning of the word "dialogue". Ruined the European experience of relations with Russia. Ruined decades of European history.
+
+All this was bombed by Russian troops. Destroyed by Russian artillery. Burned after Russian missile strikes.
+
+The truth was not found in the offices. So now we have to look for it and gain it on the battlefield.
+
+So what now? What do we have left? Our values. Unity. And the determination to defend our freedom. Common freedom! One for Paris and Kyiv. For Berlin and Warsaw. For Madrid and Rome. For Brussels and Bratislava.
+
+Sips of fresh air will definitely not help anymore. It makes sense to act together. To put pressure together. To force Russia to seek peace.
+
+**Ladies and Gentlemen!**
+
+**French people!**
+
+On February 24, the Ukrainian people united. Today we have no right or left. We do not look at who is in power and who is in opposition. The usual policy ended on the day of Russia's invasion and will resume only when there is peace.
+
+And this is right - to fight for life. To protect our state.
+
+We are grateful to you, we are grateful that France helps. We are grateful for the efforts of President Macron. Who showed true leadership. We are constantly communicating with him, it is true, we are coordinating some of our steps.
+
+Ukrainians see that France values freedom as much as it has always been. And you protect it. You remember what it is. Freedom, equality, brotherhood. Each of these words is full of power for you! I feel it. Ukrainians feel it.
+
+That is why we expect from you, we expect from France, from your leadership, that you will be able to make Russia seek peace. To make it end this war against freedom. Against equality. Against brotherhood. Against everything that made Europe united and full of free diverse life.
+
+We expect from France, from your leadership, that Ukraine's territorial integrity will be restored. And together we can do it.
+
+If among the attendees there are those who doubt it, your people are already sure. Like other nations of Europe.
+
+And that during France's presidency in the European Union the long overdue historical decision will be made - on Ukraine's full membership in Europe and the EU. Historical decision in historical time. As has always been the case in the history of the French people.
+
+**Ladies and Gentlemen!**
+
+**French people!**
+
+Tomorrow will be a month since Ukrainians have been fighting for their own lives, for their own freedom, since our army has been heroically opposing the overwhelming forces of Russia.
+
+We need more help! We need more support!
+
+In order for freedom not to lose, it must be well-armed. Tanks and anti-tank weapons, aviation and air defense. We need all this! You can help us. I know. You can!
+
+In order for freedom not to lose, the world must support it with sanctions against the aggressor. A new sanctions package every week. Every week!
+
+French companies must leave the Russian market. Renault, Auchan, Leroy Merlin and others. They must cease to be sponsors of Russia's military machine, sponsors of the killing of children and women, sponsors of rape, robbery and looting by the Russian army.
+
+All companies must remember once and for all that values are worth more than profit. Especially profit on blood. And we must already think about the future. About how we will live after this war.
+
+Guarantees are needed. Strong guarantees. Guarantees that security will be unshakable, that there will be no war, and that war in general will be impossible.
+
+We are creating such a system of guarantees. A new security system. In which France, I believe, will play a leading role. So that no one will ever have to beg for death again! So that people live their life. Full life. And so that we say goodbye to people not under bombs, not in war, but when the time comes.
+
+Only in peace. Only in dignity. Because you have to live so that you are respected. So that you are remembered. And so that people say goodbye to you in a way France said goodbye to the great Belmondo.
+
+**Thank you, France!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Today I am addressing you. Honest, brave, rational and freedom-loving. I am addressing you with questions: how to stop the war? How to return peace to our state? Because most of the puzzles that make up the answer are in your hands.',
+    url: 'https://www.youtube.com/watch?v=HEHKqfhxo6U'
+  },
+  {
+    id: 'L7YMmiVKCQc',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-23T14:32:02',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=L7YMmiVKCQc'
+  },
+  {
+    id: 'WQeRZUMwZxg',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Parliament of Japan',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-23T12:34:35',
+    topics: ['Атомна загроза', 'Вбиті діти', 'Екологія', 'Міжнародна криза', 'Гарантії безпеки'],
+    cities: ['Чорнобиль'],
+    text: `
+**Dear Mr. Hosoda!**
+
+**Dear Mrs. Santō!**
+
+**Mr. Prime Minister Kishida!**
+
+**Distinguished Members of the Japanese Parliament!**
+
+**Dear Japanese people!**
+
+It is a great honor for me, the President of Ukraine, to address you for the first time in the history of the Japanese Parliament.
+
+Our capitals are separated by a distance of 8 thousand 193 kilometers. On average, it's 15 hours on a plane. Depending on the route. But what is the distance between our feelings of freedom? Between our desires to live? Between our aspirations for peace?
+
+On February 24, I did not see any distance. Even a millimeter between our capitals. Even a second between our feelings. Because you immediately came to our aid. And I'm grateful to you for that.
+
+When Russia destroyed peace for the entire Ukraine, we immediately saw that the world is truly against the war. Truly for freedom. Truly for global security. Truly for the harmonious development of every society. Japan has become the leader of this position in Asia. You immediately started working to stop this brutal war started by the Russian Federation. You immediately started working for peace in Ukraine. Hence, in Europe. And this is really very important. It is important for everyone on Earth. Because without peace for Ukraine, no person in the world will be able to look to the future with confidence.
+
+Each of you knows what Chornobyl is. Nuclear power plant in Ukraine, where a powerful explosion occurred in 1986. Radiation release. The consequences of which have been recorded in different parts of the planet. The 30-kilometer zone around the Chornobyl station is still closed. It is hazardous. During the elimination of the consequences of the explosion at the station, thousands of tons of contaminated materials, debris and cars were disposed of in the forests in the closed area. Just in the ground.
+
+On February 24, Russian armored vehicles passed through this land. Lifting radioactive dust into the air. The Chornobyl station was captured. By force, by weapon. Imagine a nuclear power plant where a disaster happened. Confinement that closes the destroyed reactor. Operating nuclear waste storage facility. Russia has turned this facility into an arena of war as well. And Russia is using this 30-kilometer territory, this closed zone, to prepare new attacks against our defense forces.
+
+It will take years after Russian troops leave Ukraine to investigate the damage they have done to Chornobyl. What sites of radioactive materials disposal were damaged. And how radioactive dust spread on the planet.
+
+**Ladies and Gentlemen!**
+
+There are four operating nuclear power plants on our land! These are 15 nuclear units. And they are all under threat. Russian troops have already fired from tanks at the Zaporizhzhia nuclear power plant, the largest in Europe. The fighting has damaged hundreds of plants, many of them particularly dangerous. The shelling threatens gas and oil pipelines. Coal mines.
+
+The other day, Russian troops also fired at a chemical plant in the Sumy region of Ukraine. There was a leak of ammonia. We are warned about possible chemical attacks, in particular with the use of sarin. As it was in Syria.
+
+And one of the main topics for discussion of world politicians is the question: how to react if Russia also uses nuclear weapons. Any confidence of any person in the world, any country is completely destroyed.
+
+Our servicemen have been heroically defending Ukraine for 28 days already. 28 days of full-scale invasion of the largest state in the world. But not the greatest in potential. Not the most influential. And the smallest from a moral point of view.
+
+Russia has used more than a thousand missiles against peaceful cities in Ukraine. Countless bombs. Russian troops destroyed dozens of our cities. Some were burned to the ground. In many towns and villages that have come under Russian occupation, our people cannot even bury their murdered relatives, friends and neighbors with dignity. They have to bury them right in the yards of broken houses, near roads, anywhere where it is possible...
+
+Thousands were killed, including 121 children.
+
+About 9 million Ukrainians were forced to leave their home, their native places, fleeing from Russian troops. Our northern territories, eastern, southern are becoming empty, because people are fleeing from this deadly threat.
+
+Russia has even blocked the sea for us. Usual trade routes. Showing some other - potential - aggressors of the world how to put pressure on free nations by blocking sea navigation.
+
+**Ladies and Gentlemen!**
+
+Today, it is Ukraine, the partner states and our anti-war coalition that can guarantee that world security will not be completely destroyed. That in the world there will be a foothold for the freedom of nations. For people and for the preservation of diversity in societies. For security of borders. To make sure that we, our children, our grandchildren still have peace.
+
+You see that international institutions have not worked. Even the UN and the Security Council... What can they do? They need reform. They need an injection of honesty. To become effective. To really decide and really influence, not just discuss.
+
+Due to Russia's war against Ukraine, the world is destabilized. The world is on the verge of many new crises. And who is now sure what tomorrow will be like?
+
+Turbulence in world markets is a problem for all countries that depend on imports of raw materials. Environmental and food challenges are unprecedented. And most importantly, it is now being decided whether all the aggressors on the planet - explicit and potential - will be convinced that the war they have waged will lead to a punishment so powerful that they should not start a war. That they should not destroy the world. And it is absolutely logical and correct that the responsible states unite to protect peace.
+
+I am grateful to your state for its principled position at such a historic moment. For real help to Ukraine. You were the first in Asia to put real pressure on Russia to restore peace. Who supported the sanctions against Russia. And I urge you to continue to do so.
+
+I call for the united efforts of the Asian countries, your partners, to stabilize the situation. So that Russia seeks peace. And stops the tsunami of its brutal invasion of our state, Ukraine. It is necessary to impose an embargo on trade with Russia. It is necessary to withdraw companies from the Russian market so that the money does not go to the Russian army. It is necessary to help our state, our defenders, our soldiers who are holding back Russian troops even more. It is necessary to start thinking about rebuilding Ukraine already now. About the return of life to the cities destroyed by Russia and the territories devastated by it.
+
+People need to go back to where they lived. Where they grew up. Where they feel is their home. Their small homeland. I'm sure you understand this feeling. This need. The need to return to your land.
+
+We need to develop new security guarantees. So that it is possible to act preventively and strongly every time there is a threat to peace.
+
+Is it possible to do this on the basis of existing international structures? After such a war - definitely not. We need to create new tools. New guarantees. Which will work preventively and strongly against any aggression. Which will really help. Japan's leadership can be indispensable in their development. For Ukraine, for the world. I offer it to you.
+
+So that the world can feel confident again. Confident about what tomorrow will be like. Confident that tomorrow will come and will be stable and peaceful. For us, for future generations.
+
+**Ladies and Gentlemen!**
+
+**Japanese people!**
+
+We can do a lot together with you. Even more than we can imagine.
+
+I know what a brilliant history of development you have. How you can build and defend harmony. Follow the principles and value life. Protect the environment. The roots of this are in your culture. Which Ukrainians really love. My words are not unsubstantiated. This is actually true.
+
+Back in 2019, literally six months after I became President of Ukraine, my wife Olena took part in a project for children with visual impairments. In the project to create audiobooks. And she voiced Japanese fairy tales. In Ukrainian. Because they are understandable for us, for children. And it was only a drop in the huge sea of our attention, the Ukrainian attention, to your attainment.
+
+We have similar values with you despite the huge distance between our countries. A distance that doesn't really exist. Because we have equally warm hearts. Thanks to joint efforts, thanks to even greater pressure on Russia, we will come to peace. And we will be able to rebuild our country. Reform international institutions. 
+
+I am sure that Japan will be with us then - just as it is now. In our anti-war coalition. At this crucial time for all of us.
+
+**Thank you!**
+
+**Arigato gozaimasu!**
+
+**Glory to Ukraine!**
+
+**Glory to Japan!**
+    `,
+    description: 'There are four operating nuclear power plants on our land! These are 15 nuclear units. And they are all under threat. Russian troops have already fired from tanks at the Zaporizhzhia nuclear power plant, the largest in Europe.',
+    url: 'https://www.youtube.com/watch?v=WQeRZUMwZxg'
+  },
+  {
+    id: '3XOzz-P3o88',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 23',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-23T09:27:15',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 23`,
+    description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 23',
+    url: 'https://www.youtube.com/watch?v=3XOzz-P3o88'
+  },
+  {
+    id: '-K1NlX4TFb0',
+    name: 'The G7, NATO and EU summits, new sanctions packages and new assistance take place this week',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-22T23:46:41',
@@ -70,7 +428,7 @@ For the result. With all our strength. And we will not get tired. Let's rest whe
 **Glory to Ukraine!**
     `,
     description: 'Сьогодні був один із тих днів, які дають змогу впевнено говорити, що з нами – увесь світ.',
-    url: 'https://www.youtube.com/watch?v=P3-HU0-tlJk'
+    url: 'https://www.youtube.com/watch?v=-K1NlX4TFb0'
   },
   {
     id: 'mIfAeDGjSq8',
