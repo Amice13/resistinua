@@ -1316,6 +1316,60 @@ const source = [
     type: ['Вебсайт'],
     location: ['Світ']
   },
+  {
+    id: '145',
+    name: 'Cyber Army',
+    description: 'A bot that can be used to block propaganda channels of pro-Russian bloggers and journalists',
+    link: 'https://t.me/CyberArm_bot',
+    tags: ['Завдання'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '146',
+    name: 'Report Army',
+    description: 'Block Telegram channels that spread misinformation and call for genocide of the Ukrainian people',
+    link: 'https://reports.army',
+    tags: ['Завдання'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '147',
+    name: 'Check',
+    description: 'A bot for checking questionable information and news',
+    link: 'https://t.me/perevir_bot',
+    tags: ['Інформація'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '148',
+    name: 'Tribunal UA',
+    description: 'Bot for to capture Russian war crimes against civilians',
+    link: 'https://tribunal.in.ua/',
+    tags: ['Інформація', 'Збір доказів'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '149',
+    name: 'FindOkkupant',
+    description: 'Chat bot in which you can report the location of the occupying forces!',
+    link: 'https://findokupant.com/',
+    tags: ['Завдання'],
+    type: ['Чат-бот'],
+    location: ['Україна']
+  },
+  {
+    id: '150',
+    name: 'Companies that support the war',
+    description: 'Sending messages to those companies that refuse to leave Russia and continue to supply products and services to the aggressor.',
+    link: 'https://dont-fund-russian.army/',
+    tags: ['Інформація', 'Завдання'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
 ]
 
 module.exports = source

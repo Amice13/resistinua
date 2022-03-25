@@ -1,5 +1,308 @@
 const source = [
   {
+    id: '9j-utow64ok',
+    name: 'If Russia had known what it would face in Ukraine, it would have definitely been afraid to come here',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-25T00:32:12',
+    topics: ['Міжнародні переговори', 'Міжнародні санкції', 'Герої України'],
+    cities: ['Буча', 'Ірпень', 'Охтирка', 'Миколаїв'],
+    text: `
+**Free people of our free country!**
+
+It's already night, but we're working. The country must move towards peace, move forward.
+
+With each day of our defense, we are bringing the peace we need so much closer. We are bringing victory closer. Because in this war it is simply impossible for us not to win. And it will be so. And we can't stop even for a minute. Because every minute is about our destiny, about our future. About whether we live or not.
+
+The 30th day. It's been a month! If Russia had known it would face that, I’m sure they would have definitely been afraid to come here.
+
+During this month, we’ve withstood all the main directions of Russian strikes. The world has applied destructive sanctions. And we are reaching an agreement on new ones.
+
+Today I have delivered some important speeches. To the participants of the NATO summit, the G7 summit, to the summit of the leaders of the European Union. To the Swedish Parliament. All this is for the sake of support for our state. We need it for our protection.
+
+I spoke with the President of Lithuania, Mr. Nausėda, Prime Minister of Israel Bennett and Prime Minister of the United Kingdom Johnson. All this is for Russia to understand one thing: it is necessary to seek peace. Russia also needs to seek peace.
+
+I informed the President of Egypt about the current situation.
+
+And today I signed some very important decrees.
+
+On awarding the title of Hero of Ukraine to seven servicemen of the National Guard, to five of them, unfortunately, posthumously.
+
+Also on state awards to 240 servicemen of the National Guard of Ukraine and 119 servicemen of the Armed Forces.
+
+On state awards to 14 heads of local communities, local authorities.
+
+On state awards to 31 medical workers.
+
+And on awarding the honorary title "The Hero City of Ukraine" to four more cities: Bucha, Irpin, Okhtyrka, Mykolaiv.
+
+You know, after signing these decrees, I felt that it would really be worthwhile to award and confer the title of hero to millions and millions of our people. To you, to all Ukrainians who are doing everything they can for the sake of victory. For peace. In a place where they are.
+
+And I am grateful to each and every one of you. To each and everyone for this month of great struggle. And, of course, to our Armed Forces, of course, the National Guard, our border guards, doctors, rescuers, territorial defense, reconnaissance officers, special services and many, many people, representatives of other professions who save our lives. Who protects our free Ukraine.
+
+**Glory to all our heroes!**
+
+**Glory to all our people!**
+
+**Glory to us all!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'З кожним днем нашого захисту ми наближаємо такий потрібний нам мир. Ми наближаємо перемогу. Бо в цій війні просто не можна без перемоги. Так воно й буде.',
+    url: 'https://www.youtube.com/watch?v=9j-utow64ok'
+  },
+  {
+    id: 'uGpZ9jgtZHk',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy at a meeting of the European Council',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-25T00:19:09',
+    topics: ['Воєнний злочин', 'Ракетний удар', 'Атомна загроза', 'Вбиті діти', 'Викрадення людей', 'Міжнародні санкції', 'Міжнародна підтримка'],
+    cities: ['Маріуполь'],
+    text: `
+**Greetings to all of you, greetings to all our friends, friends of Ukraine!**
+
+**Greetings to all who support freedom!**
+
+Mr. President of the European Council, my friend Charles, I congratulate you and congratulate all of us on your re-election. I think this is very important and this is right.
+
+I am grateful for the opportunity to address you and the nations of Europe.
+
+Today it’s already been a month since the Russian invasion. After 8 years of aggression in Donbas. The month of the great war.
+
+In short, about its chronicle. Because everything is in my head and everything is fragments. Unfortunately, tragic ones.
+
+It all started on February 24. From Russia. When the missiles flew. Early in the morning. Against our peaceful cities. People have still been sleeping. Death has already come.
+
+Russia sent armored vehicles against us. Brought several thousand tanks to Ukraine.
+
+It’s hard to count how many of them have already been burned. How many can still kill us.
+
+Bombs fell on our people. From planes that took off from Belarus. And they didn't even admit that they did it.
+
+Russia captured the Chornobyl NPP. Staff have not been released for 24 days there. Imagine, people lived 24 days at such a facility, worked at such a facility. These are our people.
+
+So that nothing terrible happens in Chornobyl again. To prevent the catastrophe.
+
+And the Russian military held them hostage.
+
+Russian tanks fired at the Zaporizhzhia nuclear power plant.
+
+Russia fired missiles at Babyn Yar.
+
+It has already destroyed more than 230 schools and 155 kindergartens. Killed 128 children. Fired missiles at universities. Burns residential neighborhoods with rocket artillery.
+
+Whole cities, villages. Just to ashes. Nothing remains. The Russian military killed journalists. Although they saw the inscription "Press" on them. They may not have been taught to read. Only to kill.
+
+Russia has blocked Mariupol. This is a blockade that no one could have imagined in our time. Hundreds of thousands of people without water, without food. Under constant shelling, under constant bombing.
+
+The Russian militaries deliberately blow up hospitals, maternity hospitals, shelters. They even blow up shelters, imagine! Knowing for sure that people are hiding there.
+
+They killed 96-year-old Borys Romanchenko in Kharkiv. A Russian projectile flew into his apartment. Into the apartment of a man who survived the Nazi concentration camps, but could not survive Russia that went to our Ukrainian Kharkiv. Thank God, our military stopped Russia there.
+
+Russian troops are using phosphorus bombs - it was this morning. Rape women. Loot houses. Destroy churches! All churches. Even those of the Moscow Patriarchate.
+
+Abducted more than 2,000 children from Ukraine. We don't know where our children are, where our 2,000 children are. Fire at humanitarian convoys. They don't care who's there. Children, women, church representatives who accompany the humanitarian cargo.
+
+They kill people in Donetsk and say it's us. They say it's us, the "nationalists".
+
+Russia is doing all this. For a month already. On our land.
+
+And Ukraine? What is Ukraine doing?
+
+It did not go to a foreign land. Never dreamed of any war. Shoots down missiles. Urges strangers to lay down their arms and return home. For the sake of life.
+
+Do you understand? For the sake of life. Not death.
+
+Heals and feeds war prisoners. Allows them to contact their relatives by phone. Collects the corpses of Russian soldiers from the fields, which they simply leave, abandon. Hundreds and hundreds.
+
+Ukraine has united for peace. And for the sake of peace it unites the world. Tries to unblock the besieged cities.
+
+Maintains the safe operation of nuclear power plants. Even in the presence of the occupiers.
+
+Calls on the IAEA to intervene and patiently explains to the international bureaucracy what is happening. Evacuates people from dangerous areas. Does not stop trying to deliver humanitarian aid. Records Russian war crimes. Gathers evidence.
+
+Invites journalists. Maintains the functioning of all institutions of a normal state.
+
+Defends its own country!
+
+And every morning... Do you hear me? Every morning, the whole state, the whole of Ukraine - children, grandparents - everyone honors the memory of all those who died for our state with a moment of silence.
+
+Have you heard anything like this on Russian television? Have you seen this in their schools?
+
+They are even ashamed of the word "war". They call it a "special operation".
+
+Although they organized a massacre here, as the Nazis did. These are different worlds. We and they.
+
+These are different values. This is a different attitude to life. The Russian military does not see what dignity is. They do not know what conscience is. They do not understand why we value our freedom so much. This is what determines how the country will live.
+
+And who should be in Europe.
+
+And what about the European Union?
+
+I want to thank you - you are united, united around us. But I want to say that it was done in one way or another. But once again, the main thing is that you have united.
+
+And we really appreciate that. You have applied sanctions. We are grateful. These are powerful steps.
+
+But it was a little late. Because if it had been preventive, Russia would not have gone to war. At least no one knows for sure. There was a chance.
+
+You blocked Nord Stream 2. We are grateful to you. And rightly so. But it was also a little late. Because if it had been in time, Russia would not have created a gas crisis. At least there was a chance.
+
+And now you and I are preparing Ukraine's membership in the European Union. Finally.
+
+Here I ask you - do not be late. Please. Because during this month you have compared these worlds, and you see everything. You saw who is worth what. And you saw that Ukraine should be in the EU in the near future.
+
+At least you have everything for that. And we have this chance.
+
+Lithuania stands for us. Latvia stands for us. Estonia stands for us. Poland stands for us. France - Emanuel, I really believe that you will stand for us. Slovenia stands for us. Slovakia stands for us. The Czech Republic stands for us. Romania knows what dignity is, so it will stand for us at the crucial moment. Bulgaria stands for us. Greece, I believe, stands with us. Germany... A little later. Portugal - well, almost… Croatia stands for us. Sweden - yellow and blue should always stand together. Finland - I know you are with us. The Netherlands stands for the rational, so we’ll find common ground. Malta - I believe we will succeed. Denmark - I believe we will succeed.
+
+Luxembourg - we understand each other. Cyprus - I really believe you are with us.
+
+Italy - thank you for your support! Spain - we’ll find common ground. Belgium - we will find arguments. Austria, together with Ukrainians, it is an opportunity for you. I'm sure of it. Ireland - well, almost.
+
+Hungary... I want to stop here and be honest. Once and for all.
+
+You have to decide for yourself who you are with. You are a sovereign state. I’ve been to Budapest. I adore your city. I have been many times - very beautiful, very hospitable city. And people, too. You have had tragic moments in your life. I visited your waterfront. I saw this memorial… Shoes on the Danube Bank. About mass killings. I was there with my family.
+
+Listen, Viktor, do you know what's going on in Mariupol?
+
+Please, if you can, go to your waterfront.
+
+Look at those shoes. And you will see how mass killings can happen again in today's world. And that's what Russia is doing today. The same shoes. In Mariupol, there are the same people. Adults and children. Grandparents. And there are thousands of them. And these thousands are gone.
+
+And you hesitate whether to impose sanctions or not? And you hesitate whether to let weapons through or not?
+
+And you hesitate whether to trade with Russia or not? 
+
+There is no time to hesitate. It's time to decide already.
+
+We believe in you. We need your support. We believe in your people.
+
+We believe in the European Union.
+
+And we believe that Germany will also be with us at the crucial moment.
+
+**Thank you!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Today it’s already been a month since the Russian invasion. After 8 years of aggression in Donbas. The month of the great war.',
+    url: 'https://www.youtube.com/watch?v=uGpZ9jgtZHk'
+  },
+  {
+    id: 'EE5Z8zAdSTo',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 24',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-24T22:40:35',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 24`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 24',
+    url: 'https://www.youtube.com/watch?v=EE5Z8zAdSTo'
+  },
+  {
+    id: 'UhlPX0fXWY8',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-24T18:18:41',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=UhlPX0fXWY8'
+  },
+  {
+    id: '02wiWKK8KkE',
+    name: 'Address by President of Ukraine Volodymyr Zelenskyy to the participants of the Group of Seven summit',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-24T17:08:06',
+    topics: ['Воєнний злочин', 'Голод', 'Міжнародні санкції', 'Гарантії безпеки', 'Міжнародна підтримка'],
+    cities: ['Маріуполь', 'Харків', 'Чернігів', 'Охтирка'],
+    text: `
+**Ladies and Gentlemen!**
+
+The world's greatest democracies represented by you!
+
+First of all, I would like to thank Chancellor Scholz and the German presidency for the opportunity to address you today. At this urgent summit.
+
+Today is exactly one month since the beginning of the full-scale invasion of Ukraine by the Russian Federation. Russia, which was present at this format together with advanced democracies. Then the G7 was the G8. And there were a lot of hopes for its participation, for a dialogue with Russia. I want to emphasize that most of those hopes, as well as the place next to the Group of Seven, Russia received in advance. And it still hasn't deserved this advance.
+
+But this and other similar advances gave the Russian leadership the impression that they would get away with anything.
+
+In recent years, the Russian state has created so many crises and such instability that it has now become a major problem for the world. A problem that is only growing.
+
+And you and I still have no idea how many more such urgent summits will have to be held before the problems created by Russia are resolved.
+
+Europe is going through a war, every day of which is full of war crimes of Russian troops.
+
+This morning I received information that Russian troops had used phosphorus bombs against civilians in Ukraine.
+
+The threat of large-scale use of chemical weapons by Russia on the territory of Ukraine is quite real.
+
+We are trying to find out the exact number of deported Ukrainians. People who are forcibly deported to Russia on a daily basis are deprived of documents, means of communication - everything is taken away - and distributed among their regions. And even then Russia tries to mobilize them into its army!
+
+It illegally abducts children. According to our data, more than two thousand already!
+
+Ukrainian cities - Mariupol, Kharkiv, Chernihiv, Okhtyrka and other cities - look like a global catastrophe. They are ruined. The roads from these cities, which people used to escape, resemble the set of a post-apocalyptic movie with hundreds of burned and shot cars.
+
+But it is true: there is a global catastrophe! Russia has destroyed the global security architecture and dealt a powerful blow to international relations.
+
+But this is just the beginning. This war may be followed by a global food crisis. The longer there is no peace on Ukrainian land, the less food the world market will receive from Ukraine. Consequently, many countries in Asia, Africa, and even Europe, may have extraordinary problems with access to basic products, with food prices. This will definitely result in political destabilization. Maybe this is also the goal of the Russian leadership? I do not know.
+
+We must all act immediately! Immediately stop Russian troops, remove them from the territory of Ukraine.
+
+Peace is needed immediately before the world faces an even greater level of problems.
+
+It is better now to tighten sanctions against Russia as much as necessary to stop its military machine than to deal with the consequences of the food and political security global crisis. Unprecedented challenges!
+
+If so, a full embargo on trade with Russia is needed. It is necessary to deprive Russia of the opportunity to use GPS in war. It is very important. So that this system does not help Russian missiles and bombs destroy peaceful cities.
+
+Russian banks and, most importantly, the Central Bank of Russia must get a complete blockade from the global financial system. War criminals should be left without money at all! And their frozen assets should turn, inter alia, into reparations for the reconstruction of Ukraine.
+
+It is better to give Ukraine the kind of weaponry support we really need now than to look for weapons for other countries later. We mean Georgia, Moldova, the Baltic States, Poland and Central Asia.
+
+The sooner this happens as we ask, the sooner there will be peace in Eastern Europe. This is in our best interest. This is in your best interest. This is in the interests of all democracies. Because democracies must be able to defend themselves. Freedom must be armed. Life must overcome death.
+
+And I emphasize this: no advances to such a Russian state! Never again. Any steps towards it or towards any other violator of international law should take place only after their steps towards peace, towards universally recognized rules. And on the basis of a system of preventive deterrence.
+
+I am grateful to you for the unprecedented unity. For your resolute support for peace for our country, for our people. I am grateful to those of you who are trying one hundred percent to stop this war.
+
+I believe we can do it. We will be able to make your Group of Seven not just the Great Seven, but the Great Seven of Peacekeepers.
+
+What do we need for this? Ukraine is very specific in answering this question.
+
+First - to intensify sanctions against Russian aggression on a weekly basis until it stops and restores peace for us.
+
+Second - to take part in the creation of a new system of security guarantees for Ukraine, for our region. Real guarantees. Effective. Those that can stop any aggressor in 24 hours.
+
+We offered to create an association - U-24. This is what the world really needs. Not just to preventively stop the war or hostilities that have already begun. But also to provide assistance to the states that were affected by the natural disaster, that need to be supported during a pandemic, that are facing migration or food crises.
+
+The world needs new effective alliances! New effective guarantees! This can support developing democracies. This can support the economies of countries where there are no stable institutions yet.
+
+And third - which directly concerns our state and Eastern Europe. We must rebuild our state together as soon as possible after the war. Rebuild cities. Restore economic life. Bring people back.
+
+I offer you to participate in such a project. Recovery project. I am sure it will be in our common interest.
+
+But first - weapons for Ukraine. First - increase sanctions against Russia every week. That is, peace comes first. We have the strength to do it. You have the strength to do it. So, may there be peace!
+
+**I am grateful to everyone who supports us.**
+
+**Thank you.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'In recent years, the Russian state has created so many crises and such instability that it has now become a major problem for the world. A problem that is only growing.',
+    url: 'https://www.youtube.com/watch?v=02wiWKK8KkE'
+  },
+  {
     id: 'olUWGHVkQF8',
     name: 'Speech by the President of Ukraine at the Riksdag in Sweden',
     translated: false,
