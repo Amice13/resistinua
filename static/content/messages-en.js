@@ -1,6 +1,176 @@
 const source = [
   {
-    id: 'EE5Z8zAdSTo',
+    id: 'eqEWQXbIaC8',
+    name: 'Address by Prime Minister of Ukraine Denys Shmyhal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-25T23:11:15',
+    topics: ['Економіка', 'Соціальні виплати', 'Посівна', 'Міжнародна підтримка'],
+    cities: [],
+    text: `
+**Heroic people of a great country!**
+
+One month and one day had gone since the beginning of the full-blown russian invasion of our country.
+
+Strategically, Ukraine has already defeated the aggressor.
+
+And now we have to work to bring our victory closer. Everyone doing his or her job. We must secure a reliable home front for our army.
+
+To do this, the economy must operate. A sowing campaign should yield result. Shops should open up. Factories should start functioning.
+
+Over the past two weeks, the Government and Parliament have reformatted economy, as well as financial, food, transport and energy domains.
+
+Taxes for businesses were drastically cut. Most regulations and bureaucratic papers have been removed. An opportunity for any entrepreneur to take a loan at 0% has been rendered.
+
+Yesterday, the Verkhovna Rada of Ukraine passed a draft law that will enable us to introduce the world's fastest customs service. VAT and import duties on goods imported by payers of turnover tax are removed. The declarative principle of work is also now imposed at the customs.
+
+A separate critical direction for us is to simplify the import of humanitarian aid. On the basis of only one page of the simplified declaration, humanitarian goods are cleared by customs in 10-15 minutes. I would like to emphasize once again that it is unnecessary to receive any documents from the Regional Civil-Military Administrations or other bodies for the import of humanitarian aid cargoes.
+
+Thanks to our international partners and people with big hearts around the world, more than 128,000 tons of humanitarian goods have been delivered to Ukraine.
+
+There are currently no queues at checkpoints on the western border. Monitoring of the facts and reasons for the delays of humanitarian relief at checkpoints is carried out by the leadership of the State Customs Service round the clock.
+
+Payments are issued under the renewed state program ePidtrymka, within the frames of which Ukrainians have already received more than UAH 20.7 billion.
+
+Another program that has also been launched is the free provision of food to frontline cities. These products are already being purchased to be distributed among people in the settlements that are currently on the confrontation line.
+
+Also, in order to ensure the timely payment of pensions in the war-torn territories, the financing of pensions for April has triggered.
+
+Through March 25-27, annuities will be accrued and paid in advance in 6 regions for the total amount of UAH 8.8 billion. Today the payment of pensions in Luhansk and Chernihiv regions was financed. The funds have already been transferred to banks. Tomorrow the resource to carry out the payment of pensions in advance will be directed to Sumy, Kherson and Mykolaiv regions. The day after tomorrow - to Kyiv region.
+
+The next issue. Spring sowing campaign has already commenced in 11 regions of Ukraine. It hadn't started at this time last year. And we deeply appreciate the work of our farmers and all those helping in the fields today to provide the country with food.
+
+For its part, the Government has endorsed a decision to open for agrarians access to interest-free financing and is taking measures to reduce fuel prices.
+
+International financial support. We engage in activities with all countries and organizations to ensure that such support is provided on an ongoing basis. We are discussing with all our partners and friends the future plan for the restoration of Ukraine. It concerns the confiscation of property of russian citizens and investment aimed to rebuild our country.
+
+I would like to appeal not only to the governments of the partner countries, but to the mayors of European and other cities around the world as well. Russia is now destroying our cities and towns, as the Nazis did 80 years ago. We urge you to renew the tradition of sister cities, help Ukrainian cities with humanitarian aid and funds necessary for the reconstruction purposes. This is an important endeavor.
+
+Ukraine of today is the hub of the world struggle for freedom and ideals of the 21st century. The whole world stands with us. We will definitely win. Because we are invincible!
+
+I express gratitude to everyone who is now paying every effort to approach this victory at the front and in the rear today!
+
+**Glory to Ukrainians! Glory to Ukraine!**
+  `,
+    description: 'Для путінського режиму Україна – це єресь. Буквально. А війна проти неї – це війна релігійна. Тож це – війна на знищення. Мета Росії – знищити Україну.',
+    url: 'https://www.youtube.com/watch?v=eqEWQXbIaC8'
+  },
+  {
+    id: 'RvTkh_9OC1o',
+    name: 'Speech by Head of the Office of the President of Ukraine Andriy Yermak during the participation in the video meeting of the Atlantic Council',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Єрмак'],
+    date: '2022-03-25T22:26:07',
+    topics: ['Воєнний злочин', 'Атомна загроза', 'Терроризм', 'Постачання зброї'],
+    cities: ['Маріуполь'],
+    text: `
+**Dear Ambassador Herbst, dear ladies and gentlemen.**
+
+Thank you for having me here. I’m grateful for the chance to talk to you. People of Ukraine are grateful to our American friends for all the help you provide. Both military and humanitarian. Thanks for your support. It’s really vital for us.
+
+Yesterday, after the NATO summit I was told a joke. The NATO acronym stands for Never Act, Talk Only!
+
+They say the joke is so old that it should be called vintage. 
+
+And now allow me to get to Ukrainian. Today, it’s the language of freedom. The language of victory.
+
+If this is true, then things are bad for us. More precisely, they are bad for NATO. Because if it reacted to Russia's aggression against itself in the same way as it had reacted to the invasion of Ukraine, Russian tanks would be standing near Dunkirk for a couple of weeks already.
+
+And someone - we know for sure, who exactly - would probably have to land in Normandy again soon.
+
+But NATO is lucky - these tanks are now being disposed of in Ukraine.
+
+But the thing is Ukraine is not made for this.
+
+Ukraine has other plans, its own plans. To develop. To build. To continue reforms. To improve life. These plans are not just paused. For thousands of people, they will never come true. They may never come true for our entire state.
+
+After all, the war that Russia is waging against us is not just a war for territory or resources. This is a punitive war. Caused by the desire to return the apostates who rebelled against the "Russian world". Or to destroy them.
+
+For the Putin regime, Ukraine is a heresy. Literally. And the war against it is a religious war.
+
+So this is a war of annihilation. Russia's goal is to destroy Ukraine. As a people living by their own customs. As a political nation that chooses its own values. As a sovereign state that determines its own path.
+
+There is no exaggeration in these words. They must be taken literally. Because this is exactly what the Russian leadership meant when it has been talking about "one nation" for years. About Ukraine as a "historical phantom" and "not even a state".
+
+Henry Kissinger, a man I respect very much, has grasped very clearly the essence of Russia's attitude toward Ukraine.
+
+I quote in the original language: “The West is trying to establish the legality of any established border. For Russia, Ukraine is part of the Russian patrimony”.
+
+Now the world is promoting the "Give Peace a Chance" campaign, and there are calls for reconciliation between Ukraine and Russia. We did not start this war. We want its end more than anyone in the world. We are making an incredible effort to do so. In particular, the diplomatic one.
+
+However, the word "reconciliation" is completely inappropriate here. It indicates parity and equality of the parties. We see an emphasis on supremacy on the part of Russia. And the intention to continue on the path of violence and destruction.
+
+The Kremlin's aggressive plans are failing. The blitzkrieg failed. No strategic task of the invading force was fulfilled even during the month of fighting.
+
+They believed that the invasion of Ukraine would be an easy walk. They believed that they would quickly stifle our desire for freedom. Well, they have a lot of experience in this. They have Berlin 53rd, Budapest 56th, Prague 68th… But they have forgotten that the CSTO is a pale shadow of the Warsaw Pact. Russia is a pale shadow of the USSR. But it still has very large resources. In particular human resources.
+
+Half a million soldiers subdued Czechoslovakia. 200,000 have been sent to seize Ukraine. Yet. And a new wave of invasion is approaching. And maybe it will be bigger. In Russia, covert mobilization continues. Russia's allies are trying to avoid participating in its aggression. But blackmail and provocations can still force them. And this means we will have to defend ourselves further.
+
+But it is already quite obvious: the Russian leadership has miscalculated about Ukraine. Miscalculated at each point. Because the line "we will lay down our souls and bodies for our freedom" is not just solemn words from our national anthem. This is the Ukrainian national idea. We do not just believe that freedom is the highest value. We know that. In 2014, this knowledge was embodied in the slogan "Ukraine is Europe". Of course, this is not about geography - everything is obvious about it. It's about values.
+
+But today Ukraine is the Grail of Europe. Without exaggeration. Because it is Ukraine who revives the principles that gave life to the current civilization of the West. You can't exchange freedom for comfort. You cannot buy resources for justice and human rights. Cannibalism cannot be justified by originality. You cannot be afraid to call evil evil. You can't be afraid of evil.
+
+We are not afraid. And this is what makes Ukraine an antagonist of Russia. The anti-Russia that Putin talks about all the time. And in this sense, our state is an indisputable existential threat to him. Because his loss in Ukraine will mean the collapse of the regime. And success will only strengthen it.
+
+Terror is the basis of his regime. Terror is the basis of Russian statehood. Terror is the basis of Russia's military strategy. Russia is a terrorist state.
+
+The Russian armed forces are destroying our cities not only because of technical backwardness and lack of high-precision ammunition. They are doing it to cause horror. Phosphorus bombs dropped on the Kyiv region are not about military superiority. The methodical destruction of Mariupol is not about military superiority.
+
+There were more people in Mariupol before the war than in Miami. Imagine Miami without water. Without access to medication. Without food. Imagine Miami being turned to dust every day. Together with residents who are not allowed to evacuate. Neighborhood after neighborhood. Schools. Theater. Maternity hospital. Without any military sense. Just to intimidate.
+
+They are destroying civilian infrastructure and using unconventional weapons to cause a humanitarian catastrophe. They resort to chemical and nuclear blackmail - the threat of environmental catastrophes due to sabotage at the captured Chornobyl and Zaporizhzhia nuclear power plants remains extremely high.
+
+They are hiding behind civilians. Tens of thousands of them are being taken hostage and taken to work in the depressed regions of Russia. They call it evacuation. In fact, it is an abduction.
+
+That is why I call on the partners: it is time to recognize the Russian Federation as a terrorist state. Officially. It is time to recognize the Armed Forces of the Russian Federation as a terrorist organization. It is time to recognize them as a criminal organization.
+
+But this, apparently, will not happen as long as the seat in the UN Security Council is illegally occupied by a state that has carried out aggression against one of the founding states of the United Nations.
+
+This will not happen as soon as the world's largest and most powerful defense alliance is most concerned about avoiding confrontation with a regime that has been breaking the world's security system for years.
+
+The attack on Ukraine has become a vivid completion of this process.
+
+That's why we have to endure. For ourselves. And for the world. Because it will only get worse. Unpunished tyrannies multiply lawlessness. They do not need the rule of law. They recognize only the rule of force.
+
+Russia understands only the language of power. Its success in Ukraine will only strengthen the Kremlin's claims. On the territory. On the restoration of the Soviet sphere of influence. On the right to dictate to other nations how to live.
+
+Ukraine will hold on. For us, this war is a people's war. Therefore, we will not give up our sovereignty or territories.
+
+But we cannot afford Pyrrhic victory. You can't afford that. Destroyed and bloodless Ukraine will cease to be what it is today. It will cease to be an advanced bastion of the European fortress.
+
+To survive, we need very specific things. You know what I'm talking about. But we have to remind people about it every time.
+
+I'll start with the simplest. It is very important to be in time in war. It is important to have time. The more the better. Give it to us. We really need to share intelligence in real time. A clear and complete picture of Russia's actions is very much needed. This is extremely important for our defense.
+
+Two factors are bringing our victory closer. The first is our resilience. Courage of every fighter. Every volunteer. Every citizen. The second has many names - Javelin, Stinger, Mark-19 and so on.
+
+But small arms and portable weapons, no matter how modern, are of limited effectiveness. Without a full-fledged Lend-Lease, without heavy weapons - long-range artillery, MLRS, etc. - the defensive war against Russia will turn into a guerrilla war. Simply due to the number of its mobilization reserves. This increases the risk of a humanitarian catastrophe and is guaranteed to increase the outflow of refugees. We must avoid this at any cost.
+
+Finally, we need to close the sky. Here we see several options. And they all depend primarily on the political will of the parties. The basic option is to transfer Soviet and Russian-made fighter jets and long-range air defense systems to Ukraine. Relevant reserves are in Poland, Slovakia, Bulgaria and Greece. They could hand them over to us, and the United States could strengthen their defense by providing a replacement. The temporary deployment of Patriot systems and air police missions could protect these countries from hostile actions and provocations from Russia due to the transfer of weapons to us.
+
+The vast majority of citizens of the United States and other countries stand for increasing support for Ukraine. Including the military support. And the number of such people is growing every week. It is time for politicians to listen to the opinion of their own people as soon as possible.
+
+Russia's success is ensured by fear. It is fear that motivates it to further aggression. It is restrained only by determination. And it's time to show it. Do not give in to blackmail. Don't give in to panic. Don't give in to terrorists.
+
+Ukraine will resist. Ukraine will continue to fight. Not only against the aggressor. But also for the future. For reliable guarantees of post-war security. We are not satisfied with any configuration that threatens the sovereignty and territorial integrity of Ukraine. We will not be satisfied with a compromise on Russian terms. The victim of aggression must not pay for peace. The aggressor must be deprived of the opportunity to attack again. That is why we call on our partners and allies to find a format that will work effectively and for a long time. We have learned the lessons of the Budapest Memorandum. We have paid very dearly for them. This war has totally destroyed the entire old system of international security. We need to build a new one now. And Ukraine has proved that it deserves to be not only its participant and founder, but also its leading participant. And we continue to pay dearly for this right.
+
+And now it's time for the aggressor to pay. We call for the sanctions regime to be strengthened. We call for the strict observance of sanctions. We call for the introduction of mechanisms that will make it impossible for international companies to circumvent sanctions. Give the world a model that will deprive Russia of the opportunity to pursue an aggressive policy for many years to come. Not only after the end of the active phase of hostilities on the territory of Ukraine.
+
+We call for an embargo on Russian energy. We call for the reduction of opportunities of gray and black imports to Russia through the CSTO and the Eurasian Union.
+
+Russia is not a trade or agricultural state, but a military one, and its vocation is to be a menace to the world. These words belong to Emperor Alexander II. But every ruler of Russia could say them. And especially - the current ruler.
+
+It's time to stop this wheel of history. Before he does that.
+
+**Everything will be Ukraine.**
+    `,
+    description: 'For the Putin regime, Ukraine is a heresy. Literally. And the war against it is a religious war. So this is a war of annihilation. Russia\'s goal is to destroy Ukraine.',
+    url: 'https://www.youtube.com/watch?v=RvTkh_9OC1o'
+  },
+  {
+    id: 'Z2jSeSznuXs',
     name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 25',
     translated: false,
     russianTimestamp: '',
@@ -10,19 +180,103 @@ const source = [
     cities: [],
     text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 25`,
     description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 25',
-    url: 'https://www.youtube.com/watch?v=EE5Z8zAdSTo'
+    url: 'https://www.youtube.com/watch?v=Z2jSeSznuXs'
   },
   {
     id: 'NLaiJ2vASlM',
-    name: 'Address by the President of Ukraine Volodymyr Zelenskyi',
+    name: 'By restraining Russian actions, our defenders are leading the Russian leadership to the idea: talk is necessary',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-25T21:44:19',
-    topics: [],
-    cities: [],
-    text: `"In the past week, our heroic Armed Forces have dealt powerful blows to the enemy. Significant losses. Address by the President of Ukraine Volodymyr Zelenskyi.`,
-    description: '"In the past week, our heroic Armed Forces have dealt powerful blows to the enemy. Significant losses. Address by the President of Ukraine Volodymyr Zelenskyi.',
+    topics: ['Герої України', 'Міжнародні переговори', 'Гуманітарні коридори', 'Воєнний злочин', 'Гарантії безпеки', 'Соціальні виплати', 'Житло'],
+    cities: ['Маріуполь', 'Запоріжжя'],
+    text: `
+**Strong people of the best country in the world!**
+
+I want to begin this address with words of congratulations. On my own behalf and on your behalf, on behalf of all our citizens of Ukraine to the employees of the Security Service of Ukraine. Today is their day.
+
+30 years ago, on March 25, the Security Service of our state was founded.
+
+The Service has come a long way. And we all know that. But we also know that during the eight years of the war in Donbas and during the 30 days of Russia's full-scale invasion of Ukraine, many members of the Security Service have shown themselves from the best - heroic - side.
+
+They have shown themselves principled, courageous and able to inflict losses on the enemy that the enemy does not expect. This is exactly what Ukraine needs now.
+
+I am grateful to all our heroes from the Security Service of Ukraine. I am grateful to everyone in the Service who during 30 years of our common history broke the plans of enemies and worked in the interests of the Ukrainian people only.
+
+Congratulations on the holiday! Respect to everyone!
+
+And we will always remember all the employees of the Service who died for Ukraine while performing tasks to counter Russian aggression.
+
+During this month of hostilities, 77 employees of the Security Service were awarded state awards. Two of them were posthumously awarded the title of Hero of Ukraine. Both distinguished themselves in the battles near Makariv, Kyiv region. Thanks to their courageous actions, the enemy headquarters and more than 20 occupiers were destroyed.
+
+I can't tell you the names of our heroes. This is the specifics of the service. But I can say with confidence: the memory of them will truly be eternal!
+
+Today I signed a decree on state awards to 63 law enforcement officers of Ukraine. Seven of them were awarded posthumously.
+
+Police, rescuers, border guards, special service officials of the State Bureau of Investigation and employees of the Court Protection Service. Thank you to everyone!
+
+Over the past week, our heroic Armed Forces have dealt powerful blows to the enemy, significant losses. They say that the Minister of Defense of Russia has disappeared somewhere… I wonder if he personally wanted to visit Chornobaivka?
+
+I am grateful to our defenders who showed the occupiers that the sea will not be calm for them even when there is no storm. Because there will be fire. As on those Russian ships that departed this week on the famous route from the port of Berdyansk.
+
+I want to warn all traitors of Ukraine who sided with the enemy in Crimea years ago. You switched sides because you thought you would live better, right? Not because you want to repeat the tragic fate of your colleagues who died on those ships or somewhere else on land or at sea in Ukraine. Well, live. Stay as far away from our cities and our army as possible.
+
+The number of Russian casualties in this war has already exceeded 16,000 killed. Among them are senior commanders. There have not been reports about killed Russian colonels-general or admirals yet. But the commander of one of the occupying armies and deputy commander of the Black Sea Fleet are already there.
+
+The Armed Forces continue to repel enemy attacks in the south of the country, in Donbas, in the Kharkiv direction and in the Kyiv region.
+
+By restraining Russia's actions, our defenders are leading the Russian leadership to a simple and logical idea: talk is necessary. Meaningful. Urgent. Fair. For the sake of the result, not for the sake of the delay.
+
+16,000 Russian servicemen have already died. For what? What does it give and to whom?
+
+The conversation must be meaningful. Ukrainian sovereignty must be guaranteed. Ukraine's territorial integrity must be ensured. That is, the conditions must be fair. And the Ukrainian people will not accept others.
+
+During the week we managed to establish 18 humanitarian corridors. A total of 37,606 people were rescued from the blocked cities.
+
+In particular, 26,477 Mariupol residents were evacuated from Mariupol to Zaporizhzhia via the humanitarian corridor. The situation in the city remains absolutely tragic. The Russian military does not allow any humanitarian aid into the city. They only use Mariupol residents in fakes for their propagandists. Pretending to start giving something to people.
+
+I will continue to inform the nations of other countries in great detail about such disgusting cynicism of the occupiers, about all the war crimes of Russia against the civilians of our heroic Mariupol and other cities of Ukraine. It is very important. I want to emphasize: not only politicians and government officials, but nations. Everyone on the planet needs to know what Russia is doing. So that the responsibility for crimes against the Ukrainian people becomes inevitable and as severe as possible for the Russian military.
+
+During the week alone, I addressed the parliaments of Italy, Japan, France and Sweden. I spoke at the summits of NATO, the G7 and the leaders of the European Union.
+
+Each of these speeches attracted maximum attention in the respective countries and in the world as a whole. The reviews show that the Ukrainian position was heard. And this is my main goal in such speeches.
+
+You know perfectly well what a powerful system of state propaganda Russia has built. They have spent and are spending tens of billions of dollars on it. Probably no one in the world has ever spent such crazy money on lies. But they did not take into account one thing. Where the path of lies needs to be paved with money and the result is not guaranteed, the path of truth is difficult, but the path of truth paves itself. The main thing is to be honest.
+
+Next week I will continue this important work for our interests. Interests of Ukraine. Interests of freedom and independence.
+
+I had a conversation today with Turkish President Erdoğan. The results of the NATO summit were discussed. Of course, we also talked about the efforts that could bring peace closer to Ukraine and end this senseless Russian invasion of a foreign land.
+
+There is important news from our government officials.
+
+First. They have already started paying pensions for April. In particular, the Pension Fund has transferred to Oschadbank the entire amount of pensions for the Chernihiv and Luhansk regions. Tomorrow people will have money on their bank cards and Ukrposhta will deliver cash.
+
+Tomorrow or the day after tomorrow, the payment of April pensions will continue in other regions of Eastern and Central Ukraine. The other day a wave of payments will cover the entire state.
+
+This is one of our priorities: the Ukrainian state has fulfilled and will fulfill all obligations to our citizens, to our pensioners.
+
+Second. Under the eSupport program, more than 20 billion hryvnias have already been paid to people who have lost their jobs or the opportunity to have business. The amount of payment is 6,500 hryvnias.
+
+Third. Officials are preparing a new support program for our IDPs from the war zones.
+
+Regional administrations have been given a clear task to quickly allocate land for the construction of temporary housing for displaced persons. I want to emphasize once again - this is temporary housing. Once we establish peace, we will begin the immediate, large-scale reconstruction of our state. But now people need a temporary home. Their home.
+
+And it is better to have a home in Ukraine than somewhere abroad. We pay aid, we give a job. Native people. Native country. All the details of this support program will be presented by Prime Minister Denys Shmyhal.
+
+And a few more words about the path of truth. About those who bring you and us true information about everything that is happening in our country.
+
+I would like to express special gratitude to our journalists today. To all those who ensure the work of the national telethon "United News", to all our media people. Correspondents, presenters, editors, media managers, cameramen, directors, video editors, make-up artists, producers - everyone without whom it is impossible to imagine television. Everyone who united and together with other defenders of our people provides Ukrainians with truthful information and, last but not least, confidence 24/7.
+
+I am grateful to all of you! And, I'm sure, I can say this on behalf of all Ukrainians.
+
+**Glory to you all!**
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I am grateful to all our heroes from the Security Service of Ukraine. I am grateful to everyone in the Service who during 30 years of our common history broke the plans of enemies and worked in the interests of the Ukrainian people only.',
     url: 'https://www.youtube.com/watch?v=NLaiJ2vASlM'
   },
   {

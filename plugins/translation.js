@@ -182,6 +182,7 @@ const en = {
   'Попасна': 'Popasna',
   'Поранені діти': 'Injured children',
   'Посівна': 'Sowing campaign',
+  'Постачання зброї': 'Weapons supply',
   'Права людини': 'Human rights',
   'Приватні': 'Private',
   'Приєднання до ЄС': 'Accession to the EU',
