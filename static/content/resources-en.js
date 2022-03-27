@@ -45,6 +45,78 @@ const source = [
     location: ['Україна']
   },
   {
+    id: '152',
+    name: 'All-Ukrainian school online',
+    description: 'Video lessons, tests and tasks for students of 5-11 grades',
+    link: 'https://lms.e-school.net.ua/',
+    tags: ['Офіційні' ,'Інформація', 'Освіта'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '153',
+    name: 'Meta History. Museum of war',
+    description: 'Ukraine\'s first NFT war museum. The virtual space will help spread the truth about Russian war crimes against Ukrainians, preserve the memory of the heroism of the Armed Forces of Ukraine and strengthen resistance to the criminal Putin regime.',
+    link: 'https://metahistory.gallery/',
+    tags: ['Мистецтво'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '154',
+    name: 'Interactive map of the world',
+    description: 'This interactive resource is a simplified map to reflect the peculiarities of entering the world to help Ukrainian citizens planning their trip abroad.',
+    link: 'https://tripadvisor.mfa.gov.ua/',
+    tags: ['Офіційні', 'Інформація', 'Біженці'],
+    type: ['Мапа'],
+    location: ['Світ']
+  },
+  {
+    id: '155',
+    name: 'Friend',
+    description: 'The project of Voluntary Registration of Ukrainian Citizens when Traveling Abroad is an effective tool to provide assistance to citizens of Ukraine in case of emergencies abroad - natural disasters, social unrest, military conflicts.',
+    link: 'https://friend.mfa.gov.ua/',
+    tags: ['Офіційні', 'Інформація', 'Біженці'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '156',
+    name: 'Humanitarian aid portal',
+    description: 'Information on international humanitarian aid in Ukraine.',
+    link: 'https://help.gov.ua/',
+    tags: ['Офіційні', 'Інформація'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '157',
+    name: 'e-Help',
+    description: 'Any help! Food, financial aid, clothing, medicine ...',
+    link: 'https://help.gov.ua/',
+    tags: ['Офіційні', 'Інформація'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '158',
+    name: 'Crimes against culture',
+    description: 'The Ministry of Culture and Information Policy of Ukraine has created a resource for proper documentation of war crimes against humanity and cultural heritage sites committed by the Russian army.',
+    link: 'https://help.gov.ua/',
+    tags: ['Офіційні', 'Збір доказів'],
+    type: ['Вебсайт'],
+    location: ['Україна']
+  },
+  {
+    id: '159',
+    name: 'Interactive map of checkpoints',
+    description: 'Only current checkpoints are displayed on the interactive map. Checkpoints that are temporarily closed in accordance with the order of the Cabinet of Ministers of 13.03.2020 №288-r are not displayed on the map!',
+    link: 'https://dpsu.gov.ua/ua/map/',
+    tags: ['Офіційні', 'Біженці'],
+    type: ['Мапа'],
+    location: ['Україна']
+  },
+  {
     id: '139',
     name: 'National Information Bureau',
     description: 'National Information Bureau to collect and summarize data on Ukrainian prisoners of war, dead, missing, illegally detained by the occupiers',
@@ -1367,6 +1439,15 @@ const source = [
     description: 'Sending messages to those companies that refuse to leave Russia and continue to supply products and services to the aggressor.',
     link: 'https://dont-fund-russian.army/',
     tags: ['Інформація', 'Завдання'],
+    type: ['Вебсайт'],
+    location: ['Світ']
+  },
+  {
+    id: '151',
+    name: 'Safely.Today',
+    description: 'A website that hosts resources and information for people temporarily seeking refuge abroad. Information is on all countries and constantly updated!',
+    link: 'https://safely.today/',
+    tags: ['Інформація', 'Біженці', 'Волонтерство', 'Житло'],
     type: ['Вебсайт'],
     location: ['Світ']
   },

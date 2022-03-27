@@ -1,5 +1,169 @@
 const source = [
   {
+    id: 'tGpkFAJAYZE',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 27',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-27T08:20:12',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 27`,
+    description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 27',
+    url: 'https://www.youtube.com/watch?v=tGpkFAJAYZE'
+  },
+  {
+    id: 'WRTzdG3zKX4',
+    name: 'Russian troops are destroying everything that makes us a nation, but they will be held accountable for that',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/WRTzdG3zKX4?t=329',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-26T10:59:14',
+    topics: ['Пропаганда', 'Герої України', 'Міжнародні переговори', 'Постачання зброї', 'Ракетний удар'],
+    cities: ['Славутич'],
+    text: `
+**Free people of a free country!**
+
+**Free Slavutych who will not be conquered by the invaders!**
+
+Today we were all with you - on your streets, in your protest. And all together we tell the occupiers one thing: go home while you can still walk.
+
+The Russian invaders entered Slavutych and faced the same reaction there as in the south of our state, as in the east of our country.
+
+Ukraine is united in its desire to live freely, to live independently and for the sake of its own dreams, not other people's sick fantasies. Every day of our struggle for Ukraine, every manifestation of our resistance in all areas the occupiers have entered so far proves that Ukraine is a state full of life, which has historical roots and moral foundations throughout its territory.
+
+Nothing they do will help the occupiers in the Ukrainian territory they temporarily entered. Disconnection of our television and activation of passionate nonsense speeches by Moscow TV presenters, leaflets with propaganda, distribution of rubles. Rubles, which in Russia will soon be weighed instead of assessing them at face value.
+
+Bribing outcasts whom the occupiers are looking for in all the dumps to portray the allegedly pro-Russian government will not help as well.
+
+The answer to Russian troops will be one - hatred and contempt. And our Armed Forces of Ukraine will inevitably come.
+
+That is why ordinary Ukrainian peasants take captive the pilots of downed Russian planes that fall to our land. That is why our "tractor troops" - Ukrainian farmers take Russian equipment in the fields and give it to our Armed Forces of Ukraine. In particular, the latest models that Russia has tried to keep secret. And now the occupiers leave them on our land and just run away...
+
+Actually, they do the right thing. Because it is better for them to escape than to die. And there are not and will not be other alternatives.
+
+Everyone in Ukraine has united and has been devoting all their energy to the defense of our state for more than a month already. Together with the Armed Forces, together with all our defenders, together with our National Guard.
+
+I would like to once again congratulate the National Guard of Ukraine on its day with great respect. I am sincerely grateful for everything you do to protect the state, to protect Ukrainians! Thank you for all the steps to victory that will come and that were made possible thanks to you.
+
+Today I presented awards to soldiers of the National Guard who distinguished themselves in battles with the Russian occupiers. I also awarded the rank of brigadier general to five colonels of the National Guard of Ukraine.
+
+In total, during the full-scale war since February 24, 476 soldiers of the National Guard have been awarded state awards already.
+
+I also spoke today with Polish President Andrzej Duda. Twice. About our people who found protection in Poland. And the need to strengthen our common security. Security of our states. Security for all Europeans actually.
+
+What is the price of this security? This is very specific. These are planes for Ukraine. These are tanks for our state. This is anti-missile defense. This is anti-ship weaponry. This is what our partners have. This is what is covered with dust at their storage facilities. After all, this is all for freedom not only in Ukraine - this is for freedom in Europe.
+
+Because it cannot be acceptable for everyone on the continent if the Baltic states, Poland, Slovakia and the whole of Eastern Europe are at risk of a clash with the Russian invaders.
+
+At risk only because they left only one percent of all NATO aircraft and one percent of all NATO tanks somewhere in their hangars. One percent! We did not ask for more. And we do not ask for more. And we have already been waiting for 31 days!
+
+So who runs the Euro-Atlantic community? Is it still Moscow because of intimidation?
+
+Partners need to step up assistance to Ukraine. These are the words: partners need! Because this is the security of Europe. And this is exactly what we agreed on in Kyiv when the three prime ministers of Eastern European countries, as well as Mr. Kaczynski, arrived in our capital. It was in mid-March. Today, immediately after the conversation with the President of Poland, I contacted the defenders of Mariupol. I am in constant contact with them. Their determination, their heroism and resilience are impressive. I am grateful to each of them! I wish at least a percentage of their courage to those who have been thinking for 31 days how to transfer a dozen or two of planes or tanks…
+
+And, by the way, we talked today with our military in Mariupol, with our heroes who defend this city, in Russian.
+
+Because there is no language problem in Ukraine and there never was.
+
+But now you, the Russian occupiers, are creating this problem. You are doing everything to make our people stop speaking Russian themselves. Because the Russian language will be associated with you. Only with you. With these explosions and killings. With your crimes. You are deporting our people. You are bullying our teachers, forcing them to repeat everything after your propagandists. You are taking our mayors and Ukrainian activists hostage. You are placing billboards in the occupied territories with appeals (they appeared today) not to be afraid to speak Russian. Just think about what it means. Where Russian has always been a part of everyday life, like Ukrainian, in the east of our state, and where you are turning peaceful cities into ruins today. Russia itself is doing everything to ensure that de-russification takes place on the territory of our state. You are doing it. In one generation. And forever. This is another manifestation of your suicide policy.
+
+Our representatives - the Minister of Foreign Affairs and the Minister of Defense of Ukraine - met today in Poland with colleagues from the United States. They were joined by US President Joseph Biden. As I was informed, the negotiations concerned, in particular, these vital interests, which I mentioned above. Concerned what we really need while this ping-pong continues - who should give us planes and other protection tools and how. Ukraine cannot shoot down Russian missiles using shotguns, machine guns, which are too much in supplies.
+
+And it is impossible to unblock Mariupol without a sufficient number of tanks, other armored vehicles and, of course, aircraft. All defenders of Ukraine know that. All defenders of Mariupol know that. Thousands of people know that - citizens, civilians who are dying there in the blockade.
+
+The United States knows that. All European politicians know. We told everyone. And this should be known as soon as possible by as many people on earth as possible. So that everyone understands who and why was simply afraid to prevent this tragedy. Afraid to simply make a decision. Vital decision.
+
+Of course, we have already seized a number of Russian tanks, which the military command of this country keeps sending to be burned here.
+
+However, the nations of the world will not understand for sure if the battlefield in Ukraine will be a larger supplier of tanks to protect freedom in Europe than our partners.
+
+Ukraine's position must be heard. I want to emphasize: this is not only our position.
+
+This is the position of the vast majority of Europe's population, the majority of Europeans.
+
+If someone does not believe me, look at current public opinion polls in the world.
+
+And if you do not want to hear the opinion of the people, then hear the strikes of Russian missiles hitting right next to the Polish border. Are you waiting for the roar of Russian tanks?
+
+I also spoke with Prime Minister of Bulgaria Kiril Petkov. In particular, about the humanitarian catastrophe due to the actions of Russian troops and how to save our people.
+
+I spoke today at the Doha Forum in the capital of Qatar. This is a respectable meeting that is important not only for the Islamic world, but also for many other countries in Latin America and Africa. These are the regions where Russian propaganda still has great influence. But we are working against lies all over the world. Let Russia know that the truth will not remain silent. And let every nation in the world feel the depth of Russia's injustice against Ukraine. Against everything that keeps the world within morality and humanity.
+
+The occupiers committed another crime against history. Against historical justice.
+
+Near Kharkiv, Russian troops in their branded inhuman style "denazified" the Holocaust Memorial in Drobytsky Yar.
+
+During World War II, the Nazis executed about 20,000 people there. 80 years later they are killed a second time. And Russia is doing it.
+
+The menorah in Drobytsky Yar destroyed by Russian projectiles today is another question to the entire Jewish community of the world: how many more crimes against our common memory of the Holocaust will be allowed to be committed by Russia on our Ukrainian land?
+
+Russian troops are deliberately killing civilians, destroying residential neighborhoods, targeting shelters and hospitals, schools and universities. Even churches, even Holocaust memorials!
+
+Russian troops receive just such orders: to destroy everything that makes our nation nation, our people - people, our culture - culture. This is exactly how the Nazis tried to capture Europe 80 years ago. This is exactly how the occupiers act in Ukraine. No one will forgive them. There will be responsibility. Just like 77 years ago. Most likely not in Nuremberg. But the meaning will be similar. You will see.
+
+Everyone will see. Everyone. We guarantee.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The answer to Russian troops will be one - hatred and contempt. And our Armed Forces of Ukraine will inevitably come.',
+    url: 'https://www.youtube.com/watch?v=WRTzdG3zKX4'
+  },
+  {
+    id: 'hnY6rWlPmfM',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 26',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-26T21:43:24',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 26`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 26',
+    url: 'https://www.youtube.com/watch?v=hnY6rWlPmfM'
+  },
+  {
+    id: 'vKHOIDYvNgg',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-03-26T13:06:59',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=vKHOIDYvNgg'
+  },
+  {
+    id: 'wP_KbDGDGk4',
+    name: 'Volodymyr Zelenskyy at Doha Forum – 2022',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-26T10:59:14',
+    topics: ['Атомна загроза', 'Воєнний злочин'],
+    cities: ['Маріуполь'],
+    text: `Europe's refusal to purchase Russian oil and gas is only a matter of time, so it is necessary to increase energy production in the world`,
+    description: 'Europe\'s refusal to purchase Russian oil and gas is only a matter of time, so it is necessary to increase energy production in the world',
+    url: 'https://www.youtube.com/watch?v=wP_KbDGDGk4'
+  },
+  {
+    id: 'oQtm1J4hR-c',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 26',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-26T10:32:17',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 26`,
+    description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 26',
+    url: 'https://www.youtube.com/watch?v=oQtm1J4hR-c'
+  },
+  {
     id: 'eqEWQXbIaC8',
     name: 'Address by Prime Minister of Ukraine Denys Shmyhal',
     translated: false,

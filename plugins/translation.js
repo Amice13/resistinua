@@ -170,6 +170,7 @@ const en = {
   'Олексій Арестович': 'Oleksii Arestovych',
   'Олексій Рєзніков': 'Oleksii Reznikov',
   'Олешки': 'Oleshky',
+  'Освіта': 'Education',
   'Офіційні звернення': 'Official Addresses',
   'Офіційні': 'Official',
   'Охтирка': 'Okhtyrka',
