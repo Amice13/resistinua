@@ -1,6 +1,6 @@
 const source = [
   {
-    id: 'waeF7Brbx6U',
+    id: 'pRSweP0DszY',
     name: 'Ірина Верещук про заплановану на 29 березня роботу гуманітарних коридорів',
     translated: false,
     russianTimestamp: '',
@@ -10,12 +10,12 @@ const source = [
     cities: [],
     text: `Ірина Верещук про заплановану на 29 березня роботу гуманітарних коридорів`,
     description: 'Ірина Верещук про заплановану на 29 березня роботу гуманітарних коридорів',
-    url: 'https://www.youtube.com/watch?v=waeF7Brbx6U'
+    url: 'https://www.youtube.com/watch?v=pRSweP0DszY'
   },
   {
-    id: 'V3UvTk5X37s',
+    id: '-4F3XDkqDhY',
     name: 'Ми повинні боротися, нам не можна випалювати емоції, щоб не перегоріти',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-28T23:39:51',
@@ -89,7 +89,7 @@ const source = [
 **Слава Україні!**
     `,
     description: 'Сьогодні в нас хороша новина. Наші захисники просуваються на Київщині, повертають контроль над українською територією. Проте все ж зарано говорити про безпеку в цій частині нашої області. Бойові дії тривають.',
-    url: 'https://www.youtube.com/watch?v=V3UvTk5X37s'
+    url: 'https://www.youtube.com/watch?v=-4F3XDkqDhY'
   },
   {
     id: 'f6A7bKGJpEQ',
