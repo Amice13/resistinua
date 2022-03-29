@@ -33,6 +33,7 @@ const en = {
   'Викрадення людей': 'Kidnapping',
   'Виступи проти війни': 'Protests against the war',
   'Вишгород': 'Vyshhorod',
+  'Відбудова України': 'Reconstruction of Ukraine',
   'Відкликання дипломатів': 'Recall of diplomats',
   'Відключення телебачення': 'TV shutdown',
   'Відтермінування сплат': 'Deferred taxes',

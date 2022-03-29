@@ -1,5 +1,161 @@
 const source = [
   {
+    id: 'cxWhBATWjew',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 29',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-27T21:38:11',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 29`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 29',
+    url: 'https://www.youtube.com/watch?v=cxWhBATWjew'
+  },
+  {
+    id: '9VznmWF2Tpo',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in Folketing',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-29T15:19:07',
+    topics: ['Ракетний удар', 'Воєнний злочин', 'Міжнародні санкції', 'Енергетика', 'Відбудова України'],
+    cities: ['Миколаїв', 'Маріуполь'],
+    text: `
+**Mr. Speaker!**
+
+**Mrs. Prime Minister!**
+
+**Members of the Government and the Folketing!**
+
+**Danish people!**
+
+40 missiles.
+
+Every day, Russian troops use so many different but equally deadly missiles against our state, against Ukraine.
+
+This is the average number per day. 40. More than 1,370 missiles have been used in just over a month of Russia's full-scale invasion of our land.
+
+This morning the Russian missiles hit one of our southern cities - Mykolaiv. The city of shipbuilders.
+
+Absolutely peaceful city, which dreamed of only one thing - to regain the glory of the center of shipbuilding in the Black Sea region.
+
+As a result of this strike, the building of the regional administration was destroyed. It is known that seven people were killed and 22 were wounded. Debris removal continues.
+
+The Mykolaiv region residents didn't have any military dreams. They posed no threat to Russia.
+
+But they, like all other Ukrainians, believe me, have become a target for Russian troops. For missiles, bombs, rocket artillery, mortars.
+
+The total number of means of destruction that Russian troops have already used against our people on our land is simply impossible to count.
+
+But we can say that the intensity and brutality of the hostilities against us have reached a level even higher than during World War II. The most devastating war for Europe.
+
+A month of hostilities - and we already have not one or two, but a whole black list of cities that were completely destroyed by Russian bombing.
+
+In dozens of other cities, towns and small villages, residential areas were partially burned, infrastructure was destroyed and enterprises where people worked were blown up. Living, ordinary people.
+
+773 educational institutions - universities, schools, kindergartens - were destroyed. 773. Imagine! And dozens of hospitals, churches, even memorials to Holocaust victims have become targets...
+
+The goal of Russian troops in this war is to completely destroy any basis for the normal life of the Ukrainian people. The occupiers are deliberately making sure that nothing is left of Ukraine. Only ruins. Only refugees.
+
+More than 10 million Ukrainians have already fled their homes due to the hostilities. Almost 4 million Ukrainians have left our country, most of them women and children.
+
+The stories of these people are full of horror.
+
+There are still many burned and shot cars on the roadsides in the areas where the Russian military came. Hundreds and hundreds of such cars, what’s left of them. The occupiers were killing civilians even when they were just trying to escape!
+
+Along with our immigrants in Europe and the western regions of Ukraine, there are children who were simply picked up on the road near the corpses of their parents.
+
+Up to 100,000 people remain in our city of Mariupol, which has been blocked by Russian troops for more than three weeks. While there was snow people melted it to get water. All this time we can't deliver humanitarian goods to the city - they are simply blocked. Water, food, medicine. Everything is blocked by the Russian military.
+
+More than 90 percent of all buildings in Mariupol were completely destroyed by shelling and bombs. But Russian aircraft strike without stopping. They purposefully blow up even shelters, although they know for sure that peaceful people are hiding there - women, children, old people.
+
+What Russian troops are doing to Mariupol is a crime against humanity that is being committed live in front of the eyes of the entire planet.
+
+Why is this even possible? Why can't the world stop this flow of Russia's war crimes ongoing since February 24 this year?
+
+The answer is very simple and cynical.
+
+People who make decisions in Russia hope that they will get away with it. Sanctions? They think they can be bypassed. An embargo on Russian oil? They see that this is still nothing more than just talking about this important topic. And concern, constant concern. An international tribunal? They know that it takes years to bring specific perpetrators to justice.
+
+That is why we appeal to you and to the entire democratic community of the world: sanctions against Russia must be strengthened! Constantly. We need to give up Russian oil, we need to block trade with the Russian Federation, we need to close ports for Russian ships. And this must be the solidarity policy of the European Union, of all the member states. Everyone.
+
+It is you, in Denmark, in the country where the basic principles of the European Union, the Copenhagen criteria, come from, who can feel most of all how important it is for all-European solidarity to work for pressure on Russia.
+
+Because this pressure is for Russia to seek peace. This is pressure to give the necessary protection to all the basic values on which life in Europe is built and which are now completely trampled by Russia in Ukraine.
+
+What can be said about the protection of human rights or freedom on the European continent, if there is no such crime against people and humanity in general not committed by the occupiers?
+
+They deport our people to Russia by force, rape women, underage girls, and engage in looting.
+
+They have already taken more than two thousand children to Russia, and we do not know where they are, we do not even have a complete list of these children. Do they have families? How will they then find their loved ones?
+
+It would be simply impossible for a normal person to imagine the level of evil that was brought to our land!
+
+That is why I call on you to raise the issue of solidarity in the defense of freedom, in the defense of humanity at the level of the European Union.
+
+There can be no Russian branches in Europe that split the EU from within, that are trying to help Russia make as much money as possible even now.
+
+Everyone knows very well who in the European Union opposes humanity and common sense. Who does nothing at all to help establish peace in Ukraine. This must stop, and Europe must stop listening to any excuses from official Budapest.
+
+I am grateful to Denmark for its principled position. Thank you to everyone.
+
+I am grateful to your people who help Ukraine and help Ukrainians. To your companies that have decided to leave the Russian market. Maersk, Jysk, Lego, Vestas, DSV, Arla Foods, Carlsberg and many other companies who have made this important decision.
+
+But I ask you not to stop, to be leaders in Europe in promoting the decisions we really need.
+
+Long before this war, it was clear that humanity should reduce the use of fossil fuels. The era of coal and oil has caused huge damage to the environment, to our planet as a whole. Green technologies and green energy have become a logical and just answer to this challenge.
+
+European policy is already aimed at reducing the consumption of environmentally hazardous resources. But Russia's aggression against Ukraine and against everything that life in Europe is built on is an argument to accelerate green transformation on the continent. Europe must give up Russian oil, give up as soon as possible!
+
+Because it is the crazy income from energy resources that allows the Russian leadership to be bold. Violate generally accepted rules. Promote hatred against other nations, against us and destroy the lives of neighboring countries.
+
+If you had to find the complete opposite of what is called the "Law of Jante" in your country, it would be the "Law of Russian Oil".
+
+I am confident that together - only together with all Europeans, with all responsible states on the planet - we will be able to overcome this catastrophe.
+
+We will be able to return to peace.
+
+We will be able to live together in a European family.
+
+I hope this will happen very soon. But it depends on how consistent and principled we remain at this time.
+
+At a time when the war continues.
+
+However, we have no right now to think only of war. We know there will be peace. We know that we will be able to return to a normal, peaceful life.
+
+That is why I want to invite you to join our initiative to rebuild Ukraine after the war, after our victory.
+
+We invite your companies, your specialists, your state.
+
+Knowing your potential, your creative economic power, I offer your country to take patronage over one of our beautiful regions - after the war. Of course, after the war.
+
+Mykolaiv, the city of shipbuilders, can become such a city, such a region, which will unite you and us even more. Which Denmark can help rebuild.
+
+**Ladies and Gentlemen!**
+
+**Danish people!**
+
+Now is the dark time in Ukraine.
+
+Thousands of candles are placed in our churches in memory of the people whose lives were taken by this war.
+
+I know that for you the warm light of candles is a synonym of home comfort, ordinary good human life.
+
+Life, which today has become an unattainable dream for many in Ukraine. The Russian invasion continues.
+
+But I believe, I know, that we can return to peace.
+
+And I ask you to light a candle at home tonight in memory of all Ukrainians whose lives were taken by Russian aggression.
+
+May the memory of all who gave their lives for our freedom, world freedom, live forever!
+
+**Glory to Ukraine!**
+    `,
+    description: 'Now is the dark time in Ukraine. Thousands of candles are placed in our churches in memory of the people whose lives were taken by this war.',
+    url: 'https://www.youtube.com/watch?v=9VznmWF2Tpo'
+  },
+  {
     id: 'pRSweP0DszY',
     name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 29',
     translated: true,
