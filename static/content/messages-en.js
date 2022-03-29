@@ -1,8 +1,100 @@
 const source = [
   {
-    id: 'lTWxYNR4NBQ',
-    name: 'The week is planned to be very busy, so no one will be able to hide the Ukrainian interest somewhere in political offices',
+    id: 'waeF7Brbx6U',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 29',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-29T09:47:38',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 29`,
+    description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 29',
+    url: 'https://www.youtube.com/watch?v=tGpkFAJAYZE'
+  },
+  {
+    id: 'V3UvTk5X37s',
+    name: 'We have to fight, we can\'t burn emotions so as not to burn out',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-28T23:39:51',
+    topics: ['Пропаганда', 'Контратака', 'Вбиті діти', 'Міжнародні санкції', 'Герої України'],
+    cities: ['Маріуполь', 'Ірпінь', 'Київ'],
+    text: `
+**Wise people of a strong country!**
+
+Today we have good news. Our defenders are advancing in the Kyiv region, regaining control over Ukrainian territory.
+
+Irpin was liberated. Well done! I am grateful to everyone who worked for this result. The occupiers are pushed away from Irpin. Pushed away from Kyiv.
+
+However, it is too early to talk about security in this part of our region. The fighting continues.
+
+Russian troops control the north of Kyiv region, have the resources and manpower. They are trying to restore the destroyed units. The level of their losses, even at 90%, is not an argument for them to stop. Hundreds and hundreds of units of burned and abandoned enemy equipment do not convince them that this will happen to everyone.
+
+Chernihiv, Sumy, Kharkiv regions, Donbas, southern Ukraine - the situation everywhere remains tense, very difficult.
+
+This is a ruthless war against our nation, against our people, against our children.
+
+As of today, 143 children are known to have died. Mariupol remains blocked. Russian troops did not allow any humanitarian corridor to be organized today, they did not allow "silence". Therefore, the situation must now be perceived in a balanced, wise way. As much as possible. Without excessive euphoria from success. But also without getting yourself worked up. We still need time. We still need weapons. We still have to fight, we have to be patient. We can't burn emotions right now. We can't set expectations too high. Just so as not to burn out.
+
+I spoke with the leaders of the partner countries. It was a very active diplomatic day.
+
+Prime Minister of the United Kingdom Johnson, Prime Minister of Canada Trudeau, Chancellor of Germany Scholz, Prime Minister of Italy Draghi and President of Azerbaijan Ilham Aliyev.
+
+We agreed with Britain to further support our defense and strengthen sanctions against the Russian Federation. Canada also supports a tougher response from the world to the catastrophe created by Russian troops in Ukrainian cities.
+
+In a conversation with German Chancellor Scholz, I also paid considerable attention to the need to increase sanction pressure on Russia.
+
+I thanked the President of Azerbaijan for the humanitarian support provided to Ukraine, informed about the state of affairs in the territories where Russian troops entered.
+
+Italy has agreed to become one of the guarantors of Ukraine's security in the relevant new system of guarantees that we are elaborating.
+
+I will continue this activity tomorrow. I will talk to other world leaders. I will work with international organizations, with the nations of Europe and the world.
+
+Ukraine cannot and will not agree with the passive sanctions position of some entities towards Russia. There should be no "suspended" sanctions packages - that if the Russian troops do something, then there will be some answer...
+
+We went through this story last year when we said that strong preventive sanctions against Russia were needed to prevent an invasion. The preventive package was not made. A full-scale war has begun. There are now many hints and warnings that sanctions will be tightened, such as an embargo on Russian oil supplies to Europe, if Russia uses chemical weapons. There are simply no words.
+
+Just think about what it all came down to. Waiting for chemical weapons... We, living people, have to wait… Doesn't everything that the Russian military is doing and has already done deserve an oil embargo? Don't phosphorus bombs deserve that? Do the shelled chemical production or nuclear power plant deserve that?
+
+It is important for us that the sanctions packages are effective and substantial enough, given what is already being done against Ukraine by the Russian Federation.
+
+If the sanctions packages are weak or do not work enough, if they can be circumvented, it creates a dangerous illusion for the Russian leadership that they can continue to afford what they are doing now. And Ukrainians pay for it with their lives. Thousands of lives.
+
+Therefore, starting this week, we are creating a group of experts at the President's Office - Ukrainian and international, who will constantly analyze the sanctions against Russia - what they really influence.
+
+Our goal is for the sanctions to work as intended. And so that there is no possibility to circumvent them. This must be a goal for the whole democratic world, without exception. No exception.
+
+During the week I will speak in the parliaments of the partner countries: Denmark, Norway, the Netherlands, Greece, Australia. It is important that these are speeches not only in front of politicians, but also in front of societies.
+
+In front of millions of people who want to hear Ukraine and are ready to hear it to help and support. Who feel that we are fighting for our common freedom. One for all people on our earth.
+
+I will emphasize everywhere that no one has the right to use the lives of Ukrainians to save any income in Russia or income common with Russia. And Ukrainians should not die just because someone cannot find enough courage to hand over the necessary weapons to Ukraine.
+
+Fear always makes you an accomplice. If someone is afraid of Russia, if he or she is afraid to make the necessary decisions that are important to us, in particular for us to get planes, tanks, necessary artillery, shells, it makes these people responsible for the catastrophe created by Russian troops in our cities, too.
+
+Because if you could save, you had to save.
+
+The peoples of Europe, the peoples of the world will definitely hear and support me. And all politicians should think now what they will have left if they do not correspond to the position of their people.
+
+And finally. Already traditional.
+
+Just before delivering this address to you, dear Ukrainians, I signed two important decrees on awarding servicemen of the Armed Forces of Ukraine with state awards. At the request of our Commander-in-Chief, 302 of our defenders are awarded.
+
+I am grateful to all of you for your service!
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Today we have good news. Our defenders are advancing in the Kyiv region, regaining control over Ukrainian territory. However, it is too early to talk about security in this part of our region. The fighting continues.',
+    url: 'https://www.youtube.com/watch?v=V3UvTk5X37s'
+  },
+  {
+    id: 'f6A7bKGJpEQ',
+    name: 'The week is planned to be very busy, so no one will be able to hide the Ukrainian interest somewhere in political offices',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-28T00:04:05',
@@ -56,7 +148,7 @@ May the memory of all our heroes live forever. May the memory of everyone who ga
 **Glory to Ukraine!**
     `,
     description: 'Все більше людей у світі – на боці України, на боці добра у цій битві зі злом. І якщо політики десь не вміють йти за людьми, ми їх навчимо. Це основа демократії та нашого національного характеру.',
-    url: 'https://www.youtube.com/watch?v=lTWxYNR4NBQ'
+    url: 'https://www.youtube.com/watch?v=f6A7bKGJpEQ'
   },
   {
     id: 'JE69OHEb9KY',

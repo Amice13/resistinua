@@ -118,6 +118,7 @@ const en = {
   'Київ': 'Kyiv',
   'Козаровичі': 'Kozarovychi',
   'Конотоп': 'Konotop',
+  'Контратака': 'Counterattack',
   'Контроль цін': 'Price control',
   'Координаційний центр': 'Coordination centre',
   'Копірайтинг': 'Copywriter',
