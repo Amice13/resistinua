@@ -1,5 +1,103 @@
 const source = [
   {
+    id: 'GPnO0gVP8Gs',
+    name: 'Briefing by Andriy Yermak, Head of the Office of the President of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Єрмак'],
+    date: '2022-03-25T23:25:11',
+    topics: ['Постачання зброї', 'Міжнародні санкції', 'Гуманітарні коридори', 'Міжнародні переговори', 'Гарантії безпеки'],
+    cities: ['Маріуполь', 'Чернігів'],
+    text: `Our allies and partners are working to introduce a new sanctions package against Russia. Ukraine also needs clearly and qualitatively prescribed legally effective and binding international security guarantees. The horrors that the Russians have brought to the Ukrainian people must never be repeated.`,
+    description: 'Our allies and partners are working to introduce a new sanctions package against Russia. Ukraine also needs clearly and qualitatively prescribed legally effective and binding international security guarantees. The horrors that the Russians have brought to the Ukrainian people must never be repeated.',
+    url: 'https://www.youtube.com/watch?v=GPnO0gVP8Gs'
+  },
+  {
+    id: 'tOMgSxk7O1A',
+    name: 'Signals from the negotiations can be called positive, but they do not silence the explosion of Russian shells',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-29T22:35:18',
+    topics: ['Ракетний удар', 'Міжнародні переговори', 'Міжнародні санкції', 'Соціальні виплати', 'Герої України', 'Відбудова України'],
+    cities: ['Чорнобаївка', 'Київ'],
+    text: `
+**Wise people of a strong country!**
+
+The 34th day of the full-scale invasion of Russia and our full-scale defense is coming to an end. Successful defense.
+
+I'm sure you saw the news today that the Russian military command allegedly decided to "reduce hostilities in the directions of Kyiv and Chernihiv."
+
+Well, the same can be said about Chornobaivka - as if the Russian aviation simply decided to fly less, and the Russian military vehicles - to drive less. I am grateful to all our defenders, to all those who ensure the defense of Kyiv. It is their brave and effective actions that force the enemy to retreat in this direction.
+
+However, we should not lose vigilance. The situation has not become easier. The scale of the challenges has not diminished. The Russian army still has significant potential to continue attacks against our state. They still have a lot of equipment and enough people completely deprived of rights whom they can send to the cauldron of war.
+
+Therefore, we stay alert and do not reduce our defense efforts. Both in the north of our state and in all other regions of Ukraine, where Russian troops have temporarily entered. The defense of Ukraine is the number one task now, and everything else is derived from it.
+
+It is on this basis that I consider the messages on the negotiation process, which is underway at various levels with representatives of the Russian Federation.
+
+The enemy is still in our territory. The shelling of our cities continues. Mariupol is blocked. Missile and air strikes do not stop. This is the reality. These are the facts.
+
+That is why the Armed Forces of Ukraine, our intelligence and all those who have joined the defense of the state are the only guarantee of our survival today. As a nation. As a state.
+
+The guarantee that works.
+
+Yes, we can call positive the signals we hear from the negotiating platform. But these signals do not silence the explosion of Russian shells.
+
+Of course, we see all the risks. Of course, we see no reason to trust the words of certain representatives of a state that continues to fight for our destruction. Ukrainians are not naive people. Ukrainians have already learned during these 34 days of invasion and over the past eight years of the war in Donbas that only a concrete result can be trusted. The facts - if they change on our land.
+
+Of course, Ukraine is willing to negotiate and will continue the negotiation process. To the extent that really depends on us. We expect to get the result. There must be real security for us, for our state, for sovereignty, for our people. Russian troops must leave the occupied territories. Ukraine's sovereignty and territorial integrity must be guaranteed. There can be no compromise on sovereignty and our territorial integrity. And there will not be any.
+
+These are clear principles. This is a clear vision of the possible outcome. And to those on social networks who perceive words as if they are facts already, I want to remind one thing: we live in a democratic state and fight for our freedom. For freedom for our people.
+
+Therefore, any decisions that are important for all our people must be made not by one person or a group of people with any political views, but by all our people. The wise people of Ukraine.
+
+And certain countries should not even expect that certain negotiations will facilitate the lifting of sanctions against the Russian Federation. The question of sanctions cannot even be raised until the war is over, until we get back what’s ours and until we restore justice.
+
+On the contrary, sanctions must be strengthened. Intensified weekly. And they must be effective. Not just for headlines in the media that sanctions have been imposed, but for real peace. Real.
+
+And to ensure this, a team of Ukrainian and international experts has already begun work to assess the effectiveness of the sanctions imposed on Russia. On the Ukrainian side, this area is coordinated by Head of the President's Office Andriy Yermak, and on the international side by Michael McFaul.
+
+During the day the rescue operation was ongoing in Mykolaiv. The debris of the building of the regional administration destroyed by Russian missile strikes was dismantled. As of now, 8 people have been reported killed and 30 wounded. It is likely that these are not final figures.
+
+The Russian troops hit Mykolaiv very insidiously. At a time when people came to their workplaces in the morning. Thank God, most of those in the building managed to evacuate when they heard an air alarm.
+
+This one more act of the Russian so-called denazification of Mykolaiv took place in the morning after the anniversary of liberation of the city from Nazi invaders. Mykolaiv residents remember the day of March 28, 1944. And they see who the Russian troops trying to capture their city now look like.
+
+I spoke about Mykolaiv today in my address to the Danish Parliament and the Danish people. I invited the society of this country to take part in the reconstruction of the city and the region after the war. In the framework of our program of Ukraine's reconstruction, we involve partner states, leading companies and the best specialists in order to guarantee the speed and quality of the reconstruction of our state.
+
+As I was told, this proposal was very positively received in Denmark.
+
+There is also important news from our government officials. As of today, the new functionality of our "Diia" state service will be available. As I promised, the state will compensate for the loss of a house or apartment as a result of hostilities. Every citizen of ours can already submit an application in "Diia".
+
+Applications are already available in the mobile application. You need to update the app to see this new service. And in a week it will be available offline - in the centers of administrative services. In itself, the functionality in "Diia" is quite convenient. But all the necessary details will still be clarified by our government.
+
+The main thing is that the state will compensate for every meter of lost real estate.
+
+In addition, government officials today expanded the program to help those institutions that support IDPs from the areas of hostilities.
+
+Another important decision was to allocate 426 million hryvnias to pay the miners' salaries.
+
+Traditionally, I signed several important decrees before delivering this evening address. The first is about awarding communications service employees. I am sincerely grateful to everyone who provides the fundamental basis of our lives. Who gives us connection.
+
+By the way, on the day of the beginning of the Russian invasion, the first missile strike in the JFO area was made against them.
+
+12 people were awarded state awards, 4 - posthumously.
+
+The second signed decree is on awarding 126 servicemen of the Armed Forces of Ukraine, 34 of them - posthumously.
+
+We will always be grateful to each of our defenders for the defense of our state in the Ukrainian Patriotic War against Russia.
+
+**May the memory of everyone who gave life for Ukraine live forever!**
+
+**Glory to each of our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I am grateful to all our defenders, to all those who ensure the defense of Kyiv. It is their brave and effective actions that force the enemy to retreat.',
+    url: 'https://www.youtube.com/watch?v=tOMgSxk7O1A'
+  },
+  {
     id: 'cxWhBATWjew',
     name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 29',
     translated: false,
