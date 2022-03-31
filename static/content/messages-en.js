@@ -1,5 +1,203 @@
 const source = [
   {
+    id: 'jiiDH48FCaI',
+    name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 31',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-31T09:09:35',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 31`,
+    description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 31',
+    url: 'https://www.youtube.com/watch?v=jiiDH48FCaI'
+  },
+  {
+    id: '4IQ6ra_gELA',
+    name: 'We will not give up anything and will fight for every meter of our land, for every person',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-30T23:42:36',
+    topics: ['Міжнародні переговори', 'Постачання зброї', 'Міжнародні санкції', 'Економіка', 'Герої України'],
+    cities: ['Київ', 'Чернігів'],
+    text: `
+**Dear Ukrainians!**
+
+Today I have few words, not much time, a lot of emotions and even more tasks. It is that kind of moment. A turning point, when we can and should talk only about the most important thing.
+
+Yes, there is an ongoing negotiation process. But these are still words. So far no specifics.
+
+There are also other words about the alleged withdrawal of Russian troops from Kyiv and Chernihiv. About the alleged reduction of activity of occupiers in these directions. We know that this is not a withdrawal, but the consequences of exile. Consequences of the work of our defenders. But we also see that at the same time there is an accumulation of Russian troops for new strikes in Donbas. And we are preparing for this.
+
+We do not believe anyone - we do not trust any beautiful verbal constructions. There is a real situation on the battlefield. And now - this is the most important thing. We will not give up anything. And we will fight for every meter of our land, for every our person.
+
+In the current situation of our state, there should be no such discussions to which society and our politicians are accustomed in peacetime.
+
+If someone pretends to be able to teach our Armed Forces how to fight, how to resist the enemy, the best way to do it is to go to the battlefield directly.
+
+Not from a chair at home or from the place where you left for safety. But from the area of real hostilities. If you are not ready for this, you should not even start teaching our defenders.
+
+Today was a very active diplomatic day for me. A difficult one. Priorities are known. There are three of them: weapons for Ukraine, new sanctions against Russia and financial support for our state.
+
+A conversation took place with US President Biden. Very detailed, lasted an hour.
+
+Of course, I thanked the United States for a new $ 1 billion humanitarian aid package and additional $ 500 million in direct budget support. And I stressed that right now is a turning point.
+
+I told President Biden what Ukraine needs. And I was as sincere as possible with him. The support of the United States is vital for us. And now it is especially important to lend a hand to Ukraine, to show all the power of the democratic world.
+
+And if we want to fight for freedom together, then we ask our partners ... And if we really fight for freedom and protection for democracies together, then we have the right to demand help in this crucial difficult moment. Tanks, planes, artillery systems... Freedom must be armed no worse than tyranny.
+
+I also spoke about this today in an address to the Norwegian parliament and people. To one of the states that supported us significantly. I called for more help to Ukraine. With weapons and sanctions against Russia as well.
+
+I spoke today with the President of Egypt and the Crown Prince of the United Arab Emirates. I have done, am doing and will do my best so that our people can defend themselves until justice is restored.
+
+On Ukrainian soil and in the Black Sea region. This is our fundamental interest. This is our survival. It is for the survival of the Ukrainian people that we are now fighting. In this war, without exaggeration, the Patriotic War against Russia.
+
+And now I want to mention a few more important things.
+
+First. There are those who work together with everyone to defend the state. So that Ukraine can gain its future. We appreciate the work of each such person. And there are those who waste time and work only to stay in office. Today I signed the first decree to recall such a person. Such an Ambassador of Ukraine. From Morocco. The Ambassador from Georgia was also recalled.
+
+With all due respect: if there are no weapons, no sanctions, no restrictions for Russian business - please look for another job.
+
+I look forward to concrete results in the coming days from our representatives in Latin America, the Middle East, Southeast Asia and Africa.
+
+I expect the same results from military attaches in the coming days. The diplomatic frontline is one of the key frontlines. And everyone there must work as efficiently as possible to win and help the army. Each on the diplomatic frontline must work just as each of our defenders on the battlefield.
+
+And the second point. Traditionally, today, before delivering this address, at the request of the Commander-in-Chief, I signed a decree on state awards to our military. 122 defenders, 23 of them posthumously.
+
+**Eternal memory to all who died for Ukraine!**
+
+**Eternal glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'In the current situation of our state, there should be no such discussions to which society and our politicians are accustomed in peacetime.',
+    url: 'https://www.youtube.com/watch?v=4IQ6ra_gELA'
+  },
+  {
+    id: 'KxMcHXJy2YI',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 30',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-30T21:30:59',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 30`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 30',
+    url: 'https://www.youtube.com/watch?v=KxMcHXJy2YI'
+  },
+  {
+    id: 'SftI66Q3ZCA',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Norwegian Storting',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-30T16:47:08',
+    topics: ['Воєнний злочин', 'Міжнародна підтримка', 'Постачання зброї', 'Міжнародні санкції', 'Енергетика'],
+    cities: ['Чорнобаївка', 'Київ'],
+    text: `
+**Mr. President of the Storting!**
+
+**Mr. Prime Minister!**
+
+**Members of the Government, dear deputies!**
+
+**Norwegian people!**
+
+It is a great honor for me to address you on behalf of the Ukrainian people.
+
+Today is the 35th day of Russia's full-scale invasion of Ukraine. After 8 years of war in the east of our state, in Donbas, Russian troops went on the offensive from three directions at once - from the north, east and south. They attacked us on land, in the air and from the sea.
+
+Russian missiles and air bombs hit our cities and civilian infrastructure every day and night. There are no forbidden targets for Russian troops. They attack everything. They attack hospitals and airports, food warehouses and residential areas.
+
+Ukraine's losses are enormous. Tens of thousands of houses were destroyed, dozens of cities and villages were burned, millions of people were left without the opportunity to live normally.
+
+The columns of Russian armored vehicles are not decreasing. Although we have already destroyed more Russian tanks and other combat vehicles than Moscow has lost in any war in the last 50 years.
+
+Russia's treacherous actions at sea deserve special attention, as it is one of the greatest threats to international security of all that has emerged since World War II. Ukrainian ports in the Black Sea and the Sea of Azov have been blocked by Russia since the first day of their invasion. About a hundred ships cannot enter the Mediterranean Sea. Some ships were simply hijacked - this is piracy for theft of cargo. Several ships were fired at. But the blockade of ports was implemented by Russia not just by the navy. They mined the sea. And now the mines planted by Russian forces are drifting at sea. And this is a danger for anyone: for any ships and ports of any country in the Black Sea region.
+
+One of these mines was recently cleared in time in the Bosphorus. Another - near the Bulgarian border. Another - near the coast of Romania. I don't even want to imagine what will happen if some of these mines are not cleared in time. Who will be affected then? Maybe ferries, God forbid. Or passenger liners. Or merchant ships. Or possibly tankers, the explosion of which could lead not only to human casualties, but also to a large-scale environmental disaster. And then Russia will say again, as always, that it is not them. As it has said many times when killing critics of the Russian government in Europe or even shooting down the Malaysian Boeing in the sky over Donbas.
+
+The war is not limited to our borders now. No other state since World War II and the Nazi aggression at sea has posed such a threat to free navigation as Russia has already posed.
+
+Think about it - how do they look at it in those regions of the world where there are potential aggressors and new wars with neighbors are quite possible? They are waiting there to see if Russia will be punished enough for its actions. These horrible, aggressive actions. If not, you will see: everything we are experiencing now will be repeated in other regions.
+
+**Ladies and Gentlemen!**
+
+**Norwegian people!**
+
+We have no common borders with you, but we have a common neighbor who denies all our common values. For the Russian state in its current condition neither the freedom of nations nor the freedom of human matters.
+
+In Russia, universally recognized human rights are denied. It's not that there is no security for minorities, they can just be killed there. And they are being killed.
+
+I'm sure you know all about it. You know that there is no rule of law and fair trial. You know that splitting and destroying European democracies is a long-standing policy of the Russian Federation. Russia's war against Ukraine simply continues all this. It is an attempt to destroy everything that Europe is holding on to, what we are holding on to. Therefore, it is an aggression that aims to go beyond our borders.
+
+I think you are experiencing new risks near your border with Russia. A number of Russian troops that has no normal explanation has already been amassed in the Arctic region. For what? Against whom?
+
+The future of Europe - the whole continent from north to south, from west to east - is being decided right now. On our land, on Ukrainian soil, in Ukrainian air, in Ukrainian sea. So that your soldiers do not have to defend NATO's eastern flank, so that Russian mines do not drift to your ports and fjords, so that your people do not have to get used to the sound of air alarms and so that Russian tanks are not amassed at your border, we must stop the aggression of the Russian Federation together and only together.
+
+I am grateful to your Government and to the whole of your society for the tangible support you have already given to our state. Including for the help with weapons. You have taken historic steps by giving us what we need in the struggle for freedom and against tyranny.
+
+But the war continues. Russia is sending new forces to our land to continue to destroy us, to destroy Ukrainians. We must do more to stop the war!
+
+The first and most important thing is weapons. Freedom must be armed no worse than tyranny. I will be very specific in these walls, in your walls. Believe me, we are losing specific people, specific cities are being destroyed. So I want to make it clear what we need. In particular, anti-ship weapons - Harpoon missiles, as well as air-defense systems - NASAMS. In addition, we need weapons to destroy armored vehicles and artillery systems.
+
+All the weapons you can help us with will be used only to protect our freedom, your freedom. Only to protect the freedom and security you enjoy with other Europeans.
+
+The second thing is sanctions. The only way that can motivate Russia to seek peace. I am convinced that the country that annually awards the Nobel Peace Prize understands better than anyone else what peace is worth and how we need it. How valuable every effort on the way to peace is. Therefore, new sanctions packages must be introduced weekly, without pauses. The stronger they are, the sooner we will restore peace.
+
+I am grateful to Norway for joining the EU sanctions. But I ask you to do something else as well. It is important that European companies do not help this military machine, which has already killed thousands of our people, destroyed dozens of cities completely. No krone, I beg you, no euro of taxes that help Russian aggression!
+
+For example, your company MOTUS TECH and other companies must stop supporting Russia's ability to destroy neighbors. How can one supply ship equipment to Russia when it uses its fleet to mine the sea and destroy any opportunities for free navigation?
+
+Also, the European Union, and therefore, I hope, Norway, must finally implement a ban on Russian ships using ports on the continent. As long as Russia blocks our ports, it has no right to use all the ports of the free world.
+
+I want to emphasize: this is not a question of money, no! This is a question of freedom and security of navigation in the world.
+
+Third, you are one of the most responsible suppliers of energy resources in the world. Confidence of the whole world in Norway has always been and I am sure will be at the highest level. This contrasts sharply with Russia's behavior in energy supplies.
+
+It is you who can make a decisive contribution to Europe's energy security by providing the necessary resources for both the European Union and Ukraine. We have already started a dialogue on the supply of about 5 billion cubic meters of gas to Ukraine for the next heating season. I hope this will be the basis for our long-term cooperation in this area.
+
+**Ladies and Gentlemen!**
+
+**Norwegian people!**
+
+Looking at our common path, we always meet in history in difficult yet defining moments for Europe.
+
+Like a thousand years ago, when the Norwegian Vikings were frequent visitors in Kyiv and participated in the formation of the first Kyiv state. Or - Garðaríki. This is what the lands of Rus’-Ukraine were called in Scandinavian sagas. The country of fortresses. The country of cities. Both our and your ancestors lived in them more than a thousand years ago.
+
+Today, Russian bombs are flying at our land and our people. At the land where the Ukrainian Princess Elisiv of Kyiv was born and grew up. Wife of King Harald III of Norway, mother of King Olaf the Peaceful, grandmother of Magnus III, great-grandmother of Eystein I and Sigurd the Crusader.
+
+These are the pages of our common history! History of Kyivan Rus’. And this history was created on this land and by our people. And we are defending it together again.
+
+This was the case 77 years ago, when Ukrainians, along with other peoples of the anti-Hitler coalition, liberated European land from Nazi invaders. Fedir Kompaniyets, a Ukrainian from the Sumy region, was the first soldier to enter the liberated Kirkenes in October 1944 at the head of his unit. Now in his small homeland - in the Sumy region - fierce battles with Russian invaders are taking place.
+
+Ukrainians united as much as possible to repel this aggression. To protect our state and our way of life - democratic, free, with full protection of rights and freedoms for everyone.
+
+The price is horrible for us - today we know about the death of 145 children, and this is only an officially confirmed number. It is not possible to establish the full number of dead in the occupied areas. It is likely that we have lost hundreds - think about it! - hundreds of children. Just children.
+
+After this war we will have not only to rebuild the country physically - rebuild our cities, demine our land, our sea. We will have to rehabilitate people, both military and civilian. Heal after injuries, after everything they had to go through. I know that your country has a lot of experience in rehabilitation. And this is something you can also help us with.
+
+And now I invite you to join our project of reconstruction of Ukraine. The colossal losses we have suffered mean that the amount of recovery, the amount of investment required will also be colossal. As one of the world's most responsible investors, Norway can do much to restore stability in Eastern Europe.
+
+And then, I am sure, we in Ukraine will be able to adopt one of your extraordinary traditions. A wonderful tradition. The one that characterizes you the most - peaceful people, a society built on the principles of good.
+
+Every year on May 17, on Constitution Day, you organize an extremely sincere celebration - a parade of schoolchildren. Children from all over Norway take part in it. This year, our children will go with your children - Ukrainians who came to you for protection and security.
+
+And I hope that soon, when we manage to restore peace in Ukraine together, and it will happen, I will be able to invite you, to invite you and your children to take part in such a parade in Kyiv on one of our holidays. To celebrate our common freedom, our common right to a happy future for our children. In peace. In Ukraine. In Europe.
+
+Because, as they say, if a rock breaks off from Europe, Europe becomes smaller. So, we must do everything to ensure that a rock like Ukraine is always with Europe. Only together.
+
+**Thank you Norway!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The war is not limited to our borders now. No other state since World War II and the Nazi aggression at sea has posed such a threat to free navigation as Russia has already posed.',
+    url: 'https://www.youtube.com/watch?v=SftI66Q3ZCA'
+  },
+  {
     id: 'nCWRSCOqFnQ',
     name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 30',
     translated: true,
