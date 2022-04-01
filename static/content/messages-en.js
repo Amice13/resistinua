@@ -1,6 +1,548 @@
 const source = [
   {
-    id: 'jiiDH48FCaI',
+    id: 'ENHxz0w6Zrs',
+    name: 'We all equally want to win, but there will be battles ahead',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-31T23:39:31',
+    topics: ['Контратака', 'Зрадники', 'Міжнародні санкції', 'Міжнародна підтримка', 'Відшкодування майна'],
+    cities: ['Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+The 36th day of our nationwide defense after eight years of war in Donbas is coming to an end. It’s hard to believe that, but March has already passed. Absolutely imperceptible!
+
+The passage of time is somehow not even noticed. Every day and every night has become virtually the same for us. The same day, the same night.
+
+And with one task for all - to protect ourselves, save people, rebuff invaders. Drive them out.
+
+All this March and five days of February, the invaders have been trying to break in and gain a foothold in our house from different directions - from land, from the sky, from the sea. They go, fly, swim... There is so much evil in them, so much thirst for destruction that it reminds not of people, but of something otherworldly. Some monsters that burn and loot, attack and try to kill. Some hellish chimeras.
+
+But when you are on your land, everything helps you. The land itself, rivers, every person. Everyone, even the one you didn't expect from before. We endured much more than the enemy expected.
+
+They said - three or five days. They thought that this would be enough for them to seize our entire state. And it’s already 36. And we are standing. And we will continue to fight. Until the end.
+
+Until we have strength and opportunities.
+
+So that there are no monsters left on our land. So that if chimeras (points to the House with Chimeras - ed.), then native and good. The ones protecting us.
+
+I am sure that it is extremely pleasant for each of you to read and watch the news that Ukrainian cities are gradually being liberated from the occupiers.
+
+And so it is. Our Armed Forces, the National Police and the National Guard, intelligence are doing great. Absolute gratitude to them!
+
+To the north of Kyiv, in the Chernihiv direction, in the Sumy region, the expulsion of the occupiers continues. They themselves are aware that they can no longer withstand the intensity of hostilities they could have maintained in the first half of March.
+
+But we must also realize that for the Russian military, this is part of their tactics. All this is not occasional. We know their plans. We know what they are planning and what they are doing.
+
+We know that they are moving away from the areas where we are beating them to focus on others that are very important. On those where it can be difficult for us.
+
+That is why it is very important for everyone to show restraint. Restraint in emotions. Restraint in worries. We all equally want to win. Equally!
+
+But there will be battles ahead. We still have a very difficult path to cover to get everything we strive for.
+
+Of course, everyone should motivate our military, each other, and support our defense. Children - with "likes". Parents - with a warm word. Volunteers - with help. The people and the state - with all the resources and opportunities that we have, that are available in Ukraine.
+
+Restraint in emotions, readiness to fight until we win and proper motivation for our military are essential elements.
+
+I also work on motivation for them. Daily. Like each of us.
+
+As always, before delivering the address, I signed a decree awarding our heroes. 136 servicemen of the Armed Forces of Ukraine. Thank you to everyone!
+
+And today another decision was made. Regarding antiheroes. Now I do not have time to deal with all the traitors. But gradually they will all be punished.
+
+That is why the ex-chief of the Main Department of Internal Security of the Security Service of Ukraine Naumov Andriy Olehovych and the former head of the Office of the Security Service of Ukraine in the Kherson region Kryvoruchko Serhiy Oleksandrovych are no longer generals.
+
+According to Article 48 of the Disciplinary Statute of the Armed Forces of Ukraine, those servicemen among senior officers who have not decided where their homeland is, who violate the military oath of allegiance to the Ukrainian people as regards the protection of our state, its freedom and independence, will inevitably be deprived of senior military ranks. Random generals don't belong here!
+
+And to the real heroes of the Security Service - the same absolute gratitude, just as to each and everyone who sincerely defends our state. There are really a lot of heroes among the servicemen. We are grateful to them!
+
+The situation in the south and in Donbas remains extremely difficult.
+
+The invaders are allocating their sick creativity to the temporarily occupied areas of the Kherson region. They are trying to organize some of their incomprehensible structures there, they are trying to figure out how to consolidate their presence there.
+
+Of course, this is hopeless for them. The more active they are there, the more substantial the losses of Russia itself will be in the end. The losses of Russians themselves. Because who else will pay for the occupation of a foreign land?
+
+Also in Donbas, in Mariupol, in the Kharkiv direction, Russian troops are accumulating the potential for strikes. Powerful strikes. We will defend ourselves. We will do everything we can to stop the occupiers and clear our land of their evil and foolish chimeras.
+
+Today I addressed the parliaments of our partner countries: Australia, the Netherlands and Belgium. I felt total support. I am waiting for concrete steps. I called for tougher sanctions against Russia. We have to put pressure on the aggressor until the aggression is over.
+
+I also spoke about this with President of the European Council Charles Michel. We need more support from our partners right now. When the Russian military is concentrating additional forces in certain areas.
+
+In addition to sanctions, we discussed with Charles Michel economic support for Ukraine, financing of priority projects. The dynamics of our movement towards full membership in the EU.
+
+The sanctions policy was one of the topics of conversation between Head of the President's Office Andriy Yermak and US National Security Advisor Jacob Sullivan.
+
+The United States has imposed a new package of sanctions against Russia. We are grateful. It will not allow the current sanctions to be circumvented - we have already noticed such attempts. It will also limit the work of sensitive sectors of the Russian economy - its defense sector.
+
+Let Moscow not forget that the sanctions policy will only be continued and intensified. As long as there is no peace - sanctions are needed. Until Russia begins to invest as sincerely in the search for peace as it invests in the destruction of our state, sanctions will remain unalterable.
+
+I also held talks with President of Turkey Erdoğan today. We spoke very specifically. In particular, about the prospects of negotiations in Turkey with the Russian Federation. And also about the creation of an effective system of guarantees for our state. About the security we have always needed and to the real provision of which we have come closer. I am grateful for Turkey's readiness to become a guarantor of security for Ukraine.
+
+And finally. Both I and government officials have already said that the "Diia" state service has started accepting applications for compensation for the destroyed real estate of our citizens. The state will return to our people everything that the occupiers destroyed - houses, apartments, etc.
+
+In a few days, 25,491 applications have already been submitted. The number of residents in these houses and these apartments, which were destroyed, according to our estimates is 63 thousand 471 people. But we know that more needs to be restored. Much more.
+
+So tell everyone who needs it about such a government program. An important program. The opportunity to submit applications will soon be available offline, in the administrative service centers, in the mode usual for many Ukrainians.
+
+No matter what, we all have to think about the future. About what Ukraine will be like after this war. How we will live. Because this is a war for our future. This is a war for our lives, in which we have only one way - to gain peace for Ukraine. To gain Ukraine's security.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Every day and every night has become virtually the same for us. The same day, the same night. And with one task for all - to protect ourselves, save people, rebuff invaders. Drive them out.',
+    url: 'https://www.youtube.com/watch?v=ENHxz0w6Zrs'
+  },
+  {
+    id: '-fQDQhdyUwY',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 31',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-03-31T21:42:30',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 31`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on March 31',
+    url: 'https://www.youtube.com/watch?v=-fQDQhdyUwY'
+  },
+  {
+    id: 'ENHxz0w6Zrs',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Federal Parliament of Belgium',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-31T16:54:46',
+    topics: ['Ракетний удар', 'Гуманітарна катастрофа', 'Міжнародні санкції', 'Постачання зброї', 'Вступ до ЄС'],
+    cities: ['Маріуполь'],
+    text: `
+**Dear Mrs. President of the Chamber of Representatives!**
+
+**Dear Mrs. President of the Senate!**
+
+**Dear Mr. Prime Minister!**
+
+**Dear Ladies and Gentlemen, deputies and members of the government!**
+
+**Dear Belgian people!**
+
+Eight years of war. 36 days of full-scale invasion of the Russian Federation. Did many people expect that our state and our people would be able to resist Russian troops for so long?
+
+Let's be honest: no. Few. They thought we would fall under the blows of Russian troops. But we withstood. Our people endured. We are fighting. We are defending our freedom, amazing the world with the courage of Ukrainian heroes, our Armed Forces of Ukraine and all citizens of Ukraine who do not surrender, who believe in victory.
+
+In the south of our state there is a city of Mariupol, which you mentioned today. I am very grateful to you, Madam Speaker. One of the most promising and economically powerful cities in Ukraine. That was before this war. And now more than 90% of all buildings in this city are completely destroyed by Russian strikes - aircraft, artillery, mortars, tanks. Thousands of peaceful Mariupol residents died. People are buried just in the city. In the courtyards of high-rise buildings. Or rather, what is left of the high-rise buildings.
+
+Mariupol has been under complete blockade for more than three weeks. The Russian military closed all entrances to the city and blocked access from the sea. You all know these details, there is nothing in the city: no water, no food, no medicine, no life. There is nothing you need to sustain any life.
+
+But Mariupol does not give up. Mariupol continues to fight the occupiers. Its defenders had a choice - they could leave the city and give it to the Russian invaders. They did not.
+
+Every day we try to do everything to make the humanitarian corridors from Mariupol work! To save civilians who still remain in the city. Women and children, the elderly… In part, we succeed. But in most cases, the Russian military does not release people into the free territory of Ukraine. And does not allow any humanitarian cargo into Mariupol.
+
+Today it is the most horrific place in Europe. It is hell. It is a catastrophe that everyone knows about, the whole world. But no one is determined enough to help stop the catastrophe in this city and in other cities in our country.
+
+And now I want to ask everyone - I want to ask you, I want to ask all Europeans who hear me now. What do the defenders of Mariupol hope for? What do the defenders of other cities, towns and villages of Ukraine hope for? In all those areas where the battles are no less appalling than you had near Ypres. Or maybe it's even worse in Mariupol... I don't know.
+
+Do the defenders of our cities hope for the closure of the skies over Ukraine to Russian missiles and aircraft? They know there is no courage to do so.
+
+Do they think about whether our state meets the criteria for joining the European Union? Our state, which has already given thousands of lives in the war for freedom in Europe...
+
+Do Mariupol residents or defenders of any other city in Ukraine calculate the level of losses of European companies from the termination of business in the Russian market? Do they think about money at all?
+
+No. They do not hope for it. Do not calculate it. Because that's exactly what they deserve.
+
+Agree, these are completely different worlds. The world of those who really fight for freedom. Here and now. Against tyranny. Against a tyranny that wants to split Europe and destroy everything that unites us.
+
+Everything that unites you... And the world of those who are so used to freedom that they don't even want to notice what the struggle for it is worth. The world of those who believe that Russian diamonds in Antwerp, for example, are more important than the war in Eastern Europe.
+
+Or the world of those who believe that the accessibility of European ports to Russian ships is more important than the Russian military machine's attempt to destroy the entire nation around you. 40 million Ukrainians!
+
+The main question in the life of every person is not what this person hopes for, what this person thinks or calculates... The main question is what this person is worthy of.
+
+And I, as the President of a worthy country, address you with quite logical statements. With what is clear to the vast majority of the world, Europe, Europeans in different countries. We have seen these polls, we know how people support us.
+
+Our defenders deserve to receive from Europe for the freedom of which they are fighting the weaponry that will definitely stop Russia's offensive, and therefore the onset of tyranny.
+
+When we are talking about aircraft, tanks, artillery systems, anti-ship weapons, we are talking about what is really needed. And what the countries of the European Union, the countries of NATO have.
+
+Our defenders deserve that European companies finally stop making money together with those who are trying to destroy us.
+
+Our defenders deserve not to think about the criteria, but to know that Ukraine will be a member of the European Union. Because if they lose, if we lose Mariupol and other Ukrainian cities, there will be no strong European Union anymore. Because tyranny will come to take away from you everything you possess and are proud of.
+
+Of course, we do not wish you this. And this is by no means a threat. This is the reality. We feel it. This is a statement of all the facts we live in. A statement of what is clearly visible from Mariupol - the headquarters of the European resistance. Of what is clearly visible from Ukraine - the headquarters of European dignity.
+
+And I am sure that those esteemed headquarters that are located on your beautiful land are fully aware of everything I am telling you. They realize it. Although, perhaps, they do not speak aloud. So let us all together in Europe be worthy of the feats that Ukrainians demonstrate in the war for freedom. For a free Europe and against tyranny. Against Russia.
+
+We are grateful to you, very grateful to your state for the support you have already provided. Belgium was one of the first to provide us with defensive assistance. This is a historical moment, a historical gratitude. We will never forget that.
+
+You have already warmly welcomed more than 30,000 Ukrainians who left their homes because of this war. But it is you, as the heart of Europe, who can inspire all other Europeans to do more. To help us drive the occupiers out of Ukraine and restore the precious peace.
+
+Peace that is worth more than anything, more than any values, more than any diamonds. More than any agreements with Russia. More than any Russian vessel in European ports. More than any barrel of Russian oil.
+
+Each of you knows what needs to be done to restore peace. To be truly worthy of Europe. So help us, do it! Weapons. Sanctions. EU membership.
+
+And soon the future will thank you.
+
+**Glory to all our heroes!**
+
+**Glory to the heroic city of Mariupol!**
+
+**Thank you sincerely to your state!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Our people endured. We are fighting. We are defending our freedom, amazing the world with the courage of Ukrainian heroes, our Armed Forces of Ukraine and all citizens of Ukraine who do not surrender, who believe in victory.',
+    url: 'https://www.youtube.com/watch?v=ENHxz0w6Zrs'
+  },
+  {
+    id: 'W3DOirN9beo',
+    name: 'Address by Prime Minister of Ukraine Denys Shmyhal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-03-31T14:50:56',
+    topics: ['Посівна', 'Економіка', 'Підтримка бізнесу', 'Гуманітарна допомога'],
+    cities: [],
+    text: `
+**Heroic people of a great country.**
+
+The liberation war of the Ukrainian people has been going on for 5 weeks. Our defense forces continue to demilitarize the Russian army, having destroyed more than 4,000 units of various enemy equipment.
+
+This is more than most armies in Europe and the world have.
+
+And while our military is holding firmly the fort, we are building a strong economic front to ensure the army is secured and the country continues to live and work for victory.
+
+Today we can assert that in the last week the country began to return to work.
+
+The business begins to recover after the first shock. The set of decisions in the field of tax, regulatory, customs and credit policy has certainly contributed to this.
+
+At once several of the largest plants start operating.
+
+In a couple of days, more than 120,000 entrepreneurs applied for the transition to a new 2% turnover tax system.
+
+Over the last 24 hours, a thousand new individual entrepreneurs have registered through the Diia system.
+
+Almost 1,500 manufacturing companies have already applied for relocation. Several hundred have already moved or are currently moving from combat areas to continue working!
+
+Sowing campaign has already started in 20 regions of Ukraine. This is really positive news, because at the same time last year sowing campaign began in only 15 regions.
+
+We are cautiously optimistic about the area under main spring crops. According to available data, sowing can be carried out on 6 million hectares of land. This is 80% of the area sown last year.
+
+Today, our farmers are no less courageous and loyal to their front. They are responsible for the future food security of the country and the world. We thank them for their courage and dedication.
+
+Due to the state order for social products, our food industry will expand new capacities and hire new employees. We are talking about 300 such companies.
+
+I would like to recall that the country buys 10 million food packages for Ukrainians who are in frontline cities, and then distributes them among people for free. These packages encapsulate more than 10 key products.
+
+So far, 100% of cereals, pasta, oil, milk and sugar have been purchased. We also continue to purchase canned food, grain, bakery products, tea and coffee and other food.
+
+Ukrzaliznytsia and Ukrposhta in synergy the with civil-military administrations are already delivering and distributing all these packages to people.
+
+We see thousands of small and large businesses across the country returning to service.
+
+That is why I appeal to the banks directors. Lend more actively and boldly to Ukrainian business within the support program "5-7-9". Today, the country needs your determination.
+
+The Government will also soon consider and approve a separate loan product for retail chains to revive their cooperation with Ukrainian producers.
+
+The state creates all the conditions to restart the economy and put it on military rails. This will give us a reserve of strength and resources to defeat the enemy.
+
+The world continues to support Ukraine.
+
+Yesterday I had talks with the Prime Ministers of Poland and Norway. We are grateful for your support.
+
+Norway allocates EUR 20 million to the budget so that the Government can redistribute them to important programs. Prior to that, Norway also allocated EUR 200 million for humanitarian aid.
+
+The Council of Ministers of Poland has adopted a decree blocking coal imports from russia at the national level. In addition, the country plans to abandon russian oil this year.
+
+A worthy position that other EU countries should follow.
+
+Agreed on support from France for EUR 300 million. And about the grant from the European Union for EUR 120 million. These funds will go directly to the budget.
+
+Yesterday, President Volodymyr Zelenskyy also agreed to allocate USD 500 million to Ukraine as direct budget assistance from the United States.
+
+We praise everyone who supports Ukraine and the Ukrainian people.
+
+We continue to receive thousands of tons of humanitarian aid from around the world. Its total volume is already over 163,000 tons. Of these, Ukrzaliznytsia has already delivered 41,000 tons to the regions. Most in Kyiv, Kharkiv and Zaporizhia regions.
+
+We are working on a plan to rebuild Ukraine. To do this, we systematically calculate all losses.
+
+Yesterday Diia portal has already unveiled an opportunity to apply for compensation of the destroyed property. More than 20,000 such applications have been received in one day. All applications will be carefully processed so that after our victory the reconstruction would be systematic.
+
+Apart from that, I would like to inform you that Ukraine is negotiating with the International Atomic Energy Agency (IAEA) to ensure the organization's staff can be present at Ukrainian nuclear power plants. This should contribute to the additional safety of our NPPs and demonstrate Ukraine's openness to such important issues.
+
+We also have agreements to provide various equipment for our nuclear facilities as international aid. Important support. Thank you for it.
+
+Dear Ukrainians. We continue to work. We thank and believe in the Armed Forces and in our defenders. We believe in victory and spare no effort to bring it closer.
+
+**Glory to Ukrainians! Glory to Ukraine!**
+    `,
+    description: 'Сьогодні ми можемо констатувати, що в останній тиждень країна почала повертатися до роботи.',
+    url: 'https://www.youtube.com/watch?v=W3DOirN9beo'
+  },
+  {
+    id: 'Mmi-T8r2kFU',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the States General of the Netherlands',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-31T13:06:59',
+    topics: ['Викрадення людей', 'Воєнний злочин', 'Міжнародні санкції', 'Постачання зброї'],
+    cities: ['Маріуполь'],
+    text: `
+**Mrs. Speaker!**
+
+**Dear members of parliament!**
+
+**Mr. Prime Minister! Mark!**
+
+**Dear Minister of Foreign Affairs, Minister of Defense!**
+
+**Dutch people!**
+
+I have the great honor of becoming the first foreign head of state to address the House of Representatives of the Netherlands and your people. In this format, at such a time.
+
+I am sincerely grateful for this opportunity. For the fact that in these critical circumstances in which my country and our entire continent found themselves, I can explain to you directly what is happening and why it is so important to be together now for all of us, for all Europeans. For all who value peace on our planet. Peace for which millions of people have fought, generations of Europeans. And which was destroyed by one decision, in one moment.
+
+So much has been done since World War II so that what Ukraine is experiencing right now never happens again. But everything repeats. Unfortunately. Only so far for one European country, not for the whole continent.
+
+But World War II began with the destruction of individual states as well. And then it led to the tragedy of Rotterdam, the terrible bombing of London and the massacre that engulfed all of Europe.
+
+If peace on the continent had not been preserved, if the great war had returned with no less brutality than 80 years ago, no one could have a reason to believe that certain state borders would manage to deter aggression.
+
+Especially since many in Russia want to carry this aggression further, further to Europe. The shadow of those ruins of Rotterdam is already hanging over many European cities. Ukraine is just the beginning, if Russia isn’t stopped. If we don't stop it immediately!
+
+36 days! 36! That is how long our state, our people have already been fighting alone against the army, which was considered among the strongest in the world. Russia has been preparing for this campaign against us, against freedom, against our people for decades. They have accumulated as many resources to spend on war, on death, as not every European country can spend on life.
+
+And now these Russian resources are working at full capacity and, by the way, tirelessly. They work in such a way that... No matter how scary it may sound, people are already getting used to it. The world is beginning to adapt. They start to ignore everything they hear about the war. They are getting used to the news about the new bombing of our peaceful cities. About new missile strikes. They are getting used to the updated lists of those killed. Daily reports of the number of destroyed houses and shelled cities and communities no longer evoke emotions.
+
+For many others, the war in Ukraine is becoming routine. Unfortunately, this is true. Routine. But not for those whose lives are in danger every minute.
+
+Who, as residents of our city of Mariupol, has been under complete blockade for more than three weeks already. Without everything: without life, without food, water, basic medicines, without communications. Who is forced to stay in basements, hide anywhere just so as not to die under fire.
+
+But not for those whom Russia has taken to its territory. Simply deported, as the Nazis did in the occupied countries. Thousands of Ukrainian children and tens of thousands of adults were forcibly transported to the territory of the occupying state. Unfortunately, we do not know anything about the fate of most of them.
+
+How to return them? Will they lose touch with their relatives? Will Russia give back these people, these children? These are horrible questions for us. And for some it is becoming a routine that one should not even pay attention to.
+
+We are now at a time when we need to act even faster, even more powerfully than during the first month of the war. When the peoples of Europe, the peoples of the world saw what Russia was doing. And they are all full of indignation, full of desire to help. It's true.
+
+But people's attention and emotions do not focus on the same thing for long. If the situation is not resolved, people may switch to something else.
+
+We have no right to give this war another 36 days! We must all work together to make Russia seek peace as soon as possible!
+
+Hundreds of children were killed. Thousands of people were killed. Tens of thousands of houses were destroyed. Burned cities, villages. Russian occupiers rape women in occupied areas. They loot everything they can, everything they find. They even kill not to achieve any military success anymore. Not to sow terror. They started killing because it is fun for them! Entertainment for people who have as many weapons as they want and no deterrents.
+
+We will never accept this! And we will never stop defending ourselves!
+
+**Ladies and Gentlemen!**
+
+**Dutch people!**
+
+I know that tomorrow your country will celebrate 450 years since the beginning of the armed uprising against tyranny. A fundamental event for your state, for your society.
+
+Under normal circumstances, in my address to you, I would talk about it as you are used to hearing it. As about history, a historical moment. As about your heritage. As about the achievements of generations of people who lived 450 years ago.
+
+But today, as my country struggles against tyranny, I will speak about it solely as about a current event, as about something that must happen here and now. The faster the better.
+
+What was the goal of the founders of the Netherlands? Obviously: freedom, democracy, human dignity, cohesion, cultural, religious diversity.
+
+Since then, the path to everything that shows modern Europe has continued. To the free life of dozens of different nations together - in a single space. To tolerance, which provides an unprecedented level of human respect for each other in human history.
+
+And all this is now under attack again. All this now needs to be defended again. To be defended in the east of Europe, to be defended in our state, in Ukraine. So far only in Ukraine… So far there is a chance to stop the tyranny on our land and drive it back, beyond our Ukrainian border.
+
+I am grateful to you, politicians, I am grateful to all ordinary people for the extremely strong support of my state, our people at this time. For leadership in sanctions. For the principled stance in business activity related to the Russian Federation. For the help you provide to Ukrainian immigrants who have felt family care in your society. This is all extremely valuable!
+
+But Russia does not cease hostilities on the territory of Ukraine. Exactly on the territory of Ukraine. And we have to do much more to restore peace. To protect freedom. To save us as a state. And to really ensure one vital fact: there will never be another war in Europe. Never again!
+
+In 2014, the world did not fully understand why the Russian occupiers came to our land. Then - to the land of Crimea, partly - to the land of Donbas. And you felt it. After they shot down a Malaysian Boeing flying from Amsterdam.
+
+There can be no doubt that this is a totally unjust war. This is a war that the Russian state cannot be forgiven. Hundreds and hundreds of crimes for which everyone must be held accountable. All those who gave criminal orders. Everyone who carried out these criminal orders. And all those who provided political cover for these criminal orders.
+
+Your city, The Hague, the capital of international justice, knows exactly how to do it. I'm sure they will do it! To assert international law. To assert the rule of law. To assert justice that is clear to everyone on Earth.
+
+But for that to happen, sanctions need to be stepped up. Together with other EU countries, you have to do everything possible so that Russia does not have the resources to continue this war, the war in Europe, and so that there is no political opportunity to hide criminals.
+
+Close your ports to Russian ships! Together with all other EU countries. Stop any trade with this country that has forgotten all the lessons of World War II!
+
+Get ready faster to give up Russia's energy resources, so that billions, billions of euros for them do not go to arms production and mass killings in Ukraine.
+
+**Ladies and Gentlemen!**
+
+**Dutch people!**
+
+Tyranny must lose. Tyranny must always lose.
+
+And for that to happen, freedom must get all the weapons it needs to win, to defend itself. The weapons that are available on the continent. The weapons you have.
+
+Ukraine is grateful for the support it has already received from you. From your society. From your state. This support is truly unprecedented. It is truly the support of a leader. But the war is so intense, Russian troops are so active that we need more.
+
+"Stingers" and "Panzerfausts" allow you to hold on, to fight. However, this is not a weapon of victory. We desperately need weapons that can make our skies safe, that we can use to unblock our cities where Russia is artificially creating famine.
+
+We need weapons that can drive the occupiers out of our land. Aircraft, tanks, NASAMS air-defense systems and Spike anti-tank systems, shells, missiles and more. You have this list. And I hope you will find an opportunity to help us as much as you can, to help us with that.
+
+The second point. I urge you to influence international institutions! The crimes of the Russian occupiers must be punished. Deportations, massacres, destruction of civilian infrastructure, bombing of hospitals - all this must be answered by the democratic community.
+
+Imagine: Russian troops are deliberately destroying our agricultural sector! They are mining fields, they are blowing up agricultural machinery now. They are doing everything to destroy our potential, agricultural potential, and provoke a food crisis. Not only in Ukraine - in the world.
+
+And they are doing it in a country that could become one of the most powerful agricultural centers in Europe and the world.
+
+But I am confident that we will be able to overcome all this. I am confident that together we will be able to build even more potential. And become a truly global agricultural power.
+
+Third. We already have to think about rebuilding Ukraine. About how we all - not only Ukrainians, but all Europeans - will return to a peaceful life.
+
+I dream of this day. The day when Ukrainian immigrants who arrived in the European Union after the beginning of the Russian aggression will be able to say "thank you" and return home. Return to rebuilt cities, to restored Ukraine.
+
+And I invite your country to join this project - the project of reconstruction of Ukraine. I urge you to choose a city, a region of our state that can see your care, can feel what you can do.
+
+And for everyone in your country who still has doubts to definitely feel that we, Ukrainians, can be with you - in the European Union.
+
+I am convinced that this will reinforce our common European home. And will make the European project even more perfect.
+
+I believe that this will happen very soon! Because it is absolutely rational. With our potential, with our people, with our ability to defend freedom. And you know this perfectly well! And you know very well, my friend Mark, that our accession to the European Union depends very much on you, on your country.
+
+**I want to thank you for everything!**
+
+**Thank you, the Netherlands!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'So much has been done since World War II so that what Ukraine is experiencing right now never happens again. But everything repeats. Unfortunately.',
+    url: 'https://www.youtube.com/watch?v=Mmi-T8r2kFU'
+  },
+  {
+    id: '9TJfjJWge8c',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Australian Parliament',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-03-31T11:10:48',
+    topics: ['Воєнний злочин', 'Ракетний удар', 'Вбиті діти', 'Гуманітарна катастрофа', 'Викрадення людей', 'Гарантії безпеки', 'Захист мореплавства'],
+    cities: ['Херсон'],
+    text: `
+**Distinguished Mr. Prime Minister!**
+
+**Dear Mr. Speaker of the House of Representatives!**
+
+**Dear Mr. President of the Senate!**
+
+**Dear leader of the opposition!**
+
+**Ladies and gentlemen, members of the government, senators and members of the parliament!**
+
+**Australian people!**
+
+Thank you for the great honor of speaking to you today.
+
+In May 2016, thousands of Australians gathered at Perth Airport to see the Ukrainian "Mriya" for the first time. "Mriya" is the name of our An-225 aircraft. "Mriya" is a dream in English. After covering almost 15,000 kilometers, it delivered to Australia an urgent cargo - a 130-ton electric generator, which your enterprise desperately needed. Delivery by sea would take several months. And the Ukrainian plane did it in a few days.
+
+We have always been proud of our "Mriya". Not because it is the largest on the planet. First of all because it helped people from all over the world by delivering food, drinking water, equipment for peacekeeping and humanitarian missions.
+
+In 2019, after the beginning of the COVID-19 pandemic, our "Mriya" constantly delivered the most necessary medical supplies. That saved people. Adults, children - all. In different countries, on different continents. "Mriya" was bringing life. But now it is impossible.
+
+Impossible, because there is a state that has completely different values than we have, than you have, than the whole civilized world has. And this state started a full-scale war against us.
+
+It bombs and shells peaceful cities and villages, killing our peaceful people. Kills children. Arranges blockades of cities, holding hundreds of thousands of people hostage without water, food, light and heat. Daily. It separates thousands of children from their parents and takes them out, or rather kidnaps them, forcibly relocating to its territory.
+
+And on February 27, as a result of fighting in the city of Hostomel, our plane "Mriya" was burned. Can we say that Russia has destroyed our dream? No. It burned the plane, it burned the iron. It destroyed matter, not soul. The shell, not the essence. Not freedom. Not dignity. Not independence.
+
+We know that our dream cannot be defeated and destroyed. Especially if we can count on the support and help of the free world. On your support, on your help. And as in the story I told above, it is not needed in a few months, it is needed now.
+
+**Ladies and Gentlemen!**
+
+**Australian people!**
+
+The distance between our states is great, thousands of kilometers. We are divided by the seas and oceans, the territories of dozens of other countries, time zones. But this distance simply does not exist for the cruelty and chaos that Russia has brought to Eastern Europe, to the region of our Black and Azov Seas, to our Ukrainian land.
+
+Everything that is happening in our region due to Russia's aggression and that is destroying the lives of our people has already become a real threat to your state and your people. Because this is the nature of evil - it can instantly overcome any distance and any barriers. Destroy life.
+
+For decades, there has been no such threat of nuclear strikes as there is now. Because Russian officials and state propagandists are openly discussing the use of nuclear weapons against those who do not want to obey Russian demands.
+
+For decades, it has not been the case that one state completely blocked the sea for another state and all merchant ships of any country.
+
+But that is exactly what Russia has done. Our part of the Black Sea and the Sea of Azov is now a completely dead sea. And any ship that tries to enter our waters can simply be destroyed by the Russian fleet. More than a hundred merchant ships under various flags are blocked by Russia in our ports!
+
+For decades, there has never been a state in the world that has started a war against a neighboring people, openly declaring its conquest or destruction. So that not even the name of this nation remains, so that there is no possibility of free life for this nation.
+
+Russia has already returned to the world the worst pages of the XX century. The greatest threats of that century. It returned the evil that humanity has long hoped to forget.
+
+But the worst thing is that if Russia is not stopped now, if Russia is not brought to justice, some other countries in the world that dream of a similar war against their neighbors will decide that this is possible for them as well.
+
+The fate of global security is being decided now.
+
+No human is capable of controlling the wind and precipitation on the planet, and therefore no one will be able to save one or another part of the Earth from radiation pollution due to the use of nuclear weapons.
+
+No state on the planet should have even a theoretical possibility to block maritime trade routes and even more so to completely close the sea to other states. I repeat once again: there should not even be a theoretical possibility!
+
+No ruler in the world should count on impunity when considering the prospect of war.
+
+**Ladies and Gentlemen!**
+
+**Australian people!**
+
+After 36 days of Russia's full-scale war against Ukraine, it is safe to say that there is no other way in the world to guarantee global security than to force Russia into silence, into peace. And also to bring it to justice - this is important - for everything it has done against global security.
+
+A state that does not shy away from nuclear blackmail should immediately receive sanctions that demonstrate that blackmail has devastating consequences for the blackmailer.
+
+Effective tools are also needed to bring to justice any state that blocks maritime trade routes. So that no one even has such a temptation - to make the sea dead.
+
+Now there are simply no such tools in the world. Therefore, Australia's leadership can be indispensable in modernizing the global security architecture. As well as in strengthening our anti-war coalition, which is now working to return peace to Ukraine.
+
+It is also necessary to improve the capacity of international institutions created for the responsibility of war criminals and those who commit any criminal act for which the whole world can punish in solidarity, not just one state alone. If this was done in time, life in the world would be much safer.
+
+I am sure that each of you, as well as each of us Ukrainians, remembers the tragedy of MH-17. Malaysian Boeing shot down by the Russian occupiers in the sky over the Ukrainian Donbas. Then 298 people died. My condolences to all the families who lost their loved ones.
+
+But was it possible to bring to justice those who caused this tragedy? No. They are hiding in Russia. And, obviously, received security guarantees from the Russian state. Has Russia paid compensation to the relatives of the victims? No. It still denies its guilt in the tragedy.
+
+Eight years have already passed and justice has not been restored yet. And no one knows how much longer it will take for at least one tragedy to receive a worthy response from the international community, from all of us.
+
+And how many more new tragedies has Russia created or will create?
+
+It is often said that unpunished evil returns. I would add: unpunished evil returns winged, with a sense of omnipotence. If the world had punished Russia for what it did in 2014, there would be none of the horrors of this invasion of Ukraine in 2022.
+
+We need to fix these terrible mistakes now.
+
+I am grateful to Australia for its bipartisan support for our defense against invaders. For the help that your state has already given us. In particular, for 70 thousand tons of coal for the needs of our energy.
+
+But this is just the beginning. Together we can, and therefore must do more. New sanctions against Russia are needed. Strong sanctions. As long as it doesn’t abandon nuclear blackmail, the blockade of the sea, it must pay the highest price. No Russian ship should be allowed into the ports of the free world. Buying Russian oil means paying for the destruction of the foundations of global security. Any business activity with Russia must be completely stopped. Not a single dollar for the elimination of people!
+
+Any attempt by Russia to circumvent sanctions must also be stopped. After all, what kind of sanctions are these, if they can be circumvented thanks to simple schemes?
+
+But above all, we must arm those who are really fighting for freedom. For evil to lose and for Russia to seek peace, Ukraine must have everything it needs on the battlefield.
+
+For example, you have wonderful Bushmaster armored vehicles that can significantly help Ukraine. As well as other models of equipment and weapons that can strengthen our position. If you have the opportunity - Ukraine will be grateful to you.
+
+Now in Ukraine they will definitely do more for our common freedom, for our common security than being covered with dust on your land. The Ukrainian people have already shown the world how sincerely we value freedom. How consistently we are ready to defend it.
+
+Our heroes are fighting against the army that is considered one of the strongest in the world. But all our people, without exception, are already thinking about the future. About how we will live after the war. How we will rebuild our country, our Black Sea region.
+
+We invite the world's leading countries, leading companies and the best specialists to join the project of Ukraine's reconstruction. Take patronage of a region, city or industry of your choice in our country that needs restoration.
+
+Your state has given Ukraine a special status of a like-minded country. But we are not only related in our thoughts - we are also related in our dreams.
+
+Therefore, I invite your beautiful country to look closely at our southern regions, at our coasts of the Black Sea and the Sea of Azov. Restoration of our ports, development of such cities as, for example, Kherson, which is fighting for its freedom today, restoration of the maritime industry of Ukraine can be a special contribution to stability for you after this terrible war.
+
+Together with the fundamental protection of free navigation, this will restore the strength of the old but correct words: whoever is able to defend freedom at sea, is able to defend freedom in the world. I believe you can do it!
+
+And I hope that the Ukrainian community of Australia, our strong Ukrainian community, will join this common work. It will support us now as much as in previous years.
+
+Dear friends, the geographical distance between us is insane. Thousands of kilometers. But what does this distance mean for those who have a common understanding, who see the world the same way, who are bitterly disturbed when the enemy comes, when children are killed, when cities are destroyed, when refugees are shot on the roads, when a peaceful country is turned into a burned territory? Then any distance disappears. Geography means nothing. Only humanity matters. Only a dream of returning to a peaceful life.
+
+**A dream we will fulfill.**
+
+**Definitely. And definitely together.**
+
+**Thank you!**
+
+**Thank you Australia!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We know that our dream cannot be defeated and destroyed. Especially if we can count on the support and help of the free world.світу.',
+    url: 'https://www.youtube.com/watch?v=9TJfjJWge8c'
+  },
+  {
+    id: 'H61QiZpvDoM',
     name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 31',
     translated: true,
     russianTimestamp: '',
@@ -10,12 +552,12 @@ const source = [
     cities: [],
     text: `Iryna Vereshchuk on the work of humanitarian corridors planned for March 31`,
     description: 'Iryna Vereshchuk on the work of humanitarian corridors planned for March 31',
-    url: 'https://www.youtube.com/watch?v=jiiDH48FCaI'
+    url: 'https://www.youtube.com/watch?v=H61QiZpvDoM'
   },
   {
-    id: '4IQ6ra_gELA',
+    id: 'TcrDFyYDL7U',
     name: 'We will not give up anything and will fight for every meter of our land, for every person',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-30T23:42:36',
@@ -73,7 +615,7 @@ And the second point. Traditionally, today, before delivering this address, at t
 **Glory to Ukraine!**
     `,
     description: 'In the current situation of our state, there should be no such discussions to which society and our politicians are accustomed in peacetime.',
-    url: 'https://www.youtube.com/watch?v=4IQ6ra_gELA'
+    url: 'https://www.youtube.com/watch?v=TcrDFyYDL7U'
   },
   {
     id: 'KxMcHXJy2YI',
@@ -89,9 +631,9 @@ And the second point. Traditionally, today, before delivering this address, at t
     url: 'https://www.youtube.com/watch?v=KxMcHXJy2YI'
   },
   {
-    id: 'SftI66Q3ZCA',
+    id: 'wz4yNeabxLg',
     name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Norwegian Storting',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-30T16:47:08',
@@ -195,7 +737,7 @@ Because, as they say, if a rock breaks off from Europe, Europe becomes smaller. 
 **Glory to Ukraine!**
     `,
     description: 'The war is not limited to our borders now. No other state since World War II and the Nazi aggression at sea has posed such a threat to free navigation as Russia has already posed.',
-    url: 'https://www.youtube.com/watch?v=SftI66Q3ZCA'
+    url: 'https://www.youtube.com/watch?v=wz4yNeabxLg'
   },
   {
     id: 'nCWRSCOqFnQ',
