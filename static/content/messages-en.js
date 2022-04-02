@@ -1,8 +1,99 @@
 const source = [
   {
-    id: 'ENHxz0w6Zrs',
-    name: 'We all equally want to win, but there will be battles ahead',
+    id: 'QGBODKE6ejI',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-02T15:24:19',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=QGBODKE6ejI'
+  },
+  {
+    id: 'VPyhYZRbwLw',
+    name: 'Europe has no right to react in silence to what is happening with our Mariupol',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/VPyhYZRbwLw?t=47',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-02T01:07:49',
+    topics: ['Зрадники', 'Міжнародні санкції', 'Гуманітарна катастрофа', 'Гуманітарні коридори', 'Герої України'],
+    cities: ['Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**Our dear defenders!**
+
+This day, April 1, the occupiers decided to mark with two equally silly jokes. One such joke is about people in Russia. They started the spring conscription, which looks traditional, but is still different from the usual. Because this year's conscripts can be sent to war against our state, against our people. So, this is a guaranteed death for many very young guys.
+
+And although they are not our citizens, although they are citizens of the state that is at war with us on our land, it is still our duty as people to warn.
+
+Warn each such conscript, their parents. We don't need more dead people here. Save your children so that they do not become villains. Don't send them to the army. Do whatever you can to keep them alive. At home. At their home.
+
+The Russians won’t be told the whole truth about this conscription and about the fate of the conscripts. But still, if you can convey the truth to them - do it.
+
+I want to dwell on the fact that the Russian Federation is trying to take people into the army in Crimea. This is a violation of international humanitarian law and a war crime for which there will be responsibility. And which is also an argument for increasing sanctions against Russia.
+
+That's why I want to tell the people of Crimea: sabotage this story. At any stage. And if it doesn't work out, don't fulfill criminal orders and surrender to the Armed Forces of Ukraine at the first opportunity. We will understand everything. You will live.
+
+The occupiers played a second very silly April Fool's joke with some residents of the southern regions of Ukraine, where Russian troops had temporarily entered.
+
+They appoint some "Gauleiters", some temporary leaders. And they are threatening employees of enterprises and authorities to cooperate with these deceived appointees.
+
+My message to them is simple: the responsibility for collaboration is inevitable. Tomorrow or the day after tomorrow is a secondary issue. The main thing is the inevitability that justice will be restored. Therefore, everyone who became a Gauleiter can already register somewhere in Rostov. And there will be problems for cooperation with them or with the occupiers directly. This is the last warning.
+
+The occupiers are withdrawing forces in the north of our country. The withdrawal is slow but noticeable. Somewhere they are expelled with battles. Somewhere they leave positions on their own. After them a complete disaster and many dangers are left. It's true.
+
+Firstly, the bombing may continue. Secondly, they are mining all this territory. Mining houses, equipment, even the bodies of killed people. Too many tripwire mines, too many other dangers...
+
+We are moving forward. Moving carefully. And everyone who returns to this area must also be very careful! It is still impossible to return to normal life as it was. Even in the areas we return after the fighting. You will have to wait. Wait for our land to be cleared. Wait until you can be assured that new shelling is impossible.
+
+In the east of our country, the situation remains extremely difficult. The Russian militaries are being accumulated in Donbas, in the Kharkiv direction. They are preparing for new powerful blows. We are preparing for even more active defense. We use all opportunities - both internal and external. Necessarily.
+
+I emphasize once again: hard battles lie ahead. Now we cannot think that we have already passed all the tests. We all strive for victory. But when it comes everyone will see it. Everyone will feel that peace is coming.
+
+In the afternoon I spoke with President of France Macron. About the humanitarian situation in the Ukrainian cities shelled by the occupiers. The situation in Mariupol was discussed separately. For which, I hope, there may still be a solution. Europe has no right to react in silence to what is happening in our Mariupol. The whole world must react to this humanitarian catastrophe.
+
+Today humanitarian corridors worked in three regions - Donetsk, Luhansk, Zaporizhzhia. 6,266 people were rescued. In particular, 3,071 people from Mariupol.
+
+We are separately agreeing on the removal of the wounded and dead from the city. Our military, our civilians - all citizens. We are talking about this with Turkey as a mediator. Hopefully I will be able to report the details soon.
+
+In the afternoon I met with President of the European Parliament Roberta Metsola. Met in Kyiv. I am grateful to her for this important visit, which demonstrates to some other politicians that courage at a time like this is one of the most important traits for a politician. We talked about how to accelerate Ukraine's accession to the European Union. There are specifics. We also talked about arms supplies and support of European parliamentarians in this. And also about the sanctions policy. About a deeper sanctions policy against Russia. Because if there is an embargo, then it is an embargo. If there is SWIFT, then it is for all banks. And if it is business with Russia, it is not just a suspension of activities, but a complete withdrawal of European companies from the Russian market.
+
+Traditionally, I signed a decree on awarding our defenders. Seven servicemen of the State Service for Special Communication and Information Protection. Two of them - posthumously.
+
+Eternal memory to all who died for Ukraine! Eternal gratitude to our defenders!
+
+And finally. Tomorrow, April 2, Ukrainian Muslims together with all Muslims of the world will celebrate the holy month of Ramadan. Sincere prayers, mutual forgiveness and good deeds characterize this month. But in Ukraine, another virtue is added - loyalty to brothers-in-arms and your people in battles.
+
+In the battles for the freedom of Ukraine. In our war for independence. In which we will definitely win. We will definitely achieve peace. For our entire land.
+
+**I sincerely wish you peace! Everyone. The whole of Ukraine! All the people of the world.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I emphasize once again: hard battles lie ahead. Now we cannot think that we have already passed all the tests. We all strive for victory. But when it comes everyone will see it. Everyone will feel that peace is coming.',
+    url: 'https://www.youtube.com/watch?v=VPyhYZRbwLw'
+  },
+  {
+    id: 'BJu5BsxImb0',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-01T14:03:03',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=BJu5BsxImb0'
+  },
+  {
+    id: '7UzKEDjbL8w',
+    name: 'We all equally want to win, but there will be battles ahead',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-03-31T23:39:31',
@@ -94,7 +185,7 @@ No matter what, we all have to think about the future. About what Ukraine will b
 **Glory to Ukraine!**
     `,
     description: 'Every day and every night has become virtually the same for us. The same day, the same night. And with one task for all - to protect ourselves, save people, rebuff invaders. Drive them out.',
-    url: 'https://www.youtube.com/watch?v=ENHxz0w6Zrs'
+    url: 'https://www.youtube.com/watch?v=7UzKEDjbL8w'
   },
   {
     id: '-fQDQhdyUwY',
