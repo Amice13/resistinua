@@ -1,5 +1,110 @@
 const source = [
   {
+    id: 'Xp5TFYsprBk',
+    name: 'Do everything you can for us to withstand together in this war for our freedom and independence',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-02T23:50:23',
+    topics: ['Герої України', 'Міжнародні переговори', 'Посівна', 'Економіка', 'Герої України'],
+    cities: ['Маріуполь', 'Енергодар', 'Харків', 'Чернігів'],
+    text: `
+**Ukrainians!**
+
+**Strong people of the indomitable country!**
+
+Another day of our defense has passed. Another day of many that are gradually, with difficulties, but steadily bringing us closer to peace. To peace that no one will give us a gift. We need to understand it clearly. Because there are no subjects in the world that can stop wars and give peace.
+
+The global security architecture has failed. Peace for us will not be the result of any decisions of the enemy somewhere in Moscow as well. We should not cherish empty hopes that they will simply leave our land. We can only gain peace. We can gain it in hard battles and in parallel - in negotiations, and in parallel - in daily vigorous work.
+
+Therefore, each of us must continue to do everything we can. In all directions. To support our Armed Forces. To preserve and develop economic activity in Ukraine - as much as possible now.
+
+To support all our citizens... Wherever they are, whoever they are.
+
+In peacetime warm words sustained the vital forces. And in wartime it is even more important. When we may not even know what a person is going through. What a loss. What help a person needs. But we can see that a person needs help. We need to support this person. We should at least hear this person. Say a few kind words. Something needs to be done to support the life of this person. This must be done. You should be attentive to everyone around you!
+
+When people defend themselves in a war of annihilation, when there is a question of the lives or deaths of millions, there are no unimportant things. There are no unimportant moments. Everything matters. And everyone can contribute to the victory of all. Someone with a weapon in their hands. Someone - at work. And someone - with a warm word and help at the right time.
+
+So do everything you can for us to withstand together in this war for our freedom, for our independence. For Ukraine to live.
+
+Due to such sincere and constant support of each other, due to unity and attention to the neighbor, the people can overcome the most difficult challenges. And drive out the enemy, which is many times bigger in numbers.
+
+Our defenders continue to regain control over communities in the Kyiv and Chernihiv regions. There are more and more Ukrainian national flags in the areas that have been temporarily occupied.
+
+The Armed Forces of Ukraine do not release the invaders without a fight. Inflict fire damage. They are destroying everyone we can reach.
+
+We are strengthening our defenses in the eastern direction and in Donbas. We are aware that the enemy has reserves to increase pressure in the east.
+
+What is the goal of Russian troops? They want to capture both Donbas and the south of Ukraine. What is our goal? Protect us, our freedom, our land and our people.
+
+Do everything for protection.
+
+Our heroic Mariupol continues to hold back a significant part of the enemy forces. Thanks to this resistance, thanks to the courage and resilience of our other cities, Ukraine has gained invaluable time. The time that allows us to undermine the enemy's tactics and weaken their capabilities.
+
+Unfortunately, Ukraine has not yet received enough modern Western anti-missile systems. Has not received aircraft. Hasn’t received what the partners could provide. Could - and still can!
+
+Every Russian missile that hit our cities and every bomb dropped on our people, on our children only adds black paint to the history that will describe everyone on whom the decision depended. Decision whether to help Ukraine with modern weapons.
+
+I would like to thank the residents of our Enerhodar separately. Those brave Ukrainians who went to a rally today to defend their city. To protect our state.
+
+In response, the occupiers opened fire and used grenades against completely peaceful people, which are on their land, within their law. There will be an answer for each wounded person. And the Ukrainian character cannot be conquered by any pressure or violence.
+
+I am grateful to everyone who takes to the streets in the temporarily occupied cities. To all who are not afraid and go out. I am grateful to all who are afraid and come out. To all those who feel that without this decision to defend Ukraine and their freedom, the occupiers can gain a foothold.
+
+And when people protest - and the more people protest - the harder it is for the occupiers to destroy us, to destroy our freedom. This is our common struggle! And it will be our common victory.
+
+I would also like to say a few words to those politicians, some deputies of the Verkhovna Rada of Ukraine who absolutely do not understand what is happening in the hearts of our people. They don't understand it so much that they even decided to change the national anthem. I have a question for these people: what have you done in your life to give you the moral right to change the words of the anthem? Are you outstanding poets? Maybe you excelled in the battles for Ukraine? Or now is such a time that you can change the anthem whenever you want?
+
+Cool down emotions. Stop pretending to be fools. I believe that the authors of these and other similar bills, proposals, should take up arms and go to the battlefield, if you have these opportunities. Only there will you understand something.
+
+And even if they accidentally vote for something like this, I still will not sign such bills. Don't waste time.
+
+I want to turn to another person who does not seem to fully understand what is happening. Not only in Ukraine, but throughout Europe. To the Prime Minister of Hungary. He is virtually the only one in Europe to openly support Mr. Putin.
+
+We did not ask for anything special from official Budapest. We didn't even get what everyone else is doing! Doing for the sake of peace. We did not receive the vital transit of defense aid, we did not see moral leadership.
+
+We saw no effort to stop the war! Why so?
+
+The whole of Europe wants peace. The whole of Europe does not want the battlefield to be moved from Mariupol to Budapest or from Kharkiv to Krakow or from Chernihiv to Vilnius.
+
+The whole of Europe is trying to stop the war, to restore peace. Then why is official Budapest opposed to the whole of Europe, to all civilized countries? For what?
+
+The main thing for us is the opinion of the people. The Ukrainian people support the Hungarian people. The Hungarian people support the Ukrainian people. We value peace equally, we value freedom equally. It will always be so. We will always live in good neighborliness. And I am convinced that our minorities should be the bridges that unite us even more.
+
+Politicians come and go. And the truth remains. That's what I'm talking about - the truth. And I always say what I think. When I am speaking of Hungary, I mean Hungary. And I don't need to mask my thoughts. If we need to speak of Germany, we are speaking of Germany. If I need to speak of another country, I'm speaking of another country.
+
+If it's a war, then I call it a war, not a "special operation." If this is a threat to the whole of Europe, then I call it a threat to the whole of Europe.
+
+This is called the honesty that Mr. Orban lacks. He may have lost it somewhere in his contacts with Moscow.
+
+I spoke today with the President of Colombia. I am very grateful to him for his support and solidarity with Ukraine. The list of countries that honestly say that freedom matters and the war must stop is expanding.
+
+I also spoke with British Prime Minister Johnson. A meaningful, pleasant conversation. We agreed on new defensive support for Ukraine. New package. Very, very tangible support. We also agree on the strengthening of sanctions against Russia. Extremely tangible. Agreed on joint steps to achieve peace. Thank you Boris for the leadership! Historical leadership. I'm sure of it.
+
+In the afternoon I held a large meeting with the economic bloc of the Cabinet of Ministers and the Office of the President. The economic frontline is another direction of our struggle for our state, for our people.
+
+We discussed in great detail the situation with sowing, with the supply of food to Ukrainians, with the supply of fuel, the situation in the energy sector, the situation with the main sectors of the state.
+
+The Minister of Finance reported on the state of implementation of the state budget, details of negotiations with partners on financial support for Ukraine.
+
+In wartime, economic relations must remain one hundred percent managed, no matter how difficult it may be for all of us. Because it's about perspective. About the perspective of life for more than 40 million Ukrainians, about what our tomorrow will be like. The participants of the meeting received clear tasks.
+
+And finally. Already traditional.
+
+I signed a decree on state awards to our heroes - the heroes of our state. 131 servicemen of the Armed Forces of Ukraine, nine of them - posthumously.
+
+**Eternal glory to them all!**
+
+**Eternal glory to all who gave their lives for Ukraine!**
+
+**Eternal glory to all our defenders!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Глобальна архітектура безпеки виявилась неспроможною. Мир для нас не буде і наслідком якихось рішень ворога десь у Москві. Не треба плекати порожніх надій, що вони просто підуть із нашої землі.',
+    url: 'https://www.youtube.com/watch?v=Xp5TFYsprBk'
+  },
+  {
     id: 'QGBODKE6ejI',
     name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
     translated: false,
