@@ -157,6 +157,7 @@ const en = {
   'Міжнародна коаліція': 'International Coalition',
   'Міжнародна криза': 'International Crisis',
   'Міжнародні переговори': 'International negotiations',
+  'Міжнародні розслідування': 'International investigations',
   'Містить звернення російською': 'Contains an address in Russian',
   'Можливість здатися': 'Opportunity to surrender',
   'Наявний сурдопереклад': 'Sign language translation',
