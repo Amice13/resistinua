@@ -1,5 +1,309 @@
 const source = [
   {
+    id: 'hXFPutkrBIk',
+    name: 'There is ample evidence that it is Russian troops who destroy peaceful cities, torture and kill civilians',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-05T00:04:16',
+    topics: ['Воєнний злочин', 'Міжнародні розслідування', 'Міжнародний трибунал', 'Герої України'],
+    cities: ['Стоянка', 'Ірпінь', 'Буча'],
+    text: `
+**Ukrainians!**
+
+**All our defenders!**
+
+Today has been a really difficult day. Emotional.
+
+I’ve visited our cities in the Kyiv region, which we liberated from the occupiers. Stoyanka, Irpin, Bucha.
+
+Of course, now this area does not look like yesterday. The bodies of killed people, killed Ukrainians have already been taken from most streets. But in the yards, in the houses, the dead still remain.
+
+The cities are simply ruined. Burnt military equipment on the roads, destroyed cars. It is especially hard to look at the traces of bullets on cars with the inscription "Children".
+
+We have just begun an investigation into all that the occupiers have done. At present, there is information about more than three hundred people killed and tortured in Bucha alone. It is likely that the list of victims will be much larger when the whole city is checked. And this is only one city.
+
+One of the many Ukrainian communities that the Russian military managed to seize.
+
+There is already information that the number of victims of the occupiers may be even higher in Borodyanka and some other liberated cities. In many villages of the liberated districts of the Kyiv, Chernihiv and Sumy regions, the occupiers did things that the locals had not seen even during the Nazi occupation 80 years ago. The occupiers will definitely bear responsibility for this.
+
+We are already doing everything possible to identify all the Russian military involved in these crimes as soon as possible. Everything to punish them. This will be a joint work of our state with the European Union and international institutions, in particular with the International Criminal Court.
+
+I discussed this issue today with President of the European Commission Ursula von der Leyen. And also with Chancellor of Austria Nehammer. We agreed on his visit to Ukraine in the near future.
+
+I also discussed the investigation into the war crimes of Russian troops with Polish President Duda. We also talked about new sanctions against Russia, humanitarian and defense cooperation with Poland.
+
+All crimes of the occupiers are documented. The necessary procedural basis is provided for bringing the guilty Russian military to justice for every crime they commit.
+
+I would like to emphasize that we are interested in the most complete, transparent investigation, the results of which will be known and explained to the entire international community. We provide maximum access for journalists to Bucha and other liberated cities of Ukraine. For hundreds of journalists from around the world. And we are interested in having thousands of journalists there. As many as possible! For the world to see what Russia has done.
+
+I'm sure you know about the new old tactics of Russian propagandists who are constantly trying to reject accusations of the Russian military.
+
+Why the new old? Everything is simple. Because they used the same tactics when the occupiers shot down a Malaysian Boeing over Donbas. They blamed Ukraine. They even came up with various conspiracy theories. They even went so far as to claim that the corpses were "thrown" on board the plane before it crashed.
+
+Now they are doing the same thing. The same lies. They are trying to distort the facts. But, as then, they will not succeed. They will not be able to deceive the whole world.
+
+The time will come when every Russian will learn the whole truth about who of their fellow citizens killed. Who gave orders. Who turned a blind eye to the murders. We will establish all this. And make it globally known.
+
+It is now 2022. And we have much more tools than those who prosecuted the Nazis after World War II.
+
+We must also be aware that after the revealed mass killings of civilians in the Kyiv region, the occupiers may have a different attitude to their crimes in another part of our country where they came. They are already launching a false campaign to conceal their guilt in the mass killings of civilians in Mariupol. They will do dozens of stage interviews, re-edited recordings, and will kill people specifically to make it look like they were killed by someone else.
+
+Probably, now the occupiers will try to hide the traces of their crimes. They did not do this in Bucha when they retreated. But in another area it is possible.
+
+I want to say right away: every normal person in the world understands who brought war and mass deaths to Ukrainian land. There is ample evidence that it is Russian troops who destroy peaceful cities, abduct, torture, kill civilians.
+
+Therefore, Russian propagandists and their leaders can now succeed in only one thing:
+
+making their work enough for the verdict of the future tribunal, which will be similar to the verdict of Julius Streicher, one of the ideologues of Nazism, editor-in-chief of the Der Stürmer weekly. He was executed for anti-Semitic propaganda and calls for genocide.
+
+Nowadays people are not executed already. But all skabeevas, evening loudmouths, frontline liars and their bosses in Moscow should remember: the end of your life will be behind bars. At best.
+
+I would also like to note the reaction of the leaders of the democratic world to what they saw in Bucha. The sanctions response to Russia’s massacre of civilians must finally be powerful. But was it really necessary to wait for this to reject doubts and indecision? Did hundreds of our people really have to die in agony for some European leaders to finally understand that the Russian state deserves the most severe pressure?
+
+This breaks the heart of every Ukrainian. It breaks my heart. Because only now do we hear from all world leaders statements that should have been made long ago, when everything was already completely clear.
+
+I emphasize once again: Ukraine must get all the necessary weapons to drive the occupiers out of our land as soon as possible, to liberate our cities. And if we had already got what we needed - all these planes, tanks, artillery, anti-missile and anti-ship weapons, we could have saved thousands of people. I do not blame you - I blame only the Russian military. But you could have helped.
+
+I will continue to say this to the face of all those on whom the decision on weapons for Ukraine depends.
+
+We have already started preparing all the necessary work to restore normal life in the liberated areas. Mine clearance of the territory is carried out. Our sappers neutralize thousands of explosive devices every day! In the near future we will restore electricity supply, restore water supply to this whole territory of our state. We will provide medical care, normal access to goods - as much as possible in the current conditions.
+
+Of course, we will rebuild the destroyed and damaged housing. We will rebuild roads, bridges, infrastructure. Life will come again to every city, to every community that the occupiers tried to destroy.
+
+This week I continue to address the parliaments of the nations of the world. Today was Romania. I thanked the Romanian people for their warm attitude towards our migrants. It's true. I called for greater sanctions against Russia. I also said that Romania's leadership was indispensable for ensuring security in the Black Sea region and for restoring justice in Europe as a whole.
+
+Tomorrow I will address the Spanish Parliament. And also the UN Security Council.
+
+Today I expressed condolences to the President of the Republic of Lithuania and to the entire Lithuanian people over the brutal murder of the world-famous documentary filmmaker Mantas Kvedaravičius by the Russian occupiers in Mariupol. In 2016, he made a film about our peaceful Mariupol, which shortly before found itself on the frontline of the war in Donbas. And now it was there that his life was taken. May the memory of him live forever!
+
+We continue to prepare for even more brutal activity of the occupiers in the eastern and southern directions. We know what they are going to do in Donbas. We know what they are going to do near Kharkiv, in some other parts of the country. Russia concentrates a significant amount of military and equipment there. And this activity proves that sanctions imposed against Russia are not enough. There will be more.
+
+If the Russian leadership does not begin to really seek peace, really negotiate peace, they will put their country in the worst condition in 50 years. The so-called wicked 90's will seem prosperous and calm.
+
+And traditionally, before delivering this address, I signed a decree awarding our Ukrainian heroes. 152 servicemen of the Armed Forces of Ukraine received state awards, three of them posthumously.
+
+**Eternal glory to all our heroes!**
+
+**Eternal memory to everyone who perished for our country!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Ситуація щодо російського вторгнення – брифінг Олексія Арестовича',
+    url: 'https://www.youtube.com/watch?v=hXFPutkrBIk'
+  },
+  {
+    id: 'OstKhkKZOLg',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-04T22:34:36',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=OstKhkKZOLg'
+  },
+  {
+    id: 'snvYICxPXuM',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 4',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-04-04T21:03:20',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 4`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 4',
+    url: 'https://www.youtube.com/watch?v=snvYICxPXuM'
+  },
+  {
+    id: 'kdzAoA0zQ04',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Romanian Parliament',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-04T20:52:28',
+    topics: ['Воєнний злочин', 'Міжнародний трибунал', 'Постачання зброї', 'Міжнародні санкції'],
+    cities: ['Буча'],
+    text: `
+**Dear Mr. President of the Chamber of Deputies!**
+
+**Dear Mr. President of the Senate!**
+
+**Dear Mr. Prime Minister!**
+
+**Ladies and gentlemen, deputies and senators, guests!**
+
+**Dear friends!**
+
+**Romanian people!**
+
+I am grateful for this opportunity to address you and all your people.
+
+A few hours ago I returned from the liberated cities of the Kyiv region - near our capital. It is these territories from which we expelled the Russian occupiers and saw what they had been doing to the Ukrainian people on our land. And I want you to see it now. What the occupiers left behind. I apologize - the video is brutal, but it's a reality...
+
+The name of our city of Bucha is now forever in world history. In the history of war crimes. In the history of the extermination of people.
+
+As of now, we know about more than 300 civilians tortured, executed or otherwise killed in Bucha. Ordinary residents of an ordinary city near Kyiv. Their hands were tied behind their backs, they were shot in the back of the head or in the eye, killed just in the streets. Civilian vehicles were crushed by military equipment. Vehicles with people! They raped women and girls...
+
+And this is just the beginning of the investigation. Not all evidence has been collected yet. Not all burials have been discovered yet. Not all basements where the Russian military tortured people have been inspected yet. There is every reason to believe that the number of killed residents of Bucha and other Ukrainian cities nearby will be much higher than what we know today.
+
+Why did the Russian military do that?
+
+On the same day, April 3, when the world was horrified to see the bodies of those killed in Bucha, an article justifying the genocide of Ukrainians was published on the website of the Russian state news agency RIA Novosti. Its name is quite eloquent, I quote: "What should Russia do with Ukraine". And it's not just text. This is one of the proofs for the future tribunal against Russian war criminals.
+
+The article describes a clear and calculated procedure for the destruction of everything that makes Ukrainians Ukrainians and our people themselves. Those whom they will not be able to break and conquer. It is said that "de-Ukrainization" and "de-Europeanization" of Ukraine should be carried out. It is said that even the name of our state should be erased. Virtually, it is said that the deaths of as many of our people in the war are only welcomed.
+
+I want to emphasize once again: this is the website of the state news agency of Russia, where, under conditions of explicit state censorship, only materials that correspond to the official ideological position on the war against Ukraine can be published. What does not correspond to such a position would simply not pass censorship.
+
+I want you to understand me: they are not even hiding. They openly speak about the purpose of the invasion of Ukraine. If our army had not withstood, if our people had not risen to the defense of the state, they would have done what they did in Bucha - but throughout Ukraine.
+
+We know about the deliberate killings of teachers and educators in the temporarily occupied territories. We know about deliberate terror against all those whom the occupiers considered as activists, as people related to the army.
+
+Even the mere presence of the national symbols of Ukraine, the state flag or coat of arms, in a person's apartment was already a reason for the occupiers to kill this person or at least threaten to kill him or her.
+
+But why aren't they hiding?
+
+Why do they even now, when everything is clear to the world, openly say how they want to destroy the whole nation?
+
+There are two answers to this question.
+
+You will understand the first answer very well.
+
+In 1989, Nicolae Ceaușescu finally ended his life. For many years it has been clear that this man had lost his adequacy. It has been clear that he, his wife, his entourage, his "Securitate" have been dragging your country and people down - to suffering, to poverty, to isolation not just from the world, but from everything advanced in the world.
+
+That regime relied only on intimidation, repression, brutality and deception. There was nothing bright in it. The Romanian people revolted and defended themselves, saved themselves. Having overthrown inadequate power. Because that was the only way. Ceaușescu, his wife, his entourage, his "Securitate" could not be convinced of anything.
+
+It is also impossible to convince those who promote war in Russia now. Who give criminal orders. Who develop plans for the genocide of the Ukrainian people and the destruction of the Ukrainian state. These people are inadequate. They have lost all connection with reality and are willing to sacrifice millions of lives to realize their crazy ideas.
+
+And the second reason why Russia is openly calling for genocide and why the crimes of the occupiers that everyone in the world saw in Bucha are possible is the belief of Russia's top officials that European leaders will fail, will be weak. That Europe will lack leadership. And that the nations of Europe are incapable of defending the values that have united the continent.
+
+**Ladies and Gentlemen!**
+
+**Great Romanian people!**
+
+Together we must stop these inadequate people who are accustomed to impunity and therefore decided that they are allowed absolutely everything. Together we must stop those who want genocide in Europe.
+
+Why must we do this together?
+
+Each of you understands that Ukraine is not the last target of Russian aggression. Troops of occupiers are stubbornly trying to bypass our city of Mykolaiv to try to seize Odesa. And from Odesa there is one step to Moldova.
+
+Russian state propagandists have long said that Moldova is also a target for Russian expansion. Therefore, the defense of Ukrainians of their own state is a fundamental prerequisite for security and independence of Moldova. And therefore a prerequisite for peace in the whole large region of the Danube.
+
+Now the fate of the whole of Eastern and Central Europe and the Black Sea region is being decided on the territory of Ukraine. Therefore, to protect the freedom of Ukraine, to protect the freedom of Ukrainians is to guarantee the security of Europe.
+
+What must be done?
+
+Yes, it is true, sanctions were imposed on Russia for this war. But the war for our freedom has been going on for 40 days already. After 8 years of war in Donbas. Therefore, sanctions are not enough.
+
+Russia must seek peace with Ukraine and with the whole of Europe. To this end, Russia must be deprived of all resources. First of all, financial and economic ones.
+
+The European Union must finally adopt a principled decision and close ports to Russian ships.
+
+Stop the transit of goods and any economic activity with Russia. Restricting the flow of money for Russian energy has no alternative.
+
+One can argue about what the format should be: a full embargo on supplies or a program like "Oil-for-Food" - but it is necessary.
+
+And not only that.
+
+Every politician in a democratic world must defend the need to provide Ukraine with all the necessary weapons. Because it is on the battlefield that it is decided who will be the winner in this war - freedom or tyranny.
+
+Everyone on whom it depends must do everything possible to quickly and inevitably bring to justice all Russian servicemen and their commanders guilty of committing crimes against civilians in the temporarily occupied territories of Ukraine.
+
+Today, I reached an agreement with the European Union on the provision of financial and technical support to the Eurojust Joint Investigation Team, EU member states and the International Criminal Court.
+
+I believe that Romania's leadership will be one of the decisive factors in restoring justice and protecting normal life both in our region and in Europe as a whole.
+
+I am confident that Romania and Romanian companies will also take part in Ukraine's post-war reconstruction program. We invite our partners in Europe to take patronage over a city, region or industry that has suffered from Russia's aggression. Your potential, your inner strength can create a new example of leadership in building a civilized and peaceful life.
+
+I am sincerely grateful to all the Romanian people for their kind treatment of Ukrainian immigrants who have found safety on your land. I hope that together we will be able to create such conditions as soon as possible, when Russia will give up the war, and so our people will be able to return home to Ukraine. And this experience of assistance in emergency situations, mutual respect, kindness between our people has already become the basis for even greater rapprochement of our states, our nations.
+
+As soon as the situation allows, I want to start a dialogue with you on a new comprehensive agreement that guarantees the absolute protection and development of our national minorities - the Ukrainian community in Romania and the Romanian community in Ukraine.
+
+Because our destiny is to be as close as we can. Our destiny is to be defenders of freedom in our region. Our destiny is to be together in the European family.
+
+And I believe that very soon I will be able to address you with words of gratitude for Romania's support for Ukraine's accession to the European Union.
+
+**Thank you very much!**
+
+**Glory to Romania!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The name of our city of Bucha is now forever in world history. In the history of war crimes. In the history of the extermination of people.',
+    url: 'https://www.youtube.com/watch?v=kdzAoA0zQ04'
+  },
+  {
+    id: 'TqRE75cgq7Y',
+    name: 'Address by Prime Minister of Ukraine Denys Shmyhal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-04-04T19:50:58',
+    topics: ['Воєнний злочин', 'Міжнародний трибунал', 'Економіка', 'Соціальні виплати', 'Посівна'],
+    cities: ['Буча', 'Гостомель', 'Ірпінь', 'Мотижин'],
+    text: `
+**The national liberation war has been going on for 40 days.**
+
+In these 40 days, each of us has understood why russian terrorists came to our land. They came to destroy our freedom. They came to destroy our state. They came to destroy the Ukrainian people.
+
+What happened in Bucha, Hostomel, Irpin, Motyzhyn and other towns and villages around Kyiv is an illustration of this evil. This is one of the episodes of their appalling crimes, which are currently happening in Mariupol, Izyum, Kharkiv, Kherson, Donetsk, Luhansk, Mykolaiv, Zaporizhia regions.
+
+Just as the Nazis 80 years ago wanted to finally resolve the "Jewish question", so russia now wants to finally solve the "Ukrainian question". But this will not happen. Whoever will come to us with a sword, from a sword will perish.
+
+russian soldiers and their commanders who do not die now will inevitably be held accountable in the future. We will do everything for that.
+
+We must work tirelessly. Everyone does his or her job. We must secure a reliable home front for our army.
+
+To remain free on our land.
+
+The Cabinet of Ministers of Ukraine continues its work. We restarted the economy and put it on the military rails. What are the main innovations and results of the last week?
+
+* UAH 73 billion was allocated to the reserve fund to promptly provide the army with everything it needs. Expenditures on the Verkhovna Rada, the Cabinet of Ministers, judges, and prosecutors were reduced.
+* Pensions were fully paid in March for all retirees. Payments for frontline regions were made in advance in April.
+* A program of payments of UAH 6,500 to all those who lost their jobs is being successfully implemented. Applications were received from 5 million people. Most people have already received funds, other payments will be shortly allocated.
+* A program to support IDPs was launched. We find housing for people. We provide funds for the business to hire IDPs.
+* We have launched in Diia app the function which allows to provide information about destroyed housing. In addition, we approved the procedure for calculating all losses, which consists of 15 areas: from property and infrastructure losses to losses of enterprises and the economy as a whole.
+* We started a sowing campaign. Now sowing is taking place in almost all regions of the country. Seeds, fertilizers, fuel - all these are in place. The state has provided farmers with funding of over UAH 20 billion. Loans to all at 0%.
+* We launched a program to purchase food packages for further free distribution to people in frontline cities. 10 million packages. We buy almost everything from a Ukrainian manufacturer. We load our food industry with orders.
+* We continued to help relocate Ukrainian manufacturing companies. Almost 1,500 applications were received. More than 100 companies have already relocated and are operating.
+* New logistics routes have been formed for the maximum possible recovery of Ukrainian exports. We are looking for new opportunities and creating new infrastructure at the borders.
+* More than 150,000 businesses are already switching to a new tax system - 2% of turnover.
+* Over the past week, we have new arrangements for support from foreign partners worth another USD 1 billion.
+* There are no more queues at customs to import goods. All humanitarian aid is issued in 10 minutes.
+
+There is a lot of work ahead. There are many severities and challenges ahead.
+
+But we see who our enemy is. We understand what we are fighting for. For the life of our people. For the existence of the Ukrainian state.
+
+We will definitely win this war, but the war will end for us when all those who gave and carried out criminal orders will be held accountable.
+
+**I express gratitude to our defenders, our glorious army.**
+
+**I express gratitude to everyone who is working and paying every effort to approach this victory closer!**
+
+**Glory to Ukrainians! Glory to Ukraine!**
+
+    `,
+    description: 'In these 40 days, each of us has understood why russian terrorists came to our land. They came to destroy our freedom. They came to destroy our state. They came to destroy the Ukrainian people.',
+    url: 'https://www.youtube.com/watch?v=TqRE75cgq7Y'
+  },
+  {
+    id: 'nRRPcTQEieo',
+    name: 'Спілкування Володимира Зеленського з представниками ЗМІ за результатами поїздки до Київської області',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-04T16:00:26',
+    topics: ['Воєнний злочин', 'Міжнародний трибунал'],
+    cities: ['Буча'],
+    text: `Спілкування Володимира Зеленського з представниками ЗМІ за результатами поїздки до Київської області`,
+    description: 'Спілкування Володимира Зеленського з представниками ЗМІ за результатами поїздки до Київської області',
+    url: 'https://www.youtube.com/watch?v=nRRPcTQEieo'
+  },
+  {
     id: 'ziwqe9I0HWw',
     name: 'Iryna Vereshchuk on the work of humanitarian corridors planned for April 4',
     translated: false,
@@ -33,7 +337,7 @@ const source = [
     speaker: ['Володимир Зеленський'],
     date: '2022-04-03T21:03:14',
     topics: ['Воєнний злочин', 'Міжнародні розслідування', 'Міжнародні санкції', 'Герої України', 'Відбудова України'],
-    cities: ['Буча', 'Ірпень', 'Гостомель', 'Харків', 'Маріуполь'],
+    cities: ['Буча', 'Ірпінь', 'Гостомель', 'Харків', 'Маріуполь'],
     text: `
 **Today this address will be without greetings. I do not want any extra words.**
 
@@ -1987,7 +2291,7 @@ I am grateful to all of you! And, I'm sure, I can say this on behalf of all Ukra
     speaker: ['Володимир Зеленський'],
     date: '2022-03-25T00:32:12',
     topics: ['Міжнародні переговори', 'Міжнародні санкції', 'Герої України'],
-    cities: ['Буча', 'Ірпень', 'Охтирка', 'Миколаїв'],
+    cities: ['Буча', 'Ірпінь', 'Охтирка', 'Миколаїв'],
     text: `
 **Free people of our free country!**
 
@@ -5171,7 +5475,7 @@ We prolong our activities. Hold the line. We will definitely win.
     speaker: ['Володимир Зеленський'],
     date: '2022-03-15T01:17:33',
     topics: ['Можливість здатися', 'Пропаганда', 'Міжнародні санкції', 'Воєнні злочини', 'Міжнародні переговори', 'Герої України'],
-    cities: ['Маріуполь', 'Харків', 'Чернігів', 'Суми', 'Охтирка', 'Гостомель', 'Ірпень'],
+    cities: ['Маріуполь', 'Харків', 'Чернігів', 'Суми', 'Охтирка', 'Гостомель', 'Ірпінь'],
     text: `
 **Free people of a free country!**
 
