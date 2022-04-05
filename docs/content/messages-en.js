@@ -1,5 +1,334 @@
 const source = [
   {
+    id: 'GHTP8-kNRLI',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 5',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-04-04T22:01:37',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 5`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 5',
+    url: 'https://www.youtube.com/watch?v=GHTP8-kNRLI'
+  },
+  {
+    id: 'bezQLqQFV5c',
+    name: 'Speech by the President of Ukraine in the Cortes Generales of Spain',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-05T20:33:31',
+    topics: ['Воєнний злочин', 'Гуманітарна катастрофа', 'Ракетний удар', 'Вбиті діти', 'Міжнародні санкції'],
+    cities: ['Маріуполь', 'Буча', 'Бородянка'],
+    text: `
+**Dear Mrs. President of the Congress of Deputies!**
+
+**Dear Mr. Prime Minister!**
+
+**Dear ladies and gentlemen, deputies and senators!**
+
+**Dear members of the Government!**
+
+**Dear people of Spain!**
+
+Thank you for this opportunity, with great respect from all the Ukrainian people to you.
+
+I am addressing you with the hope that you will understand most of all our pain from the war and our hope for peace. Because for us in Ukraine now absolutely everything that is the basis of public life for you is under threat.
+
+We are one of the largest countries in Europe. And one of the most variegated. But united by democracy and respect for every person, for every community.
+
+I want to give you just one example of our state, of our lives. We have the All-Ukrainian Council of Churches and Religious Organizations. Different denominations, different views on public life and relations between the state and the Church are always agreed peacefully and with respect for others in the format of this Council. This is just one example, but it shows that we, Ukrainians, are committed to peace and a conflict-free environment even in such sensitive issues that in many other societies always cause controversy and conflict.
+
+Russia came to our land with the war not yesterday and not the day before yesterday. It's been a long time. We have been protecting our country from brutal, unprovoked aggression since 2014. First - the occupation of our Crimea. Then - the war in the Ukrainian Donbas. Now - already 41 days of full-scale invasion. The worst war in Europe since World War II.
+
+But why did Russia come to us, to our home, to Ukraine? What exactly must Russian weapons destroy?
+
+Not just our people. Not just any basis for a peaceful life. But also the opportunity to live without a dictatorship. Opportunity to live without state violence. Opportunity to be a sustainable open democracy. Opportunity of peaceful coexistence of different religions, different communities.
+
+The format of Russian state life does not provide for everything that is absolutely familiar to us, to Ukraine. Russia wants to make sure that only one order dominates in our entire region - tyrannical. So that any diversity is destroyed. So that it is impossible to find common ground and compromises between different communities.
+
+This is exactly what is happening in Russia now. This is exactly what it wants to establish in Ukraine. And then in the whole region of Eastern and Central Europe.
+
+And what will happen next?
+
+I know that for your country, for Spain, it is important for a democratic system to be protected. For peace on the European continent to be guaranteed.
+
+But how can this be possible now? After Russia began to allocate all its state resources to the spread of war and the destruction of any basis of normal life.
+
+Just imagine this - mothers in Ukraine write on the backs of their young children the child's name, phone numbers of relatives with the usual pen... Why? Because if the occupiers kill their parents, there will be at least a small chance that someone will save these children.
+
+Imagine that people now - in Europe - live for weeks in basements to save lives. From shelling, from air bombs. Daily! 2022, April - and the reality in Ukraine is as if it’s April 1937. When the whole world learned the name of one of your cities - Guernica. Imagine that in ordinary cities, conditions can be artificially created where more than a hundred thousand people live for weeks without water, without food, without medicine.
+
+Russian troops blocked our city of Mariupol more than three weeks ago. They are destroying this city completely - there is already nothing there but ruins. More than 90 percent of all buildings were destroyed! The killed people were buried in the yards near the destroyed high-rise buildings where they lived...
+
+Russian aircraft bombed even those buildings in Mariupol where they knew exactly people were hiding. Children were hiding...
+
+Ukraine speaks about it every day. Every day throughout the days of this invasion. But the war continues. Russia is not serious about peace.
+
+What is even worse is that we still do not know how much longer the war will last until the world finally does everything necessary for peace.
+
+Really powerful sanctions are needed. The most powerful. How can we allow Russian banks to generate profits while the Russian military tortures ordinary civilians to death in Ukrainian cities? How can European companies trade in a state that is deliberately destroying our people?
+
+I know that many of your companies have already stopped financing the Russian military machine through taxes. I want to thank you, your citizens, and your government. I am grateful to these companies, to your entire state and society for the principled stance on sanctions.
+
+But at the same time, I want to turn to some companies, such as Maxam, Porcelanosa, Sercobe and other companies - I think you know them better than I do - to stop doing business with Russia.
+
+What our city of Bucha, our city of Borodyanka, our other cities have experienced are war crimes. Crimes against humanity. Without statute of limitations. This is an absolutely clear basis for the Russian military and commanders to be convicted by an international court.
+
+In these conditions, how can the countries of the world freely buy Russian oil and allow Russian ships into their ports?
+
+**Ladies and Gentlemen!**
+
+**Spanish people!**
+
+Now the fate of not only our state is being decided on the territory of Ukraine. But also the fate of the whole European project, of the values that united us all. Us with you. Of democracy that united us all. Of human rights, which have become a fundamental value for all of us.
+
+I am grateful to your country for supporting common European decisions for peace. But all of us in Europe, all of us in the world need to do even more to force Russia to seek peace. So that Russia finally starts to respect international law.
+
+What is needed for this?
+
+Everyone in Europe must simply stop being afraid. Stop being weak. They have to become strong. Put values and democracy above the threats that Russia spreads.
+
+I am sure fear is not about you. But I ask you to do everything so that other European countries do not have fear as well. You can help us. Help the world. Give us the weapons we need. And we appreciate that help, that weaponry - all that you have already given us. You can support further sanctions that are needed. And you can also destroy the fear of Russia wherever you can see it.
+
+Because democracy should not fear. Freedom must be protected. Human rights must be above all calculations. The right to peace. The right to life. The right to happiness, to free development. The right to family security. The right to the future of children. The right to a decent old age of parents. The right to respect for every community. The right to be with you, Spain, together in a European family.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Бо демократія не має боятися. Свобода має бути захищена. Права людини – мають бути понад усі розрахунки.',
+    url: 'https://www.youtube.com/watch?v=bezQLqQFV5c'
+  },
+  {
+    id: 'nOlT6m6Uxhc',
+    name: 'Speech by the President of Ukraine at a meeting of the UN Security Council',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-05T20:11:32',
+    topics: ['Воєнний злочин', 'Голод', 'Міжнародний трибунал'],
+    cities: ['Буча', 'Маріуполь', 'Харків', 'Чернігів', 'Охтирка', 'Бородянка'],
+    text: `
+**Dear Mrs. President!**
+
+**Dear Mr. Secretary General!**
+
+**Dear members of the Security Council and other participants of the meeting!**
+
+Thank you for the opportunity.
+
+I am sure that all the representatives of the UN member states will hear me today.
+
+Yesterday I returned from our city of Bucha, recently liberated from the troops of the Russian Federation.
+
+It is difficult to find a war crime that the occupiers have not committed there.
+
+The Russian military searched for and purposefully killed anyone who served our state.
+
+They executed women outside the houses when approaching and simply calling someone alive.
+
+They killed whole families - adults and children. And they tried to burn their bodies.
+
+I am addressing you on behalf of the people who honor the memory of the deceased everyday. Everyday, in the morning.
+
+The memory of the killed civilians.
+
+Who were shot in the back of the head or in the eye after being tortured. Who were shot just on the streets.
+
+Who were thrown into the well, so that they die there in suffering.
+
+Who were killed in apartments, houses, blown up by grenades. Who were crushed by tanks in civilian cars in the middle of the road. For fun.
+
+Whose limbs were cut off, whose throat was cut. Who were raped and killed in front of their own children.
+
+Their tongues were torn out only because they did not hear from them what they wanted to hear.
+
+How is this different from what the ISIS terrorists were doing in the occupied territory?
+
+Except that it is done by a permanent member of the United Nations Security Council.
+
+It destroys the internal unity of states.
+
+Destroys state borders.
+
+Denies the right of more than a dozen peoples on two continents to self-determination and independent state life. Pursues a consistent policy of destroying ethnic and religious diversity.
+
+Inflames wars and deliberately wages them in such a way as to kill as many ordinary civilians as possible. To destroy as many ordinary peaceful cities as possible. To leave in the country where it sends its troops only ruins and mass graves. You've seen it all.
+
+Promotes hatred at the state level and seeks to export it to other countries through its system of propaganda and political corruption.
+
+Provokes a global food crisis that could lead to famine in Africa and Asia, and will certainly end in large-scale political chaos in countries where food price stability is a key factor of domestic security.
+
+So where is the security that the Security Council must guarantee? There is no security. Although there is a Security Council, as if nothing happened.
+
+So where is the peace that the United Nations was created to guarantee?
+
+It is obvious that the key institution of the world, which must ensure the coercion of any aggressors to peace, simply cannot work effectively.
+
+Now the world has seen what the Russian military did in Bucha while keeping our city under occupation. But the world has yet to see what they have done in other occupied cities, in other occupied areas of our country.
+
+Geography may be different, but cruelty is the same. Crimes are the same.
+
+And responsibility must be inevitable.
+
+**Ladies and Gentlemen!**
+
+I would like to remind you of the first article of the first chapter of the UN Charter. What is the purpose of our organization? To maintain peace. And to force to peace. Now the UN Charter is being violated literally from the first article. And if so, what is the point of all other articles?
+
+Today, it is as a result of Russia's actions on the territory of my state, on the territory of Ukraine, that the most heinous war crimes of all time since the end of World War II are being committed.
+
+Russian troops are deliberately destroying Ukrainian cities to ashes with artillery and air strikes.
+
+They are deliberately blocking cities, creating mass starvation in them. They are deliberately shooting at columns of civilians on the roads who are trying to escape from the territory of hostilities.
+
+They are even deliberately blowing up shelters where civilians are hiding from air strikes. They are deliberately creating conditions in the temporarily occupied territories so that as many civilians as possible are killed there.
+
+The massacre in our city of Bucha is just one, unfortunately, of many examples of what the occupiers have been doing on our land for 41 days.
+
+And there are many other such places that the world has yet to find out the full truth of: Mariupol, Kharkiv, Chernihiv, Okhtyrka, Borodyanka and dozens of other Ukrainian communities, each of which is like Bucha.
+
+I know, and you know very well, what the representatives of Russia will say in response to the accusations of these crimes. They have said this many times. The most illustrative was after the downing of a Malaysian Boeing over Donbas by Russian forces with Russian weapons. Or during the war in Syria.
+
+They will blame everyone, just to justify themselves. They will say that there are different versions, and which of them is true is allegedly impossible to establish yet. They will even say that the bodies of those killed were allegedly “planted”, and all the videos are staged.
+
+But. Now is the year 2022. There is conclusive evidence. There are satellite images. It is possible to conduct a full, transparent investigation.
+
+That is what we are interested in.
+
+Maximum access of journalists. Maximum cooperation with international institutions. Involvement of the International Criminal Court. Full truth, full responsibility.
+
+I am sure that every state in the UN system should be interested in this. For what? In order to punish once and for all those who consider themselves privileged, consider themselves unpunished. Hence, to show all other potential war criminals in the world that they will inevitably be punished as well. If the biggest is punished, everyone will be punished.
+
+Why did Russia come to Ukraine, tell me?
+
+I will answer. Russia's leadership feels like colonizers - as in ancient times. They need our wealth and our people. Russia has already deported tens of thousands of our citizens to its territory. Then there will be hundreds. It abducted more than two thousand children. Simply abducted thousands of children. And continues to do so. Russia wants to turn Ukrainians into silent slaves.
+
+The Russian militaries are openly looting the cities and villages they have captured. This is looting of the highest scale. They steal everything from food to gold earrings they just rip out with blood.
+
+We are dealing with a state that turns the right of veto in the UN Security Council into a right of death.
+
+Which undermines the whole architecture of global security.
+
+Which allows evil to go unpunished and spread the world. Destroying everything that can work for peace and security.
+
+If this continues, the finale will be that each state will rely only on the power of arms to ensure its security, not on international law, not on international institutions.
+
+Then, the UN can simply be dissolved.
+
+**Ladies and Gentlemen!**
+
+Are you ready for the dissolving of the UN? Do you think that the time of international law has passed?
+
+If your answer is no, you need to act now, act immediately.
+
+The power of the UN Charter must be restored immediately.
+
+The UN system must be reformed immediately so that the right of veto is not the right of death. So that there is a fair representation of all regions of the world in the Security Council.
+
+The aggressor must be forced to peace immediately. Determination is needed. The chain of mass killings from Syria to Somalia, from Afghanistan to Yemen and Libya should have been stopped a long time ago to be honest.
+
+If tyranny had ever received such a response to the war it had unleashed that it would have ceased to exist and a fair peace would have been guaranteed after it, the world would have changed for sure.
+
+And then, perhaps, we would not have a war, a war in my country. Against our nation, the Ukrainian nation. Against people.
+
+But the world watched and did not want to see the occupation of Crimea, or even before - the war against Georgia, or even earlier - the alienation from Moldova of the entire Transnistrian region. It also didn’t want to see how Russia was preparing the ground for other conflicts and wars near its borders.
+
+How to stop it?
+
+Immediately bring the Russian military and those who gave them orders to justice for war crimes in Ukraine.
+
+Everyone who gave criminal orders and fulfilled them by killing people will face a tribunal similar to the Nuremberg trials.
+
+I want to remind Russian diplomats that a man like von Ribbentrop has not avoided punishment after World War II.
+
+And I also want to remind the architects of Russia's criminal policy that punishment has reached Adolf Eichmann as well.
+
+None of the culprits will escape. No one.
+
+But the main thing is that today is the time to transform the system, the core of which is the United Nations. To do this, we propose to convene a global conference. And we ask to do it already in peaceful Kyiv - in order to decide.
+
+How we will reform the world security system.
+
+How we will really guarantee the inviolability of universally recognized borders and the integrity of states.
+
+How we will ensure the rule of international law.
+
+It is now clear that the goals set in San Francisco in 1945 during the creation of a global international security organization have not been achieved. And it is impossible to achieve them without reforms.
+
+Therefore, we must do everything in our power to pass on to the next generations an effective UN with the ability to respond preventively to security challenges and thus guarantee peace.
+
+Prevent aggression and force aggressors to peace. Have the determination and ability to punish if the principles of peace are violated.
+
+There can be no more exceptions, privileges. Everyone must be equal. All participants in international relations. Regardless of economic strength, geographical area and individual ambitions.
+
+The power of peace must become dominant. The power of justice and the power of security. As humanity has always dreamed of.
+
+Ukraine is ready to provide a platform for one of the main offices of the updated security system.
+
+Just as the Geneva office specializes in human rights, just as the Nairobi office specializes in the field of environmental protection, the Kyiv U-24 Office can specialize in preventive measures to maintain peace.
+
+I want to remind you of our peaceful mission in Afghanistan. When, at our own expense, we Ukrainians evacuated more than a thousand people from this country. And it was the hottest phase. But people needed help - and Ukraine came. Just like other states.
+
+We evacuated people of different nationalities, different faiths. Afghans, citizens of European countries, USA, Canada. We did not distinguish who needs help, whether these are our people or not. We saved everyone.
+
+If every time there was a need everyone in the world was confident that help would come, the world would be definitely safer.
+
+Therefore, Ukraine has the necessary moral right to propose a reform of the world security system.
+
+We have proven that we help others not only in good times, but also in dark times.
+
+And now we need decisions from the Security Council. For peace in Ukraine. If you do not know how to adopt this decision, you can do two things.
+
+Remove Russia as an aggressor and a source of war from blocking decisions about its own aggression, its own war. And then do everything that can establish peace.
+
+Or show how you can reformat and really work for peace.
+
+Or if your current format is unalterable and there is simply no way out, then the only option would be to dissolve yourself altogether.
+
+I am convinced that you can do without the third option.
+
+Ukraine needs peace. We need peace. Europe needs peace. The world needs peace.
+
+And finally, I’m asking you to watch the video. A short one.
+
+A video of what has come to replace your power because someone alone can abuse his rights.
+
+This is what impunity leads to.
+
+If possible - watch this video. Because there is no opportunity for everyone to come to us and see it. So watch it.
+
+**Thank you.**
+    `,
+    description: 'Where is the peace that the United Nations was created to guarantee? It is obvious that the key institution of the world, which must ensure the coercion of any aggressors to peace, simply cannot work effectively.',
+    url: 'https://www.youtube.com/watch?v=nOlT6m6Uxhc'
+  },
+  {
+    id: 'WTn5IiPoBHY',
+    name: 'Volodymyr Zelenskyi presented state awards to servicemen of the Armed Forces of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-05T17:57:11',
+    topics: ['Герої України'],
+    cities: [],
+    text: `Volodymyr Zelenskyi presented state awards to servicemen of the Armed Forces of Ukraine. They received the title of Hero of Ukraine. Also the awards were given to members of the families of Heroes, who were posthumously awarded. In addition, the photojournalist was posthumously awarded with the Order of Courage.`,
+    description: 'Volodymyr Zelenskyi presented state awards to servicemen of the Armed Forces of Ukraine. They received the title of Hero of Ukraine. Also the awards were given to members of the families of Heroes, who were posthumously awarded. In addition, the photojournalist was posthumously awarded with the Order of Courage.',
+    url: 'https://www.youtube.com/watch?v=WTn5IiPoBHY'
+  },
+  {
+    id: 'Mh2YEXTWrRQ',
+    name: 'President Volodymyr Zelenskyi spoke with representatives of the Ukrainian media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-05T11:41:21',
+    topics: ['Воєнний злочин', 'Міжнародні переговори'],
+    cities: [],
+    text: `President Volodymyr Zelensky told Ukrainian media about the Russian invasion of Ukraine. They discussed the war crimes committed by the Russian Federation and the responsibility for them, courage of Ukrainians, plans for defense and restoration of the state.`,
+    description: 'President Volodymyr Zelensky told Ukrainian media about the Russian invasion of Ukraine. They discussed the war crimes committed by the Russian Federation and the responsibility for them, courage of Ukrainians, plans for defense and restoration of the state.',
+    url: 'https://www.youtube.com/watch?v=Mh2YEXTWrRQ'
+  },
+  {
     id: 'hXFPutkrBIk',
     name: 'There is ample evidence that it is Russian troops who destroy peaceful cities, torture and kill civilians',
     translated: true,
