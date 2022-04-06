@@ -1,5 +1,153 @@
 const source = [
   {
+    id: 'zUpcNlnY88g',
+    name: 'Kyiv is now the capital of global democracy, the capital of the struggle for freedom for all in Europe',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-05T23:54:31',
+    topics: ['Міжнародні переговори', 'Гарантії безпеки', 'Міжнародні санкції', 'Герої України'],
+    cities: ['Київ', 'Буча'],
+    text: `
+**Ukrainians!**
+
+Today I will not take away much of your attention. The day was very informative. I will only briefly walk through the main points of my work this Tuesday, the 41st day of the invasion of the Russian Federation.
+
+I continued my active diplomatic work. Addressed the UN Security Council, which convened for a special meeting on Russia's war crimes in Bucha and in the occupied territories of Ukraine in general. I said what should have been said in this format a long time ago.
+
+The UN Security Council exists, and security in the world doesn’t. For anyone. This definitely means that the United Nations is currently unable to carry out the functions for which it was created. And only one state is to blame for this - Russia, which discredits the UN and all other international institutions where it still participates.
+
+Well, not exactly participates... Tries to block everything constructive and use global architecture in order to spread lies and justify the evil it does.
+
+I'm sure the world sees it. I hope the world will draw conclusions. Otherwise there will be only one institution left in the world to guarantee the security of states. Namely - weapons.
+
+I offered to the members of the UN Security Council and to all other states that respect international law specific things that could change the situation. In particular, a global conference already in peaceful Kyiv to determine how the world's architecture can be reformed given all the actions of Russia, which is still occupying the seat of a permanent member of the UN Security Council received from the Soviet Union.
+
+I also addressed the Parliament and the people of Spain. A state that supports our struggle for freedom and for the preservation of democracy in Europe.
+
+I also spoke today with President of the French Republic Emmanuel Macron about the humanitarian situation in the temporarily occupied regions of Ukraine. About how we can help people in the blocked Mariupol. We also agreed that France would provide the necessary technical and expert support in the investigation of the crimes of the Russian occupiers in Bucha and other cities of our country.
+
+We are preparing a new package of powerful sanctions against Russia for everything it has done to our people.
+
+Now is a crucial moment, especially for Western leaders. And this is no longer about how our people will evaluate the new sanctions and what I will say about them. This is about how decisions on sanctions will be assessed in Western societies themselves. After what the world saw in Bucha, sanctions against Russia must be commensurate with the gravity of the occupiers' war crimes. If after that Russian banks will still be able to function as usual... If after that the transit of goods to Russia will continue as usual... If after that the EU countries will pay for Russian energy resources as usual... Then the political fate of some leaders will develop not as usual. My advice to everyone: feel now that the moment is really crucial.
+
+We are preparing to welcome President of the European Commission Ursula von der Leyen and head of European diplomacy Josep Borrell in Kyiv in the near future. Working together in Kyiv is something that will be praised by many nations of the world. And not only in Europe. Because now Kyiv is the capital of global democracy, the capital of the struggle for freedom for all on the European continent.
+
+And I want to thank all our defenders for making this possible. For the fact that the Armed Forces of Ukraine hold most of the areas where the enemy tried to break into the country.
+
+The most difficult situation, as in previous days, is in Donbas, in the Kharkiv direction. But we continue to do everything to ensure that our defenders have something to stop the Russian troops with.
+
+We are aware that the occupiers outnumber us. That they have more equipment. We are aware of the attempts by Russian leaders to recruit new fools all over Russia among cadets of military schools, people with combat experience and conscripts to send them all to slaughter in another offensive.
+
+But we have no other choice - the fate of our land and our people is being decided. We know what we are fighting for. And we do everything to win.
+
+Today in the Mariyinsky Palace I presented the Golden Star Orders to the servicemen of the Armed Forces of Ukraine who were awarded the title of Hero of Ukraine, and to the members of families of those who were posthumously awarded this title.
+
+Now it is in the Mariyinsky Palace, in the White Hall, where we always meet foreign heads of state, that such important ceremonies will take place. We will demonstrate every time that our defenders deserve respect and honor at the highest level.
+
+And the White Hall of the Mariyinsky Palace will henceforth be called the White Hall of the Heroes of Ukraine. I also handed over the Order of Courage to the family of the deceased documentary photographer Maks Levin who was viciously killed by the occupiers in the Kyiv region. During his life, he made a significant contribution to making us all see and know what is happening in our country.
+
+Traditionally, before delivering the evening address, I signed decrees awarding our military. 292 servicemen, 57 of them posthumously.
+
+**Eternal memory to all who gave their lives for Ukraine!**
+
+**Eternal gratitude to each of our defenders!**
+
+**Everything for the victory. Everything for peace. Everything for Ukraine.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Сподіваюся, світ зробить висновки. Бо якщо не зробить, то у світу залишиться лише одна інституція для гарантування безпеки держав. А саме – зброя.',
+    url: 'https://www.youtube.com/watch?v=zUpcNlnY88g'
+  },
+  {
+    id: 'zUpcNlnY88g',
+    name: 'Speech by the President of Ukraine in the Cortes Generales of Spain',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-05T23:54:31',
+    topics: ['Воєнний злочин', 'Гуманітарна катастрофа', 'Ракетний удар', 'Вбиті діти', 'Міжнародні санкції'],
+    cities: ['Маріуполь', 'Буча', 'Бородянка'],
+    text: `
+**Dear Mrs. President of the Congress of Deputies!**
+
+**Dear Mr. Prime Minister!**
+
+**Dear ladies and gentlemen, deputies and senators!**
+
+**Dear members of the Government!**
+
+**Dear people of Spain!**
+
+Thank you for this opportunity, with great respect from all the Ukrainian people to you.
+
+I am addressing you with the hope that you will understand most of all our pain from the war and our hope for peace. Because for us in Ukraine now absolutely everything that is the basis of public life for you is under threat.
+
+We are one of the largest countries in Europe. And one of the most variegated. But united by democracy and respect for every person, for every community.
+
+I want to give you just one example of our state, of our lives. We have the All-Ukrainian Council of Churches and Religious Organizations. Different denominations, different views on public life and relations between the state and the Church are always agreed peacefully and with respect for others in the format of this Council. This is just one example, but it shows that we, Ukrainians, are committed to peace and a conflict-free environment even in such sensitive issues that in many other societies always cause controversy and conflict.
+
+Russia came to our land with the war not yesterday and not the day before yesterday. It's been a long time. We have been protecting our country from brutal, unprovoked aggression since 2014. First - the occupation of our Crimea. Then - the war in the Ukrainian Donbas. Now - already 41 days of full-scale invasion. The worst war in Europe since World War II.
+
+But why did Russia come to us, to our home, to Ukraine? What exactly must Russian weapons destroy?
+
+Not just our people. Not just any basis for a peaceful life. But also the opportunity to live without a dictatorship. Opportunity to live without state violence. Opportunity to be a sustainable open democracy. Opportunity of peaceful coexistence of different religions, different communities.
+
+The format of Russian state life does not provide for everything that is absolutely familiar to us, to Ukraine. Russia wants to make sure that only one order dominates in our entire region - tyrannical. So that any diversity is destroyed. So that it is impossible to find common ground and compromises between different communities.
+
+This is exactly what is happening in Russia now. This is exactly what it wants to establish in Ukraine. And then in the whole region of Eastern and Central Europe.
+
+And what will happen next?
+
+I know that for your country, for Spain, it is important for a democratic system to be protected. For peace on the European continent to be guaranteed.
+
+But how can this be possible now? After Russia began to allocate all its state resources to the spread of war and the destruction of any basis of normal life.
+
+Just imagine this - mothers in Ukraine write on the backs of their young children the child's name, phone numbers of relatives with the usual pen... Why? Because if the occupiers kill their parents, there will be at least a small chance that someone will save these children.
+
+Imagine that people now - in Europe - live for weeks in basements to save lives. From shelling, from air bombs. Daily! 2022, April - and the reality in Ukraine is as if it’s April 1937. When the whole world learned the name of one of your cities - Guernica. Imagine that in ordinary cities, conditions can be artificially created where more than a hundred thousand people live for weeks without water, without food, without medicine.
+
+Russian troops blocked our city of Mariupol more than three weeks ago. They are destroying this city completely - there is already nothing there but ruins. More than 90 percent of all buildings were destroyed! The killed people were buried in the yards near the destroyed high-rise buildings where they lived...
+
+Russian aircraft bombed even those buildings in Mariupol where they knew exactly people were hiding. Children were hiding...
+
+Ukraine speaks about it every day. Every day throughout the days of this invasion. But the war continues. Russia is not serious about peace.
+
+What is even worse is that we still do not know how much longer the war will last until the world finally does everything necessary for peace.
+
+Really powerful sanctions are needed. The most powerful. How can we allow Russian banks to generate profits while the Russian military tortures ordinary civilians to death in Ukrainian cities? How can European companies trade in a state that is deliberately destroying our people?
+
+I know that many of your companies have already stopped financing the Russian military machine through taxes. I want to thank you, your citizens, and your government. I am grateful to these companies, to your entire state and society for the principled stance on sanctions.
+
+But at the same time, I want to turn to some companies, such as Maxam, Porcelanosa, Sercobe and other companies - I think you know them better than I do - to stop doing business with Russia.
+
+What our city of Bucha, our city of Borodyanka, our other cities have experienced are war crimes. Crimes against humanity. Without statute of limitations. This is an absolutely clear basis for the Russian military and commanders to be convicted by an international court.
+
+In these conditions, how can the countries of the world freely buy Russian oil and allow Russian ships into their ports?
+
+**Ladies and Gentlemen!**
+
+**Spanish people!**
+
+Now the fate of not only our state is being decided on the territory of Ukraine. But also the fate of the whole European project, of the values that united us all. Us with you. Of democracy that united us all. Of human rights, which have become a fundamental value for all of us.
+
+I am grateful to your country for supporting common European decisions for peace. But all of us in Europe, all of us in the world need to do even more to force Russia to seek peace. So that Russia finally starts to respect international law.
+
+What is needed for this?
+
+Everyone in Europe must simply stop being afraid. Stop being weak. They have to become strong. Put values and democracy above the threats that Russia spreads.
+
+I am sure fear is not about you. But I ask you to do everything so that other European countries do not have fear as well. You can help us. Help the world. Give us the weapons we need. And we appreciate that help, that weaponry - all that you have already given us. You can support further sanctions that are needed. And you can also destroy the fear of Russia wherever you can see it.
+
+Because democracy should not fear. Freedom must be protected. Human rights must be above all calculations. The right to peace. The right to life. The right to happiness, to free development. The right to family security. The right to the future of children. The right to a decent old age of parents. The right to respect for every community. The right to be with you, Spain, together in a European family.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Бо демократія не має боятися. Свобода має бути захищена. Права людини – мають бути понад усі розрахунки.',
+    url: 'https://www.youtube.com/watch?v=zUpcNlnY88g'
+  },
+  {
     id: 'GHTP8-kNRLI',
     name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 5',
     translated: false,
@@ -100,9 +248,9 @@ Because democracy should not fear. Freedom must be protected. Human rights must 
     url: 'https://www.youtube.com/watch?v=bezQLqQFV5c'
   },
   {
-    id: 'nOlT6m6Uxhc',
+    id: 'nAmw_h5Kk8k',
     name: 'Speech by the President of Ukraine at a meeting of the UN Security Council',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-05T20:11:32',
@@ -300,7 +448,7 @@ If possible - watch this video. Because there is no opportunity for everyone to 
 **Thank you.**
     `,
     description: 'Where is the peace that the United Nations was created to guarantee? It is obvious that the key institution of the world, which must ensure the coercion of any aggressors to peace, simply cannot work effectively.',
-    url: 'https://www.youtube.com/watch?v=nOlT6m6Uxhc'
+    url: 'https://www.youtube.com/watch?v=nAmw_h5Kk8k'
   },
   {
     id: 'WTn5IiPoBHY',
