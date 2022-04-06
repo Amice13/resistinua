@@ -18,7 +18,7 @@ const en = {
   'Білорусь': 'Belarus',
   'Більше трьох днів назад': 'More than three days ago',
   'Благодійність': 'Charity',
-  'Благодійність': 'Charity',
+  'Блокування портів': 'Blocking seaports',
   'Бомбардування': 'Bombing',
   'Бородянка': 'Borodianka',
   'Богданівка': 'Bohdanivka',

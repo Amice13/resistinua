@@ -1,6 +1,117 @@
 const source = [
   {
-    id: 'zUpcNlnY88g',
+    id: 'Dp_ncYg8v8M',
+    name: 'Speech by the President of Ukraine in Oireachtas, Parliament of Ireland',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-06T13:47:08',
+    topics: ['Ракетний удар', 'Блокування портів', 'Голод', 'Воєнний злочин', 'Міжнародні санкції'],
+    cities: ['Маріуполь', 'Чернігів', 'Суми', 'Охтирка', 'Харків', 'Ізюм', 'Волноваха', 'Буча', 'Ірпінь'],
+    text: `
+**Dear speakers!**
+
+**The Taoiseach and members of the government!**
+
+**Dear members of the Oireachtas!**
+
+**Dear people of Ireland!**
+
+Tonight Russian missiles again struck the territory of our state. Foully hitting the ordinary civilian infrastructure. In particular, the new depot with fuel. One of the dozens that Russia sees as a target. And this has already become the trademark of the occupiers – to destroy everything that helps to arrange ordinary life of ordinary people. They consistently destroy fuel storage sites, product distribution centers, destroy even conventional agricultural machinery, and mine fields. They are constantly sowing mines everywhere. In every place they are leaving.
+
+In addition, Russia has blocked all our seaports, along with those vessels that have already been loaded with agricultural goods for export.
+
+Why are they doing this?
+
+Because they also consider hunger as their weapon. Weapon against us, ordinary people. As a tool to dominate.
+
+Ukraine is one of the leading countries in the global food market. Without our exports, it is not simply a shortage, but a threat of famine for more than a dozen countries in Africa and Asia. Because there will be not enough volumes of commodities and prices will hike. It's a fact.
+
+It will be harder for millions of the poor in North Africa and parts of Asia to feed their families.
+
+Now, it is the time of the planting season in Ukraine. To foil our planting season, to destroy our infrastructure is to deliberately provoke a food crisis. And what will happen due to this crisis? At least, it will be political turbulence. At most, there will be outbreaks of violence in regions where instability is becoming traditional, and a new mass influx of refugees who are simply looking for ways to survive will be seen.
+
+Russia has been using hunger against our people since the first days of the war. The worst is in Mariupol. This half-million city was completely blocked by Russian troops more than a month ago. They blocked access from both land and sea. Any access.
+
+They are blocking humanitarian goods, do not allow to bring anything – food, water, medicine. When there was snow, people could melt at least the snow to get water, but now there is none.
+
+Round-the-clock shelling, air raids, bombing continue... There is not a single building left in Mariupol, not a single undamaged building. In the city with the population of half a million – none.
+
+The dead and killed were buried in the yards of destroyed high-rise buildings. When they were able to do it. But in many cases it was not possible to bury. The bodies of people remained in the streets, in the ruins of houses, in collapsed basements.
+
+We do not know how many Mariupol residents have been killed by Russia. But we know for sure that this was part of the general tactics of the occupiers. They did the same or tried to do the same with Chernihiv, Sumy, Okhtyrka, Kharkiv, Izium, Volnovakha and many other Ukrainian cities. You may not have heard all these names yet. But these are millions of people that Russia was simply trying to destroy. And continues to do so.
+
+When you hear this, it may seem impossible. It may seem that no one in today's world would dare to do so. But these are real facts.
+
+The fact that the residents of Mariupol drew on the sheets of school notebooks how to find where the bodies of their loved ones are buried in the city yards. The fact that the Russian occupiers shot people on the roads as they tried to escape from the blocked cities. Hundreds of cars hit by shelling are still left on Ukrainian highways.
+
+The fact that the Russian military did not even try to remove the bodies of killed people from the streets. While Bucha, Irpin and other our cities were under occupation, the corpses were laying just on the roads, on the roadsides, in the yards of houses – anywhere...
+
+The fact that at least 167 children have been killed in 42 days of Russia's full-scale invasion of Ukraine. We do not yet know all the victims of Mariupol. We do not know the victims of other cities, areas where hostilities or occupation continue.
+
+The fact that 927 educational institutions and 285 hospitals have been destroyed or damaged in the shelling by Russia. Even 73 ambulances have come under the occupiers' fire!
+
+They bombed and shelled even churches... Even shelters, which they knew for sure that there was no one there but women and children... And that's a fact.
+
+A state that does this does not deserve to be among others in the international community.
+
+Russia does not deserve relations with it as with one of the normal states. It must be responsible for everything it has done on Ukrainian land.
+
+The Russian military came to Ukraine as an army of colonizers. Their state propagandists, their politicians don't even hide what they want anymore.
+
+In the 21st century, they see their state as a colonial empire that allegedly has the right to subjugate neighboring nations and destroy any basis for their independent living. Destroy even the very identity of nations. Everything that makes us Ukrainians...
+
+The Russian military purposefully searched for and killed teachers in the occupied territories. Everyone who was associated with the army. They kidnap local government officials and kill community leaders. Along with the Russian army, units to suppress any political resistance immediately they entered our territory were created...
+
+Now, when there are discussions about sanctions against the Russian Federation, I just can't hear any doubts, I can't see any indecision...
+
+After everything we have experienced in Ukraine. After all that the Russian troops did. Even now, when the world already knows everything about Russia's war crimes against our people, we have to persuade even some European companies to leave the Russian market. We still have to convince Western politicians in some countries that we need to stop any connection between Russian banks and the global financial system. Unfortunately, we still have to convince Europe that it is impossible that Russian oil provides the Russian military machine with a generous flow of money.
+
+**Ladies and Gentlemen!**
+
+**Irish people!**
+
+From the first days of the Russian invasion, you are on the side of good. On the side of freedom. On the side of Ukraine. And this is also a fact. You have no doubt whether to help us. You started doing it right away. And although you are a neutral country, you have not remained neutral to the grief and suffering that Russia has brought to Ukrainians. I am grateful to all of you for that. I am grateful to the leadership of your country, to every Irish man and woman. I am grateful for the support of sanctions against Russia. I am grateful for the humanitarian and financial support provided to us.
+
+Thank you for taking special care of our people who have sought and found safety in your land. Just think about it: Russia has already left homeless 10 million Ukrainians who were forced to flee their hometowns because of this war ... It is simply impossible to accept!
+
+But let us be aware that Russia has not yet given up on its plans. It is still continuing offensive operations in Ukraine. It is still looking for ways to conquer all our Ukrainian people.
+
+We must do everything together so that Russia forced to seek only peace. It seek only way to leave the territory of Ukraine and give us in peace.
+
+That is why I urge you to show even more leadership in our anti-war coalition!
+
+I urge you to persuade your EU partners to toughen sanctions against the Russian Federation. The sanctions that will really stop Russia's military machine.
+
+We need to stop all trade with Russia. Russia's banks' ties with the world's financial system must be blocked. We need to cut off the flow of money that the Russian budget receives for oil and spends it on missiles, bombs, artillery shelling...
+
+The world has long developed appropriate mechanisms. Everyone knows what to do.
+
+The only obstacle is the lack of principled stance of individual leaders. Yet. Political leaders, business leaders. Those who still think that war and war crimes are not as terrible as financial losses.
+
+I'm sure your leadership can change that.
+
+I am confident that all of us in Europe together will be able to end this terrible war and restore peace and stability in Eastern Europe. It is simply impossible to procrastinate with this. The longer the Russian aggression lasts, the worse the consequences will be not only for our continent, but also for the neighboring regions of our planet.
+
+**Ladies and Gentlemen!**
+
+**Irish people!**
+
+Our common principles, our common fearlessness have already started a new page in the history of relations between Ukraine and Ireland. Our mutual understanding and respect is at the level where we can say: it is only a matter of time before you and we live together in our common European home. I am grateful to you for supporting the special fast-track procedure for granting Ukraine membership in the European Union. With your leadership, it will be even faster and more profitable for both our nations.
+
+And now we need to think about the restoration of our country. About recovery after the war. We invite the leading countries of the planet to take part in the reconstruction of Ukraine. Of course, I invite Ireland to take part in this project. I do it with pleasure.
+
+For example, in our Kherson region. Your ability to value life and people, your ability to live in communities, your economic potential – they are well-known. So let's join forces and show that Ukraine and Ireland together can do much more than the world's largest state planned to destroy.
+
+**Grateful to Ireland!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Сподіваюся, світ зробить висновки. Бо якщо не зробить, то у світу залишиться лише одна інституція для гарантування безпеки держав. А саме – зброя.',
+    url: 'https://www.youtube.com/watch?v=Dp_ncYg8v8M'
+  },
+  {
+    id: 'Me7a6p-Z0-g',
     name: 'Kyiv is now the capital of global democracy, the capital of the struggle for freedom for all in Europe',
     translated: false,
     russianTimestamp: '',
@@ -58,7 +169,7 @@ Traditionally, before delivering the evening address, I signed decrees awarding 
 **Glory to Ukraine!**
     `,
     description: 'Сподіваюся, світ зробить висновки. Бо якщо не зробить, то у світу залишиться лише одна інституція для гарантування безпеки держав. А саме – зброя.',
-    url: 'https://www.youtube.com/watch?v=zUpcNlnY88g'
+    url: 'https://www.youtube.com/watch?v=Me7a6p-Z0-g'
   },
   {
     id: 'zUpcNlnY88g',
