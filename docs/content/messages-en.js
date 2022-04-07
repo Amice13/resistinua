@@ -1,5 +1,109 @@
 const source = [
   {
+    id: 'LUMZa8y_LLg',
+    name: 'If there is no really painful package of sanctions against Russia, it will be considered by Moscow as a permission to attack',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/LUMZa8y_LLg?t=27',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-06T13:47:08',
+    topics: ['Воєнний злочин', 'Збір доказів', 'Міжнародні санкції', 'Нафтове ембарго', 'Економіка', 'Герої України'],
+    cities: ['Буча', 'Ірпінь', 'Маріуполь', 'Харків'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+It seems that the attitude to the modern Russian state is finally changing in the world. After what the world saw in Bucha when Russian troops retreated.
+
+Now the attitude to everyone in Russia will be simple: you support either the search for peace or unjustified massacre.
+
+Killed Ukrainian men and women in Bucha, in Irpin, in other cities that Russian troops entered is the last argument. The last argument for every citizen of Russia to decide whether you are for war or for peace. If for war, then you will forever - until the end of your life - be outcasts and in the end you will lose everything. And if for peace, if you feel even a little bit of shame for what the Russian troops are doing in Ukraine, then now is a key moment for such citizens of Russia: you have to demand - exactly demand - an end to the war. It is better now, demanding peace, to lose something, to somehow face the Russian repressive machine than to be equated with the Nazis for the rest of your life. This applies not only to any public person in the Russian Federation, not only to businessmen, but also to ordinary citizens.
+
+Nazism has no future. Mass killings have no future. Everyone in Russia who will not demand an end to this shameful war and the withdrawal of Russian troops from Ukraine has no future.
+
+It seems that the Russian leadership is really afraid that the anger of the world because of what they saw in Bucha would be repeated because of what they will see in other cities, from where we will definitely drive out the occupiers. We have information that the Russian troops have changed their tactics and are trying to remove the killed people from the streets and basements of the occupied territory. Killed Ukrainians. This is just an attempt to hide the evidence and nothing more.
+
+But they will not succeed, because they killed a lot. Responsibility cannot be avoided.
+
+We already know about thousands of missing people. We already know about thousands of people who could be either deported to Russia or killed. There are no other options for their fate.
+
+The situation now is that thanks to an objective investigation, thanks to witnesses, thanks to satellite surveillance of events on earth, thanks to other tools that help establish the truth we will find out all the circumstances regarding the majority of our missing citizens. Regarding most of Russia's war crimes in Ukraine.
+
+If the world has started a debate about whether it is permissible to call what the Russian military did on the territory of Ukraine genocide, the search for truth can no longer be stopped. You can't roll it back in any way. One can only quickly abandon further aggression against Ukraine and thus try to somehow reduce the damage to Russian statehood and to those who personally adopt key decisions in Russia.
+
+If not, if nothing changes, then it is suicide. Suicide for anyone who chooses to continue the war.
+
+Today, Western countries announced a new package of sanctions against the Russian Federation. New investments in Russia are blocked, restrictions are applied against several systemic banks in Russia, personal sanctions are added, as well as other restrictions. This package has a spectacular look. But this is not enough.
+
+Still it can hardly be called commensurate with the evil that the world saw in Bucha. With the evil that continues in Mariupol, in the shelling of Kharkiv, in Russia's attempt to launch a new global bloody offensive in Donbas...
+
+We will continue to insist on a complete blockade of the Russian banking system from international finance. We will also continue to insist on one or another format of the democratic world's refusal to buy Russian oil. It is the export of oil that is one of the foundations of Russia's aggression. One of the foundations that allows the Russian leadership not to take seriously the negotiations on ending the war and on the liberation of Ukrainian territory.
+
+Some politicians are still unable to decide how to limit the flow of dollars and euros to Russia from the oil trade, so as not to jeopardize their own economies. But that's why people go into politics. To solve such problems, difficult tasks. To solve them quickly and in a principled fashion. If you are not capable, then you shouldn’t have started political activity.
+
+The embargo on Russian oil supplies will be applied anyway. The format will be found. The only question is how many more Ukrainian men and women the Russian military will have time to kill, so that you, some politicians - and we know you, can borrow a little determination somewhere.
+
+It is good that the United States Department of the Treasury has suspended Russia's ability to use US bank accounts and related assets to pay its debt. It's tangible. And I'm grateful for that. But much more needs to be done to stop the war.
+
+If there is no really painful package of sanctions against Russia and if there is no supply of weapons we really need and have applied for many times, it will be considered by Russia as a permission. A permission to go further. A permission to attack. A permission to start a new bloody wave in Donbas.
+
+It is still possible to prevent this. It is still possible to impose such sanctions, which Ukraine insists on, our people insist on. It is still possible to give us weapons that will really stop this aggression. The West can do it.
+
+Just as it could have applied preventive sanctions last year to prevent this invasion. If the mistake is made again, if there is no preventive action again, it will be a historic mistake for the whole Western world.
+
+I addressed the parliament and the people of Ireland today. This country was one of the first to come to our aid after February 24. And it is one of those who shows principled leadership in the European house to put effective and decisive pressure on Russia.
+
+As a result of my address, we have good news: Ireland fully supports Ukraine's accelerated accession to the European Union. And it will do everything to increase the pressure on Russia as much as necessary to end this war.
+
+Tomorrow I will address the parliaments and nations of Greece and the Republic of Cyprus.
+
+In the afternoon I held a meeting with members of the Cabinet of Ministers in Kyiv. The key issues are the implementation of the state budget and economic activity in our country. We must do everything possible to restore the work of domestic enterprises, trade activities, and revive small and medium-sized enterprises throughout our territory where it is safe and possible to work.
+
+The economy is also a frontline on which we fight for our freedom, for our state, for our people. Therefore, we need to constantly look for ways to adapt to the circumstances. Now we need to be as creative and bold as possible in solving economic issues. It depends not only on government officials and the central government in general. In general, it also depends on all leaders at the local level, on the political and business communities.
+
+We must all find the necessary ideas, the necessary solutions to stabilize the country's economy together. If we need to relocate businesses from certain areas, we have to do it. If we need to update legislation and give businesses more room for development, MPs must do so quickly. If we need to create special conditions for the return of people, and the security situation in a particular area allows, every leader at any level must make every effort and do everything possible to return people to such safe areas.
+
+Today, the 42nd day of the Russian invasion has come to an end. This is not too much for military history. But for the life of a particular person - it is tangible. Right now, many of our people who left their cities, their communities after the invasion of Russia may wonder: what next? And where next? In particular, Ukrainians abroad. In particular, Kyivans and residents of other cities in the north and center of our state who moved to the western regions.
+
+And I call on all community leaders in areas where there is no threat of direct confrontation with the enemy on the ground to do everything possible for people to return, for people to work, for economic processes to restart. To restore normal life as much as security allows.
+
+This applies to the entire horizontal of local government - mayors, deputies of city and regional councils. Look for solutions for every district, for every region! Together with the government, together with us, with the Office of the President, together with the deputies of the Verkhovna Rada. A working economy is just as important as our brave, strong army.
+
+The Russian occupiers continue to accumulate fighting force to realize their ill ambitions in Donbas. They are preparing to resume an active offensive.
+
+We are preparing for a further reduction of Russia's military potential. Manpower and equipment. We will fight and we will not retreat. We will look for all possible options to defend ourselves until Russia begins to seriously seek peace.
+
+This is our land. This is our future. And we will not give them up.
+
+I never tire of thanking each of our defenders everyday - all our Armed Forces, intelligence, special services, the National Police, everyone who allows us to hope and believe in victory. Allows us to count on peace.
+
+**Sincere gratitude! Sincere respect!**
+
+And before delivering this evening's address, I traditionally signed decrees on awarding our heroes. 168 servicemen of the Armed Forces. And 3 servicemen from the Main Directorate of Intelligence.
+
+**Eternal glory to everyone who defends Ukraine!**
+
+**Eternal memory to everyone who gave life for our state!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Now the attitude to everyone in Russia will be simple: you support either the search for peace or unjustified massacre.',
+    url: 'https://www.youtube.com/watch?v=LUMZa8y_LLg'
+  },
+  {
+    id: 'eaETyhPrxo8',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 6',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-04-06T22:04:04',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 6`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 6',
+    url: 'https://www.youtube.com/watch?v=eaETyhPrxo8'
+  },
+  {
     id: 'Dp_ncYg8v8M',
     name: 'Speech by the President of Ukraine in Oireachtas, Parliament of Ireland',
     translated: false,
