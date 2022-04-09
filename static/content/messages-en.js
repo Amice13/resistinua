@@ -1,8 +1,225 @@
 const source = [
   {
-    id: 'sbZIyl058_M',
-    name: 'Being brave is our brand; we will spread our courage in the world - address by President Volodymyr Zelenskyy',
+    id: '2wcrh7QWshM',
+    name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 8',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Ірина Верещук'],
+    date: '2022-04-07T23:31:20',
+    topics: ['Гуманітарні коридори'],
+    cities: [],
+    text: `Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 8`,
+    description: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 8',
+    url: 'https://www.youtube.com/watch?v=2wcrh7QWshM'
+  },
+  {
+    id: 'EvMoHOcEL-Y',
+    name: 'The strike on Kramatorsk must be one of the charges at the tribunal regarding Russia\'s war crimes',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-08T22:44:51',
+    topics: ['Ракетний удар', 'Воєнний злочин', 'Пропаганда', 'Збір доказів', 'Постачання зброї', 'Міжнародна підтримка', 'Нафтове ембарго', 'Міжнародні санкції', 'Вступ до ЄС'],
+    cities: ['Краматорськ', 'Буча'],
+    text: `
+**Ukrainians!**
+
+The 44th day of our defense against the Russian invasion is coming to an end. The 44th dark day. Russian troops launched a missile attack on the Kramatorsk railway station this morning. 38 people died on the spot. Another 12 people died in hospitals during the day. We lost five children. Dozens more heavily wounded remain in hospital.
+
+This is another war crime of Russia, for which everyone involved will be held accountable.
+
+Russian state propagandists were in such a hurry to shift responsibility for the attack to Ukrainian forces that they accidentally blamed Russia.
+
+RIA Novosti reported that the strike on Kramatorsk had been inflicted when the missiles were still in the air. The day before, other Russian propagandists were spreading threats to all those who escaped from Donbas by rail.
+
+All the world's leading powers have already condemned Russia's attack on Kramatorsk. We expect a firm, global response to this war crime.
+
+Like the massacre in Bucha, like many other Russian war crimes, the missile strike on Kramatorsk must be one of the charges at the tribunal, which is bound to happen.
+
+All the efforts of the world will be aimed to establish every minute: who did what, who gave orders. Where did the rocket come from, who was carrying it, who gave the order and how the strike was coordinated. Responsibility is inevitable.
+
+I spoke about this today with representatives of the European Union who arrived in Kyiv. With President of the European Commission Ursula von der Leyen and head of European diplomacy Josep Borrell.
+
+During the day, they visited Bucha and witnessed the consequences of the occupation. They saw how many people were killed by the Russian military. I appreciate the EU's readiness to provide the necessary financial and technical assistance to document and investigate Russian crimes. I am grateful to the President of the European Commission for her personal involvement and assistance in setting up a joint investigation team to establish the full truth about the actions of the Russian occupiers and bring all those responsible to justice.
+
+I am also grateful for the financial support - one billion euros for weapons. Plus today we agreed on another 500 million euros for defense needs.
+
+I held negotiations with the Prime Minister of Slovakia and thanked for the unprecedented defensive and other support. For the warmth of Slovak hearts towards Ukrainian men and women.
+
+We also talked with EU officials about further steps to force Russia to seek peace. I emphasized that the existing sanctions are not enough. The pressure on Russia must be increased.
+
+It is necessary to introduce a full energy embargo - on oil, on gas. It is energy exports that provide the lion's share of Russia's profits and allow the Russian leadership to believe in its impunity. This allows Russia to hope that the world will ignore the war crimes of its army. We will not allow this. Everyone in the world who has the courage, like Ukrainians, to resist tyranny will not allow this.
+
+Russian banks must also be completely disconnected from the global financial system. Not some of them, but all, the entire banking system of Russia. It is inadmissible that the greatest threat to global security is finding its way to global wealth.
+
+In this context, I also evaluate the new announced package of sanctions against Russia.
+
+I believe the softness with which some in the West still treat the Russian state is wrong. We know who is constantly trying to soften sanctions proposals. And we will do our best to finally make Europe understand: in any case, you will have to impose really principled and really strong sanctions against Russia. And not some partial restriction of Russian energy exports. Not some partial restriction of Russian navigation. We know everyone who delays the decisions. But I am confident that both these politicians and these countries will change their position under the pressure of all that Russia is doing against Ukrainians and against freedom in Europe.
+
+I addressed the Parliament and the people of Finland today. I called on Finnish politicians to do everything possible to help Ukraine. I also reminded that the best way to stop tyranny and protect freedom is to provide Ukraine with the necessary weapons. The weapons we have repeatedly asked for from the West. The weapons that are available there. I will continue to fight every day, literally every hour, to get everything our state needs.
+
+Russia's war against our people may end in victory of freedom much sooner than many in the world think if Ukraine simply receives the weapons the list of which we have provided. Any delay in providing such weapons to Ukraine, any excuses can mean only one thing: the relevant politicians want to help the Russian leadership more than us Ukrainians.
+
+No matter what, we will continue to protect our land and our people in any case.
+
+Yes, not everyone in the world has found the courage we have. But we have powerful and principled partners and friends. Real friends who help Ukraine to really protect us. To really protect freedom in Europe. I am convinced that Ukraine's victory is only a matter of time. And I will do my best to reduce this time.
+
+By the way, we also talked today about the time needed for Ukraine's full accession to the European Union.
+
+Today we received a questionnaire from the European Commission. Finally. A questionnaire the answers to which will be the basis for preparing the conclusion of the European Commission on Ukraine's readiness for EU membership negotiations.
+
+Our Government will prepare answers qualitatively and very quickly. I think in a week. Next is the conclusion of the European Commission, which will be prepared in the next few months. And then there will be the decisions of the member states and the negotiations on accession.
+
+I am convinced of our success on this path. I am convinced that we are finally close to realizing our long-standing goal. Ukraine will be one of the equals in our common European home. Ukraine will be a member of the European Union. A peaceful, sovereign, rebuilt state. We will provide it. There is no doubt.
+
+We are also preparing for tomorrow's mass event in Warsaw, which will take place within the initiative of President of the European Commission Ursula von der Leyen and Prime Minister of Canada Justin Trudeau – Stand for Ukraine.
+
+It is about the support for Ukrainians, for our migrants. All funds will be allocated for the support of Ukrainians.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Президент України Володимир Зеленський провів зустріч з Прем\'єр-міністром Словацької Республіки Едуардом Хегером, який перебуває в нашій країні з візитом.',
+    url: 'https://www.youtube.com/watch?v=EvMoHOcEL-Y'
+  },
+  {
+    id: 'ZgJVk7TQZIk',
+    name: 'Volodymyr Zelenskyi Provіv zustrіch with Prime Minister of the Slovak Republic Eduard Heger',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-08T22:28:10',
+    topics: ['Постачання зброї', 'Міжнародна підтримка'],
+    cities: [],
+    text: `
+The President of Ukraine, Volodymyr Zelenskyi, was visiting the Prime Minister of the Slovak Republic, Eduard Heger, who is visiting our country.
+
+The head of the state, having agreed with the Slovak people that the head of the Slovak region, is not only for supporting Ukraine in words, but for real help with the enemy, so that our country can resist the Russian invasion.
+    `,
+    description: 'The President of Ukraine, Volodymyr Zelenskyi, was visiting the Prime Minister of the Slovak Republic, Eduard Heger, who is visiting our country.',
+    url: 'https://www.youtube.com/watch?v=ZgJVk7TQZIk'
+  },  {
+    id: 'FKa5Yeadt-0',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in Eduskunta, the Parliament of Finland',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-08T14:44:44',
+    topics: ['Воєнний злочин', 'Міжнародні санкції', 'Постачання зброї', 'Енергетика', 'Відбудова України'],
+    cities: ['Краматорськ', 'Буча', 'Маріуполь', 'Харків', 'Херсон'],
+    text: `
+Dear Mr. Speaker!
+
+Dear Mr. President!
+
+Dear Mrs. Prime Minister!
+
+Members of the Government!
+
+Dear Eduskunta deputies!
+
+Dear Mr. Federal President of Germany!
+
+Dear Chairman of the Swiss Federal Assembly!
+
+People of Finland!
+
+I'll start with what happened this morning.
+
+The Russian military struck at the railway station in our city of Kramatorsk. At the usual train station. At the ordinary people, there were no militaries. At the people who were waiting for trains to leave to a safe area. They hit people with missiles. There are witnesses, there are videos, there are remnants of missiles, but there are no more people. At least 30 dead. About 300 wounded. This is for now.
+
+Once again: this is an ordinary train station. An ordinary city in the east of our state. That's how Russia came to "defend" Donbas. That's how Russia came to "protect" Russian-speaking people. This is how we live for the 44th day. After 8 years of war in the east of our country.
+
+I ask you to honor the memory of all Ukrainian men and women killed by Russian soldiers, Russian missiles, Russian bombs with a moment of silence...
+
+Thank you.
+
+Russia has sent all its combat capable forces from all over their territory up to the Far East to seize Ukraine. But even they were not enough. That is why Russia is gathering as many people as possible who are capable of holding weapons in order to continue the aggression against Ukraine. Looking for mercenaries around the world. Sending militants from various de facto terrorist groups and so-called "private armies" created by some Russian officials. We have seen so many of them among the captured Russian military.
+
+Both very experienced killers and very young boys born in 2003-2004. But none of them could adequately explain why they need this war against Ukraine, what is the purpose of these missile strikes at civilians, what is the purpose of the cruelty that the world saw in Bucha and other cities liberated by the Ukrainian army.
+
+Of course, among the nearly two hundred thousand Russian occupiers on our land were those who did their best not to fight. Who fled to Russia, who deliberately surrendered, who inflicted severe injuries on themselves to get to the hospital and leave the war zone.
+
+But still it was a minority. And the majority of their army continues war on our land for no apparent reason. Absolutely pointless. And as cruel as possible. Continues to fight in a way that you often think - are they people at all?
+
+Yesterday, the Russian military fired from artillery at a boat with civilians on the Kakhovka reservoir. People were just trying to escape from the occupied territories. But they were hit by "Grad". Three children, eleven adults. On the boat. In the middle of the reservoir. Tens of meters from the shore. And they are being hit by artillery...
+
+Hundreds and hundreds of cars with gunshot traces remained on all roads of our country in the areas where Russian troops entered. Ordinary cars of ordinary people who just wanted to live. The Russian military knew for sure that those were ordinary civilians. They saw that there was no threat. But they fired.
+
+There are many examples of such cars with people who were simply crushed by armored vehicles. Literally - crushed by tanks.
+
+You all know what the Russian military has done in our city of Bucha. But they still make such Buchas every day - from Kramatorsk to Mariupol, from Kharkiv to Kherson.
+
+And I'm sure you realize that if the Russian army is ordered to invade your land, they will do the same to your country. I do not wish you this. They will do what happened in Bucha to your cities. To the cities of any country that the leadership of the Russian Federation decides is allegedly part of their empire, not the land of another nation.
+
+And even if Russian soldiers do not understand why they need it, they will still be at war. Because it is hatred and contempt for other people that are being brought up now in Russia at the state level.
+
+Ladies and Gentlemen!
+
+People of Finland!
+
+You have already seen in your history the cruelty and absurdity of the invasion of Russia. Let's be honest: the threat remains. Everything must be done to prevent this from happening again.
+
+Russia's war against Ukraine is now deciding not only the fate of our state. Not only the fate of our people. But the fate of all those who have a common border with Russia.
+
+Like you 83 years ago, Ukraine has the courage to defend itself against the enemy whose forces far outnumber them. There are just a lot of them, in quantitative terms. They have a lot of equipment and a lot of missiles. A lot of people who can be thrown into the war. And a lot of dollars and euros earned from oil trade that are then spent on propaganda of aggression.
+
+But just as your courage saved your country from Stalin's invasion, our courage resists this invasion. For 44 days already. But much remains to be done to win.
+
+Of course, unlike before World War II, the democratic world has now realized that the expansion of tyranny cannot be ignored. If the people are fighting for freedom, they must be supported. But, unfortunately, this understanding is more common among nations than among some very influential politicians. Among smaller states than among some leading states.
+
+We still have to convince the world's powerful states on a daily basis that sanctions against Russia that it will not be able to circumvent and that will definitely stop its military machine are necessary. We still have to ask for the necessary help, for the necessary weapons. And we are still told that we still have to wait for the aircraft, anti-missile systems, tanks, anti-ship weapons.
+
+We are told that we have to wait while we are losing hundreds of people every day from Russian strikes. When dozens of our cities are destroyed. We have to wait while more than ten million Ukrainians have become IDPs. And we have to wait. When more than three million of these ten left our country...
+
+We must do everything together so that they can return home. We must do everything to stop Russia, to stop the war! So that peace is restored in Ukraine, and the Russian occupiers leave our sovereign territory. This cannot be delayed, ladies and gentlemen.
+
+We are told that we have to wait... But I have a question: should both those who kill our people and those who make us wait be held jointly accountable for the deaths of Ukrainians? Those who make us wait for the most necessary. Wait for the opportunity to defend ourselves, our life, wait for the weapons.
+
+I am sincerely grateful to Finland for not delaying when this invasion by the Russian Federation began. For coming to our aid immediately. For the fact that you made a historic decision to provide Ukraine with defense support. For being principled in sanctions matters. For being one of the moral leaders of our anti-war coalition.
+
+But I ask you to show even greater leadership, both at the level of the European Union and in bilateral relations with European countries, to support our struggle for freedom. For our common freedom.
+
+When this war continues, when tyranny loses the war against Ukraine, it will be one of the greatest contributions to Europe's security in decades. Consequently, one of the greatest contributions to the security of your state. That is why we need the weapons that your EU partners have. That is why we need truly effective, powerful sanctions against Russia. Permanent. Such a sanction cocktail, which will be remembered as Molotov cocktails. Insist on it!
+
+I am grateful to the Finnish companies that have already stopped working in the Russian market.
+
+But economic ties with this country must be severed, and I urge you to put pressure on all your companies that continue to support the Russian military machine through their taxes and excise duties in Russia. All Russian banks must be immediately isolated from the global financial system.
+
+We cannot limit ourselves to a partial response to Russia's threat to Europe and the democratic world, because freedom will not survive if the channels of nourishing tyranny are left. And we need to think together about how to protect Europe from Russia's energy weapons.
+
+Every educated person knows that the time of fossil fuels has passed. Mankind can no longer rely on coal, on oil. We need to look for cleaner energy sources for everyone. And if Russia uses energy to finance aggression against other nations and the spread of hatred in the world, it should be an additional incentive. This should speed up the decision-making process.
+
+How much longer will Europe ignore the need to impose an embargo on oil supplies from Russia? This is a matter of security in all senses of the word - from environmental to military.
+
+And I urge you to ask this question out loud to everyone in the European Union. So that the necessary decision finally appears. The world knows the formats of how to do it. And if Europe does not want to physically cut off supplies now, if it is not ready, although it is inevitable, the first step must be to apply a scheme to limit the flow of money for oil into Russia. Let this money accumulate on special accounts without Russia's access to it. Let Russia first restore peace and be held accountable for war crimes, and only then take its dollars and euros from oil trade. Let it remember the spirit of Helsinki and restore the Helsinki Accords in full, and only then will it be possible to discuss the economy, if necessary.
+
+And when we say that we need to stop the war, it is clear to all cultures and it is clear in all languages. When I say this in Ukrainian, it seems to me that there are no people who do not understand this. The same goes for German, Arabic, Chinese or any other language.
+
+Peace is the same value for all. War is the same evil for all.
+
+**Ladies and Gentlemen!**
+
+**People of Finland!**
+
+I believe that common sense will still prevail. I am confident that together we will be able to defend freedom and defend Ukraine. That is why we need to think now about how to rebuild our state after this war.
+
+The world knows about the leadership of your country, your people in the field of education. You have really built an educational system that allows you to protect personal freedom, make a person educated and teach respect for other people, the environment and the world. Other countries should learn this, too!
+
+During the month and a half of the Russian invasion, 928 educational institutions in Ukraine have already been destroyed or damaged. These are kindergartens, these are schools, these are universities. I invite your state, your companies, your specialists to join the restoration of our educational sector and the modernization of education in Ukraine. We must do everything we can to ensure that, even after this brutal war against our nation, our people continue to cultivate goodness in their hearts and stay open to the world. I believe in that.
+
+Because hatred must lose. Freedom must win. First - in Ukraine, and then - wherever tyranny will try to raise its head.
+
+**Thank you Finland!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Hatred must lose. Freedom must win. First - in Ukraine, and then - wherever tyranny will try to raise its head.',
+    url: 'https://www.youtube.com/watch?v=FKa5Yeadt-0'
+  },
+  {
+    id: '5lIE4xvfgj8',
+    name: 'Being brave is our brand; we will spread our courage in the world - address by President Volodymyr Zelenskyy',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-07T23:06:17',
@@ -74,7 +291,7 @@ And already a stable tradition: before delivering this address, I signed decrees
 **Glory to Ukraine!**
     `,
     description: 'If everyone in the world had at least ten percent of the courage that we Ukrainians have, there would be no danger to international law at all.',
-    url: 'https://www.youtube.com/watch?v=sbZIyl058_M'
+    url: 'https://www.youtube.com/watch?v=5lIE4xvfgj8'
   },
   {
     id: 'RiyyHsmOKYA',
