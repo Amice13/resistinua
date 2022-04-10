@@ -1,5 +1,89 @@
 const source = [
   {
+    id: 'Nbpqzq5YsuM',
+    name: 'Defense strategy for every civilized state is to put pressure on Russia to restore peace',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-09T21:59:28',
+    topics: ['Постачання зброї', 'Міжнародна підтримка', 'Міжнародні санкції', 'Відбудова України', 'Нафтове ембарго'],
+    cities: [],
+    text: `
+**Free people of a brave country!**
+
+Today, it was a great honor for me to welcome in our capital, on Bankova Street, a sincere friend of Ukraine - Prime Minister of the United Kingdom Boris Johnson on your behalf, on behalf of all Ukrainians.
+
+His visit to our country demonstrates as clearly as possible - there are no obstacles to freedom. There are no obstacles to leadership. Boris was among those who did not hesitate for a moment whether to support Ukraine. The leadership of the United Kingdom in providing our country with the necessary assistance, especially in terms of defense, as well as the leadership in sanctions policy will remain forever in history. In the history of the defense of democracy, in the history of the defense of Europe. Ukraine will always be grateful to Boris and Britain for this.
+
+Today Boris arrived in Kyiv with a new package of financial and defense support for Ukraine. We also discussed new sanctions that are needed to force Russia to seek peace.
+
+The task of our anti-war coalition is quite clear - to end this war started by Russia as soon as possible. To liberate our land from invaders. And to guarantee the security of Ukraine and, consequently, the security of democracy and freedom of the nations of Eastern Europe.
+
+That is why it is not just the moral duty of all democracies, all the forces of Europe - to support Ukraine's desire for peace.
+
+This is, in fact, a strategy of defense for every civilized state. To put pressure on Russia as much as possible to restore peace and security as soon as possible. To restore the power of international law as soon as possible and to prevent the catastrophe caused by the application of the law of force. The catastrophe that will inevitably hit everyone. Because Russian aggression was not intended to be limited to Ukraine alone. To the destruction of our freedom and our lives alone. The whole European project is a target for Russia.
+
+I was pleased to hear today from Austrian Chancellor Karl Nehammer an assurance that for the Austrian state to force Russia to seek peace is as fundamental as for other responsible states.
+
+I also heard the promise that Austria, together with its partners in the European Union, will continue its sanctions policy against Russia until the full restoration of real security in our region takes place. Until Russia withdraws all its troops from the Ukrainian sovereign territory.
+
+In response to my question, the Austrian Chancellor also supported a clear prospect of Ukraine's accession to the European Union as soon as possible.
+
+I would also like to thank Mr. Nehammer for handing over fire engines and rescue vehicles, as well as other equipment to Ukraine, and for helping with fuel.
+
+There is also important news today from President of the European Commission Mrs. Ursula von der Leyen and Prime Minister of Canada Justin Trudeau. As part of their global Stand Up For Ukraine campaign, they have raised more than $ 10 billion to help our people. To help Ukrainians who were forced to leave their homes because of Russia's war against Ukraine. I am grateful to everyone who joined the fundraising!
+
+That is, today was a really fruitful day for Ukraine. For our diplomacy.
+
+And this is the 45th day of our defense against the Russian invasion. Could Moscow think that such events would take place in Kyiv on the 45th day after their invasion? No, they couldn't even imagine it. And we made it a reality.
+
+All of us, together - every Ukrainian who on February 24 and forever chose courage. Chose Ukraine. Chose freedom and the future.
+
+In all international negotiations, in all contacts with world leaders during these 45 days, I always raise three topics. The first is concrete assistance for our defense. The second is concrete assistance for our people. The third is concrete guarantees of security for our state, which will definitely win in this confrontation.
+
+Of course, I do not hear specific answers to my specific questions from everyone. But there are more and more positive things for Ukraine every day.
+
+However, still not as much so that we can determine the exact date of the end of this war. Russia can still afford to live in illusions and bring new military forces and new equipment to our land. And it means that even more sanctions are needed. Even more weapons for our state are needed.
+
+By the way, Boris Johnson was very specific today in answering my questions. Well, as always. We have already decided what help the United Kingdom will provide to the post-war reconstruction of Ukraine. The British people are ready to take patronage over the restoration of Kyiv and the Kyiv region.
+
+The introduction of more painful restrictions on cash flows of the Russian Federation is among the priorities for our diplomacy, for all contacts with our partners. First of all this applies to the oil business. The democratic world can definitely give up Russian oil and make it toxic to all other states. Oil is one of the two sources of Russian self-confidence, their sense of impunity.
+
+Another source - gas - will also be shut down over time. It's just inevitable. Not only for safety, but also for environmental reasons.
+
+But Ukraine does not have time to wait. Freedom does not have time to wait. When tyranny launches aggression against everything that keeps peace in Europe, action must be taken immediately. It is necessary to act in a principled fashion. And the oil embargo should be the first step. At the level of all democracies, the whole civilized world. Then Russia will feel it. Then it will be an argument for them - to seek peace, to stop pointless violence.
+
+And another piece of news for today. Long-awaited for many of our people. One of our main shrines will return to Ukraine. One of the most revered shrines of Sophia of Kyiv. The icon of St. Mykola Mokryi (Wet), the first miraculous icon of Russia.
+
+We’ve been working for a long time to get it back. It was taken out of Ukraine during World War II. And in due time it will be at home - in St. Sophia. I am grateful to the hierarchs, clergy and faithful of the Ukrainian Orthodox Church of the United States for this decision. I want the return of this shrine to be an important symbol for all of us. A fundamental symbol. A symbol that we will return all ours to Ukraine. Everything Ukrainian.
+
+We will bring all our people back.
+
+And we will definitely restore justice - restore our complete control over our land.
+
+**I am grateful to all our friends!**
+
+**I am grateful to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The leadership of the United Kingdom in providing our country with the necessary assistance, especially in terms of defense, as well as the leadership in sanctions policy will remain forever in history.',
+    url: 'https://www.youtube.com/watch?v=Nbpqzq5YsuM'
+  },
+  {
+    id: 'LBsF6_6681Q',
+    name: 'Volodymyr Zelenskyi and Boris Johnson made statements to the media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський', 'Борис Джонсон'],
+    date: '2022-04-09T20:07:03',
+    topics: ['Постачання зброї', 'Міжнародна підтримка'],
+    cities: [],
+    text: `Volodymyr Zelenskyi and the Prime Minister of the United Kingdom Boris Johnson made statements to the media following the meeting`,
+    description: 'Volodymyr Zelenskyi and the Prime Minister of the United Kingdom Boris Johnson made statements to the media following the meeting',
+    url: 'https://www.youtube.com/watch?v=LBsF6_6681Q'
+  },
+  {
     id: '2wcrh7QWshM',
     name: 'Iryna Vereshchuk talks about the results of the work of humanitarian corridors on April 8',
     translated: false,
