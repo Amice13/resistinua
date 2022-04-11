@@ -1,5 +1,107 @@
 const source = [
   {
+    id: '7bFpIHZQw9o',
+    name: 'All our actions and every minute are aimed at forcing Russia to recognize the truth',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-10T23:08:09',
+    topics: ['Міжнародна підтримка', 'Міжнародні санкції', 'Герої України', 'Воєнний злочин'],
+    cities: ['Буча', 'Краматорськ'],
+    text: `
+**Ukrainians!**
+
+The bravest people of the best country in the world!
+
+Another week of our struggle for freedom, for the state, is coming to an end.
+
+Another week when Ukraine lives despite all Russia's efforts to destroy us.
+
+We defend ourselves. Hit back. We develop our relations with partners. We receive help. We ensure the maximum attention of the world to our needs. Influence the global debate. Propose and promote new sanctions against Russia. We are doing everything we can to bring to justice every bastard who came to our land under the Russian flag and killed our people. Who tortured our people. Destroyed our cities. Looted and tormented.
+
+And what is Russia doing? What are its officials, its propagandists and ordinary people doing who repeat what they have heard on television?
+
+They are only justifying themselves and denying. They are trying to shift the responsibility. They are lying. And they have already lost connection with reality to a degree that they accuse us of committing what Russian troops have obviously done - obviously for everyone in the world.
+
+They say about the murders in Bucha that it is not them, but allegedly us. Although it is obvious to everyone that people were killed while the Russian army controlled the city.
+
+They say about the missile strike at Kramatorsk that it is not them, but allegedly us. Although it was their propagandists who announced this strike. Although missiles flew from the territory under their control. And about any of our destroyed cities, about any of our burned villages, they say the same thing, that it is not them either, but allegedly us.
+
+The Russian militaries have already lied to the fact that even after more than six weeks of war, they claim that they did not hit any of the civilian objects!
+
+Do you know why this is so? Because it's cowardice. Total. Of everyone. Top to bottom.
+
+They are afraid to admit that Russia's entire policy toward Ukraine has been erroneous for decades and has only ruined everything Russia had in its relations with Ukraine since previous times.
+
+They are afraid to admit that for decades they have been placing erroneous bets and spending enormous resources in support of absolute nobodies who they thought would be the future heroes of Ukrainian-Russian friendship. And these nobodies were skillful at only one thing - taking money out of Russia into their own pockets.
+
+In order not to admit mistakes, they made new mistakes. They deprived themselves of any political tools and, unwilling to give up unrealistic ambitions, started this war.
+
+And, as in everything else, they accused us that the war had begun.
+
+They seized Crimea - and we are allegedly to blame.
+
+They destroyed normal life in Donbas - and we are allegedly to blame.
+
+They shot down a Malaysian Boeing - and we are allegedly to blame.
+
+They have been killing people and children on our land for eight years - and we are allegedly to blame.
+
+They destroyed the most powerful industrial region in Eastern Europe - and we are allegedly to blame.
+
+They ruined the lives of millions of people - and we are allegedly to blame.
+
+They started a full-scale war against us - and we are allegedly to blame.
+
+They have already spent almost two thousand missiles, countless air bombs and artillery shells, mines on strikes at Ukraine - and we are allegedly to blame.
+
+They tortured and killed on our land - and we are to blame.
+
+They deported hundreds of thousands of Ukrainian men and women, our children - and yet we are allegedly to blame.
+
+It all came from cowardice. When cowardice grows, it turns into a catastrophe. When people lack the courage to admit their mistakes, apologize, adapt to reality, learn, they turn into monsters. And when the world ignores it, the monsters decide that it is the world that has to adapt to them. Ukraine will stop all this.
+
+Nothing will help Russian cowardice. The day will come when they will have to admit everything. Admit the truth. All our strength and every minute are aimed at this. Defense, diplomacy, economics, information confrontation, legal responsibility - we have algorithms of action in all areas. Every government official knows his tasks and must fulfill them one hundred percent.
+
+Next week will be no less important than this one than the previous ones. It will be just as tense and even more responsible. Russia will be even more afraid. Afraid to lose. Afraid that the truth will have to be admitted.
+
+Russian troops will move to even larger operations in the east of our state. They can use even more missiles against us, even more air bombs. But we are preparing for their actions. We will respond. We will be even more active in providing Ukraine with weapons. We will be more active in the international arena. We will be even more active in the information field.
+
+I will continue to address the parliaments and nations of the world. We will meet our partners, leaders of other states in Kyiv and other Ukrainian cities. We will attract even more funds and resources to help Ukraine. Of course, we will justify stronger sanctions against the Russian Federation. So that there is responsibility, so that there is justice. No matter how afraid they are to admit their mistakes - tragic, terrible mistakes - they will have to. Because our courage and our truthfulness clearly prevail. And they will win.
+
+Today is the twelfth anniversary of the plane crash near Smolensk, which took the lives of President Lech Kaczyński and members of the Polish elite. On this day, we stand in solidarity with our Polish friends and allies who are firmly opposed to Russian aggression.
+
+I spoke today with Chancellor of Germany Olaf Scholz. About how to bring to justice all those guilty of war crimes. How to strengthen sanctions against Russia and how to force Russia to seek peace. I am glad to note that the German position has recently changed in favor of Ukraine. I consider it absolutely logical. Because this course is supported by the majority of the German people. And I am grateful to them. But I expect that everything we agreed on will be implemented. And this is very important.
+
+And a few minutes ago, in preparation for the recording of this address, I signed a decree on state awards to our heroes. 18 defenders of Ukraine. Five servicemen of the Armed Forces of Ukraine, three employees of the State Service of Special Communication and Information Protection of Ukraine, ten police officers.
+
+I am grateful to all our male defenders! To all our female defenders!
+
+I am grateful to all those who restore life in the liberated territory of our state.
+
+And I am grateful to all those who ensure our victory in the information confrontation. To all journalists, to editors, to the information marathon "United News", to all our websites, to all media representatives that do not allow Russian propaganda to win.
+
+**The truth will win! Ukraine will win! Definitely.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'When people lack the courage to admit their mistakes, apologize, adapt to reality, learn, they turn into monsters. And when the world ignores it, the monsters decide that it is the world that has to adapt to them. Ukraine will stop all this.',
+    url: 'https://www.youtube.com/watch?v=7bFpIHZQw9o'
+  },
+  {
+    id: 'EhsfvPHgkaU',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-10T12:42:07',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=EhsfvPHgkaU'
+  },
+  {
     id: 'Nbpqzq5YsuM',
     name: 'Defense strategy for every civilized state is to put pressure on Russia to restore peace',
     translated: false,
