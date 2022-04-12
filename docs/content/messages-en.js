@@ -1,8 +1,173 @@
 const source = [
   {
-    id: '7bFpIHZQw9o',
-    name: 'All our actions and every minute are aimed at forcing Russia to recognize the truth',
+    id: 'FPQqfCk5w3k',
+    name: 'The new package of sanctions should be such that Russia does not even talk about weapons of mass destruction',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-11T23:55:30',
+    topics: ['Знешкодження вибухівки', 'Воєнний злочин', 'Збір доказів', 'Хімічна зброя', 'Міжнародні санкції', 'Нафтове ембарго', 'Постачання зброї', 'Герої України'],
+    cities: ['Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+The 47th day of the Russian-Ukrainian war, this shameful invasion that is gradually wiping Russia out of international relations, is coming to an end. Invasion that makes it more and more toxic every day. Now it is only a matter of time before the Russian army with its own actions and war crimes forces everyone in the world to renounce all ties with the Russian Federation.
+
+Security work is underway in the northern regions of our country, from where the occupiers were expelled. First of all, it is mine clearance. Russian troops left behind tens if not hundreds of thousands of dangerous objects. These are shells that did not explode, mines, tripwire mines. At least several thousand such items are disposed of daily.
+
+The occupiers left mines everywhere. In the houses they seized. Just on the streets, in the fields. They mined people's property, mined cars, doors. They consciously did everything to make the return to these areas after deoccupation as dangerous as possible. Due to the actions of the Russian army, our territory is currently one of the most contaminated by mines in the world. And I believe this should also be considered as a war crime of Russian troops. They deliberately did everything to kill or maim as many of our people as possible, even when they were forced to withdraw from our land. Without the appropriate orders, they would not have done it.
+
+This afternoon I met on Bankova Street with an expert group working on the creation of a special mechanism for pre-trial investigation and judicial review of all war crimes committed by the occupiers. We are working on a legal way to bring the occupiers to justice, which will be as effective and as fast as possible. In order not to wait for decades until all international legal procedures are completed, but to accelerate the onset of justice. I expect that the options for creating such a special mechanism will be presented in the near future.
+
+Today, the occupiers issued a new statement, which testifies to their preparation for a new stage of terror against Ukraine and our defenders. One of the mouthpieces of the occupiers stated that they could use chemical weapons against the defenders of Mariupol. We take this as seriously as possible.
+
+I want to remind the world leaders that the possible use of chemical weapons by the Russian military has already been discussed. And already at that time it meant that it was necessary to react to the Russian aggression much tougher and faster.
+
+The European Union has now begun discussing a sixth package of sanctions against Russia.
+
+It is time to make this package such that even a word about weapons of mass destruction is no longer heard from the Russian side. An oil embargo against Russia is mandatory.
+
+Any new package of sanctions against Russia that does not affect oil will be received in Moscow with a smile.
+
+I spoke about the need to strengthen sanctions against Russia in my address to the parliament and people of the Republic of Korea.
+
+This week I will continue this format of communication with partner countries. Tomorrow I will address the parliament and the people of the Republic of Lithuania.
+
+By the way, Prime Minister of Lithuania Ingrida Šimonytė paid a visit to Ukraine today. I am grateful to her for the support, as well as to all the Lithuanian people.
+
+The issue of punishing all those guilty of crimes against Ukrainians was also discussed today with Prime Minister of the Netherlands Mark Rutte. The second important topic of our conversation was the strengthening of sanctions against Russia. We will continue to coordinate our steps to force the Russian Federation to seek peace.
+
+I also discussed cooperation in the energy sphere with the Prime Minister of Norway. Expressed gratitude for the support of efforts aimed to force Russia to seek peace.
+
+I also held talks with the Chairperson of the African Union, President of Senegal. Informed him about the current situation in Ukraine, about the global threats posed by the Russian invasion.
+
+The key task both today and every day at this time is concrete defensive measures. A concrete increase in our ability to repel any attacks by Russian troops. I am dealing with this issue almost around the clock. I'm sure people see it, too. Just as they see that the military and technical capabilities of the enemy are still very high. Yes, Ukrainians are incomparably braver. Our Armed Forces are beating the occupiers with wisdom and well-thought-out tactics inaccessible to the Russian military.
+
+But when it comes to the necessary weapons, we still depend on the supply, on our partners.
+
+Unfortunately, we are not getting as much as we need to end this war sooner. To completely destroy the enemy on our land. And to fulfill those tasks that are obvious to each of our people. In particular, to unblock Mariupol.
+
+If we got jets and enough heavy armored vehicles, the necessary artillery, we would be able to do it. But...
+
+We still have to agree on this. We still have to persuade. We still have to squeeze out the necessary decisions. I am sure that we will get almost everything we need. But not only time is being lost. The lives of Ukrainians are being lost. Lives that can no longer be returned.
+
+And this is also the responsibility of those who still keep the weapons Ukraine needs in their armory. The responsibility that will forever remain in history.
+
+Just as our gratitude will remain in history. Gratitude to those states and politicians who really helped. Who did not waste time. Who didn’t bargain when life depended on help.
+
+I also signed several important decrees. 187 servicemen of the Armed Forces of Ukraine, 15 servicemen of the National Guard of Ukraine and 6 servicemen of the Main Intelligence Directorate were awarded. The title of Hero of Ukraine was awarded to 5 servicemen of the Armed Forces of Ukraine, in particular to 2 colonels of the medical service:
+
+* Ivchuk Viktor Mykhailovych** - thanks to his actions more than a hundred lives were saved in Mariupol. Both of the military and civilians.
+* **Slesarenko Oleksandr Petrovych** - thanks to his actions in the city of Chernihiv, medical care was provided to more than 450 servicemen and more than 600 civilians.
+
+I am grateful to all our heroes!
+
+**Glory to everyone who defends Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We still have to agree on this. We still have to persuade. We still have to squeeze out the necessary decisions. I am sure that we will get almost everything we need.',
+    url: 'https://www.youtube.com/watch?v=FPQqfCk5w3k'
+  },
+  {
+    id: 'MM0GgQtVdOk',
+    name: 'Speech by the President of Ukraine in the National Assembly of the Republic of Korea',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-11T12:55:18',
+    topics: ['Ракетний удар', 'Воєнний злочин', 'Експансія до Європи', 'Міжнародні санкції', 'Постачання зброї'],
+    cities: ['Маріуполь'],
+    text: `
+**Dear Mr. Speaker.**
+
+**Dear deputies of the National Assembly,**
+
+**Ladies and Gentlemen,**
+
+**Korean people!**
+
+I am grateful for this opportunity to address you on behalf of the whole of Ukraine, which has been opposing the full-scale invasion of the Russian Federation for 47 days already.
+
+Russia attacked us. Attacked, taking advantage of its military force. This state has spent decades preparing for this war. Decades and enormous resources. Financial resources - hundreds of billions of dollars received for the export of oil and gas and used for the production and accumulation of weapons. As well as human resources.
+
+Already about 2,000 missiles have been fired at our cities by Russia. Artillery shells are simply impossible to count.
+
+But the worst thing is how Russia uses people to prepare and wage war. For the people of Russia such conditions are deliberately created when they are forced to live in total, utter poverty. When they can't afford even the simplest things - normal food, ordinary household appliances, normal education. When they do not have even basic human rights guarantees throughout their lives. And when service in the army for many of them becomes the only, so to speak, social mobility option. Opportunity to get at least something in life. At least somehow try to fend for oneself.
+
+When they got to the war and entered the territory of a neighboring state, tens of thousands of Russian servicemen were simply shocked by the normality of life. They were shocked by cities and villages where people were not in need. Shocked by home appliances in houses. Shocked that people had normal food. A significant number of occupiers simply have never seen such a thing in their lives.
+
+Almost immediately, Russian troops started looting in the territory of Ukraine - in those areas that they managed to invade. They tried to take home to Russia everything of any value. From washing machines to computers. From auto parts to clothes. They just stuffed armored personnel carriers, trucks, stole cars and tried to take out the loot.
+
+You know, there were cases when Russian soldiers took protective plates from their bulletproof vests to hide stolen laptops and tablets in bulletproof vests. It is impossible to believe - when a person is so poor from birth that he thinks that a laptop is more valuable than his own life in the war. But this is exactly what we saw on our land when the Russian army invaded.
+
+It is a collision of two different worlds. The world of ordinary people who just lived a peaceful life, just wanted harmony for themselves and their children, thought about the future. And the world of people who have been specially humiliated by their state for decades, specially driven into poverty and lawlessness, so that their government can send them to any venture. To any war against neighbors.
+
+And this is Russia's war not just to conquer Ukraine. This is only the first step. First, Russia wants to destroy our independence, our state, to tear it apart. Wants to destroy everything that makes us Ukrainians, makes us a separate nation. And then it wants to go further to Europe. Further to Asia.
+
+In the occupied Ukrainian territory, the Russian military purposefully searched for teachers, any people related to the army and the functioning of the state, activists, journalists. All those who educated and defended the national idea. Such people were abducted. Such people were killed. Deliberately. It was an order, it was a tactic.
+
+But Russia has only just begun with Ukraine. The next step in their plan is to destroy other states. Attempt to conquer other neighboring nations. Russia wants to dominate. And it believes that it can do this in only one way: sending its army brought up in total lawlessness to destroy everything that allows other nations to live.
+
+With missile and air strikes at our territory, Russia has already destroyed hundreds of infrastructure facilities that ensured normal economic and social life in Ukraine. Russian missiles and aircraft are destroying oil depots, destroying food warehouses, airports, railway stations, manufacturing plants and universities. 938 educational facilities alone have been destroyed. Almost 300 hospitals. This is a deliberate tactic of the Russian troops, not something accidental.
+
+They are deliberately destroying residential neighborhoods and entire cities. Using artillery, mortars, tanks. Not one city, not two, not three. These are dozens of cities that the Russian military simply tried to wipe off the face of the earth. Black ruins instead of high-rises. Piles of stone and concrete debris instead of ordinary peaceful cities.
+
+We still cannot determine the number of deceased. From the north to the south of the country - in all areas where Russian shells reached, bombs reached - the dismantling of debris is still ongoing.
+
+Active hostilities are still going on in part of our territory. Russia is preparing another offensive. Hoping to break our national resistance after all. The occupiers concentrated tens of thousands of soldiers and a huge amount of equipment to try to strike again.
+
+The worst situation is in Mariupol, in our southern port city, which has been blocked by Russian troops since March 1. It was a city of half a million. Half a million people. The occupiers blocked it and did not even allow food and water to be brought there. They tried to capture it in the most brutal way - just to destroy everything in the city.
+
+Mariupol is destroyed. There are tens of thousands of dead. But even despite this, the Russians do not stop the offensive. They want to make Mariupol a demonstratively destroyed city.
+
+**Ladies and Gentlemen,**
+
+**Korean people!**
+
+This could be seen in the 20th century. And you remember that. You know what it's like to defend your land. You remember when in the 1950s you were attacked by those who wanted to destroy your freedom.
+
+They destroyed, they killed. What would they have left from your identity if they had succeeded? This is a horrible question. But you withstood, the world helped you. Now we want the same.
+
+There is no hope that Russia will simply stop on its own. There is no hope that reason will prevail, and the Russian leadership will simply refuse to continue this war. Russia can only be forced to do so. It can only be forced to seek peace. Forced to stop tormenting people. Forced to respect the independent life of neighboring nations. Forced to leave the territory of Ukraine.
+
+Our anti-war coalition, formed after the beginning of this brutal invasion of Russia, has already imposed unprecedented sanctions against it. But these sanctions are not enough. Russia does not yet feel that it must stop. This means that much more needs to be done. And not only at the state level.
+
+Russian banks' ties with the global financial system must be severed. It is necessary to limit Russia's exports of energy resources, especially oil. But it is also necessary that world companies stop being sponsors of this barbaric state, which believes that it has the right to destroy the lives of nations. Which believes that it has the right to sow poverty, lawlessness and death around the world.
+
+The more companies stop trading with Russia, work in Russia, pay taxes to the Russian state, the faster reason will win. Russia will have to give up militancy and seek compromises with the world. Because it has already come to the point that Russia is openly blackmailing the world with nuclear and chemical weapons!
+
+But working strategically, we need to protect people here and now. Protect those directly threatened by the Russian army.
+
+For 47 days we have been defending ourselves against virtually the entire Russian army - its most capable units. Our Armed Forces of Ukraine are fighting heroically, very wisely, rationally using available resources and weapons. We receive help from around the world. And I am sincerely grateful to your state, sincerely grateful to your people for their support.
+
+But we need much more. To survive in this war against such a prepared adversary as the Russian Federation. Against a state that does not count the dead and has countless stock of military equipment since the days of the Soviet Union…
+
+We need air defense systems, aircraft, tanks and other armored vehicles, artillery systems and ammunition. And you have something that can be indispensable for us. You have it. Armored vehicles, anti-aircraft, anti-tank, anti-ship weapons. When it comes to survival in a war aimed at the complete conquest of the people, it is necessary to give principled answers. The usual rules for the supply of weapons must be reviewed and action must be taken quickly. It is necessary to help.
+
+Providing the necessary weapons to Ukraine means not only saving the lives of our people, not only giving us the opportunity to unblock our cities, in particular our long-suffering Mariupol, but also saving other states and other regions from further deployment of Russian aggression.
+
+Every nation has the right to live independently. Every city has the right to complete security. Every person has the right to freedom and to seek personal happiness. People should not be instruments of some regimes, some dictators. People have the right to just live. That's what we're fighting for. That’s what we ask you to defend with us. And that is what we will rebuild - I hope together with you and the whole world - after this war.
+
+**Ladies and Gentlemen!**
+
+**Korean people!**
+
+Today in this address I mentioned our Mariupol four times. Our city, which is experiencing the darkest time in its history. Our city, which Russian troops are simply destroying.
+
+I would like you to watch one video now. Footage taken by a journalist who endured weeks of Russian blockade in Mariupol. I ask you to see with your own eyes what Ukrainians have been seeing for 47 days. We ask for help to stop this. For the cities of Ukraine and other states to never see such evil again. So that Russia can never come to them again.
+
+Please watch this video.
+    `,
+    description: 'Russia has only just begun with Ukraine. The next step in their plan is to destroy other states. Attempt to conquer other neighboring nations. Russia wants to dominate.',
+    url: 'https://www.youtube.com/watch?v=MM0GgQtVdOk'
+  },
+  {
+    id: 'ERXaKhjnKjY',
+    name: 'All our actions and every minute are aimed at forcing Russia to recognize the truth',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-10T23:08:09',
@@ -86,7 +251,7 @@ And I am grateful to all those who ensure our victory in the information confron
 **Glory to Ukraine!**
     `,
     description: 'When people lack the courage to admit their mistakes, apologize, adapt to reality, learn, they turn into monsters. And when the world ignores it, the monsters decide that it is the world that has to adapt to them. Ukraine will stop all this.',
-    url: 'https://www.youtube.com/watch?v=7bFpIHZQw9o'
+    url: 'https://www.youtube.com/watch?v=ERXaKhjnKjY'
   },
   {
     id: 'EhsfvPHgkaU',
