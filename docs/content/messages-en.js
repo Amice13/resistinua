@@ -1,5 +1,205 @@
 const source = [
   {
+    id: 'RqvZvEAPFwg',
+    name: 'Або Росія буде реально шукати мир, або внаслідок цієї війни назавжди залишить міжнародну арену',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-13T22:45:07',
+    topics: ['Нафтове ембарго', 'Міжнародні санкції', 'Воєнні злочини', 'Знешкодження вибухівки', 'Герої України'],
+    cities: [],
+    text: `
+«Вдячний усім нашим захисникам, усім нашим захисницям, які утримують позиції та привчають російських солдатів до думки про те, що ця війна проти України може завершитися тільки стратегічним програшем Росії – раніше чи пізніше. Або російське керівництво буде реально шукати мир, або внаслідок цієї війни Росія назавжди залишить міжнародну арену». Звернення Президента України Володимира Зеленського за підсумками 49-го дня війни.    `,
+    description: 'І я вдячний усім нашим захисникам, усім нашим захисницям, які утримують позиції та привчають російських солдатів до думки про те, що ця війна проти України може завершитися тільки стратегічним програшем Росії – раніше чи пізніше.',
+    url: 'https://www.youtube.com/watch?v=RqvZvEAPFwg'
+  },
+  {
+    id: 'xzRXYBBOGgs',
+    name: 'The presidents of Ukraine, Poland, Latvia, Lithuania and Estonia made statements to the media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-13T21:58:13',
+    topics: ['Міжнародна підтримка'],
+    cities: [],
+    text: `Presidents Volodymyr Zelenskyi, Andrzej Duda, Egils Levits, Gitanas Nauseda and Alar Karis, after a joint meeting in Kyiv, made statements to the media and answered questions.`,
+    description: 'Presidents Volodymyr Zelenskyi, Andrzej Duda, Egils Levits, Gitanas Nauseda and Alar Karis, after a joint meeting in Kyiv, made statements to the media and answered questions.',
+    url: 'https://www.youtube.com/watch?v=xzRXYBBOGgs'
+  },
+  {
+    id: 'Glsqf4fQu5U',
+    name: 'Ukraine needs heavy weapons',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-13T17:04:13',
+    topics: ['Постачання зброї'],
+    cities: [],
+    text: `
+Use hashtag [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) on Twitter and other social platforms to help Ukraine with heavy weapons
+
+Various experts said that Ukraine wouldn't hold for more than a week if Russia invaded Ukraine. Not only did we manage to stop the Russian Army - we have pushed them back! But our war is far from over. This was just the first round.
+
+Putin and his army are changing their strategy. They are strengthening their forces to push even harder on Kharkiv and all Donbas region, including Mariupol.
+
+Russia does not plan to stop with Ukraine. Putin's propaganda machine openly states that Europe is the "next logical target" after Ukraine. So either the West will help Ukraine stop Putin now, or Putin will continue expanding his Russian Empire, killing thousands of women and children in the process. He has already done this in Mariupol, Kharkiv, Bucha, and other cities of Ukraine. 
+
+To continue heroically defending the world from Russian aggression, Ukraine needs a specific list of weapons. I appeal to citizens of the whole world to help convey to your governments, presidential administrations, and leaders of your countries the real needs of Ukraine, which will help stop the war.
+
+We urgently need heavy artillery, heavy armored vehicles, air defense systems and aircraft:
+
+- Artillery pieces (caliber 155 mm) and ammo;
+- Artillery shells (152 mm caliber). As much as possible;
+- Multiple Rocket Launch Systems: "Grad", "Uragan", or American M142 HIMARS;
+- APCs (armored personnel carriers, infantry fighting vehicles, etc.);
+- Tanks (T-72, either American or German analogs);
+- Air defense systems (S-300, BUK, or similar modern western air defense systems);
+- Combat aircraft.
+
+We are asking the whole world to unite and help us fight this cruel aggression.
+[#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow), so that we can defeat this evil together.
+    `,
+    description: 'We are asking the whole world to unite and help us fight this cruel aggression.',
+    url: 'https://www.youtube.com/watch?v=Glsqf4fQu5U'
+  },
+  {
+    id: 'f1MfF-dw-Zo',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Riigikogu, Estonian Parliament',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-13T14:07:59',
+    topics: ['Атомна загроза', 'Хімічна зброя', 'Викрадення людей', 'Ракетний удар', 'Міжнародна підтримка', 'Міжнародні санкції', 'Нафтове ембарго', 'Воєнний злочин', 'Вступ до ЄС'],
+    cities: [],
+    text: `
+**Dear Mr. Speaker!**
+
+**Dear Mrs. Prime Minister!**
+
+**Members of the Government!**
+
+**Dear deputies of the Riigikogu!**
+
+**The people of Estonia!**
+
+Thank you for the opportunity to address you today. In circumstances that take us all back to the darkest times of the 20th century.
+
+For thirty years, the nations of Europe have enjoyed peace, freedom and shared opportunities for development.
+
+Now, Russian revanchism has destroyed all the good that has worked for decades for peace in Europe, for the stability of life of European nations.
+
+Only fragments of the global security architecture are left. The same ruins as from Ukrainian cities bombed by Russian missiles and aircraft.
+
+All the international institutions that are supposed to support peace - the UN, the OSCE and others - are not able to stop Russia's aggression right now. Although this is what they were created for.
+
+Regional alliances, and above all NATO, have faced a difficult reality when no one can be 100% sure whether they will really protect their members in the event of a large-scale Russian attack. The same as the attack on Ukraine.
+
+Or in the event of an even worse attack - with the use of weapons of mass destruction. For the first time in many years, the threat of Russia's use of chemical or even nuclear weapons has to be taken seriously.
+
+Russian state propagandists, clearly guided by the relevant "theme lists", openly discuss Russia's ability to seize all neighboring European countries. They talk about it not just for the sake of emotions, but systematically accustom the Russian audience to the fact that war against neighbors is supposed to be the norm.
+
+Russia's attempt to seize all of Ukraine after 8 years of war in Donbas has brought back to European reality what your people had to go through.
+
+Mass deportations, filtration camps, a consistent attempt to destroy all those who support the national idea. Today, more than 500,000 Ukrainians have been forcibly displaced. Just imagine how much it is!
+
+This is as if the occupiers set, sorry for the example, the goal of deporting all people from Tallinn. The whole city - it was and now there is no one. A third of all your citizens.
+
+Deported Ukrainians are deprived of documents. Their phones are being confiscated. They are trying to take these people to remote regions of the Russian Federation. Attempts to return to Ukraine are being hindered in every possible way. Children are separated from their parents and there are attempts of their illegal adoption in Russian families...
+
+Tens of thousands of people have already been killed in Ukrainian cities affected by Russian strikes. The Russian army uses all kinds of artillery, all kinds of missiles and air bombs against residential areas and civilian infrastructure. In particular, phosphorus bombs and other munitions prohibited by international law.
+
+This is an obvious terror against the civilian population. It is an attempt to break the morale of the people, to subdue Ukrainians for generations or simply to destroy them.
+
+Why does the Russian leadership allow themselves all this? What ensures a sense of impunity for Moscow? I'm sure you know the answer to these questions. It is obvious.
+
+On the one hand, Russia enjoys its privileges in international structures. In particular, the seat occupied by it as a permanent member of the UN Security Council to block any attempts to actually return peace to Europe or other regions where Russia wages a war. Exactly Russia.
+
+On the other hand, the Russian leadership absolutely does not believe that Europe can bring Russia to justice.
+
+Moscow simply does not believe that Europe can force Russia into peace. They expect a split among Europeans and that the priority of maintaining trade for Europeans will be higher than the priority of security or even the priority of survival of Russia's neighboring nations.
+
+**Ladies and Gentlemen!**
+
+**The people of Estonia!**
+
+This is the time when we can either stop Russia or lose the whole of Eastern Europe for a very long time. Lose any hope for a safe and free life on the continent governed by universally recognized law not by force.
+
+And I thank you for understanding that.
+
+A crowded rally on February 26 with the participation of tens of thousands of Estonians in the heart of ancient Tallinn on Vabaduse Square in support of Ukraine and in support of freedom in Europe has already become a glorious page of our common history.
+
+Estonia was one of the first to provide Ukraine with the necessary assistance, this is true, including defensive aid.
+
+I am grateful to you for the sincere support of our migrants.
+
+You have been and remain exemplary in your consideration of the issues of Russia's war against Ukraine and the relevant sanctions policy in European and other international structures.
+
+I am grateful to you for abandoning Russian energy. The source of dollars and euros paid to Russia for oil and gas, which makes it self-confident and unwilling to seek equal relations with other nations.
+
+But we all need to do much more to stop Europe's immersion in the evil that the continent saw in the 1940s! In the same occupation that your country, by the way, went through as well.
+
+The black pages of history should not be repeated when deported Ukrainians and Estonians remained for many years in Siberia or the Russian Far East. There are already more than enough Ukrainian and Estonian graves - graves of those who died from communist deportations.
+
+That is why I urge you at the level of the European Union to find such instruments of influence on Russia, such instruments of pressure that could stop deportations and return all deported people home.
+
+The European Union has the power to ensure this. The European Union must use this power.
+
+Until Russia returns forcibly deported Ukrainians, until it returns thousands of abducted children, it must not receive any money from European states or companies.
+
+The European Union has no right to sponsor deportations. The European Union has no right to sponsor war.
+
+The policy of sanctions against the Russian Federation needs to be taken even more seriously. Why are sanctions necessary? Because this is the only tool to force Russia into peace.
+
+I urge you to defend the need for a complete blockade of Russian banks when approving a new, very important package of sanctions against the Russian Federation at the EU level. All banks, not just part of them. I urge you to finally add oil to the sanctions package. An embargo is needed at the level of the entire European Union!
+
+I also invite your state and your specialists to join the work of the joint group set up to investigate the war crimes of the Russian army on the territory of independent Ukraine. Technical and expert support is indispensable now as the number of war crimes already reaches tens of thousands.
+
+These are executions of civilians, torture, rape, blowing up hospitals, bombing maternity hospitals, burning food warehouses, artillery shelling of shelters in which children are hiding, and they knew about it - I emphasize that once again...
+
+There is no crime that Russian soldiers have not committed in the 49 days of this invasion.
+
+We will definitely investigate all these war crimes, identify all the culprits and find them. No matter how long it will take. But if we do it together with you, together with other European countries, we will be able to do it much faster.
+
+Keep in mind that most of Stalin's torturers didn’t bear responsibility for everything they did. Therefore, it is especially important to bring to justice a new generation of Russian executioners.
+
+And this must be done now - for what they have done in Ukraine. So that they do not have to be searched for war crimes against the Baltic nations, against Finland, Poland or any other country.
+
+All those who have already gained freedom in the 20th century must preserve it in the 21st century.
+
+Ukraine will always be grateful to Estonia for the principled support of our state in European integration. I am grateful to you for realizing that Ukraine's accession to the European Union is not just a question of economics or some abstract policy. It is a question of security and guarantees for the preservation of freedom and democracy in Central and Eastern Europe.
+
+Ukraine must receive the status of a candidate for EU membership in the near future.
+
+We must think about the post-war reconstruction of our country already now. When Russia loses, and this will inevitably happen, it will be necessary to prove to Russia and all other potential revanchists in the world that the war will not lead to the realization of their plans.
+
+We are already cooperating with your country in the field of digitization, we are already demonstrating to other European countries the advantages of modern digital systems, including in public administration. After the war, it will become even more relevant, I'm sure.
+
+For restoring the normal functioning of state institutions and local authorities. For the return of companies. For the cyber defense of Ukraine and the whole, I repeat - the whole of Europe.
+
+**Ladies and Gentlemen!**
+
+**The people of Estonia!**
+
+The Presidents of the three Baltic states and the President of Poland will arrive in Kyiv in a few hours. I look forward to meeting them, to meeting your President, Mr. Alar Karis.
+
+Such visits to the capital of our state are especially important now. They are important not only for us, not only as evidence of European support for our struggle for freedom.
+
+But also as evidence that all European defenders of freedom will continue to be united. Without any political or economic "bows" to Russia.
+
+Europeans must make every effort to restore international law immediately. To immediately force Russia to seek peace.
+
+This task can only be done jointly by everyone in Europe. At the level of the whole European Union. Together with other members of our anti-war coalition.
+
+If Europe wastes time, Russia will use it to expand the war zone to other countries. I believe that together we will never allow this.
+
+**Thank you, Estonia!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'If Europe wastes time, Russia will use it to expand the war zone to other countries. I believe that together we will never allow this.',
+    url: 'https://www.youtube.com/watch?v=f1MfF-dw-Zo'
+  },
+  {
     id: 'YTBFBeQedvA',
     name: 'The future of Ukraine directly depends on the strength of our resistance in all its forms',
     translated: false,
