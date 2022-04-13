@@ -1,6 +1,157 @@
 const source = [
   {
-    id: 'FPQqfCk5w3k',
+    id: 'YTBFBeQedvA',
+    name: 'The future of Ukraine directly depends on the strength of our resistance in all its forms',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/YTBFBeQedvA?t=48',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-13T00:22:11',
+    topics: ['Воєнний злочин', 'Затримання Медведчука', 'Нафтове ембарго', 'Герої України'],
+    cities: ['Маріуполь', 'Бородянка', 'Гостомель', 'Макарів', 'Харків'],
+    text: `
+**Unbreakable people of the bravest country!**
+
+Do you remember how Russia bragged that they would seize Kyiv in 48 hours? Instead, Ukraine has been repelling the enemy for 48 days. Today it is worth remembering.
+
+It is worth remembering that the Russian leadership expected to see the parade of occupiers on Khreschatyk a few days after February 24, after the beginning of the invasion. Instead they see orderly ranks of occupiers every day, whom our defenders send to hell.
+
+In 48 hours, which stretched for 48 days, the Russian army has reached a level of irreparable losses higher than that of the Soviet Union in 10 years of war in Afghanistan. Higher than that of Russia in the two wars in Chechnya.
+
+The general list of "two hundred" for Russia will soon reach 20,000. Literally in a few days, if not tonight.
+
+And then what? 30 thousand killed? 40 thousand?
+
+Today in Russia it was once again stated that their so-called "special operation" is supposedly going according to the plan. But, to be honest, no one in the world understands how such a plan could even emerge.
+
+How could a plan providing for the death of tens of thousands of your own soldiers in a little more than a month of war emerge? Who could approve such a plan? And what is the final level of their own losses acceptable for this person?
+
+Dozens or even hundreds of thousands of dead Russians?
+
+Obviously, no one in Moscow cares about the number of Ukrainian civilians killed.
+
+They say they do everything for the sake of the people, for the sake of Donbas... But even during World War II, Donbas did not see such cruelty in such a short time. And from whom? From Russian troops.
+
+In Donbas, the story of the siege of Leningrad was repeated. What for? What would the people who died or almost died in Leningrad during the Nazi blockade say about this? What would they say about the blockade of Mariupol?
+
+It was also stated in Russia today that the massacre committed by the Russian military in Bucha was allegedly a "staging".
+
+For some reason, the massacres in Borodyanka, Hostomel, Makariv, cities and villages of the Chernihiv region, Kharkiv region and Donbas have not been commented on yet.
+
+There are not as many "specialists in staging" in the world as there are murderers in the Russian army.
+
+Responsibility for war crimes is inevitable.
+
+As an example, I can mention today's result of the Security Service of Ukraine.
+
+It is very symbolic that Mr. Medvedchuk was detained on Cosmonautics Day.
+
+He has been hiding for 48 days. And finally decided to try to escape from our country. Well, for this "astronaut" - in the bad sense of the word - the famous "Let's go!" did not work.
+
+I think it is especially cynical of him to use military camouflage. He tried to disguise himself like that. Such a "soldier". Such a "patriot".
+
+Well, if Medvedchuk chose a military uniform for himself, he falls under the rules of wartime.
+
+I offer the Russian Federation to exchange this guy of yours for our boys and our girls who are now in Russian captivity. It is therefore important that our law enforcement officials and military also consider this possibility.
+
+There are more and more testimonies and other official data of the investigation about the horrible crimes of the occupiers in the areas where they managed, unfortunately, to come. About the inhuman cruelty of the Russian military towards women and children. About numerous rapes.
+
+Not all serial rapists reached the level of brutality of Russian soldiers.
+
+Of course, we will establish the full truth about all these savages. No matter how much time and effort it takes, we will find them all.
+
+And let Medvedchuk be an example for you. Even the former oligarch did not escape, not to mention much more ordinary criminals from the Russian boondocks. We will get everyone.
+
+We take with great attention yesterday's reports on the use of a projectile with a poisonous substance in Mariupol against the defenders of the city.
+
+It is not yet possible to draw one hundred percent conclusions about what kind of substance it was. Obviously it is impossible to conduct a full investigation and full analysis in the besieged city.
+
+However, given the repeated threats of Russian propagandists to use chemical weapons against the defenders of Mariupol and the repeated use by the Russian army of phosphorus munitions in Ukraine for example, the world must respond now. Respond preventively. Because after the use of weapons of mass destruction, any response will not change anything. And it will only look like a humiliation for the democratic world.
+
+Today, in my address to the parliament and the people of Lithuania, and at the same time to all European nations, I stressed that the sixth package of EU sanctions against Russia must include oil.
+
+Stop multiplying insufficiently strong sanctions packages. In any case, you will have to acknowledge that only Europe's abandonment of Russia's energy resources and the complete restriction of Russia's banking system can be an argument for Russia's leadership to seek peace. Without this, Moscow is looking for a military solution.
+
+I also spoke today with Chancellor of Austria Nehammer who had met with the Russian leader the day before. We exchanged details about this meeting.
+
+Many people like to mock the occupiers, troll their failures, the level of training of their soldiers and the questionable quality of the "latest" Russian equipment, which has been developed over the past 20 years and is inferior to Soviet models. And rightly so. That's fair.
+
+But at the same time, we must understand that not all Russian tanks are stalled in the field. Not all enemy soldiers simply flee the battlefield. And not all of them are conscripts who do not know how to hold weapons properly.
+
+This does not mean we should be afraid of them.
+
+This means we must not belittle the merits of our soldiers, our army.
+
+And I want to thank them again, all our defenders. I don't get tired of doing it. And I want you and I not to tire of telling them the most important thing: we believe in you. We are proud of you. We admire you.
+
+We are also proud of all our people who take to the streets despite the occupation. Who are protesting. Who are expelling the occupiers as best they can. We are proud of all our people!
+
+That is why it should always be emphasized that if our cities and villages are occupied, it is only temporary. And they will definitely be liberated.
+
+They will be liberated by our heroes. And not only by force of arms, but also by force of morale.
+
+Morale demonstrated almost daily by Ukrainian men and women in the cities and villages of the south of our country. In the areas that Russian troops have temporarily occupied and which our army has not yet liberated.
+
+No matter what, you need to resist the occupiers. It's hard, I know. You have to fight. Protest. Defend our national statehood.
+
+And it is necessary to punish collaborators. Let them make "KhNR" somewhere in Khakassia, not in our native Ukrainian Kherson.
+
+The future of Ukraine directly depends on the strength of our resistance in all its forms.
+
+The future of us all, each of our cities, each of our villages.
+
+And I am grateful to everyone who understands this. Who does not stop resisting even when it seems that the result is very far. Because the darkest time is always before dawn.
+
+And today I want to separately address those heroes who are having a very hard time. Those who defend Mariupol. Marine battalion of the 36th marine brigade, Azov special operations detachment, 12th operational brigade of the National Guard of Ukraine. Subdivisions of the State Border Guard Service. Volunteers of the "Right Sector". 555th military hospital and National Police employees.
+
+All the military who are fighting in the JFO area, who are defending Kharkiv, the Kharkiv region, all the military groups defending the Zaporizhzhia region, defending the south. Special thanks to the 92nd, 93rd, 95th brigades. Personally to General Nayev. I am infinitely grateful to everyone! On behalf of all Ukrainians.
+
+A few minutes ago I signed three decrees. 419 servicemen of the Armed Forces of Ukraine were awarded state awards. 72 of them posthumously.
+
+Also, 30 servicemen of the Main Intelligence Directorate of Ukraine were awarded state awards.
+
+The title of Hero of Ukraine was awarded to Lieutenant Colonel Dmytro Mykolayovych Vasyliyev, commander of the missile division of the 19th missile brigade. Posthumously.
+
+**Eternal glory to all our heroes!**
+
+**Eternal memory to everyone who died for Ukraine!**
+
+**Inevitable punishment to all our enemies.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Not all serial rapists reached the level of brutality of Russian soldiers. Of course, we will establish the full truth about all these savages. No matter how much time and effort it takes, we will find them all.',
+    url: 'https://www.youtube.com/watch?v=YTBFBeQedvA'
+  },
+  {
+    id: 'LD7LcUXmB5g',
+    name: 'About the beginning of the recovery process in seven oblasts where hostilities have been stopped or partially stopped',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Кирило Тимошенко'],
+    date: '2022-04-12T15:12:52',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `About the beginning of the recovery process in seven oblasts where hostilities have been stopped or partially stopped. Briefing by Kyrylo Tymoshenko, Deputy Head of the Office of the President of Ukraine.`,
+    description: 'About the beginning of the recovery process in seven oblasts where hostilities have been stopped or partially stopped. Briefing by Kyrylo Tymoshenko, Deputy Head of the Office of the President of Ukraine.',
+    url: 'https://www.youtube.com/watch?v=LD7LcUXmB5g'
+  },
+  {
+    id: 'u6d4VpzxbsE',
+    name: 'Volodymyr Zelenskyi addressed the people and politicians of Lithuania',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-12T13:26:54',
+    topics: ['Воєнний злочин', 'Викрадення людей', 'Нафтове ембарго', 'Міжнародні санкції'],
+    cities: [],
+    text: `
+"The occupiers are confident of impunity. We are sure that they will be able to make the world forget it. That Europe will forget it, or Europe's claims can simply be brushed aside. They have simple, ordinary logic. Like, everyone needs to trade. Everyone needs oil. Everyone needs gas. Everyone will want to use Russian territory for the transit of their goods. Everyone will want to enjoy the Russian market, the big market. That's what Moscow thinks. Of course, if everyone in Europe were as principled and respected the values ​​of Europe as you are in Lithuania (and we are proud of you), I am sure that the Russian leadership could not have hoped that they would lose everything. Probably, this war would not have happened. " Volodymyr Zelensky addressed the people and politicians of Lithuania
+    `,
+    description: 'If everyone in Europe were as principled and respected the values of Europe as you are in Lithuania (and we are proud of you), I am sure that the Russian leadership could not have hoped that they would lose everything.',
+    url: 'https://www.youtube.com/watch?v=u6d4VpzxbsE'
+  },
+  {
+    id: 'a-1sRIwY_s0',
     name: 'The new package of sanctions should be such that Russia does not even talk about weapons of mass destruction',
     translated: false,
     russianTimestamp: '',
@@ -69,7 +220,7 @@ I am grateful to all our heroes!
 **Glory to Ukraine!**
     `,
     description: 'We still have to agree on this. We still have to persuade. We still have to squeeze out the necessary decisions. I am sure that we will get almost everything we need.',
-    url: 'https://www.youtube.com/watch?v=FPQqfCk5w3k'
+    url: 'https://www.youtube.com/watch?v=a-1sRIwY_s0'
   },
   {
     id: 'MM0GgQtVdOk',
