@@ -1,7 +1,109 @@
 const source = [
   {
+    id: '6X5b-Pd0Ga0',
+    name: 'BBC interview with President of Ukraine Volodymyr Zelenskyi',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-15T02:28:10',
+    topics: ['Нафтове ембарго', 'Постачання зброї'],
+    cities: [],
+    text: `
+BBC President Volodymyr Zelenskyi interviews on the need to impose an embargo on Russian oil and increase arms supplies to Ukraine.
+    `,
+    description: 'BBC President Volodymyr Zelenskyi interviews on the need to impose an embargo on Russian oil and increase arms supplies to Ukraine',
+    url: 'https://www.youtube.com/watch?v=6X5b-Pd0Ga0'
+  },
+  {
+    id: 'POT1KFffDzI',
+    name: 'During the 50 days of this war, Ukraine became a hero for the whole free world',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-14T23:54:02',
+    topics: ['Контратака', 'Герої України'],
+    cities: ['Харків', 'Чернігів', 'Буча', 'Краматорськ', 'Волноваху', 'Охтирка', 'Гостомель', 'Бородянка', 'Ізюм', 'Маріуполь', 'Чорнобаївка'],
+    text: `
+**Unbreakable people of the bravest country!**
+
+We have withstood 50 days already. 50 days of Russian invasion, although the occupiers gave us a maximum of five. That's how they "know us". That's how they "make friends with reality."
+
+Russia did not start the war against Ukraine on February 24. Russian troops came to us in 2014. They captured our Crimea. They turned it into a large military base. They made the Black Sea and the Sea of Azov one of the most dangerous seas on the planet. They started a terrible, absolutely cynical war in our Donbas. They have been killing our people for 8 years. 14 thousand were killed during this time!
+
+How did the world respond to this? The question remained rhetorical. But that is why they decided they could afford a full-scale war.
+
+Some are still debating the severity of sanctions against the Russian Federation. But what is there to discuss when Russian troops are already repeating on our land what Europe saw only during World War II?
+
+During the 50 days of full-scale invasion of the Russian Federation, they showed that Donbas is the main target for Russia. It is Donbas that Russia wants to destroy in the first place. It is the Luhansk and Donetsk regions that Russian troops are destroying as if they want only stones to be left. And no people to be left at all.
+
+They forcibly recruit residents of these areas into their army. They throw them into the worst battles, literally in the frontal of our defense. They are destroying the cities and villages of Donbas. They burn everything that endured eight years of that war.
+
+For 80 years, proud and tidy Kharkiv has not seen such torments that Russia has brought to it. Why do they destroy it? What can be achieved by burning Kharkiv?
+
+What exactly can destruction on Saltivka or on Freedom Square give to Russia?
+
+And these are no longer rhetorical questions. This is a question of how absurd this invasion of the Russian Federation is. How suicidal it is for everything that Russia allegedly "protects". For Russian culture, for relations with this nation, even for the Russian language. Russia is burning all this with its weapons. For decades at least. For generations.
+
+Ancient Chernihiv. Which is over a thousand years old. Which saw so many wars and so many invaders that at least in the XXI century it deserved peace and tranquility. But... Russia came. Came with the worst that Chernihiv has experienced since the X century. Since the period of Rus’ relation to which Russia once claimed. Now this myth is also burned. Rus’ would not destroy itself. Strangers did that to it. Horde and other invaders. That's who came to our land today. And they are fighting in the same way - for the sake of looting and for the sake of torture.
+
+Thank God, the Armed Forces of Ukraine and our people, we defended most of our country.
+
+I remember the first day of the invasion of the Russian Federation. I remember what I was told on February 24. In particular, the strong of this world. To put it mildly, no one was sure that we would withstand it. Everyone sympathized. Many of them advised me to flee the country. Advised to actually surrender to tyranny.
+
+But they didn't know us either. And they did not know how brave Ukrainians are, how much we value freedom. Our opportunity to live the way we want. Not the people who rule in such a way that their army sees toilets for the first time in their lives in the occupied territories and steals even ordinary household appliances.
+
+The occupiers will be responsible for everything they have done in Ukraine. For everything they did to Ukrainians. They will be responsible for Bucha, Kramatorsk, Volnovakha, Okhtyrka. For Hostomel and Borodyanka. For Izyum, for Mariupol and all other cities and communities of Ukraine, which the Russian army pulled back to the period 80 years ago. To that terrible time, about which everyone in the world has always said: "Never again." Here it is again. Here it is now. And we will do everything to make it truly the last.
+
+Because the question "How to guarantee security for Ukraine and for Europe?" will never be rhetorical again. We will not allow this.
+
+I am grateful to everyone who supported our state. Who immediately asked how they could help. Who stood with us back to back and helped us get what is necessary for the defense of our state.
+
+This period, these 50 days have shown me many world leaders in a different way. Different states. I have seen great generosity in those who are not rich themselves. I have seen the extraordinary determination of those who were not taken seriously by global leaders. I have seen that the democratic world does have those whose will is enough to protect freedom from the onslaught of tyranny.
+
+I have seen politicians behaving as if they had no power. And I have seen non-politicians who did more in these 50 days than some statesmen who claimed leadership.
+
+But all that is just an add-on. An add-on for how Ukraine is defended by our people, all our people. Those who stopped the advance of endless columns of Russian equipment. Those who rebuff constant attacks in Donbas. Those who heroically defend Mariupol, helping our entire state to withstand. Those who stopped the offensive from the south. And made our Chornobaivka famous. Those who drove the enemy out of the north.
+
+Those who have shown that Russian aviation is defenseless, even though Russia has spent tens of billions of dollars on various systems to protect its aircraft.
+
+Those who have shown that Russian ships can go... to the bottom only.
+
+Those who help the army and society find everything they may need.
+
+Those who save, heal, those who teach. Conduct mine clearance. Who provide us all with a stable connection.
+
+Those who rebuilt supply chains for the whole country.
+
+Those who maintain financial stability, who saved the business and continued to work.
+
+Those who help the displaced persons.
+
+Those who started the sowing campaign. Those who give Ukraine the correct information and the necessary emotions. All our journalists, all those who united for the national telethon.
+
+50 days of our defense is an achievement. Achievement of millions of Ukrainians. Everyone who made the main decision in life on February 24 - to fight. To be human. Not to give up. And not to betray.
+
+From time immemorial to the present day, mankind has been looking for heroes. People always appreciate heroes. They always support those who are brave. And always feel who is fighting for the good. During the 50 days of this war, Ukraine became a hero for the whole free world. For those who have the courage to call a spade a spade. For those who are not poisoned by propaganda. You have all become heroes. All Ukrainian men and women who withstood and do not give up. And who will win. Who will return peace to Ukraine. I'm sure of it.
+
+I spoke today with our team, which will take part in the Invictus Games international sports competition. Among them are both veterans and servicemen who are currently defending our state. They are deeply concerned that they had to go to the competition. I assured them that we will wait for their return and will support them in the competition just as sincerely. I believe that our team will make us proud of it this year as well.
+
+And traditionally, as every evening, I signed decrees on awarding those who excelled in the defense of the state. 221 servicemen of the Armed Forces of Ukraine, 34 of them posthumously. And two employees of the State Special Communications Service of Ukraine.
+
+The title of Hero of Ukraine was awarded to **Major Kukurba Oleksandr Vasyliovych**, chief of intelligence of the 299th tactical aviation brigade of the Armed Forces of Ukraine. Thanks to his courageous actions, dozens of enemy equipment units and hundreds of occupiers were destroyed.
+
+I also awarded those whose surnames cannot be told. But I awarded them for what is definitely good for everyone.
+
+**Eternal glory to all who defend the state!**
+
+**Eternal memory to everyone who died for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'І я вдячний усім нашим захисникам, усім нашим захисницям, які утримують позиції та привчають російських солдатів до думки про те, що ця війна проти України може завершитися тільки стратегічним програшем Росії – раніше чи пізніше.',
+    url: 'https://www.youtube.com/watch?v=POT1KFffDzI'
+  },
+  {
     id: 'RqvZvEAPFwg',
-    name: 'Або Росія буде реально шукати мир, або внаслідок цієї війни назавжди залишить міжнародну арену',
+    name: 'Either Russia will really seek peace, or it will leave the international arena forever as a result of this war',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
@@ -9,8 +111,47 @@ const source = [
     topics: ['Нафтове ембарго', 'Міжнародні санкції', 'Воєнні злочини', 'Знешкодження вибухівки', 'Герої України'],
     cities: [],
     text: `
-«Вдячний усім нашим захисникам, усім нашим захисницям, які утримують позиції та привчають російських солдатів до думки про те, що ця війна проти України може завершитися тільки стратегічним програшем Росії – раніше чи пізніше. Або російське керівництво буде реально шукати мир, або внаслідок цієї війни Росія назавжди залишить міжнародну арену». Звернення Президента України Володимира Зеленського за підсумками 49-го дня війни.    `,
-    description: 'І я вдячний усім нашим захисникам, усім нашим захисницям, які утримують позиції та привчають російських солдатів до думки про те, що ця війна проти України може завершитися тільки стратегічним програшем Росії – раніше чи пізніше.',
+**Indomitable people of the bravest country!**
+
+Today was a useful day for our state, for our defense against the Russian offensive. The presidents of four states - friends of Ukraine - arrived in Kyiv. Those who help us from the first days. Who did not hesitate to give us weapons. Who did not doubt whether to impose sanctions. And who is now at the level of the European Union pushing for a tougher sanctions package against the Russian Federation. Poland, Lithuania, Latvia, Estonia. I was very glad to meet with the presidents today. The negotiations were fruitful.
+
+It is important that the presidents visited Borodyanka in the Kyiv region, where they saw with their own eyes what the occupiers had done. For the presidents, this is another argument to push harder for tangible sanctions against Russia.
+
+First of all, we need an oil embargo. And Europe's clear readiness to give up all Russian energy. The European Union must stop sponsoring Russia's military machine.
+
+Western sanctions policy was also discussed today by a group of international experts led by Michael McFaul and Andriy Yermak. The group has been working for three weeks. It consists of international and Ukrainian experts who assess the sanctions imposed and how Russia is trying to circumvent them.
+
+The group has prepared concrete proposals on how to remove sanctions loopholes, which are constantly used by Russia, and how to immediately enhance sanctions to make it tangible for Moscow.
+
+I spoke today with US President Biden. The topics of the conversation included the prosecution of all Russian servicemen and commanders who committed war crimes. International cooperation for this. A new package of defensive support for Ukraine was discussed. The agreement was reached. $ 800 million. Weapons, ammunition, other assistance. Artillery systems, armored personnel carriers, helicopters. Sincere gratitude for your support! We also agreed to enhance sanctions against Russia.
+
+I addressed the Parliament and the people of Estonia. Expressed gratitude for the help provided to Ukraine, including weapons. I also called on Estonia to join the project of Ukraine's reconstruction after the war.
+
+We are already cooperating with Estonia in the field of digitization. And after the war it could become an even bigger project. On restoration of government and business digital systems, on cybersecurity. On restoration of the relevant educational institutions.
+
+Chief Prosecutor of the International Criminal Court Karim Khan visited Bucha. It is right that a group of forensic experts from the International Criminal Court will start working in the city. Responsibility for the Russian military for war crimes is inevitable. We will drag them all to the tribunal. And not only for what was done in Bucha.
+
+In general, in the north of our country, in the liberated areas, mine clearance continues. The occupiers left tens of thousands of unexploded shells, mines and tripwire mines - a lot of everything. Therefore, everyone who wants to return home to the liberated territory should be as careful as possible, as attentive as possible. And immediately inform the police and rescuers in case you find a strange object, an explosive object.
+
+Combat reports for today do not differ significantly from previous ones. Russian troops are stepping up activity in the eastern and southern directions. They are trying to retaliate for their defeats. Rocket bombings and artillery strikes continue. New columns of equipment are being brought in. They are looking for reserves. They are trying to recruit residents of the south of our country - that is, from these temporarily occupied areas in addition to the so-called mobilization in certain districts of the Donetsk and Luhansk regions.
+
+All this feverish activity of the occupiers testifies first of all to their insecurity. To the fact that even with significant stocks of Soviet military equipment and a significant number of soldiers, whom the commanders do not spare at all, the Russian troops doubt their ability to break us, to break Ukraine. Well, we do everything to justify their doubts.
+
+And I am grateful to all our defenders who hold positions and teach Russian soldiers to think that this war against Ukraine can only end in Russia's strategic defeat - sooner or later.
+
+Either the Russian leadership will really seek peace, or as a result of this war, Russia will leave the international arena forever.
+
+And before delivering this address, as always, I signed decrees to award our defenders. 270 servicemen of the Armed Forces of Ukraine were awarded state awards, 7 of them posthumously. 11 employees of the State Protection Department were also awarded.
+
+Another decree awarded the title of Hero of Ukraine to 2 servicemen of our Armed Forces. Posthumously.
+
+**Eternal memory to all who gave their lives for Ukraine!**
+
+**Eternal glory to everyone who protects the people and protects our state!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I am grateful to all our defenders who hold positions and teach Russian soldiers to think that this war against Ukraine can only end in Russia\'s strategic defeat - sooner or later.',
     url: 'https://www.youtube.com/watch?v=RqvZvEAPFwg'
   },
   {
