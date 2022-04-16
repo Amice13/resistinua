@@ -1,5 +1,147 @@
 const source = [
   {
+    id: 'pa1OL_nT4Rw',
+    name: 'The effectiveness of instruments of influence on Russia determines how long this war will last',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-15T23:19:46',
+    topics: ['Міжнародні санкції', 'Постачання зброї', 'Нафтове ембарго', 'Економіка', 'Вступ до ЄС', 'Знешкодження вибухівки', 'Герої України'],
+    cities: ['Ірпень', 'Буча', 'Бородянка'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+I am sure that you periodically see in the media - Ukrainian and Western - reports on how long this war can last. Some say a few weeks. Others - several years. Some say the war will last until the end of this year. And someone advises to prepare for a permanent confrontation with Russia as long as it exists.
+
+Of course, I also hear different predictions. I have much more information than some media outlets about the intentions and capabilities of the Russian army. About the potential of the Russian economy. About the emotional state of society in Russia. All this must be taken into account before saying how long the war will last. Therefore, we must take into account the effectiveness of instruments of influence on Russia used by Ukraine and our entire anti-war coalition against Russia's aggression.
+
+The success of our military on the battlefield is really significant. Historically significant. But not enough to clean our land from the occupiers yet. We’ll beat them more.
+
+Sanctions against Russia are very significant. Economically painful. But still not enough for the Russian military machine to be left without means of subsistence. We promote stronger, more destructive ones.
+
+So, in fact, it is these two areas that determine how long this war will last.
+
+I always tell all our partners with whom I discuss this issue that the amount of support for Ukraine directly affects the restoration of peace. It literally defines how many more Ukrainians the occupiers will manage to kill.
+
+If someone says: year or years, I answer: you can make the war much shorter. The more and the sooner we get all the weapons we have requested, the stronger our position will be and the sooner peace will come. The more and the sooner we get the financial support we have requested, the sooner there will be peace. The sooner the democratic world recognizes that the oil embargo against Russia and the complete blockade of its banking sector are necessary steps towards peace, the sooner the war will end.
+
+So the number one task is to speed up the restoration of peace.
+
+Our Armed Forces are doing it brilliantly. They are repelling the occupiers' attacks. They are carrying out counterattacks. They have already tormented - in the true sense of the word - Russian conventional aviation so much that they are forced to use strategic long-range aircraft.
+
+I am grateful to each of our defenders for this great work.
+
+Our diplomats must continue their activity in all possible directions, at all possible levels. Both official and unofficial.
+
+The next package of sanctions against Russia must include an abandonment of Russian oil. In general, the democratic world must admit that money for Russian energy resources is in fact money for the destruction of democracy. When these decisions are made, we will all be able to see that peace is approaching.
+
+I held a meeting with government officials today. The key topic is the solution of urgent economic issues that arose during martial law.
+
+It was noted that four-fifths of all Ukrainian enterprises have already returned to work in a safe area. In particular, this applies to heavy industry enterprises. Transport networks are being rebuilt. Good performance is shown in trade and services. And all this is also the fulfillment of the national task of accelerating the restoration of peace.
+
+That is why I am grateful to everyone who keeps jobs, who employs our people, who helps businesses adapt to these difficult conditions and gives Ukraine the necessary economic strength to live.
+
+No matter what, in all cities and communities where there are no occupiers and hostilities, it is necessary to restore the economy to the maximum.
+
+Energy issues and the end of this heating season were discussed. The season was successful in spite of everything. Despite all the predictions, tariffs have not increased. There were no rolling blackouts. Supplies were not disrupted even in wartime. Preparations have also begun for the next heating season. We discussed the purchase of gas, the purchase of coal.
+
+We offer at least for the next 6 months the electricity tariff in the amount of 1 hryvnia 44 kopecks per kilowatt for those who use less than 250 kilowatts. This is 80% of our people.
+
+The Minister of Agrarian Policy and Food reported that the sowing campaign has begun and continues in all regions of our country, including Luhansk and Donetsk.
+
+We also talked to government officials today about filling in the questionnaire that Ukraine received from President of the European Commission Ursula von der Leyen. This is a necessary stage in the preparation of our country to become a candidate for EU membership. The work is almost complete, and we will soon provide the answers to the representatives of the European Union.
+
+I held an important meeting today with all the leaders of the state power bloc. Commander-in-Chief of the Armed Forces of Ukraine, Chief of the General Staff, Head of the Main Intelligence Directorate, Commander of the National Guard, Minister of Internal Affairs, Head of the Security Service of Ukraine. The meeting was also attended by the Head of the President's Office, the Secretary of the National Security and Defense Council and the head of our delegation at the negotiations. The main topic is Mariupol. Details cannot be made public at the moment. But we are doing everything to save our people.
+
+The restoration of normal life in those areas and districts where the occupiers were expelled continues. The amount of work is really huge. 918 settlements of different scales, but equally important for us, for Ukraine, have already been de-occupied.
+
+We carry out demining. We restore the supply of electricity, water and gas. We restore the work of the police, post office, state and local authorities.
+
+Humanitarian headquarters have started working on the territory of 338 liberated settlements. We are resuming the provision of regular and emergency medical care, the work of educational institutions - where it is really possible. In total, on this day, Russian troops have destroyed or damaged 1,018 educational institutions across our country.
+
+Restoration of roads and railways has begun. In particular, from tomorrow the railway connection with Chernihiv and Nizhyn will be restored. Trains are already running between the cities of the Sumy region.
+
+The teams of Ukravtodor and Ukrzaliznytsia work quite efficiently, and I am grateful to them for this speed. For giving people back a sense of normal life, which the occupiers tried to destroy forever.
+
+In the south and east of our country, the situation is still very difficult, far from talking about recovery.
+
+In the occupied districts of the Kherson and Zaporizhzhia regions, the Russian military continue to terrorize civilian residents of our country. They are looking for anyone who has ever been associated with the Ukrainian army or government agencies.
+
+The occupiers think that this will somehow make it easier for them to control the territory. But they are wrong. They deceive themselves. The problem of the occupiers is not that they are not accepted by some activists, veterans or journalists. Russia's problem is that the entire Ukrainian people does not accept it and will never accept it again. Russia lost Ukraine forever. Actually, it lost the whole world. It will not be accepted anywhere anymore.
+
+And the cruelty with which Russian troops are trying to conquer the Azov, Donbas, Kharkiv regions, only takes away even the slightest chance of these territories and these people to have any ties with this state at least sometime in the future.
+
+Maybe somewhere in Russia cruelty is respected. But in Ukraine cruelty is despised. And punished. And it is obligatory.
+
+Today I signed decrees on awarding our military. 237 servicemen of the Armed Forces of Ukraine were awarded state awards, 34 of them posthumously.
+
+The title of Hero of Ukraine was awarded to Colonel Kashchenko Dmytro Valeriyovych, commander of the 58th separate motorized infantry brigade of the Operational Command "North" of the Land Forces of the Armed Forces of Ukraine. For the personal example of heroism that inspires comrades in service, for extremely effective combat operations and concrete and very important results for maintaining the positions of our army and expelling the occupiers.
+
+And finally. The important words that hope always wins even under seemingly insurmountable circumstances.
+
+This Saturday, the Jewish community celebrates Passover. Holiday of liberation. Holiday of life. I sincerely wish all those who celebrate in Ukraine and in the world peace, good and the inevitable defeat of any evil that threatens freedom and life on earth.
+
+**Chag Pesach Sameach!**
+
+**I am grateful to all our male defenders! I am grateful to all our female defenders!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Sanctions against Russia are very significant. Economically painful. But still not enough for the Russian military machine to be left without means of subsistence. We promote stronger, more destructive ones. So, in fact, it is these two areas that determine how long this war will last.',
+    url: 'https://www.youtube.com/watch?v=pa1OL_nT4Rw'
+  },
+  {
+    id: 'b_kXgichh38',
+    name: 'Address by Prime Minister of Ukraine Denys Shmyhal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Денис Шмигаль'],
+    date: '2022-04-15T18:13:03',
+    topics: ['Знешкодження вибухівки', 'Відбудова України', 'Соціальні виплати'],
+    cities: ['Ірпень', 'Буча', 'Бородянка'],
+    text: `
+**Heroic people of Ukraine!**
+
+The Government has embarked on implementing a Ukraine Recovery Plan. First of all, this applies to the territories recently liberated from the russian occupier.
+
+The first key point is security. Therefore, the priority objective is to demine the areas that were affected by fierce battles. The russian army left behind thousands of mines, shells and bombs. Our pyrotechnic heroes have neutralized more than 80,000 of them. Every day 4,000 - 5,000 dangerous explosives are dismantled. But, unfortunately, for months to come we will find and neutralize such remnants of the "russian world" on our land.
+
+Hence, the Cabinet of Ministers has already commenced activities to establish an International Demining Center. We talked about this with the UN Under-Secretary-General, with the leaders of European countries and with all our partners who visited Bucha and Borodianka with us.
+
+The process of complete dismante will take time, in some areas it may take months. The Ministry for the Reintegration of the Temporary Occupied Territories in synergy with the Ministry of the Interior and other ministries, is to develop a multi-year State Mine Action Strategy. Such a strategy should include not only the phased search and disposal of explosive devices, but should also cover other areas, from schooling to communication campaigns that tell what these objects look like.
+
+The atrocities we saw in Irpin, Bucha, Borodianka, dozens of other villages and towns is indescribable. Our sappers find mined children's toys, washing machines, bags of potatoes, playgrounds. Hundreds of land mines have been installed in the forests, and thousands of mines have been buried in the fields. The actions of russian troops on the territory of Ukraine are pure evil that must be punished and can never be forgiven.
+
+An interactive map with places of detection of explosive objects and dangerous areas has been launched on the official website of the State Emergency Service. I am separately asking and appealing to parents from cities and villages that have been deoccupied: tell children about the dangers, do not let them go for walks outside the settlements, outside the territory where mine action has already been carried out.
+
+The Ministry of the Interior has already been commissioned to increase the number of sappers and rescuers in order to speed up this work. But we will have to check thousands of square kilometers of territory, so I ask everyone to be vigilant and responsible.
+
+The second stage of Ukraine Recovery Plan, which is taking place in parallel with the first, is the reconstruction of critical infrastructure.
+
+Ukrenergo restored 60% of the destroyed networks in Kyiv and Chernihiv regions. The activities will be completed in early May. Gas supplies have been restored to almost 30,000 households. The Kyiv-Chop highway has been cleared by 90% and traffic on this section will be fully restored in the near future. The clearing of the Kyiv-Chernihiv road continues. Temporary crossings are being built on the sites of destroyed bridges - to Irpen, Bucha, Chernihiv.
+
+The Ministry for Communities and Territories Development has started to shape and implement a strategy for the demolition of uninhabitable buildings that are in a state of emergency. After their demolition, it will be possible to embark on immediate construction of new housing.
+
+Meanwhile, the State continues to provide people in the frontline and deoccupied territories with food, medicine and other basic necessities. The Government has already purchased food kits to the tune of UAH 5 billion for free distribution and has involved more than 700 domestic enterprises in the process.
+
+Programs for internally displaced persons also continue to operate. The Government allocates UAH 2,000 to each adult and UAH 3,000 to each child in a family that has been forced to relocate. A UAH 578 million resource has already been allocated for the payment of such assistance. These funds will allow to obtain assistance for about 155,000 internally displaced persons.
+
+Besides, the Government in synergy with the United Nations, is launching two more payment programs. The decision was made at today's meeting of the Cabinet of Ministers. According to our agreements, IDPs who need additional protection will receive UAH 2,200 each month per each family member. These resources will be paid by the UN World Food Programme within 3 months. Moreover, the Office of the United Nations High Commissioner for Refugees will also provide special assistance to our low-income IDP retirees. They will also be paid an additional UAH 2,200. We plan to cover with these payments from donors about 700,000 internally displaced persons.
+
+At the same time, the Government prolongs encouraging the resumption of business activity and employment. We allot almost UAH 1.3 billion as an additional resource from the reserve fund for the Social Insurance Fund to ensure the payment of unemployment benefits.
+
+All this is also possible thanks to the support and assistance of our international partners. Today, at a session of the Government, an agreement was signed with the Government of Japan to attract assistance in the amount of 13 billion yen. These are preferential funds to finance the priority needs of our country and the Ukrainian people. Also recently, the Ministry of Finance has inked an agreement with the Government of Canada to raise CAD 500 million. We are negotiating help at all levels and with everyone who demonstrates ability and readiness to help.
+
+We continue to exert every effort to provide Ukrainians and the Ukrainian army with everything they need. We continue to join efforts for our victory.
+
+**Glory to Ukraine!**
+    `,
+    description: 'Продовжуємо робити все для забезпечення українців та української армії. Продовжуємо разом робити все для нашої перемоги.',
+    url: 'https://www.youtube.com/watch?v=b_kXgichh38'
+  },
+  {
     id: '6X5b-Pd0Ga0',
     name: 'BBC interview with President of Ukraine Volodymyr Zelenskyi',
     translated: false,
@@ -15,7 +157,7 @@ BBC President Volodymyr Zelenskyi interviews on the need to impose an embargo on
     url: 'https://www.youtube.com/watch?v=6X5b-Pd0Ga0'
   },
   {
-    id: 'POT1KFffDzI',
+    id: 'NXQm4cCwkiQ',
     name: 'During the 50 days of this war, Ukraine became a hero for the whole free world',
     translated: false,
     russianTimestamp: '',
@@ -99,7 +241,7 @@ I also awarded those whose surnames cannot be told. But I awarded them for what 
 **Glory to Ukraine!**
     `,
     description: 'І я вдячний усім нашим захисникам, усім нашим захисницям, які утримують позиції та привчають російських солдатів до думки про те, що ця війна проти України може завершитися тільки стратегічним програшем Росії – раніше чи пізніше.',
-    url: 'https://www.youtube.com/watch?v=POT1KFffDzI'
+    url: 'https://www.youtube.com/watch?v=NXQm4cCwkiQ'
   },
   {
     id: 'RqvZvEAPFwg',
