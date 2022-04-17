@@ -257,6 +257,8 @@ const en = {
   'Чернігів': 'Chernihiv',
   'Членство в ЄС': 'Mebership in EU',
   'Чорнобиль': 'Chornobyl',
+  'Юлія Свириденко': 'Yuliia Svyrydenko',
+  'Юлія Соколовська': 'Yuliia Sokolovska',
   'Юридична робота': 'Legal work',
   'Юрист': 'Lawyer',
   'Ялта': 'Yalta',
