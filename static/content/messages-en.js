@@ -1,5 +1,99 @@
 const source = [
   {
+    id: 'KHn-nv1yUSw',
+    name: 'Interview with President Volodymyr Zelenskyi on CNN',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-18T02:29:44',
+    topics: ['Атомна загроза', 'Міжнародна підтримка', 'Постачання зброї', 'Воєнний злочин'],
+    cities: ['Маріуполь', 'Бердянськ', 'Волноваха'],
+    text: `
+Interview of President Volodymyr Zelenskyi on CNN on other countries' support for Ukraine, the crimes of the occupiers and the battle for Donbass, which could affect the entire war
+    `,
+    description: 'Interview of President Volodymyr Zelenskyi on CNN on other countries\' support for Ukraine, the crimes of the occupiers and the battle for Donbass, which could affect the entire war',
+    url: 'https://www.youtube.com/watch?v=KHn-nv1yUSw'
+  },
+  {
+    id: 'Q3RGBV74SJ4',
+    name: 'The answer to the attempt of "ruble occupation" of the Kherson and Zaporizhzhia regions must be full coverage of the Russian banking system by sanctions',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-17T23:12:12',
+    topics: ['Постачання зброї', 'Спортивні змагання', 'Воєнний злочин', 'Введення рубльової зони', 'Нафтове ембарго', 'Відбудова України', 'Соціальні виплати', 'Герої України'],
+    cities: ['Маріуполь', 'Харків', 'Донецьк', 'Луганськ'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+Today, Christians of the Western rite celebrate Easter. The happiest Christian holiday. A holiday of the victory of life over death.
+
+The Ukrainian Catholic community unites millions of people. And I sincerely wish everyone peace. I wish you to keep the light of soul even in this dark time of war against our state. To keep it to see how good will soon surely defeat evil for the sake of our country, and how the truth will overcome any lies of the occupiers.
+
+A wonderful gift for the holiday was made by our team at the "Invictus Games", in which veterans and servicemen take part. On the first day of the competition, which started in the Netherlands, the Ukrainians won "gold", "silver" and "bronze".
+
+Rodion Sitdikov won the "gold" in the shot put. Artem Lukashuk and Ivan Heretsun brought Ukraine "silver" and "bronze" in long jump. Thank you guys from all of us, from all Ukrainians!
+
+This is always important, and now it is extremely important. To glorify our flag, to perform the Ukrainian national anthem and to honor our heroes.
+
+But whatever the day and whatever the holiday, the task remains the same for everyone in power. Work not even one hundred, but two hundred percent to ensure our defense. Provide Ukraine with weapons, financial support and all other supplies.
+
+I began this day with a meeting with the military and government officials on the situation in combat zones. Russian troops are preparing for an offensive operation in the east of our country. It will begin in the near future. They want to literally finish off and destroy Donbas. Destroy everything that once gave glory to this industrial region. Just as the Russian troops are destroying Mariupol, they want to wipe out other cities and communities in the Donetsk and Luhansk regions.
+
+We are doing everything to ensure defense. We are in constant contact with partners. We are grateful to those who really help with everything they can. But those who have the weapons and ammunition we need and delay their provision must know that the fate of this battle also depends on them. The fate of people who can be saved.
+
+The 53rd day of the war is over, and we have been waiting for answers to some points in our weapons inquiries for 53 days. And some answers are formulated so that delivery can begin only in May. I speak directly in such cases: every delay in weapons, every political delay is a permission for Russia to take the lives of Ukrainians. This is how Russia interprets it. That should not be the case in reality.
+
+Constant shelling of our city of Kharkiv continues. Today, Russian troops hit, in particular, the streets of Culture, Shevchenko and Darwin. Apparently, these are especially dangerous words for Russia - "culture", "Shevchenko", "Darwin". This is something that threatens its existence. As of this moment, the list of dead from this strike includes five Kharkiv residents and at least 15 wounded.
+
+In the last four days alone, 18 people have been killed and 106 have been wounded by the Russian shelling of Kharkiv. This is nothing but deliberate terror. Mortars, artillery against ordinary residential neighborhoods, against ordinary civilians.
+
+The democratic world must also react to what the occupiers are doing in the south of Ukraine - in the Kherson and Zaporizhzhia regions. Torture chambers are built there. They abduct representatives of local authorities and anyone deemed visible to local communities. They blackmail teachers. They steal money provided for paying pensions. Humanitarian aid is blocked and stolen. They create starvation.
+
+The occupiers are also trying to tear off the Kherson and Zaporizhzhia regions, following the example of the so-called DPR and LPR. This territory is being transferred to the ruble zone and subordinated to the administrative machine of Russia.
+
+All this requires greater speed from Western countries in preparing a new powerful package of sanctions. The answer to the attempted "ruble occupation" of the Kherson and Zaporizhzhia regions must be full coverage of the Russian banking and financial systems by sanctions. Because they are part of the occupation machine.
+
+Of course, the need for an embargo on oil supplies from Russia is growing every day. Everyone in Europe and America already sees Russia openly using energy to destabilize Western societies. Russia's bet on chaos in fuel markets should not succeed.
+
+And today I really want to support once again all those who are fighting for Ukraine in the cities and communities of the south of our state. Who protect our national symbols. Who protect our freedom. Every manifestation of such a struggle makes it difficult for the occupiers to carry out their task.
+
+Sabotage the orders of the occupiers. Do not cooperate with them. Protest. It is necessary to hold on so that Russia does not manage to distort life in other cities of Ukraine, like it did in Donetsk and Luhansk.
+
+I spoke today with Managing Director of the International Monetary Fund Kristalina Georgieva. On ensuring the financial stability of Ukraine and on preparations for the reconstruction of our state after the war. We touched upon specific areas of possible cooperation with the IMF both in the near future and in the next few years. I am confident that progress in our relations with the fund will be tangible. And I want to thank Mrs. Kristalina for her personal and significant support.
+
+Prime Minister of Ukraine Denys Shmyhal reported today on the implementation of the order on additional social assistance due to the war.
+
+First. Every displaced person can receive financial assistance for living. Every month it is 2 thousand hryvnias for an adult and 3 thousand hryvnias for a child. It is possible to apply for this in the nearest administrative services center, bodies of social protection, and starting from Wednesday - in "Diia".
+
+Second. People are being evacuated from the war-torn areas. The government is deploying special locations to ensure temporary accommodation for people and provide financial assistance immediately at railway and bus stations.
+
+Third. Applications for destroyed or damaged housing are being collected through "Diia". Be sure to apply if you have lost an apartment, house or if they have been damaged by shelling.
+
+Fourth. I urge employers, no matter how difficult it may be, to try to employ displaced persons. Now every job saved and every extra job is helping protect the state in war.
+
+For each displaced person whom the business hires, the company will receive co-financing of labor costs from the state. This is 6,500 hryvnias. The application can also be submitted on the "Diia" portal.
+
+Traditionally in the evening I signed decrees on awarding our heroes. 188 servicemen of the Armed Forces of Ukraine were awarded state awards. 553 warriors of the National Guard. 64 border guards. 5 police officers, 26 employees of the State Emergency Service.
+
+6 defenders of Ukraine were awarded the title of Hero of Ukraine.
+
+And finally. Another congratulation - also for our heroes, for Ukrainian firefighters.
+
+Today is the Day of Firefighters. And I sincerely congratulate everyone who protects the security of our people, our land from fire. Who is at war almost every day even in peacetime.
+
+**Thank you for your service!**
+
+**Thank you for saving us!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The task remains the same for everyone in power. Work not even one hundred, but two hundred percent to ensure our defense. Provide Ukraine with weapons, financial support and all other supplies.',
+    url: 'https://www.youtube.com/watch?v=Q3RGBV74SJ4'
+  },
+  {
     id: 'Q4qQs5p0DMo',
     name: 'We are fighting for a free future and the development of our country',
     translated: false,

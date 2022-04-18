@@ -226,6 +226,7 @@ const en = {
   'Скрипт': 'Script',
   'Соціальні виплати': 'Social payments',
   'Співпраця з UNICEF': 'Cooperation with UNICEF',
+  'Спортивні змагання': 'Sport competition',
   'Спротив': 'Resistance',
   'Старобільськ': 'Starobilsk',
   'Стоянка': 'Stoianka',
