@@ -1,8 +1,105 @@
 const source = [
   {
-    id: 'TStisIimBwo',
-    name: 'We, the world and history will take from Russia much more than Russian missiles will take from Ukraine',
+    id: 'PRLIlthRIwA',
+    name: 'If our partners have the weapons Ukraine needs, their duty is to help protect freedom and the lives of people',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-19T22:25:53',
+    topics: ['Постачання зброї', 'Воєнний злочин'],
+    cities: ['Маріуполь', 'Херсон', 'Каховка', 'Мелітополь', 'Міжнародний трибунал', 'Герої України', 'Міжнародні санкції'],
+    text: `
+**Ukrainians!**
+
+**All our defenders!**
+
+The 55th day of our defense against Russia's full-scale aggression is coming to an end. At present, virtually the entire combat-ready part of the invaders’ army is concentrated on the territory of our state and in the border areas of Russia. They drove against Ukraine almost everyone and almost everything that can fight us.
+
+Therefore, in this confrontation, in this defense, before the eyes of the whole world, we are really opposing the army, which was considered the second or third in power. And the way our Armed Forces are holding on, the way our entire nation is boldly defending itself shows that the Ukrainian army has long deserved to be higher than the Russian one in global rankings.
+
+If we had access to all the weapons we need, which our partners have and which are comparable to the weapons used by the Russian Federation, we would have already ended this war. We would have already restored peace and liberated our territory from the occupiers. Because the superiority of the Ukrainian military in tactics and wisdom is quite obvious.
+
+That is why I emphasize the simple truth in literally every contact with the leaders of the democratic world, in all negotiations, in all interviews - it is unfair that Ukraine is still forced to ask for what its partners have been storing somewhere for years. If they have the weapons that Ukraine needs here, needs now, if they have the ammunition that we need here and now, it is their moral duty first of all to help protect freedom. Help save the lives of thousands of Ukrainians.
+
+If we had received what we are getting now in the first week of the war, the benefit for Ukraine and for freedom in Europe would be greater, I am sure. And if we get what some partners plan to hand over to Ukraine in the coming weeks right now, it will save the lives of thousands of people.
+
+I hope that the partners will hear this thesis and understand that every day matters. Any delay in helping Ukraine gives the occupiers an opportunity to kill more Ukrainians.
+
+The intensity of fire by Russian troops in the Kharkiv direction, in Donbas and in the Dnipropetrovsk region has increased significantly. They still consider ordinary housing infrastructure normal targets for them. In this war, the Russian army will forever inscribe itself in world history as perhaps the most barbaric and inhuman army in the world.
+
+Purposefully killing civilians, destroying residential neighborhoods, civilian infrastructure, using all kinds of weapons for this, including those prohibited by international conventions, is the signature of the Russian army. And this is vileness, which will mark the Russian state as a source of absolute evil for generations.
+
+And when a special tribunal is set up to convict all those guilty of war crimes, a Russian passport will mean only one thing in any country: unequivocal condemnation from all decent people, unequivocal unwillingness to cooperate.
+
+The situation in Mariupol remains unchanged - as severe as possible. The Russian army is blocking any efforts to organize humanitarian corridors and save our people. The occupiers are trying to carry out deportation or even mobilization of the local residents who have fallen into their hands. The fate of at least tens of thousands of Mariupol residents who were previously relocated to Russian-controlled territory is unknown.
+
+Unfortunately, we do not hear a response from Russia to the exchange offer, which could save the civilians and defenders of Mariupol. And this silence should be noted by all who have been or may be associated with Russia. When your fate is decided, Moscow will be silent. This is illustrative. And this is the best argument not to have contacts with the Russian Federation.
+
+In the south of our country, the occupiers are trying to demonstrate at least something that can be presented in Russia as the alleged readiness of Ukrainians to cooperate with Russian structures. It looks pathetic. After 55 days of war, the occupiers didn't manage to attract anyone to their side except for some outcasts.
+
+The situation is quite clear - Ukrainians in all regions of our state support Ukrainian national unity. They support our national statehood.
+
+And I am grateful to all the residents of the temporarily occupied cities, temporarily occupied communities - Kherson, Kakhovka, Melitopol and all our other communities - for this clear position. No cooperation with the occupiers. No support for the collaborators. The more principled we are, the more principled you will be, the sooner normal life will return.
+
+I held a meeting with representatives of the Verkhovna Rada today. We discussed the plan of parliamentary work, agreed on important draft decisions for the state, which need to be adopted in the near future.
+
+In particular, the deputies were offered to support the technical decision to extend the martial law. This is necessary for the legal support of the defense of our state and the stable operation of all structures.
+
+We also discussed a bill on the procedure for deploying the capacities of the enterprises that were evacuated from the combat zone. A bill with amendments to the Criminal Procedure Code of Ukraine, which are necessary for cooperation with the International Criminal Court. A bill on the legal regime in the temporarily occupied territories.
+
+The conversation was substantive, and I hope that the deputies will work out these bills soon enough.
+
+I spoke today with Prime Minister of the Netherlands Mark Rutte. Informed him about the current situation in the areas of hostilities and especially in Donbas. Expressed gratitude for the strong support for Ukraine. We coordinated the next steps needed to protect our state and freedom in Europe. Agreed to increase the supply of heavy weapons, including armored vehicles.
+
+I also spoke with European Commission President Ursula von der Leyen. In particular, on the defensive, financial and humanitarian needs of Ukraine. We are accelerating procedures so that Ukraine can move forward in European integration as fast as possible. Now, during the war, this movement and its speed are also elements of protection of our state, preservation of freedom for our people.
+
+More and more global companies are announcing the shutdown in Russia. Today, the German company Henkel has joined hundreds of other such large companies.
+
+I want to emphasize that this is inevitable: any normal business will have to make such a decision and leave Russia. Now the Russian state is at a level where any association with it and any support for it means complicity in mass killings. Complicity in what will be called crimes against humanity and genocide.
+
+Before delivering this address, I signed the traditional decree on awarding our defenders. 286 servicemen of the Armed Forces of Ukraine were awarded state awards. 229 of them are servicemen of the 36th separate brigade of marines, which together with other units heroically defends Mariupol. Maximum gratitude from all the Ukrainian people to the 36th brigade, Azov, the 12th brigade of the National Guard of Ukraine, border guards, Right Sector volunteers, the 555th military hospital, police officers and territorial defense.
+
+Eternal glory to everyone who stood up for Mariupol, our entire state and the people of Ukraine!
+
+Eternal memory to everyone who died for Ukraine!
+
+**Glory to Ukraine!**
+    `,
+    description: 'Any delay in helping Ukraine gives the occupiers an opportunity to kill more Ukrainians.',
+    url: 'https://www.youtube.com/watch?v=PRLIlthRIwA'
+  },
+  {
+    id: 'z3cM3syvUZY',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-19T17:00:45',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=z3cM3syvUZY'
+  },
+  {
+    id: 'ddxSi2gaj5Y',
+    name: 'Briefing by Deputy Head of the Office of the President Kyrylo Tymoshenko',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Кирило Тимошенко'],
+    date: '2022-04-19T13:24:08',
+    topics: ['Знешкодження вибухівки', 'Відбудова України'],
+    cities: ['Київ', 'Харків', 'Чернігів'],
+    text: `
+On the situation in the occupied settlements of Ukraine and on the highways that were in the occupation zone. Briefing by Deputy Head of the Office of the President Kirill Tymoshenko.
+    `,
+    description: 'On the situation in the occupied settlements of Ukraine and on the highways that were in the occupation zone.',
+    url: 'https://www.youtube.com/watch?v=ddxSi2gaj5Y'
+  },
+  {
+    id: 'uVwGJqJlLF0',
+    name: 'We, the world and history will take from Russia much more than Russian missiles will take from Ukraine',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-18T22:40:00',
@@ -64,7 +161,7 @@ In the evening I signed a traditional decree on awarding our heroes. 192 service
 **Glory to Ukraine!**
     `,
     description: 'None of the missile strikes has changed the situation for Russia tangibly. And if you evaluate them all together, the conclusion will be - this is strategic nonsense.',
-    url: 'https://www.youtube.com/watch?v=TStisIimBwo'
+    url: 'https://www.youtube.com/watch?v=uVwGJqJlLF0'
   },
   {
     id: 'KHn-nv1yUSw',
