@@ -1,5 +1,93 @@
 const source = [
   {
+    id: 'k_Nmzh7KRMU',
+    name: 'Today is a historic moment when Ukraine can develop maximum speed in joining the EU',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-20T21:54:36',
+    topics: ['Міжнародні переговори', 'Вступ до ЄС', 'Відбудова України', 'Енергетика', 'Міжнародний трибунал', 'Міжнародні санкції', 'Знешкодження вибухівки', 'Постачання зброї', 'Герої України'],
+    cities: ['Бородянка', 'Маріуполь', 'Авдіївка', 'Марʼїнка', 'Красногорівка', 'Торецьк', 'Велика Новосілка', 'Золоте', 'Попасна', 'Ізюм', 'Харків', 'Гуляйполе', 'Миколаїв', 'Високопілля', 'Снігурівка'],
+    text: `
+**Free people of the bravest country!**
+
+The 56th day of our defense is coming to an end, and today we have definitely become one step closer to peace.
+
+I was glad to welcome in Kyiv a great friend of our state and all Ukrainians - President of the European Council Charles Michel. Each such visit only underscores how absurd Russia's plans to seize our state were.
+
+Three days? Five days? In how many days the occupiers planned to take control of Ukraine? 56 days - and we are meeting our guests in our capital for the sake of our national interests.
+
+I held very thorough talks with Charles Michel on many aspects of relations between Ukraine and the European Union. The main thing is, of course, to protect our state and maintain the stable functioning of all state structures and all institutions. We discussed concrete steps of the European Union to help our country. In particular, defensive, financial and sanctions.
+
+The second major topic of the talks is our movement towards European integration. This is the historic moment when we can develop maximum speed in joining the European Union. We have already proved that the Ukrainian state and public institutions are effective enough to withstand even the test of war. We are already doing as much to protect freedom on the European continent as other nations have never done.
+
+And I see from all our friends in the European Union a willingness to help our movement as much as possible. I thanked Charles for that today.
+
+The third major topic of our talks is the preparation of the necessary steps for the reconstruction of Ukraine after the war. We also discussed what we can do together with the European Union to address the threats to food and energy security in Europe and around the world posed by Russia. Resuming exports of Ukrainian agricultural products and blocking Russia's ability to blackmail Europe with energy resources are top priorities for everyone on the continent.
+
+Before meeting with me, President Charles Michel visited Borodyanka, Kyiv region. He came there not alone, but together with his team. They saw with their own eyes what the occupiers had done on our land. What destruction they had caused. And a correct conclusion was made by our friends: there can be no peace without justice. We will do everything we can to bring to justice every Russian military and commander guilty of war crimes. Modern technology allows you to clarify many details. Every surname, every home address, every bank account - we will find everything.
+
+A Plan to strengthen sanctions against the Russian Federation for the war against our state was published today. This Plan was developed by a team of Ukrainian and international experts led by Andriy Yermak and Michael McFaul.
+
+When all the key areas identified in this Plan are implemented, Russia will lose the opportunity to finance the military machine. In particular, the Plan provides for restrictions on Russia's energy sector, banking sector, export-import operations, transport. The next steps should include an oil embargo and a complete restriction on oil supplies from Russia.
+
+We are also working to ensure that all - I emphasize - all Russian officials who support this shameful war receive a logical sanctions response from the democratic world.
+
+Russia must be recognized as a state - sponsor of terrorism, and the Russian Armed Forces must be recognized as a terrorist organization.
+
+The European Union is currently preparing a sixth package of sanctions. We discussed this today with Charles Michel. We are working to make it truly painful for the Russian military machine and the Russian state as a whole.
+
+I emphasize in all negotiations that sanctions are needed not as an end in themselves, but as a practical tool to motivate Russia to seek peace.
+
+It is important that the EU Delegation and the embassies of friendly countries resumed work in Kyiv. This is one of the signals needed to tell Russia that there is no alternative to peace. There is no alternative to ending the war and guaranteeing full security for Ukraine. The more diplomatic missions return to work in our capital, the stronger this important signal will be.
+
+Already 18 foreign missions are working in Kyiv in various formats. In particular, Italy, Iran, Kazakhstan, Latvia, Lithuania, Moldova, Poland, the Holy See, Slovenia, Tajikistan, Turkmenistan, Turkey, France, the Czech Republic, Estonia and others.
+
+The return to normal life of the liberated cities and communities of Ukraine continues. 934 settlements have already been liberated. Police resumed work in 435 settlements. Local self-government started working in 431 communities. The work of humanitarian headquarters was launched in 361 settlements. We are gradually restoring people's access to medical and educational services, to social protection bodies. We are restoring road infrastructure, electricity, gas and water supply.
+
+The biggest threats are mines and tripwire mines planted by the occupiers and shells that did not explode. It takes a lot of time, a lot of effort to neutralize them all. And I am grateful to all the specialists, all the rescuers who perform this important task.
+
+Once again, I urge our citizens returning to liberated communities to be very careful. Do not enter the territory that has not yet been inspected. Do not go into the woods yet. If you see anything resembling a mine or a tripwire mine, report it to the police and rescuers immediately. Do not delay or attempt to remove hazardous items yourself.
+
+The situation in the east and south of our country remains as severe as possible. The occupiers do not give up trying to gain at least some victory for themselves through a new large-scale offensive. At least something they can "feed" their propagandists with.
+
+And I am sincerely grateful to each of our defenders, to all the Armed Forces of Ukraine, to all our cities, to all our communities that are resisting the invaders. To those who hold on and with their struggle, without exaggeration, save our state.
+
+Mariupol, Avdiivka, Maryinka, Krasnohorivka, Toretsk, Velyka Novosilka, Zolote, Popasna, Izyum, Kharkiv, Hulyaipole, Mykolaiv, Vysokopillya, Snihurivka and dozens, dozens of other cities, dozens of other communities of the east, communities of the south of Ukraine, in the struggle for which the fate of our people and our freedom is being decided.
+
+We are doing more than the maximum to ensure the supply of weapons to our army. Every day, all our diplomats, all our representatives and I personally work 24/7 through all possible channels - official and unofficial - to speed up the delivery of aid.
+
+And I am very pleased to say, with cautious optimism, that our partners started to understand our needs better. Understand what exactly we need. And when exactly we need all this. Not in weeks, not in a month, but immediately. Right now, as Russia is trying to intensify its attacks.
+
+Traditionally, before delivering the address, I signed a decree awarding our defenders. 203 servicemen of the Armed Forces of Ukraine were awarded state awards, 49 of them posthumously.
+
+Five of our servicemen were posthumously awarded the title of Hero of Ukraine.
+
+**Eternal memory to everyone who gave life for Ukraine!**
+
+**Eternal gratitude to all who stood up for our state!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The main thing is, of course, to protect our state and maintain the stable functioning of all state structures and all institutions.',
+    url: 'https://www.youtube.com/watch?v=k_Nmzh7KRMU'
+  },
+  {
+    id: 'dIF0TrILMvU',
+    name: 'After the negotiations in Kyiv, Volodymyr Zelenskyi and Charles Michel talked to the media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-20T20:04:23',
+    topics: ['Міжнародні санкції', 'Постачання зброї', 'Вступ до ЄС', 'Міжнародна допомога', 'Міжнародні переговори', 'Битва за Донбас', 'Ракетний удар', 'Воєнний злочин', 'Відбудова України', 'Економіка', 'Міжнародний трибунал'],
+    cities: ['Бородянка', 'Маріуполь'],
+    text: `
+After the negotiations in Kyiv, President of Ukraine Volodymyr Zelenskyi and President of the European Council Charles Michel spoke to the media
+    `,
+    description: 'After the negotiations in Kyiv, President of Ukraine Volodymyr Zelenskyi and President of the European Council Charles Michel spoke to the media',
+    url: 'https://www.youtube.com/watch?v=dIF0TrILMvU'
+  },
+  {
     id: 'PRLIlthRIwA',
     name: 'If our partners have the weapons Ukraine needs, their duty is to help protect freedom and the lives of people',
     translated: false,
