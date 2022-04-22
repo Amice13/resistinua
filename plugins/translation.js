@@ -6,6 +6,7 @@ const en = {
   'Авдіївка': 'Avdiivka',
   'Андріївка': 'Andriivka',
   'Андрій Єрмак': 'Andrii Yermak',
+  'Андрій Сибіга': 'Andrii Sybiha',
   'Антипропаганда': 'Counterpropaganda',
   'Атомна загроза': 'Nuclear threat',
   'Атомна станція': 'Nuclear plant',
@@ -211,6 +212,7 @@ const en = {
   'Проекти в соцемережах': 'Social Media Projects',
   'Пропаганда': 'Propaganda',
   'Протести': 'Protests',
+  'Протизаконний референдум': 'Illegal referendum',
   'Психолог': 'Psychologist',
   'Ракетний удар': 'Missile strike',
   'Регіональні': 'Local',
@@ -269,6 +271,7 @@ const en = {
   'Юлія Соколовська': 'Yuliia Sokolovska',
   'Юридична робота': 'Legal work',
   'Юрист': 'Lawyer',
+  'Ягідне': 'Yahidne',
   'Ялта': 'Yalta',
 }
 

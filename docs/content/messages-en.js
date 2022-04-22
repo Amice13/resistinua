@@ -1,8 +1,337 @@
 const source = [
   {
-    id: 'k_Nmzh7KRMU',
-    name: 'Today is a historic moment when Ukraine can develop maximum speed in joining the EU',
+    id: 'IanPF1929VI',
+    name: 'Russia\'s attempt at a new annexation will lead to powerful new sanctions that will make it as poor as it was during the 1917 civil war',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-21T23:42:35',
+    topics: ['Міжнародні санкції', 'Нафтове ембарго', 'Відбудова України', 'Міжнародна підтримка', 'Постачання зброї', 'Протизаконний референдум'],
+    cities: ['Харків', 'Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+Today was a very meaningful foreign policy day for Ukraine. First, the Prime Ministers of Spain and Denmark, two countries that have consistently supported Ukraine, have arrived in Kyiv. Thank you.
+
+The two leaders whose presence in Kyiv encourages other leaders of the democratic world to think about visits to Ukraine, about new gestures of support for our state, about concrete decisions that we need to win. I thanked them for helping our defense. For sanctions pressure on Russia.
+
+I called on Spain, Denmark and all other European democracies to further strengthen sanctions for this war. To finally impose an oil embargo, to disconnect the entire banking system of Russia from the global financial system.
+
+And to help us bring to justice all those guilty of war crimes against Ukrainians.
+
+The Prime Minister of Denmark stated readiness to support the program of post-war reconstruction of Ukraine, in particular the reconstruction and development of Mykolaiv and the shipbuilding industry of Ukraine. Let me remind you that this is the direction of reconstruction I proposed when addressing the Parliament and the people of Denmark in March.
+
+And today I addressed the Parliament and the people of Portugal. This was the 26th address to the parliaments of our partner states. I can say that each of these speeches really gives us additional support. Brings the decision to provide assistance to Ukraine, including defensive one, closer. And most importantly, each of these addresses helps establish a direct emotional connection between what we are experiencing in Ukraine and what the political class is experiencing in the partner countries.
+
+I also addressed the participants of the special spring session of the World Bank today. This is one of the most important events for the heads of international financial institutions and finance ministers of leading states. We are accumulating financial support for Ukraine.
+
+The United States has announced a new package of support for our state. We are grateful for that. This package contains very powerful defense tools for our military. In particular, it is artillery, shells, drones. This is what we expected.
+
+I am grateful to the partners for their help and call for further acceleration of the supply of weapons to Ukraine so that we can bring peace closer.
+
+In the south and east of our country, the occupiers continue to do everything to have a reason to talk about at least some victories. They are accumulating forces, driving new battalion tactical groups to our land. They are even trying to start the so-called mobilization in the occupied regions of Ukraine.
+
+None of these steps will help Russia in the war against our state. They can only delay the inevitable - the time when the invaders will have to leave our territory. In particular Mariupol. A city that continues to resist Russia. Despite everything the occupiers say.
+
+I urge the residents of the southern regions of Ukraine - Kherson and Zaporizhzhia regions - to be very careful about what information you provide to the invaders. And if they ask you to fill out some questionnaires, leave your passport data somewhere, you should know - this is not to help you. Not just to carry out a "census" of people who live in a certain area, as they say. No. And not to give you any humanitarian aid. This is aimed to falsify the so-called referendum on your land, if an order comes from Moscow to stage such a show. And this is the reality. Be careful.
+
+I want to say straight away: any "Kherson People's Republics" are not going to fly. If someone wants a new annexation, it can only lead to new powerful sanctions strikes on Russia. You will make your country as poor as Russia hasn’t been since the 1917 civil war. So it is better to seek peace now.
+
+Unfortunately, Russia rejected the proposal to establish an Easter truce. This shows very well how the leaders of this state actually treat the Christian faith, one of the most joyful and important holidays.
+
+But we keep our hope. Hope for peace, hope that life will overcome death.
+
+Tomorrow is Good Friday for Eastern Christians. The most sorrowful day of the year. A day when everything you can do in life will weigh less than prayer. Except for one... defending the Homeland, defending brothers-in-arms in battle.
+
+A few minutes ago, before delivering this address, I signed another decree on awarding our heroes, our military. 202 defenders of Ukraine were awarded state awards. 194 servicemen of the Armed Forces and 8 servicemen of the State Service of Special Communication and Information Protection of Ukraine.
+
+**I am grateful to everyone who defends the state!**
+
+**Eternal memory to all who died for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I am grateful to the partners for their help and call for further acceleration of the supply of weapons to Ukraine so that we can bring peace closer.',
+    url: 'https://www.youtube.com/watch?v=IanPF1929VI'
+  },
+  {
+    id: 'vpJAFoOx3P4',
+    name: 'Address by President Volodymyr Zelenskyy at the World Bank ministerial roundtable in support of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-21T23:13:47',
+    topics: ['Відбудова України', 'Знешкодження вибухівки', 'Голод', 'Міжнародна підтримка', 'Міжнародні санкції'],
+    cities: ['Харків'],
+    text: `
+**Dear Mr. President David Malpass!**
+
+**Dear Mrs. Managing Director Kristalina Georgieva!**
+
+**Dear ladies and gentlemen, ministers!**
+
+Greetings to all present at this historic World Bank session and thank you for the opportunity to address you today.
+
+This Sunday I spoke with Mrs. Kristalina Georgieva and heard very important words from her. Words about our state - about Ukraine. We talked with her in particular about life in our city of Kharkiv. It is the largest city in the east of Ukraine.
+
+Russian troops have been shelling and bombing it for weeks. In those parts of the city where Russian weapons reach, more than a thousand houses have already been destroyed. Russian artillery, Russian missiles, Russian air bombs do not choose who to kill and which buildings to blow up and burn. It is equally dangerous both in the center of Kharkiv and on the outskirts. You can die from Russian shelling everywhere.
+
+But you need to know the people of Kharkiv. You need to know our people... Even during the war, during such shelling, Kharkiv remains a fully functioning city.
+
+Mrs. Kristalina especially noted that in Kharkiv, despite everything, flowers are planted, trees are cultivated, the streets are cleaned now, and the city is generally tidy. That’s what our Kharkiv is like. That’s what our people are like. That’s what our Ukraine is like.
+
+We managed to liberate from the occupiers the cities and communities of three northern regions of Ukraine - Kyiv, Chernihiv and Sumy. We immediately do everything to restore normal life there.
+
+Russian troops have destroyed or damaged tens of thousands of houses in these regions. Almost all social facilities, most of the economically important enterprises of Ukraine have been burned or need to be repaired.
+
+Thousands of people were killed.
+
+We restore electricity, communications, we restore water supply. We restore traffic, set up temporary bridges across rivers instead of destroyed ones. We return social and administrative services. We carry out demining.
+
+Several thousand explosive devices are neutralized daily. These are mines, tripwire mines and shells left over from the Russian military.
+
+Imagine, they mined even ordinary people's homes. Home appliances that they failed to steal and take away. Cars. Basements. They even mined agricultural fields...
+
+But even in such conditions, our people return home. Ukrainians are already trying to do everything to restore normal life. Because that's who we are, Ukrainians.
+
+In the east of our state, in Donbas, in the south the situation is even worse. And right now active hostilities are still going on there. Russia is still trying to develop a new brutal offensive there...
+
+I will cite only one figure now so that you can understand the scale of Ukraine's ordeal, our people's ordeal.
+
+Due to the bombing and shelling by Russian troops in Ukraine, 1,141 educational institutions were destroyed or damaged. Schools, kindergartens, universities. All over our country!
+
+Not every country in the world has as many educational institutions as destroyed by Russian troops in Ukraine.
+
+And if so many educational institutions were destroyed, you can imagine how much else was destroyed. Hospitals, infrastructure, businesses and ordinary houses.
+
+The Russian invasion completely destroyed normal economic relations. The first loss analysis alone yielded approximately $ 550 billion in losses.
+
+Russia has blocked our ports in the Black Sea and the Sea of Azov. This has significantly reduced Ukrainian exports, including agricultural products. Due to the shortage of Ukrainian food on the world market, the beginning of the crisis is already being felt. A recent report by the UN World Food Program stated that rising food prices this year would lead to starvation of about 47 million people in 81 countries.
+
+Without Ukrainian wheat, corn, vegetable oil and other commodities, this will result not only in physical food shortages in many countries in Africa and Asia, but also in political instability and possibly a new migration crisis. People will look for the culprits of this crisis, in particular, taking to the squares in their countries, in their cities. People will look for ways to escape.
+
+Of course, we do our best to export our products. We launched a sowing campaign this year - as much as possible. But no one in the world can be sure that food security can be guaranteed as long as this war continues - Russia's war on our land.
+
+Stopping the war now and liberating our territory from Russian invaders is the only reliable way to stop the food crisis.
+
+The Russian troops are deliberately destroying all facilities in our country that could provide an economic basis for life. Railway stations, food warehouses, bakery plants, oil terminals, etc...
+
+As of now, given the economic downturn and broken economic ties, we need up to $ 7 billion in financial support each month. Ukraine will need hundreds of billions of dollars to recover from this war. I'm sure each of you has these calculations, I'm sure of it.
+
+We must also honestly say that Russia is accompanying this war against us with aggressive measures on world markets. They specifically create such conditions that there is instability not only in the food market, but also in the fuel market and in the raw materials markets in general.
+
+Russia has provoked rising energy prices in Europe and more broadly in the democratic world. With sufficient export potential, they have constantly held back gas, in particular, to create painful price conditions for European consumers. So that people put pressure on their governments in the middle of the state for the sake of Russia's political interests.
+
+This and many other similar examples show that Russia can no longer be considered a normal and reliable supplier of energy resources, a normal and reliable trading partner.
+
+Together we are able to implement solutions that will not only stop the aggressive intentions of the Russian Federation, not only support Ukraine in this war, but also inevitably show all the potential aggressors of the world that creating problems for other states, for other nations means creating problems for themselves. Because if we do not do this, millions and millions of people in the world will repeatedly suffer from the aggressive actions of individual states.
+
+So, what steps are needed now?
+
+The first is immediate support for Ukraine, so that the Russian leadership knows that the war will not allow them to realize any of their aggressive goals. I am sure that our Prime Minister and the Minister of Finance, who are present at this meeting, will talk about the details of such financial support.
+
+We must do everything to ensure that Ukraine and Ukrainians have everything they need to live despite the war. In Kharkiv, which I mentioned at the beginning of this speech, and in all other cities and communities of Ukraine. Everywhere.
+
+Second, Russia must be immediately excluded from all international financial institutions. The IMF, the World Bank and others are definitely not the place for a state that is trying to ruin the lives of its neighbors.
+
+Third, we need a special tax for the war. Russia, and after it any other aggressor, must pay for violating global stability. Such a tax for the war should be imposed on all, without exception, trade transactions with Russia as a state or with Russian companies. On all export-import transactions, all financial transactions that have not yet been blocked.
+
+Funds from the war tax should be used to help Ukraine rebuild everything that Russia destroyed in the war. Or, if this tax is applied to another aggressor, the funds should be directed to the victim of that war.
+
+The world needs an effective tool to respond to the destructive actions of those who do not want to maintain common security and work for the common good of all in the world. I am convinced that a special tax for the war can become such a tool.
+
+Fourth, every country in the world needs to prepare now for the possible complete severance of any relations with Russia. No one should depend on the political mood of the leadership of this state. If the world is ready to isolate Russia completely, the Russian leadership will have a motive to avoid any war.
+
+And fifth, significant assets of the Russian state and representatives of the Russian elite have already been blocked. However, these are not all their assets that we are aware of. This blocking work must be continued. And not just as an end in itself. Russia's blocked funds must be used both to rebuild Ukraine after the war and to compensate for the damage that Russia has caused to other nations with its destructive behavior.
+
+If because of the war unleashed by Russia famine starts in certain regions, or if some countries are substantially affected by inflation, blocked Russian assets could be used to pay for aid and compensation.
+
+We must use all our strength to make Russia feel punishment for this war. And feel how great the need to restore peace is - including for Russia itself.
+
+So by helping us, you can help yourself as well. Stabilize the financial situation in our region and in the world in general. Ensure security in key markets, starting with food.
+
+With your financial support and decisions, we will quickly rebuild our state. And this means not only new opportunities for business from different countries, not only new opportunities for economic growth, but also concrete evidence that global financial institutions are able to work in the interests of ordinary people, in the interests of humanity as a whole.
+
+I want one of the next such meetings to take place in Ukraine. In one of our cities - maybe in Kharkiv - with your support.
+
+**Thank you very much for your attention!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We must use all our strength to make Russia feel punishment for this war. And feel how great the need to restore peace is - including for Russia itself.',
+    url: 'https://www.youtube.com/watch?v=vpJAFoOx3P4'
+  },
+  {
+    id: '4gTvxoz_Ikw',
+    name: 'Briefing by Deputy Head of the Office of the President Andriy Sybiha',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Сибіга'],
+    date: '2022-04-21T21:48:24',
+    topics: ['Міжнародні переговори', 'Вступ до ЄС'],
+    cities: [],
+    text: `
+"During the full-scale war, President Volodymyr Zelensky conducted 294 video calls and more than 230 telephone conversations with leaders and heads of foreign governments, and addressed the parliaments of other countries and international organizations 26 times. In addition, there were nine visits of foreign leaders to Ukraine. Each of these meetings and talks had positive results in strengthening Ukraine's defense capabilities." Briefing by Deputy Head of the Office of the President Andriy Sybiha.
+    `,
+    description: 'During the full-scale war, President Volodymyr Zelensky conducted 294 video calls and more than 230 telephone conversations with leaders and heads of foreign governments.',
+    url: 'https://www.youtube.com/watch?v=4gTvxoz_Ikw'
+  },
+  {
+    id: 'OD8gvvrsmHc',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Assembly of the Republic, Parliament of Portugal',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-21T20:54:17',
+    topics: ['Воєнні злочини', 'Вбиті діти', 'Ягідне', 'Ракетний удар', 'Постачання зброї', 'Міжнародні санкції'],
+    cities: ['Бородянка', 'Буча', 'Маріуполь'],
+    text: `
+**Dear Mr. President of the Assembly!**
+
+**Dear Mr. President!**
+
+**Dear Mr. Prime Minister!**
+
+**Dear ladies and gentlemen, deputies!**
+
+**The people of Portugal!**
+
+I am grateful for the opportunity to address you at such a time, the darkest time for our state.
+
+Yesterday, in the town of Borodyanka near our capital, two more graves of civilians killed by the Russian occupiers were found. In one of these graves there are the bodies of two 35-year-old men and a 15-year-old girl. In the second grave there are six people: four men and two women. They were killed when Russian troops controlled Borodyanka. The bodies were buried in the middle of the town, near ordinary houses. Such burials are found in all communities now, in all the cities we liberate from the Russian occupiers.
+
+The world has already remembered the name of the Ukrainian city of Bucha, which is a 20-minute drive from Borodyanka. It remembered the horrible photos of the bodies of those killed just on the streets of Bucha. For weeks, the murdered people have laid on the road, on the sidewalks, near houses.
+
+Russian soldiers did not even try to remove these corpses. And they did not allow, by the way, local residents who remained in the city to bury them.
+
+I'm sure most of you have seen those photos. But in these photos it is far from everything the locals had to go through. The occupiers killed people even for fun and to loot their houses. People were thrown to die in the well. Tortured.
+
+Executed. Grenades were thrown into the basements where people were hiding from shelling. The Russian military killed refugees on the roads. They opened fire on cars with the word "Children" written on them. Hundreds of such riddled and burned cars remained on the roads...
+
+In the Kyiv region alone - and this is as of today, because not all burials have been found yet - the occupiers killed 1,126 Ukrainians. 40 of them are children.
+
+In the Chernihiv, Sumy, Kharkiv and other regions of Ukraine, where Russian troops entered, they caused the same hell as in Borodyanka or Bucha.
+
+Just one example. In the village of Yahidne in the Chernihiv region, the occupiers drove all the villagers into the basement of the school and kept them there for weeks. This is a small village school, a small basement in which about 10 people died of suffocation alone. The youngest child in the basement was 3 months old. Imagine a three month old baby! And the oldest person was 93 years old. And in total there were about 400 people in the basement!
+
+More than three weeks. Day and night they were forbidden to go out of the basement even to the toilet. And when people asked for clothes for children, the occupiers demanded that they sing the Russian national anthem.
+
+That's how the Russian military had fun. This is the impunity they felt. This is what is happening in Ukraine now. In 2022.
+
+We are fighting against Russian troops not just for our state. Not just for independence. But literally for the survival of our people. So that Ukrainians are not executed. So that Ukrainians are not tortured. So that Ukrainians are not raped. And so that Ukrainians are not deported to Russia.
+
+The Russian occupiers have already deported at least 500,000 our citizens from the territory they have occupied. It's like your two cities of Porto. Just imagine that. There were people - and now they are gone. 500 thousand people! This is deportation. This is what the worst totalitarian regimes of the past did.
+
+The deported Ukrainians are deprived of means of communication, everything is taken away from them, even documents. They are distributed to the remote regions of Russia. The occupiers set up special filtration camps to distribute people. Some of those who get there are simply killed. Girls are raped.
+
+Imagine what it's like when a girl escapes from such a Russian filtration camp, and when asked how she did it, she says Russian soldiers simply didn’t like her. Because if they had liked her, she would have been raped and then killed, like many others.
+
+During the 57 days of the full-scale war, we liberated about a thousand settlements of Ukraine, which were captured by Russia, by the invaders. However, the number of occupied cities and communities is much bigger.
+
+Russian troops do not stop shelling and bombing our cities. They are destroying residential areas, any civilian infrastructure that allows cities to maintain normal life. Food warehouses, schools, universities, hospitals, even churches are being blown up.
+
+More than 10 million Ukrainians have been forced to flee their homes due to hostilities. Imagine this number. It's as if the whole of Portugal was forced to flee!
+
+I do not want to call these 10 million Ukrainians refugees. We use the term "displaced persons" to refer to them, these people. We hope that they will all be able to return home when it is safe. But when will it be? And what will be left of their house?
+
+Today, the Russian Defense Minister reported to the Russian leader on the hostilities against our city of Mariupol. You have all heard about Mariupol. Before the war, it was a city comparable in size to Lisbon. It was a half-million seaside city. Now it is completely destroyed. There is not a single undamaged building in Mariupol. Literally scorched city.
+
+For more than a month, the Russian troops have kept Mariupol under siege. Even humanitarian goods were not allowed. Hundreds of thousands of civilians were there without food, without water, without medicine. Under constant shelling, under constant bombing. Russian troops used aircraft to destroy even shelters and they knew for sure that there was no one there but civilians.
+
+Some Mariupol residents managed to escape, and for most of them nothing and no one was left at all. There aren't even photos of their pre-war life - everything was burned.
+
+Tens of thousands of Ukrainians died in the city during Russia's hostilities against Mariupol. We do not even know the exact number of the dead. And we may not find it out. Because Russian troops brought to the city so-called mobile crematoria - special machines for the destruction of human bodies. The occupiers drew conclusions from how the world reacted to the massacre in Bucha. And now the Russians are trying to hide the traces of war crimes.
+
+**Ladies and Gentlemen!**
+
+**Portuguese people!**
+
+When we turn to the nations of the free world for help, we say simple and clear things. We need weapons to protect ourselves from the brutal Russian invasion, which brought to our people as much evil as the Nazi invasion did 80 years ago.
+
+Leopard tanks, armored personnel carriers, Harpoon anti-ship missiles - you have them and you can help protect the freedom and civilization of Europe with them. Therefore, I appeal to your state to provide us with this assistance.
+
+We need increased pressure of sanctions on Russia, because only sanctions can force Russia to seek peace and deprive the Russian military machine of resources.
+
+We need the principled stance of European companies, so that all of them leave the Russian market, because their taxes, their excise taxes, which they pay to the Russian budget, support this evil.
+
+Why did Russia start the war? The capture of Ukraine is its first step in gaining control of Eastern Europe to destroy democracy in our region.
+
+Ukraine has been and remains the mainstay of democratic processes in our region. The two revolutions of 2004 and 2014, which stopped the dictatorship in Ukraine, in fact defended democracy not only for our nation, but also for all the nations of our region who want to freely choose the future, without any coercion - internal and external.
+
+And your people who will soon celebrate the anniversary of the Carnation Revolution, which freed you from the dictatorship, clearly understand our feelings. Exactly understands the feelings of all other nations of our region who seek freedom.
+
+What does Russia bring to Ukraine? Death and dictatorship. And after Ukraine it will try to bring all this to Moldova, Poland, Georgia, the Baltic states, Kazakhstan and all other countries it can reach. Russia can be stopped. Mass killings, deportation and dictatorship can be stopped. Now, in Ukraine.
+
+I am grateful to your government and to all the Portuguese people for the assistance to Ukraine you have already provided.
+
+For supporting sanctions against Russia. And it is important now, when the European Union is preparing the sixth package of sanctions, that you show your leadership and defend the need for an oil embargo against Russia at the European level. It is also important that you, along with other EU countries, insist on a complete restriction of the Russian banking system.
+
+We need to close all EU ports, all Portuguese ports for Russian ships. In particular, for those that they are trying to hide under other countries’ flags.
+
+I am grateful to you for supporting our people, Ukrainian displaced persons. The Ukrainian and Portuguese people know each other well. They understand each other well. And it is important that you use your opportunities, both in Europe and in other macro-regions of the world, to protect the freedom and right to life of our people.
+
+You can tell the truth about this Russian invasion, about this war against the Ukrainian people, both in South America and in Africa. I ask you to fight Russian propaganda and Russian corrupt influence in the countries that are close to you.
+
+And I believe that the people of Portugal, and with them the Portuguese politicians, will support our state in its fundamental desire to be with you in the European Union. The free must support the free. The decent must support the decent. The conscientious must support the conscientious.
+
+And I believe that you will not betray us or yourself. Because Ukraine is already on its way to the European Union under an accelerated procedure. We hope that in the near future we will be able to obtain the status of a candidate for membership in the European Union.
+
+And when the decision is considered, I ask you to support full membership for Ukraine. Because you on the western edge of Europe and we on the eastern edge of Europe have the same values, the same view of what life should be like on our continent.
+
+Freedom, human rights, the rule of law, equality for every man, for every woman and the opportunity to live freely and without any dictatorship, so that everyone always has the time for happiness and for saudade.
+
+**Thank you, Portugal!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The free must support the free. The decent must support the decent. The conscientious must support the conscientious.',
+    url: 'https://www.youtube.com/watch?v=OD8gvvrsmHc'
+  },
+  {
+    id: '27UfLF67gDk',
+    name: 'Communication between Volodymyr Zelenskyi, Pedro Sanchez and Mette Frederiksen with the media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-21T17:07:25',
+    topics: ['Постачання зброї', 'Відбудова України'],
+    cities: [],
+    text: `Communication between the President of Ukraine Volodymyr Zelenskyi, the Prime Minister of Spain Pedro Sanchez and the Prime Minister of Denmark Mette Frederiksen with the media.`,
+    description: 'Communication between the President of Ukraine Volodymyr Zelenskyi, the Prime Minister of Spain Pedro Sanchez and the Prime Minister of Denmark Mette Frederiksen with the media.',
+    url: 'https://www.youtube.com/watch?v=27UfLF67gDk'
+  },
+  {
+    id: 'YjsmFWrsrfg',
+    name: 'Meeting of Volodymyr Zelenskyi with Pedro Sanchez and Mette Frederiksen',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-21T14:50:16',
+    topics: [],
+    cities: [],
+    text: `Meeting of the President of Ukraine Volodymyr Zelenskyi with the Prime Minister of Spain Pedro Sanchez and the Prime Minister of Denmark Mette Frederiksen, who arrived on a visit to our country.`,
+    description: 'Meeting of the President of Ukraine Volodymyr Zelenskyi with the Prime Minister of Spain Pedro Sanchez and the Prime Minister of Denmark Mette Frederiksen, who arrived on a visit to our country.',
+    url: 'https://www.youtube.com/watch?v=YjsmFWrsrfg'
+  },
+  {
+    id: 'gLhT1aLFj7E',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-21T13:05:00',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=gLhT1aLFj7E'
+  },
+  {
+    id: 'qupuXkuek58',
+    name: 'Today is a historic moment when Ukraine can develop maximum speed in joining the EU',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-20T21:54:36',
@@ -70,7 +399,7 @@ Five of our servicemen were posthumously awarded the title of Hero of Ukraine.
 **Glory to Ukraine!**
     `,
     description: 'The main thing is, of course, to protect our state and maintain the stable functioning of all state structures and all institutions.',
-    url: 'https://www.youtube.com/watch?v=k_Nmzh7KRMU'
+    url: 'https://www.youtube.com/watch?v=qupuXkuek58'
   },
   {
     id: 'dIF0TrILMvU',
