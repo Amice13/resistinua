@@ -1,5 +1,125 @@
 const source = [
   {
+    id: 'I1dE4pEb7po',
+    name: 'Armed Forces of Ukraine are the foundation on which the fortress of our national unity should stand',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-22T22:42:12',
+    topics: ['Знешкодження вибухівки', 'Міжнародна підтримка', 'Герої України'],
+    cities: ['Слов\'янськ', 'Краматорськ', 'Попасна'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+The 58th day of our defense is coming to an end. It ends on Good Friday, one of the most sorrowful days of the year for Christians. The day when death seems to have won. But... We hope for a resurrection. We believe in the victory of life over death. And we pray that death loses.
+
+This year, during the full-scale war, Russia's war against our state, these words have a special meaning for us.
+
+Russia brought death to Ukraine. After eight years of brutal war in Donbas, Russia wanted to destroy our state completely. Literally deprive Ukrainians of the right to life. But no matter how fierce the battles are, there is no chance for death to defeat life. Everyone knows that. Every Christian knows that. This is a basic element of our culture.
+
+Perhaps this does not exist in modern Russian culture anymore. Because in order to do everything they did to Ukrainians in our cities... you have to kill a human inside you. Because a human of any faith simply cannot do that.
+
+But for our culture, it all matters. And it will matter. And life will surely defeat death.
+
+I am grateful to our British friends for the important symbolic decision announced today to return the embassy to Kyiv. The United Kingdom became the twenty-first country to return a diplomatic mission to our capital. And this shows that we are not the only ones who believe in the victory of life over death.
+
+Today, with reference to the Russian military, the news was spread that their task now is allegedly to establish control over the south of Ukraine and reach the Moldovan border. And allegedly there, in Moldova, the rights of Russian-speakers are violated.
+
+Although, to be honest, the territory in which Russia should take care of the rights of Russian-speakers is Russia itself. Where there is no freedom of speech, no freedom of choice. Where there is simply no right to dissent. Where poverty thrives and where human life is worthless. To the extent that they come to us, go to war to steal at least something that resembles a normal life.
+
+You know they used to talk about their biggest dream: to see Paris and die. And their behavior is now just shocking. Because their dream now is to steal the toilet and die.
+
+Well, this only confirms what I have said many times: the Russian invasion of Ukraine was intended only as a beginning, then they want to capture other countries.
+
+Of course, we will defend ourselves as long as necessary to break this ambition of the Russian Federation. But all nations that, like us, believe in the victory of life over death must fight with us. They have to help us, because we are the first on this path. And who is next?
+
+If anyone who can become next wants to stay neutral today so as not to lose anything, this is the riskiest bet. Because you will lose everything.
+
+The Armed Forces of Ukraine continue to deter attacks by Russian invaders in the east and south of our country. The Izyum direction, Donbas, Pryazovia, Mariupol, Kherson region are the places where the fate of this war and the future of our state is being decided.
+
+In Slovyansk, Kramatorsk, in the Donetsk region in general, in Popasna and in the Luhansk region in general, in Kharkiv, in the surrounding areas, the occupiers are trying to achieve a primitive goal - to kill as much as possible and destroy everything they see.
+
+And I am grateful to each of our defenders who are bravely holding on, teaching the Russian army the idea that Russia's chances in this war may be less than Ukraine's.
+
+As every morning, as every day, as every evening, we have paid maximum attention today to provide our military with all the necessary weapons. This is the number one task for our state.
+
+And I am grateful to all our partners who finally heard us. Who provide us with exactly what we asked for. Because we know for sure that with these weapons we will be able to save the lives of thousands of people. And we will be able to show the occupiers that the day when they will be forced to leave Ukraine is approaching.
+
+The return to normal life in the territories liberated from the occupiers continues.
+
+If at the beginning of this week demining took place in 70 settlements, today 184 settlements have been demined. Of course, much remains to be done. But the pace, I think, is pretty good.
+
+Humanitarian headquarters are already operating in more than 500 de-occupied settlements. Almost 100 settlements are added daily, to which we return medical and educational services, the work of social protection bodies, financial institutions.
+
+We are restoring transport connections at a fairly fast pace. Plus 96 settlements today, where the transport connection was returned. Plus 183 settlements where gas stations have resumed work. Plus 90 settlements where electricity was restored. We return water supply, gas supply, mobile connection.
+
+The return of Ukraine to cities and communities means the return of life in the full sense of these words. I believe that such a return will take place in the south of our country and in the east of Ukraine. In all areas where degradation, destruction and death have been brought under the Russian flag.
+
+But it depends on how united we all will be in countering the Russian invasion. I emphasize once again that everyone should oppose the occupation at every opportunity. Ignore the occupiers. Do not cooperate with them. Don't help them. Neutralize collaborators.
+
+The Armed Forces of Ukraine are performing their tasks brilliantly. Intelligence, the National Guard, territorial defense, police, border guards - all of them work one hundred percent for the victory. But every citizen must also work for the victory - in what he does and where he is.
+
+If you are abroad - support Ukraine. If you are engaged in ordinary economic activities, do your best for the benefit of Ukraine as much as possible. If you found yourself in a temporarily occupied territory - try to cause the occupiers as much trouble as possible. The Armed Forces of Ukraine are our foundation. But a fortress of our national unity must always stand on this foundation. Unity of all Ukrainians who fight for life and against death. Against the Russian invasion.
+
+Traditionally, in the evening I signed a decree awarding our heroes. 48 defenders of Ukraine were awarded state awards. For courage in battles, for exemplary military service.
+
+**Eternal glory to all who defend the state!**
+
+**Eternal memory to everyone who died for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'No matter how fierce the battles are, there is no chance for death to defeat life. Everyone knows that. Every Christian knows that. This is a basic element of our culture.',
+    url: 'https://www.youtube.com/watch?v=I1dE4pEb7po'
+  },
+  {
+    id: '531wHwtFbcQ',
+    name: 'The most important news of the week from the life of the President\'s Office',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Дарія Зарівна'],
+    date: '2022-04-22T21:01:24',
+    topics: ['Постачання зброї', 'Вступ до ЄС', 'Міжнародні санкції', 'Відбудова України'],
+    cities: [],
+    text: `
+The digest prepared by Daria Zarivna, an adviser to the head of the President's Office.
+    `,
+    description: 'The digest prepared by Daria Zarivna, an adviser to the head of the President\'s Office.',
+    url: 'https://www.youtube.com/watch?v=531wHwtFbcQ'
+  },
+  {
+    id: 'lIHhNVNY',
+    name: 'Briefing of the Deputy Head of the Office of the President of Ukraine Kyrylo Tymoshenko',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Кирило Тимошенко'],
+    date: '2022-04-22T12:53:02',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `
+Infrastructure in the liberated territories is being restored 24/7 - briefing of the Deputy Head of the Office of the President of Ukraine Kyrylo Tymoshenko
+    `,
+    description: 'Infrastructure in the liberated territories is being restored 24/7 - briefing of the Deputy Head of the Office of the President of Ukraine Kyrylo Tymoshenko',
+    url: 'https://www.youtube.com/watch?v=lIHhNVNY'
+  },
+  {
+    id: 'K1hwM2ykJAQ',
+    name: 'Briefing by Deputy Head of the Office of the President Rostyslav Shurma',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ростислав Шурма'],
+    date: '2022-04-22T11:42:08',
+    topics: ['Відбудова України', 'Забезпечення продовольством'],
+    cities: [],
+    text: `
+On the restoration of basic infrastructure - a briefing by Deputy Head of the Office of the President Rostyslav Shurma
+    `,
+    description: 'On the restoration of basic infrastructure - a briefing by Deputy Head of the Office of the President Rostyslav Shurma',
+    url: 'https://www.youtube.com/watch?v=K1hwM2ykJAQ'
+  },
+  {
     id: 'IanPF1929VI',
     name: 'Russia\'s attempt at a new annexation will lead to powerful new sanctions that will make it as poor as it was during the 1917 civil war',
     translated: false,
