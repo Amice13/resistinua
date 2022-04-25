@@ -1,18 +1,114 @@
 const source = [
   {
-    id: '_i-ht0wqWEU',
-    name: 'Greetings from the President of Ukraine Volodymyr Zelensky on Easter',
+    id: 'U2wk-ROqIF4',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-24T19:55:43',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=U2wk-ROqIF4'
+  },
+  {
+    id: 'UawozBGTYEw',
+    name: 'Interview of Andriy Ermak to the French TV channel TF1',
     translated: false,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
-    date: '2022-04-24T02:02:18',
-    topics: ['Воєнний злочин', 'Постачання зброї', 'Міжнародні переговори'],
+    date: '2022-04-24T11:45:41',
+    topics: [],
     cities: ['Маріуполь'],
     text: `
-"At Easter, we ask God for great grace to make the great dream come true. This is another great day - the day when great peace will come to Ukraine!” -  Greetings from the President of Ukraine Volodymyr Zelensky on Easter.
+"The struggle for Mariupol continues. This is a Ukrainian city. And it will always be so." Interview of the Head of the Office of the President of Ukraine Andriy Yermak to the French TV channel TF1.
     `,
-    description: 'At Easter, we ask God for great grace to make the great dream come true. This is another great day - the day when great peace will come to Ukraine!',
-    url: 'https://www.youtube.com/watch?v=_i-ht0wqWEU'
+    description: '"The struggle for Mariupol continues. This is a Ukrainian city. And it will always be so." Interview of the Head of the Office of the President of Ukraine Andriy Yermak to the French TV channel TF1.',
+    url: 'https://www.youtube.com/watch?v=UawozBGTYEw'
+  },
+  {
+    id: '_C9mbToPVwA',
+    name: 'Easter congratulations by President of Ukraine Volodymyr Zelenskyy',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-24T02:02:18',
+    topics: [],
+    cities: ['Буча', 'Ірпінь', 'Бородянка', 'Гостомель', 'Чернігів', 'Миколаїв', 'Херсон', 'Суми', 'Харків', 'Ізюм', 'Краматорськ', 'Волноваха', 'Попасна', 'Маріуполь'],
+    text: `
+**Great people of great Ukraine!**
+
+Today is a great holiday. And I'm in a great place. The Great St. Sophia Cathedral. In the cathedral, which was founded a thousand years ago, on the field of the sacred battle where the army of Kyivan Rus’-Ukraine defeated the Pechenegs. In the cathedral, which was not destroyed by the Horde invasion or the Nazi occupation, which withstood in spite of everything!
+
+Today we all believe in a new victory for Ukraine. And we are all convinced that we will not be destroyed by any horde or evil.
+
+We are enduring dark times. And on this bright day, most of us are not in bright clothes. But we are fighting for a bright idea. On the bright side. And the truth, people, the Lord and the holy heavenly light are on our side. The power of the patron saint of the human race - Oranta. She is above me. She is above us all.
+
+The unshakable pillar of the Church of Christ, the unbreakable wall of the main stronghold - Kyiv, the Unbreakable Wall of the State. As long as there is Oranta, there is Sophia, and Kyiv stands with her, and the whole of Ukraine stands with them!
+
+Above the image of Oranta are the words from the Psalms: “God dwells in that city; it cannot be destroyed. From the very break of day, God will protect it." On this Great Day, we all believe that our dawn is coming soon.
+
+Oranta in Latin means "one who prays". We have all been praying for the last two months. And in the Resurrection of Christ, which symbolizes the great victory of life over death, each of us asks the Lord for one thing. And speaks the same words to heaven. The words of a great and united prayer.
+
+Great and Only God! Save our Ukraine!
+
+Protect those who protect us! Heaven, protect those who defend the native land. Strengthen the will of those who protect us from captivity. Save those who save Ukraine. These are our military, national guards, border guards, our territorial defense, intelligence. These and all our other warriors of light.
+
+Help those who help them. These are volunteers and all people who care. From Ukraine and around the world. Give strength to all who give all their strength. May everyone who seeks always find. May everyone who is on the road always overcome it. And may everyone who does everything possible to save Ukraine never lose faith that everything is possible.
+
+Save the lives of those who save the lives of others. These are all our medics. Our firefighters, rescuers, sappers. May the victory of life be a symbol not only of this holiday. May life win the battle against death every day.
+
+Take care of our mothers. Give endurance to those who are waiting for a son or daughter from the war. Give fortitude to those who, unfortunately, have lost their children on the frontline. Help those who have lost their children in peaceful cities and villages where Russia has brought death to overcome unbearable pain.
+
+And give good health to all our mothers and all our grandmothers for many more years. To see their loved ones. To see peace and victory. To see justice. And the happy old age that the invaders are trying to steal from them. And instead of knitting scarves and sweaters for their grandchildren, today they weave camouflage nets. So give many years of peaceful life to them.
+
+And to our fathers. And to our grandfathers. Who once told their grandchildren about the war, and today send grandchildren to the war. Our fathers and our grandfathers built this country. Today they see it being destroyed. Let them see how our land will be liberated and rebuilt. And give us strength to do it.
+
+Take care of all our children. Give every boy and every girl a happy youth, maturity and old age, which will allow at least a little to get rid of the memories of their terrible childhood during the war. Not children's, scary games that they were forced to play. Hide and seek, but in the basement, from the bombs. Running, but from the gunshots. Travel, but because of the loss of home, fleeing the war.
+
+Save all Ukrainians! We did not attack anyone, so give us protection. We have never destroyed other nations, so do not let anyone destroy us. We did not seize other people's lands, so do not let anyone seize ours.
+
+Save Ukraine! Its right and left banks - at a time when we are being viciously beaten on both right and left cheeks. At the end of winter, spring did not come to us. Severe cold was brought to our house. At dawn we were brought opaque darkness.
+
+We believe, God, that in your judgment you will not forget them all. All those who have forgotten all your commandments.
+
+You will not forget about Bucha, Irpin, Borodyanka, Hostomel. All those who survived brutal crimes. Give them and all our land human happiness.
+
+You will not forget about Chernihiv, Mykolaiv, Kherson, Sumy, Kharkiv, Izyum, Kramatorsk and Volnovakha, Popasna. All other towns and villages that hear the terrible explosions. Let them and all of us hear the fireworks of victory.
+
+You will not forget about Mariupol and its heroic defenders. One can destroy the walls, but can't destroy the foundation on which the morale stands. The morale of our warriors. The morale of the whole country.
+
+We see terrible scenes of war. Let us see a happy picture of peace.
+
+We are going through very difficult ordeals. Let us reach a just end on this path - the beginning of a happy life and prosperity of Ukraine!
+
+Our hearts are full of fierce fury. Our souls are full of fierce hatred for the invaders and all that they have done. Don't let fury destroy us from within. Turn it into our accomplishments from the outside. Turn it into a force of good to defeat the forces of evil.
+
+Save us from strife and division. Don't let us lose unity.
+
+Strengthen our will and our spirit. Don't let us lose ourselves. Don't let us lose our longing for freedom. Therefore, do not let us lose our zeal for a righteous struggle. Do not let us lose hope of victory and self-esteem, and therefore our freedom. And therefore Ukraine. And therefore faith.
+
+**Dear Ukrainians!**
+
+Last year we celebrated Easter at home because of the pandemic. This year we also celebrate the Resurrection of Christ not as we used to. Because of another virus. Because of the plague called war.
+
+Both last year's and the current threat are united by one thing - nothing can defeat Ukraine.
+
+The great holiday today gives us great hope and unwavering faith that light will overcome darkness, good will overcome evil, life will overcome death, and therefore Ukraine will surely win!
+
+And on Easter, we ask God for great grace to make our great dream come true - this is another great day - the day when great peace will come to Ukraine. And with it - eternal harmony and prosperity.
+
+With faith and confidence in this - I congratulate all of you on Easter.
+
+**Take care of yourselves. Take care of your loved ones. Take care of Ukraine!**
+
+**Christ is Risen!**
+
+**He is Risen Indeed.**
+    `,
+    description: 'Today we all believe in a new victory for Ukraine. And we are all convinced that we will not be destroyed by any horde or evil.',
+    url: 'https://www.youtube.com/watch?v=_C9mbToPVwA'
   },
   {
     id: 'YXxVY7jmBew',
