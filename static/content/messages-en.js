@@ -1,5 +1,185 @@
 const source = [
   {
+    id: 'AdpCGhIjH2s',
+    name: 'Ukraine is a real symbol of struggle for freedom',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-25T22:52:39',
+    topics: ['Ракетний удар', 'Герої України', 'Вступ до ЄС', 'Герої України'],
+    cities: ['Буча', 'Бородянка', 'Гостомель', 'Охтирка', 'Чернігів', 'Суми', 'Ізюм', 'Харків', 'Волноваха', 'Золоте', 'Сєвєродонецьк', 'Рубіжне', 'Попасна', 'Маріуполь', 'Одеса', 'Краматорськ', 'Житомир', 'Львів', 'Кременчук', 'Кривий Ріг', 'Херсон', 'Каховка', 'Мелітополь', 'Дніпрорудне', 'Енергодар', 'Донецьк', 'Луганськ'],
+    text: `
+**Unbreakable people of the bravest country in the world!**
+
+Today the third month of our war for our independence began. Russian-Ukrainian war. The third month!
+
+On February 24, most in the world did not even believe that we would withstand more than a week. Someone said - three days. A month ago, we still had to convince different countries that betting on Ukraine means winning. And now... Now everyone knows it.
+
+Thanks to the courage, wisdom of our defenders, thanks to the courage of all Ukrainian men, all Ukrainian women our state is a real symbol of struggle for freedom. Everyone in the world - and even those who do not openly support us - agree that it is in Ukraine that the fate of Europe, the fate of global security, the fate of the democratic system is being decided. And above all, it is being decided what life in the center and east of our continent will be like and whether there will be life at all.
+
+Bucha, Borodyanka, Hostomel, Okhtyrka, Chernihiv and Sumy, Izyum, Kharkiv, Volnovakha, Zolote, Severodonetsk, Rubizhne, Popasna and Mariupol... Missiles aimed at Odesa and Kramatorsk, Zhytomyr, Lviv, Kremenchuk and Kryvyi Rih... In all Ukraine's cities and communities, Russia has shown what it really wants and can bring to Europe. What it can bring to Chișinău, Tbilisi, Helsinki, Vilnius, Warsaw, Prague, all the cities and countries that Russian state propagandists have long openly identified as alleged enemies for Moscow.
+
+Russia has launched an offensive against Ukraine in many directions. Missile strikes, air raids, artillery, tanks - everything! Russian troops did not spare anything, any means to kill us, kill Ukrainians and destroy our land.
+
+In two months, they used more than 1100 missiles against us. Countless bombs and artillery. They tortured, robbed, executed. They mined our land. Peaceful cities and villages were turned into hell. Some Ukrainian cities and communities were destroyed to the ground. But they did not achieve anything. And they will not achieve.
+
+Kherson, Kakhovka, Melitopol, Dniprorudne, Enerhodar and our other cities where the Russian occupiers temporarily entered didn’t obey them. People showed with their protest their attitude towards the occupiers, showed that Ukraine will definitely win.
+
+Russia wants to play a sham "referendum" somewhere on our land? Even if they try, it will be as shameful as everything else that was "created" in Moscow for the occupation of Ukraine.
+
+Kharkiv region, Donetsk, Luhansk - the Russian military didn’t see even the slightest support they had hoped for anywhere. But they saw that it is a completely different state. They saw that there are completely different people here. People who are confident. Who believe in their state. Who know how to respect others because they respect themselves. Who do not want to capture someone else’s land, but will not give anything of their own. Who will protect every city, every street, every field.
+
+In two months of hostilities 9 thousand 781 defenders of Ukraine were awarded state awards. The title of Hero of Ukraine was awarded to 142 of our defenders.
+
+Ukrainian men and women have shown a truly massive readiness to defend Ukraine. At any age, any property status, with any education - Ukrainian men and women equally stood up for the state.
+
+This war has truly become a people’s war for Ukraine. And it showed that throughout our territory - from east to west, from north to south - the Ukrainian idea is equally strong, equally national.
+
+As of this time, 931 settlements have already been de-occupied. Many cities and communities are still under the temporary control of the Russian army. But I have no doubt that it is only a matter of time before we liberate our land.
+
+Russia can spend enormous resources to support the war. To oppose even the whole free world. It can take away from its people everything that could develop Russia itself, and direct this potential to destroy the lives of neighbors.
+
+But the lessons of history are well known. If you are going to build a millennial Reich, you lose. If you are going to destroy the neighbors, you lose. If you want to restore the old empire, you lose. And if you go against the Ukrainians, you lose.
+
+A global anti-war coalition was formed in two months. Sanctions have already been imposed on Russia, which have taken away its future. Ukraine receives assistance from dozens of countries. This is support in the form of weapons, finances, necessary goods, political support directly.
+
+We are accelerating our movement to the European Union as much as possible. We have already passed a historic moment, an important stage - with the receipt and answering a special questionnaire, which was provided to each country before they acquired the status of a candidate for EU membership.
+
+Even now, when the war is still going on, we are creating the necessary base for the reconstruction of Ukraine. These are international agreements of various levels, this is the creation of special funds for the reconstruction of our state.
+
+Even now, when Russia is still trying to seize our territory, we are demonstrating that we will give free Ukraine more opportunities for development than Russia can give not only to the occupied part of our territory, but also to its own territory, its own state.
+
+It is obvious that every day - and especially today, when the third month of our resistance has begun - everyone in Ukraine is concerned about peace. About when all this will be over. About when and what can be a victory for Ukraine.
+
+There is and at the same time there is no simple answer to this question. When we gain a victory, everyone will feel it. When peace comes, everyone will see it. But for this to happen - and happen faster - we need to think not about when and what it will be. We must think every day about how to make the stay of the occupiers on our land even more unbearable.
+
+Ukraine is ready for peace. It was ready even when the war was going on in Donbas. It is ready even now, when the Russian invasion has become full-scale.
+
+But for Russia to seek peace, every Ukrainian must still fight. They must defend freedom. Because every day of struggle now adds years of peaceful life after this war. After our victory.
+
+As always, before delivering the address, I signed decrees awarding our heroes. 269 servicemen of the Armed Forces of Ukraine and 9 servicemen of the Main Intelligence Directorate were awarded state awards.
+
+**Eternal glory to all who stood up for the state!**
+
+**Eternal gratitude to all who help us endure!**
+
+**Eternal memory to everyone who gave life for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Even now, when Russia is still trying to seize our territory, we are demonstrating that we will give free Ukraine more opportunities for development than Russia can give not only to the occupied part of our territory, but also to its own territory, its own state.',
+    url: 'https://www.youtube.com/watch?v=AdpCGhIjH2s'
+  },
+  {
+    id: '-uj_Xe_BoDE',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-25T16:47:06',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=-uj_Xe_BoDE'
+  },
+  {
+    id: 'oVPABJt7T48',
+    name: 'Briefing by Andriy Smirnov, Deputy Head of the Office of the President of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Смирнов'],
+    date: '2022-04-25T12:10:58',
+    topics: ['Міжнародний трибунал', 'Судова система'],
+    cities: [],
+    text: `
+On the activity of courts, other bodies and institutions in the justice system as of April 25 - briefing of the Deputy Head of the Office of the President of Ukraine Andriy Smirnov
+    `,
+    description: 'On the activity of courts, other bodies and institutions in the justice system as of April 25 - briefing of the Deputy Head of the Office of the President of Ukraine Andriy Smirnov',
+    url: 'https://www.youtube.com/watch?v=oVPABJt7T48'
+  },
+  {
+    id: 'c8IET8l34l8',
+    name: 'The Orthodox world has seen that Easter means nothing to Russia',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-25T10:50:38',
+    topics: ['Ракетний удар', 'Гуманітарна катастрофа', 'Міжнародна підтримка', 'Гарантії безпеки', 'Голод', 'Герої України'],
+    cities: ['Кременчук', 'Чугуїв', 'Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**All our defenders!**
+
+Yesterday, Christians of the Eastern rite celebrated Easter. The traditional greeting "Christ is risen!" sounded also in Russia. But did these words mean the same thing as in the whole Orthodox world?
+
+Russia "congratulated" Ukraine on Easter with an air threat almost all over our country, a missile strike at the Poltava region, and a missile strike at Kremenchuk. Why was this attack needed at Easter? There is no military threat from which this could protect Russia. This is just a deliberate destruction of life in Ukraine. Destruction that did not stop even on the greatest Orthodox holiday.
+
+So are these people who continued to shell our cities and communities yesterday Christians? Who fired at Chuhuiv of the Kharkiv region. Who killed two more children in the Donetsk region on Easter - girls aged five and fourteen.
+
+Killing children, destroying lives, covering up with cynical and total lies what has been done against peaceful cities - all Russia is doing on the territory of Ukraine - is definitely not Christianity. This is what Christ opposed.
+
+People who once again refused to open humanitarian corridors from Mariupol are not Christians. People who filmed propaganda reports in the occupied regions of Ukraine about the distribution of alleged humanitarian Easter kits are not Christians. Moreover, everyone knows, including in Russia, that before February 24, all Ukrainians in all parts of Ukraine had the opportunity to celebrate Easter freely in any church and without any "humanitarian" kits.
+
+People who are trying to build a brutal occupation regime in the seized districts of the Kherson and Zaporizhzhia regions, holding people hostage, torturing people are not Christians. Those who did not allow people to leave the occupied territory even on Easter, threatening them with death.
+
+Russia was offered an Easter ceasefire. But the Orthodox world has seen that for the Russian invaders Easter means nothing. For them, it is just a red date in the calendar, which requires special words, special behavior, but not what is called faith, and not what is called Christian good.
+
+The Russian army has made this Easter red not only formally in the calendar, but also red with blood. Christians would not do that if they had the opportunity to make peace.
+
+So holding a candle in the temple does not mean being a Christian. Eating or even celebrating Easter every year is not enough to be human, to be a Christian.
+
+And I am grateful to all our police officers, to all employees of the Security Service of Ukraine, to all those who were responsible for security on Easter, for not allowing any provocations yesterday. All that Russian propagandists announced recently.
+
+The Armed Forces of Ukraine are deterring attacks by Russian troops in key areas. In the Kharkiv region - in the Izyum direction, in Donbas - especially near Popasna, in Mariupol where the resistance of the city's defenders continues, in the southern areas, where the occupiers are trying to go on the offensive.
+
+Air alarms this morning were heard again almost all over our country. Vinnytsia, Rivne, Lviv, Odesa regions - missile threat. Russia does not stop trying to break our resistance to... Achieve what?
+
+In the occupied areas, either a humanitarian catastrophe has already occurred or there is very little time left before it occurs. There is a lack of basic products, there is a lack of medicines. People do not have the means to live normally, there is no basic security. They don’t have everything they had before February 24. What Donetsk and Luhansk had before 2014. Everything that we will definitely return after the liberation of our land.
+
+We continue to do everything to drive the occupiers out and restore peace to all our people. A key element of this process is the strength of the Armed Forces of Ukraine. Availability of sufficient quantity and quality of weapons, sufficient quantity and quality of ammunition.
+
+Assistance to Ukraine was the number one issue in talks with representatives of the United States of America who arrived in Kyiv yesterday - Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin. Our talks with them were long enough - more than three hours - and meaningful. Encouraging and, which is important, effective.
+
+I am grateful to the people of the United States and personally to President Biden for the strong and sincere support we receive. These are real things that strengthen not only our state, but democracy as a whole.
+
+We share the same understanding with the United States: when democracy wins in one country, it wins all over the world. When freedom is defended in one country, it is defended all over the world.
+
+We agreed with the American side on further steps to strengthen the Armed Forces of Ukraine and meet all the priority needs of our army. This includes preparations for a major ministerial meeting in Germany on Tuesday, which will bring together forty defense ministers from partner countries. The key issue is the protection of Ukraine, the protection of freedom in Eastern Europe.
+
+Ways to strengthen sanctions were discussed. The fact that Russia is not looking for peace and is demonstratively killing even on Easter shows that greater sanctions pressure is needed. It is necessary to block all opportunities for Russia to circumvent sanctions. So we handed over to our partners a special Plan to strengthen sanctions on the Russian Federation developed by an international expert group led by Andriy Yermak and Michael McFaul.
+
+A separate point of the negotiations was financial support for Ukraine. When tyranny has enormous financial resources from oil and gas exports, the issue of financial support for freedom becomes vital. I heard a full understanding of this position from American friends. Not only in the context of helping Ukraine now, during the war, but also for the post-war reconstruction.
+
+Discussions on security guarantees for Ukraine continued. I am convinced that the United States can be a leader among the future countries - guarantors of Ukraine's security. The main goal for all of us is to make Europe and the world safer after the war, to ensure that the security architecture works in the event of any new threats.
+
+I was pleased to hear from our friends that the United States Embassy will be back in Kyiv in the near future. The appointment of a new US Ambassador to Ukraine will also take place. This is a very useful gesture of support for our state.
+
+I had an important conversation with Turkish President Erdoğan. On the situation in Mariupol and the need to evacuate civilians and the wounded, the need for immediate exchange of the blocked Ukrainian military.
+
+We discussed the negotiation process with Russia and the issues of defense. The threats to the world food market provoked by Russia, which has blocked our Black Sea ports, were also discussed in detail.
+
+Rising food prices have already reached critical levels in many countries. But this is just the beginning. If Russia does not seek peace, the issue of food security in many countries will become a matter of physical survival for millions of people and, consequently, stability of state systems.
+
+More and more political leaders around the world are aware of this threat. So we expect more pressure on Russia.
+
+I congratulated President of France Macron on winning the elections. We spoke with Mr. President at night. Ukraine will always appreciate his support, and will always be grateful for the help of France. I am convinced that together with France, together with President Macron, we will be able to do much more to protect our common freedom, our united Europe.
+
+Late last night, after all foreign policy issues, I signed important decrees to award our heroes. 188 servicemen of the Armed Forces of Ukraine and five employees of the Security Service of Ukraine were awarded state awards of Ukraine.
+
+The title of Hero of Ukraine was awarded to Colonel Chayuk Denys Valentynovych, deputy commander of the 128th separate mountain assault brigade, for personal courage and effectiveness in battles with the occupiers, for destroying enemy equipment and manpower.
+
+**Glory to all our heroes!**
+
+**Eternal memory to everyone who gave life for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Killing children, destroying lives, covering up with cynical and total lies what has been done against peaceful cities - all Russia is doing on the territory of Ukraine - is definitely not Christianity. This is what Christ opposed.',
+    url: 'https://www.youtube.com/watch?v=c8IET8l34l8'
+  },
+  {
     id: 'U2wk-ROqIF4',
     name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
     translated: false,
