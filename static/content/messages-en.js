@@ -1,5 +1,178 @@
 const source = [
   {
+    id: 'GSeLjUw-gR8',
+    name: 'Communication of Volodymyr Zelensky and Rafael Mariano Grossi with media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-26T23:35:24',
+    topics: [],
+    cities: [],
+    text: `
+Communication of the President of Ukraine Volodymyr Zelensky and the Director General of the International Atomic Energy Agency (IAEA) Rafael Mariano Grossi with the media following the meeting in Kyiv.
+    `,
+    description: 'Communication of the President of Ukraine Volodymyr Zelensky and the Director General of the International Atomic Energy Agency (IAEA) Rafael Mariano Grossi with the media following the meeting in Kyiv.',
+    url: 'https://www.youtube.com/watch?v=GSeLjUw-gR8'
+  },
+  {
+    id: 'tZ27pVGFVJ4',
+    name: 'The free world has the right to self-defense and that is why it will help Ukraine even more',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-26T22:04:52',
+    topics: ['Атомна загроза', 'Міжнародні санкції', 'Герої України'],
+    cities: ['Чорнобиль', 'Херсон'],
+    text: `
+**Ukrainians!**
+
+**All our defenders!**
+
+Every year on April 26, the world remembers the Chornobyl disaster. The worst nuclear disaster in human history.
+
+But this year it is not enough to just remember Chornobyl. And it is not enough to say traditional words of gratitude to the heroes-liquidators. It is not enough to remind why and how the catastrophe became possible. It is not enough to repeat the conclusions that every intelligent person and every adequate society must draw.
+
+Because this year, Russia has created new threats that could surpass even the worst accident.
+
+I remember the night of March 4, when it became known about the fire at the Zaporizhzhia NPP.
+
+When Russian tanks fired at the station. They knew exactly which object they were firing at. But they had an order to seize the object at any cost.
+
+They did not care about anything. They did not care that the Zaporizhzhia station is the largest in Europe. They didn't think about how many power units there are and how the shelling could end.
+
+That night I spoke with world leaders. With everyone who could influence the events and stop Russia. I spoke with President Biden, with Chancellor Scholz, with President of the European Council Charles Michel, with President of Poland Andrzej Duda... I spoke with IAEA Director General Mr. Grossi.
+
+If the world had not woken up that night, we would not mention Chornobyl today, because everyone would think about what Russia has done at the Zaporizhzhia nuclear power plant.
+
+It is even surprising how quickly and completely Russia, the whole country, can forget about the worst catastrophe that its people have experienced as well.
+
+Not only Ukrainians were involved in the liquidation of the consequences of the Chornobyl accident in 1986. But also Belarusians, Russians and others.
+
+That catastrophe should have been told about in Russian schools as well. They should have reminded about it in Russia every year on April 26, as is done throughout the civilized world.
+
+Instead, today they launched three missiles against Ukraine so that they flew directly over the blocks of our nuclear power plants. Over three nuclear power plants at once. Over Zaporizhzhia, Khmelnytskyi and South-Ukrainian NPPs. What is it? Are they threatening? Are they targeting? There are no words...
+
+It turns out they do not realize what Chornobyl is. At all.
+
+Russian troops that were trying to attack Kyiv through the Chornobyl zone used the restricted area as a military base.
+
+They set up positions on land where it is forbidden to even stand. They drove armored vehicles through areas where radiation-contaminated materials are buried and where the number of radioactive particles is simply horrendous. They destroyed the dosimetric control points. The Chornobyl radiation monitoring system was broken and looted. They looted a nuclear analytical laboratory...
+
+They even stole contaminated items, which were confiscated from violators of the rules of the Exclusion Zone!
+
+Only thanks to the professionalism and conscientiousness of our specialists working at the Chornobyl station and other facilities of the Chornobyl zone, we managed to save Ukraine, save Europe from a new catastrophe.
+
+Only thanks to the professional team of the Zaporizhzhia NPP and our entire nuclear industry is it possible to ensure trouble-free operation of stations during the war.
+
+Mr. Grossi, Director General of the IAEA, paid a visit to Kyiv today. We discussed all the dangers created by Russia and ways to possibly influence the situation to protect Europe and the world from completely irresponsible actions of the Russian Federation.
+
+Today, I also awarded our heroes - shift workers at the Chornobyl station who did not leave the facility. Who maintained the work of the Chornobyl nuclear power plant despite the threat to their lives and despite the occupiers' lack of understanding of even the basics of radiation safety.
+
+I believe that after all that the Russian military has done in the Chornobyl zone and at the Zaporizhzhia nuclear power plant, no one in the world can feel safe knowing how many nuclear facilities, nuclear weapons and related technologies the Russian state has.
+
+If Russia has forgotten what Chornobyl is, it means that global control over Russia's nuclear facilities and nuclear technology is needed.
+
+I spoke today with the Prime Minister of Japan. In particular, about the dangers created by Russia. About the situation on the battlefield in Ukraine. I thanked Japan for a strong package of sanctions, for its support and for the leadership needed to force Russia to peace and recognition of the foundations of international law. We also discussed the post-war reconstruction of Ukraine and the possible role of Japan in future security agreements.
+
+The Prime Minister of Romania paid a visit to Kyiv. I thanked him for the defensive and political support.
+
+We discussed not only bilateral cooperation between our states and joint work to protect freedom in Europe, but also cooperation at the EU level. With Romania, we share a common vision of both prospects and threats to European unity, in particular in the Black Sea region.
+
+We agreed to work together even harder to ensure security in our region.
+
+An important meeting at the level of defense ministers of Ukraine's partner countries took place in Germany today. The key issue was to strengthen the protection of the whole of Europe from Russia's aggressive ambitions.
+
+There are almost no people left in the free world who do not understand that Russia's war against Ukraine is just the beginning.
+
+The ultimate goal of Russia's leadership is not just to seize the territory of Ukraine, but to dismember the entire center and east of Europe and deal a global blow to democracy.
+
+Therefore, the free world has the right to self-defense. And that is why it will help Ukraine even more.
+
+I am grateful to the United Kingdom and personally to Prime Minister Boris Johnson for his prompt and positive response to our request for trade liberalization. Right now it is especially important for the support of our state.
+
+Britain has announced the abolition of all duties and quotas on imports of Ukrainian goods. This will allow us to save thousands of jobs during the war and ensure a significant intensification of economic relations with Britain.
+
+We expect similar decision from other partners.
+
+I want to emphasize that this is important not only for our country, not only for each of the partner countries. This adds stability to global markets, especially the food market, which is one step away from a large-scale price crisis due to Russia's war against Ukraine.
+
+There is only one way to avoid the crisis: to strengthen cooperation and put pressure on Russia for it to give up this war.
+
+Today, Russian troops continued missile strikes at our land, particularly in the Odesa region. They continued to attack our troops near Kharkiv, in Donbas. They are trying to portray an alleged "new government" in Kherson and part of the Zaporizhzhia region. They change flags, demonstrate some suicides in the role of collaborators.
+
+And what does this give Russia? Only new losses.
+
+There will be a new sanctions package from the European Union. There will be even more restrictions on trade. Inevitably, the vast majority of the world's countries will abandon Russian oil and other Russian energy sources. No adequate country will want to invite Rosatom to cooperate. Most Russians will have to pay with poverty for the aggressive policy of their country's leadership.
+
+And I emphasize: we will identify, find and prosecute everyone - war criminals and collaborators. The longer and more brutal this war, the more resources will be spent not only by us, but also by the world to establish justice and punish all those responsible.
+
+The time will come when Russia will have to recognize that peace is needed.
+
+I paid a visit to Ilya Matvienko and Kira Obedinska in Okhmatdyt Hospital today. Kira is 12 years old, and Ilya turned 10 today. They lived in Mariupol until the Russian army came. Ilya's mother was killed during the bombing of the city. Kira's father, a well-known athlete and former captain of Ukraine's water polo team, Yevhen Obedinsky, was killed by a sniper.
+
+The occupiers took the children out of the city, actually abducted them, and it took a lot of effort to get them back. I am grateful to everyone who joined this cause. I am especially grateful to Iryna Vereshchuk and Andriy Yermak, who coordinated this task, to our entire team.
+
+Now Ilya is with his grandmother, Kira is with her grandfather. Their only relatives left. We will help them with everything they need. We will help raise children.
+
+And we will definitely do everything to return all our Ukrainian children to Ukraine. Let no one in Russia hope that Ukraine will forget or forgive the abduction of our children, the deportation of our citizens. And the destruction of Mariupol.
+
+I also thanked Okhmatdyt's doctors for their work. For saving lives and trying to restore children's peace of mind under all circumstances. Thank you very much, dear doctors.
+
+Before delivering the evening address, I traditionally signed a decree awarding our heroes. 243 servicemen of the Armed Forces of Ukraine were awarded state awards.
+
+**Eternal gratitude to all our defenders!**
+
+**Eternal memory to everyone who gave life for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'It is even surprising how quickly and completely Russia, the whole country, can forget about the worst catastrophe that its people have experienced as well.',
+    url: 'https://www.youtube.com/watch?v=tZ27pVGFVJ4'
+  },
+  {
+    id: '00omVPPSZWA',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-26T19:26:55',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=00omVPPSZWA'
+  },
+  {
+    id: 'RU81NF5Lk9M',
+    name: 'Briefing by Kyrylo Tymoshenko, Deputy Head of the Office of the President of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Кирило Тимошенко'],
+    date: '2022-04-26T13:38:15',
+    topics: [],
+    cities: [],
+    text: `
+Restoration of the territories liberated from the occupiers does not stop even for a single day - a briefing by Kyrylo Tymoshenko, Deputy Head of the Office of the President of Ukraine.
+    `,
+    description: 'Restoration of the territories liberated from the occupiers does not stop even for a single day - a briefing by Kyrylo Tymoshenko, Deputy Head of the Office of the President of Ukraine.',
+    url: 'https://www.youtube.com/watch?v=RU81NF5Lk9M'
+  },
+  {
+    id: '-cPf5kRULbU',
+    name: 'Briefing by Deputy Head of the Office of the President of Ukraine Yulia Sokolovska',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Юлія Соколовська'],
+    date: '2022-04-26T12:28:02',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `
+A briefing by Deputy Head of the Office of the President of Ukraine Yulia Sokolovska on the use of funds from international organizations to resolve humanitarian issues related to the consequences of the war.
+    `,
+    description: 'A briefing by Deputy Head of the Office of the President of Ukraine Yulia Sokolovska on the use of funds from international organizations to resolve humanitarian issues related to the consequences of the war.',
+    url: 'https://www.youtube.com/watch?v=-cPf5kRULbU'
+  },
+  {
     id: 'AdpCGhIjH2s',
     name: 'Ukraine is a real symbol of struggle for freedom',
     translated: false,
