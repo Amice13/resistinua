@@ -1,5 +1,101 @@
 const source = [
   {
+    id: '5bd-4xEgIIM',
+    name: 'Russia is trying to provoke a global price crisis but Ukrainian exports will help stabilize markets',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-27T20:45:03',
+    topics: ['Економіка', 'Міжнародний трибунал', 'Енергетика', 'Відбудова України', 'Герої України'],
+    cities: ['Маріуполь', 'Мар\'їнка', 'Попасна', 'Сєвєродонецьк', 'Ізюм', 'Рубіжне', 'Дніпрорудне', 'Мелітополь'],
+    text: `
+**Unbreakable people of the bravest country!**
+
+The 63rd day of our defense is coming to an end. A day during which a lot has been done.
+
+First, an important decision of the European Union is being prepared. The European Commission has agreed to remove all duties and quotas on Ukrainian exports for a year, as well as to suspend anti-dumping tariffs.
+
+I discussed the details of this proposal with President Ursula von der Leyen today. I am grateful to her personally and to all our European friends for this step.
+
+Right now, this will allow us to maintain the economic activity in Ukraine, our national production as much as possible. But this decision needs to be considered not only in the Ukrainian context. Sufficient export of our products to European and global markets will be a significant anti-crisis tool.
+
+Russia is trying to provoke a global price crisis. To start chaos in all basic markets and especially in the food market. Ukrainian exports will help stabilize markets. So it is beneficial not only for us, but also for all Europeans. For residents of all countries that can be affected by Russia's destructive ambitions.
+
+New partners' decisions to liberalize our exports are expected soon.
+
+We are also agreeing with the European Union on how to increase the potential of transport corridors on our western border.
+
+I spoke today with the President of Indonesia. In particular, on food security. I stressed that the threat of famine for millions of people in different countries will remain until Russia begins to seek peace with Ukraine. It is because of this war waged by Russia that dozens of states have found themselves in a situation where they cannot be sure of stability for their people.
+
+I am grateful to Indonesia for supporting the territorial integrity and sovereignty of our state, for an honest and responsible position during the UN voting.
+
+I am also grateful for the invitation to take part in this year's G20 summit.
+
+A conversation took place with the Prime Minister of Italy. I thanked Mr. Draghi for the involvement in the investigation of crimes committed by the Russian military. I informed him about the situation in the combat zones. We appreciate Italy's support for truly effective sanctions that can end the war.
+
+This week, Russia's leadership launched a new series of energy blackmail of Europeans. The decision to cut off gas supplies to Poland and Bulgaria is another argument in favor of the fact that no one in Europe can hope to maintain any normal economic cooperation with Russia.
+
+Russia considers not only gas, but any trade as a weapon. It is just waiting for the moment when one or another trade area can be used. To blackmail Europeans politically. Or to strengthen Russia's military machine, which sees a united Europe as a target.
+
+Hence, the sooner everyone in Europe admits that it is inadmissible to depend on Russia in trade, the sooner it will be possible to guarantee stability in European markets.
+
+A meeting of the Congress of Local and Regional Authorities took place today. The first meeting during the full-scale war. A set of issues was discussed. In particular, the reconstruction of our country. We are already working on all the details so that the post-war reconstruction project can be implemented quickly and most effectively.
+
+I stressed that we expect specific requests and proposals from local authorities. So that we can talk specifically with our partners, with the European Union, with international donors. Communities must provide all information about destroyed housing, all damaged objects.
+
+We discussed how and in what order to build, how to organize the purchase of ready housing. Our goal is not just to rebuild everything that was destroyed by the occupiers. But also to solve old problems with housing queues and so on. So that all servicemen, rescuers, policemen, all who work for the state are provided with their own housing.
+
+Today in Congress we heard the reports on the earliest possible provision of housing for IDPs. On the interaction between central and local authorities in the communities that are temporarily occupied.
+
+The issues of territorial defense development and coordination between local authorities and law enforcement agencies were discussed.
+
+Today I want to especially support Ukrainians in the south of our country. In Kherson, in all communities of the region, in the temporarily occupied districts of the Zaporizhzhia region. I am grateful to everyone who does not give up. Who protests. Who ignores the occupiers and shows those outcasts who have become collaborators that they have no future. The stronger our resistance now, the more rejection the occupiers will see, the sooner normal life will return to our land.
+
+The Armed Forces of Ukraine continue to beat the invaders throughout the territory where the fighting continues. I am grateful to each of our defenders who do everything for Russia to lose.
+
+Mariupol, Marinka, Popasna, Severodonetsk, Izyum, Rubizhne, Dniprorudne, Melitopol and all other cities and communities that are now at the epicenter of the struggle for Ukraine. That is where the fighting for the future of our people is taking place. Thank you to everyone who brings our victory closer!
+
+I have just signed decrees on awarding our heroes. 173 servicemen of the Armed Forces of Ukraine were awarded state awards of Ukraine.
+
+The title of Hero of Ukraine was awarded to Lieutenant General Serhiy Ivanovych Nayev, Commander of the Joint Forces of the Armed Forces of Ukraine.
+
+**Eternal glory to everyone who stood up for our state!**
+
+**Eternal memory to all who gave life for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The sooner everyone in Europe admits that it is inadmissible to depend on Russia in trade, the sooner it will be possible to guarantee stability in European markets.',
+    url: 'https://www.youtube.com/watch?v=5bd-4xEgIIM'
+  },  {
+    id: 'FDTQpRX_JHo',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-27T20:18:59',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=FDTQpRX_JHo'
+  },
+  {
+    id: '096IeqcaDCo',
+    name: 'Briefing of Oleksii Dniprov, Deputy Head of the Office of the President of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Дніпров'],
+    date: '2022-04-27T15:19:31',
+    topics: ['Освіта', 'Культура'],
+    cities: [],
+    text: `
+Oleksii Dniprov, Deputy Head of the Office of the President of Ukraine, briefed on the situation in the humanitarian sphere of Ukraine.
+    `,
+    description: 'Oleksii Dniprov, Deputy Head of the Office of the President of Ukraine, briefed on the situation in the humanitarian sphere of Ukraine.',
+    url: 'https://www.youtube.com/watch?v=096IeqcaDCo'
+  },
+  {
     id: 'GSeLjUw-gR8',
     name: 'Communication of Volodymyr Zelensky and Rafael Mariano Grossi with media',
     translated: false,
