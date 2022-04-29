@@ -1,5 +1,131 @@
 const source = [
   {
+    id: 'K412Jx4LJeA',
+    name: 'Together with allies we can definitely stop the Russian aggression and reliably defend freedom in Europe',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-28T22:24:22',
+    topics: ['Міжнародна підтримка', 'Міжнародні санкції', 'Міжнародний трибунал', 'Ракетний удар', 'Постачання зброї', 'Герої України'],
+    cities: ['Маріуполь', 'Київ', 'Фастів', 'Одеса', 'Хмельницький'],
+    text: `
+**Ukrainians!**
+
+**All our defenders!**
+
+Today we have significant news for our state, for our defense.
+
+First, the United States has prepared a new support package for Ukraine worth $ 33 billion. In particular, more than 20 billion can be allocated for defense. More than $ 8 billion is planned for economic support. Another $ 3 billion will be allocated for humanitarian aid.
+
+This is a very important step by the United States. And I am grateful to the American people and personally to President Biden for it. I hope that the Congress will quickly support this request for help to our state. President Biden rightly said today that this step is not cheap. But the negative consequences of Russia's aggression against Ukraine and against democracy are so large-scale for the whole world that, in comparison with them, this support from the United States is necessary. Together, we can certainly stop Russian aggression and reliably defend freedom in Europe.
+
+We are also working to direct the blocked assets of Russian individuals subject to sanctions and the Russian state to compensate Ukraine for this war and to restore normal life.
+
+The investigation into the crimes committed by the Russian military against our people is underway. Ukraine's position is absolutely clear - every Russian criminal must be and will be brought to justice. Whoever they are and wherever they hide, we will find them all and make them bear responsibility.
+
+The first ten Russian servicemen from the 64th motorized rifle brigade of the Russian Ground Forces who committed crimes against our people in Bucha, Kyiv region, received the status of suspects. Their surnames are known. It is established what they did. We know all the details about them and their actions. And we will find everyone. Just as we will find all the other Russian thugs who killed and tortured Ukrainians. Who tormented our people. Who destroyed houses and civilian infrastructure in Ukraine. None of these bastards will avoid responsibility.
+
+However, some of them may not survive until trial and fair punishment. But for one reason only. This Russian brigade was relocated to the Kharkiv region. There they will get retribution from our military.
+
+Prime Minister of Bulgaria Kiril Petkov paid a visit to Kyiv today. We had very substantive and very warm negotiations with him. Bulgaria is one of those countries that reacted to Russia's aggression in a principled manner and quickly. I am grateful to both the Bulgarian government and the Bulgarian people for not delaying the support for our state.
+
+Defense, energy and transport issues were discussed with Mr. Petkov. Sanctions pressure on Russia, which is necessary for peace. We also discussed our cooperation at the EU level. A very important agreement is on the repair of our military equipment at the Bulgarian production facilities.
+
+Another issue we agreed on is the supply of Ukrainian electricity to Bulgaria and the use of the Trans-Balkan gas pipeline together with the Bulgarian side. I am grateful to Bulgaria for the opportunity to use the port of Varna to export our agricultural capacity.
+
+UN Secretary-General António Guterres was also in Ukraine today. It is very important that Mr. Secretary-General visited Borodyanka, Kyiv region. And saw with his own eyes what the Russian occupiers had done there. Hundreds of Ukrainian cities and hundreds of communities have experienced the same thing as Borodyanka and Bucha. The Russian army in Ukraine consciously and without any doubt trampled down everything on which the global order was based after World War II.
+
+The UN Charter, international conventions, declarations, the rights of people and states... Everything that should guarantee freedom and security in the world is simply destroyed by Russia's aggressive actions. So the key issue in the talks with the UN Secretary-General was how to stop Russian aggression. And this is not just a question of Ukraine, our fate. This is a question of the fate of the United Nations, the fate of international law, the fate of many nations - and not just Russia's neighbors who may become the next victims of Moscow's aggressive ambitions.
+
+Of course, during the negotiations we paid a lot of attention to saving our people from Mariupol. I believe that with the help of the UN it is possible to organize an evacuation mission. Ukraine is ready for these steps. But it is also necessary for the Russian side to consider this issue without cynicism and actually do what it says.
+
+Moscow claimed they had allegedly ceased fire in Mariupol. But the bombing of the defenders of the city continues. This is a war crime committed by the Russian military literally in front of the whole world. Russia's shelling of Mariupol did not stop even when the UN Secretary-General was holding negotiations in Moscow.
+
+And today, immediately after the end of our talks in Kyiv, Russian missiles flew into the city. Five missiles.
+
+And this says a lot about Russia's true attitude to global institutions. About the efforts of the Russian leadership to humiliate the UN and everything that the Organization represents. Therefore, it requires a strong response.
+
+Russian missile strikes at Ukraine - Kyiv, Fastiv, Odesa, and other cities - once again prove that we cannot let our guard down. We cannot think that the war is over. We still have to fight. We still have to drive the occupiers out.
+
+Today, the Russian army continued its offensive attempts in the east of our country, in Donbas. Tries to advance in the southern regions.
+
+The Armed Forces of Ukraine repel the invaders. And I am grateful to each of our defenders who are holding positions.
+
+We are doing everything to help our army, to provide the military with all the necessary weapons.
+
+Every time I contact my partners, I emphasize that weapons for Ukraine right now, the very types we ask for and just when we need them, are salvation not only for our people. This is salvation for all of you - for all of Europe.
+
+I am grateful to those partners who understand this. And who help convince others.
+
+Before delivering the evening address, I signed a decree awarding our heroes. 214 servicemen of the Armed Forces of Ukraine were awarded state awards. 14 of them posthumously.
+
+**Eternal memory to all who gave life for Ukraine!**
+
+**Eternal glory to all who stood up for the state!**
+
+**Glory to Ukraine!**
+
+    `,
+    description: 'Російська армія в Україні свідомо та без жодних сумнівів розтоптала все, на чому був заснований глобальний порядок після Другої світової війни.',
+    url: 'https://www.youtube.com/watch?v=K412Jx4LJeA'
+  },
+  {
+    id: '4yw1xsTKDSQ',
+    name: 'Volodymyr Zelenskyi and Antonio Guterres made statements to the media following the meeting',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-28T21:15:27',
+    topics: ['Міжнародна підтримка', 'Міжнародний трибунал', 'Соціальні виплати', 'Викрадення людей', 'Гуманітарні коридори'],
+    cities: ['Маріуполь'],
+    text: `Volodymyr Zelenskyi and United Nations Secretary-General Antonio Guterres made statements to the media following the meeting.`,
+    description: 'Volodymyr Zelenskyi and United Nations Secretary-General Antonio Guterres made statements to the media following the meeting.',
+    url: 'https://www.youtube.com/watch?v=4yw1xsTKDSQ'
+  },
+  {
+    id: '4yw1xsTKDSQ',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-04-28T18:56:24',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=4yw1xsTKDSQ'
+  },
+  {
+    id: '3eONQygvarE',
+    name: 'Communication of Volodymyr Zelenskyi and Kyryl Petkov with media representatives following the meeting',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-28T17:32:53',
+    topics: [],
+    cities: [],
+    text: `
+"Sanctions against Russia are needed only to force Russia to seek peace. For this to happen, sanctions must be effective, strong and not allow Russia to circumvent the restrictions. I hope that Bulgaria will continue to support the strengthening of sanctions for this war. " Communication of the President of Ukraine Volodymyr Zelenskyi and the Prime Minister of Bulgaria Kirill Petkov with the media following the meeting in Kyiv.
+    `,
+    description: 'Sanctions against Russia are needed only to force Russia to seek peace. For this to happen, sanctions must be effective, strong and not allow Russia to circumvent the restrictions.',
+    url: 'https://www.youtube.com/watch?v=3eONQygvarE'
+  },
+  {
+    id: 'NuitFm9w_qE',
+    name: 'Presentation of the Ermak-McFaul Action Plan to Ambassadors of Foreign Countries',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-28T12:44:25',
+    topics: [],
+    cities: [],
+    text: `
+"We are not so naive as to expect that economic pressure on the aggressor country will lead to a speedy end to hostilities. However, this second front - the front of international sanctions - will significantly limit Russia's aggression. Economic hardship has usually been its best pacifier, ”said the head of the Office of the President of Ukraine during a presentation to the foreign ambassadors of the Ermak-McFaul Action Plan on strengthening sanctions against Russia.
+    `,
+    description: 'We are not so naive as to expect that economic pressure on the aggressor country will lead to a speedy end to hostilities. However, this second front - the front of international sanctions - will significantly limit Russia\'s aggression.',
+    url: 'https://www.youtube.com/watch?v=NuitFm9w_qE'
+  },
+  {
     id: '5bd-4xEgIIM',
     name: 'Russia is trying to provoke a global price crisis but Ukrainian exports will help stabilize markets',
     translated: false,
@@ -67,7 +193,8 @@ The title of Hero of Ukraine was awarded to Lieutenant General Serhiy Ivanovych 
     `,
     description: 'The sooner everyone in Europe admits that it is inadmissible to depend on Russia in trade, the sooner it will be possible to guarantee stability in European markets.',
     url: 'https://www.youtube.com/watch?v=5bd-4xEgIIM'
-  },  {
+  },
+  {
     id: 'FDTQpRX_JHo',
     name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
     translated: false,

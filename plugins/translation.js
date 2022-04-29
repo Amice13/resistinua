@@ -261,6 +261,7 @@ const en = {
   'Україна': 'Ukraine',
   'Український спротив': 'Ukrainian Resistance',
   'Умань': 'Uman',
+  'Фастів': 'Fastiv',
   'Фейкова інформація': 'On fake information',
   'Фінансова допомога': 'Financial Aid',
   'Харків': 'Kharkiv',
