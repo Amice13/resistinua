@@ -1,8 +1,125 @@
 const source = [
   {
-    id: 'K412Jx4LJeA',
-    name: 'Together with allies we can definitely stop the Russian aggression and reliably defend freedom in Europe',
+    id: 'F8V9ILCiH1U',
+    name: 'Lend-Lease and other programs in support of Ukraine prove that freedom is still able to defend itself against tyranny',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-29T21:38:33',
+    topics: ['Ленд-ліз', 'Дефіцит пального', 'Міжнародні санкції', 'Ракетний удар', 'Герої України'],
+    cities: ['Лисичанськ', 'Сєвєродонецьк', 'Попасна', 'Краматорськ', 'Слов\'янськ', 'Мар\'їнка', 'Кременчук', 'Херсон'],
+    text: `
+**Unbreakable people of the bravest country!**
+
+The 65th day of our defense is coming to an end. We are beating the occupiers in all directions where they are trying to advance.
+
+The situation in the Kharkiv region is tough. But our military, our intelligence, have important tactical success.
+
+In Donbas, the occupiers are doing everything to destroy any life in this area. Constant brutal bombings, constant Russian strikes at infrastructure and residential areas show that Russia wants to make this area uninhabited. Therefore, the defense of our land, the protection of our people is literally a struggle for life. For Lysychansk, Severodonetsk, Popasna, Kramatorsk, Slovyansk, Marinka and all other cities and communities of Donbas, which Russian troops want to turn into ruins, absolutely everything is being decided in this war.
+
+Only if Ukraine withstands will they live. If the Russian invaders succeed in realizing their plans, at least in part, they will still have enough artillery and aircraft to destroy the entire Donbas. Just as they destroyed Mariupol.
+
+The city, which was one of the most developed in the region, is simply a Russian concentration camp in the middle of ruins. And the order of the occupiers in that part of Mariupol which they unfortunately still control differs insignificantly from what the Nazis did in the occupied territory of Eastern Europe.
+
+But the Russian troops manage to be even more cynical than the Nazis 80 years ago. At that time, the invaders did not say that it was the Mariupol residents and the defenders of the city who shelled and killed themselves.
+
+I am grateful to the United States, President Biden and Congress for an analogue of the famous Lend-Lease program, which will be very helpful in the fight against Russia, against the Russian invaders. Which helped a lot in the fight against the Nazis during World War II.
+
+I am sure that now the Lend-Lease will help Ukraine and the whole free world beat the ideological successors of the Nazis, who started a war against us on our land. Lend-Lease and other programs in support of Ukraine are concrete proof that freedom is still able to defend itself against tyranny.
+
+Today, the Government of Ukraine considered the issue of eliminating the deficit in the fuel market. Queues and rising prices at gas stations are seen in many regions of our country. The occupiers are deliberately destroying the infrastructure for the production, supply and storage of fuel. Russia has also blocked our ports, so there are no immediate solutions to replenish the deficit. But government officials promise that within a week, maximum two, a system of fuel supply to Ukraine will be provided that will be able to prevent a deficit.
+
+This is a difficult task after the Russian missile strike at the Kremenchuk refinery. But government officials along with fuel suppliers, traders and networks must fulfill this task no matter how difficult it may be. I'm sure they will. We must take from the European Union as much fuel as our citizens need now.
+
+Ambassador of the United Kingdom to Ukraine Melinda Simmons returned to Kyiv today.
+
+Currently, 27 foreign diplomatic missions operate in the capital of our country. And this is an extremely important gesture of support for Ukraine, for which we are grateful to all of them.
+
+Such gestures, together with strong defensive, financial and political support from the free world, mean that the need to end the war is becoming more and more obvious to Russia. The defeat of the occupiers is unalterable.
+
+In the temporarily occupied areas of the Kherson region, collaborators say that they are allegedly preparing for the transition to the "ruble zone". Any attempt to transfer our territory to Russia's administrative, monetary, or any other system will mean only one thing: Russia itself will suffer from that. Our responses, sanctions and other reactions of the free world to Russia's aggressive actions will not be delayed.
+
+The dismantlement of debris in Kyiv, where Russian missiles hit yesterday during the visit of UN Secretary-General António Guterres, continues. Unfortunately, such a deliberate and brutal humiliation of the United Nations by Russia was left without a powerful response.
+
+Today it became known that a journalist, an employee of Radio Liberty Vera Hyrych was killed by a Russian missile hitting a residential building in Kyiv. She became the 23rd media representative whose life was cut short as a result of the Russian invasion since February 24. My condolences to all relatives and friends. Eternal memory to all the victims of this war!
+
+Today in the White Hall of Heroes of Ukraine in the Mariyinsky Palace, I presented awards to our defenders and members of the families of fallen warriors. The Order of the Golden Star was awarded to the Heroes of Ukraine: Lieutenant Colonel **Serhiy Burkovsky**, Captain **Vitaliy Hural**, Senior Lieutenant **Dmytro Dozirchy**, Lieutenant Colonel **Oleksandr Zuhravy**, Colonel **Dmytro Kashchenko**, Major **Oleksandr Kukurba**, Captain **Oleh Pasichnyk**, Lieutenant Colonel **Vyacheslav Tsyhankov**, Colonel of the Medical Service **Oleksandr Sliesarenko**, Lieutenant Colonel **Leonid Khoda**, Colonel **Denys Chayuk** and Lieutenant General **Serhiy Nayev**.
+
+Also, three servicemen were posthumously awarded the Order of the Golden Star. I had the honor to hand them over to the relatives of our heroes - Sergeant **Volodymyr Balyuk**, Master Sergeant **Oleksandr Tsyupak**, Major **Pavlo Sbytov**.
+
+It is thanks to our heroes, thanks to all those who stood up for our state, that we can live, can be with our families in our homes.
+
+**Glory to all our heroes!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'На Донбасі окупанти роблять усе, щоб знищити будь-яке життя на цій території. Постійні жорстокі бомбардування, постійні російські удари по інфраструктурі та житлових районах свідчать про те, що Росія хоче зробити цю територію безлюдною.',
+    url: 'https://www.youtube.com/watch?v=F8V9ILCiH1U'
+  },
+  {
+    id: 'eN15bRQI6W8',
+    name: 'Volodymyr Zelenskyi spoke with representatives of the Polish media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-29T19:24:53',
+    topics: [],
+    cities: ['Відбудова України'],
+    text: `
+Volodymyr Zelenskyi spoke with representatives of the Polish media
+    `,
+    description: 'Volodymyr Zelenskyi spoke with representatives of the Polish media',
+    url: 'https://www.youtube.com/watch?v=eN15bRQI6W8'
+  },
+    {
+    id: 'HPe0eGCebyA',
+    name: 'Kirill Tymoshenko\'s briefing on the restoration of the territories liberated from the Russian occupiers',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-29T18:16:03',
+    topics: [],
+    cities: ['Відбудова України'],
+    text: `
+A briefing by Kirill Tymoshenko, Deputy Head of the President's Office, on the restoration of the territories liberated from the Russian occupiers.
+    `,
+    description: 'A briefing by Kirill Tymoshenko, Deputy Head of the President\'s Office, on the restoration of the territories liberated from the Russian occupiers.',
+    url: 'https://www.youtube.com/watch?v=HPe0eGCebyA'
+  },
+  {
+    id: 'Y2A5yirYKfI',
+    name: 'Volodymyr Zelenskyi presented the Golden Star medals to servicemen of the Armed Forces of Ukraine and members of military families',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-29T17:45:09',
+    topics: [],
+    cities: [],
+    text: `
+"In this hall of the Mariinsky Palace, where we met the highest guests of the state, we express our highest respect to our heroes. In this White Hall of Heroes of Ukraine, we award those thanks to whom Ukraine lives."
+    `,
+    description: '"In this hall of the Mariinsky Palace, where we met the highest guests of the state, we express our highest respect to our heroes. In this White Hall of Heroes of Ukraine, we award those thanks to whom Ukraine lives."',
+    url: 'https://www.youtube.com/watch?v=Y2A5yirYKfI'
+  },
+  {
+    id: 'pyWzqMW0dgU',
+    name: 'Briefing by Deputy Head of the Office of the President Andriy Sybiha',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Сибіга'],
+    date: '2022-04-29T08:30:08',
+    topics: [],
+    cities: [],
+    text: `
+Briefing of the Deputy Head of the Office of the President Andriy Sybiha on the results of the foreign policy of the President of Ukraine for the past week.
+    `,
+    description: 'Briefing of the Deputy Head of the Office of the President Andriy Sybiha on the results of the foreign policy of the President of Ukraine for the past week.',
+    url: 'https://www.youtube.com/watch?v=pyWzqMW0dgU'
+  },
+  {
+    id: 'itsJF_CEhVo',
+    name: 'Together with allies we can definitely stop the Russian aggression and reliably defend freedom in Europe',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-28T22:24:22',
@@ -66,13 +183,13 @@ Before delivering the evening address, I signed a decree awarding our heroes. 21
 **Glory to Ukraine!**
 
     `,
-    description: 'Російська армія в Україні свідомо та без жодних сумнівів розтоптала все, на чому був заснований глобальний порядок після Другої світової війни.',
+    description: 'The Russian army in Ukraine consciously and without any doubt trampled down everything on which the global order was based after World War II.',
     url: 'https://www.youtube.com/watch?v=K412Jx4LJeA'
   },
   {
-    id: '4yw1xsTKDSQ',
+    id: 'RZyEm6USScI',
     name: 'Volodymyr Zelenskyi and Antonio Guterres made statements to the media following the meeting',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-28T21:15:27',
@@ -80,7 +197,7 @@ Before delivering the evening address, I signed a decree awarding our heroes. 21
     cities: ['Маріуполь'],
     text: `Volodymyr Zelenskyi and United Nations Secretary-General Antonio Guterres made statements to the media following the meeting.`,
     description: 'Volodymyr Zelenskyi and United Nations Secretary-General Antonio Guterres made statements to the media following the meeting.',
-    url: 'https://www.youtube.com/watch?v=4yw1xsTKDSQ'
+    url: 'https://www.youtube.com/watch?v=RZyEm6USScI'
   },
   {
     id: '4yw1xsTKDSQ',
