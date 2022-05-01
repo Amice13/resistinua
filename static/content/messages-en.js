@@ -1,8 +1,113 @@
 const source = [
   {
-    id: 'F8V9ILCiH1U',
-    name: 'Lend-Lease and other programs in support of Ukraine prove that freedom is still able to defend itself against tyranny',
+    id: 'cAZZDXPEz9c',
+    name: 'Volodymyr Zelenskyi met with the Speaker of the US House of Representatives Nancy Pelosi in Kyiv',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-01T09:08:58',
+    topics: [],
+    cities: [],
+    text: `
+Volodymyr Zelenskyi met with the Speaker of the US House of Representatives Nancy Pelosi in Kyiv
+    `,
+    description: 'Volodymyr Zelenskyi met with the Speaker of the US House of Representatives Nancy Pelosi in Kyiv.',
+    url: 'https://www.youtube.com/watch?v=cAZZDXPEz9c'
+  },
+  {
+    id: 'oVUe-HsSmTM',
+    name: 'We still need to fight and direct all efforts to drive the occupiers out, and we will do it',
+    translated: false,
+    russianTimestamp: 'https://youtu.be/oVUe-HsSmTM?t=93',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-30T23:21:31',
+    topics: ['Герої України', 'Ракетний удар', 'Міжнародна підтримка', 'Відбудова України', 'Міжнародні переговори', 'Знешкодження вибухівки'],
+    cities: ['Маріуполь', 'Одеса', 'Херсон', 'Нова Каховка', 'Мелітополь', 'Бердянськ', 'Дніпрорудне'],
+    text: `
+**Unbreakable people of the bravest country!**
+
+Today we marked the Border Guard Day. It is clear that there can be no celebrations during the war. But it is necessary to support Ukrainian men and women who defend the state in the ranks of the Border Guard Service.
+
+Since the first days of the war - and not only since February 24, but also since 2014 - border guards have been bravely defending Ukraine. They fulfill combat missions. They were the first to face the Russian invaders at the state border. They are under daily shelling. They are fighting side by side with the Armed Forces of Ukraine, with our National Guard, with the National Police, with the territorial defense and all those who stood up for our state.
+
+In particular, they are fighting in Mariupol, heroically defending our city. 340 border guards - our heroes. I talked to them today. Congratulated them. Thanked them.
+
+I am grateful to everyone whose professional day was today. I had the honor to present state awards to border guards who distinguished themselves in the battles for our state.
+
+The occupiers are accumulating additional forces for new attacks against our military in the east of the country. They built up reinforcements in the Kharkiv region, trying to increase pressure in Donbas. They have already lost more than 23,000 soldiers in the battles of this senseless war for Russia. But they do not stop.
+
+We know that the Russian command is preparing for new big losses.
+
+In those units, the personnel of which was almost completely destroyed or significantly weakened in March-April, new people are being recruited. With little motivation. With little combat experience. They just want to get the right amount. So that they can throw these units into the offensive.
+
+The Russian command is well aware that thousands more Russian soldiers will be killed and thousands more will be wounded in the coming weeks.
+
+But why do the Russian soldiers themselves need this? Why do their families need this? Russian commanders lie to their soldiers saying they will face some serious responsibility for refusing to fight. And at the same time they do not tell, for example, about the preparation by the Russian army of additional refrigerators for storing corpses. They do not tell what new "planned" losses the generals expect.
+
+Every Russian soldier can still save his life. You'd better survive in Russia than die on our land.
+
+Our defenders have already destroyed more than a thousand Russian tanks. Almost two hundred Russian aircraft. Almost two and a half thousand armored fighting vehicles. Of course, the occupiers still have equipment in stock. Yes, they still have missiles to strike at our territory. But this war has already weakened Russia so much that they have to plan even fewer military equipment for the parade in Moscow.
+
+We are actively communicating with partners to enhance sanctions on Russia. For Mariupol, for all the destroyed cities and communities of Ukraine, for war crimes against our people. For missile and air strikes at the territory of Ukraine.
+
+Today the occupiers again fired missiles at the Dnipropetrovsk region and Odesa. Again and again, Russian troops prove that the people of Odesa are the same enemies for Russia as all other Ukrainians. The runway of the Odesa airport was destroyed. We will, of course, rebuild it. But Odesa will never forget such a Russian attitude towards it.
+
+We expect a decision on oil restrictions against Russia in the near future. We insist that a fair part of sanctions against Russian oil should be the blocking of any attempts by Russia to circumvent restrictions through the sale of so-called oil blends. If any company or state helps Russia trade oil, it must also face sanctions. Any sponsorship in the interests of the Russian military terrorist machine must end.
+
+I spoke today with President of France Emmanuel Macron. On various areas of cooperation between Ukraine and France, especially on defense. Also - on cooperation on Ukraine's path to the European Union. We are moving towards the political formalization of what is already a fact: Ukraine has become an integral part of a united Europe.
+
+I also spoke with British Prime Minister Boris Johnson. On defense support for Ukraine and other efforts necessary to end the war.
+
+I informed Boris about the current situation on the battlefield in the areas of active clashes and in detail about the situation in our east, in Mariupol, in the south of the country.
+
+All the leaders of the free world know what Russia has done to Mariupol. And Russia will not go unpunished for this.
+
+Many of the leaders are trying to help save our heroic defenders of the city. This was discussed in great detail with the UN Secretary-General during his visit to Kyiv. We are doing everything to ensure that the evacuation mission from Mariupol is carried out.
+
+I held talks with President of Switzerland Cassis. Thanked for the humanitarian support of Ukraine and Ukrainians. The mediating role of Switzerland in helping Ukrainians who found themselves in Russia was discussed. Preparations for the conference on postwar reconstruction of our state were also discussed.
+
+We are doing everything to return normal life to the de-occupied part of our Ukraine. The work of humanitarian offices has already begun in 93% of de-occupied settlements.
+
+We are actively demining the liberated territory. Every day several dozen settlements are added to the list of those where demining has been completed. 69% of de-occupied settlements are again with full-fledged local self-government. We are restoring electricity supply, communications, water supply and gas supply. We are doing everything to return normal medicine, educational services, access to financial institutions. We are restoring roads.
+
+Of course, there is still a lot of work ahead. The occupiers are still on our land and still do not recognize the apparent failure of their so-called operation. We still need to fight and direct all efforts to drive the occupiers out. And we will do it. Ukraine will be free.
+
+Kherson, Nova Kakhovka, Melitopol, Berdyansk, Dniprorudne and all other temporarily occupied cities and communities in which the occupiers are now pretending to be "masters" will be liberated.
+
+The Ukrainian flag will return wherever it should be by right. Return with a normal life, which Russia is simply unable to provide even on its own territory.
+
+I signed a decree on awarding our defenders - warriors of the National Guard of Ukraine. 133 national guards were awarded state awards, 11 of them posthumously.
+
+**Eternal memory to all who died for Ukraine!**
+
+**Eternal glory to everyone who stood up for the state!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Kherson, Nova Kakhovka, Melitopol, Berdyansk, Dniprorudne and all other temporarily occupied cities and communities in which the occupiers are now pretending to be "masters" will be liberated.',
+    url: 'https://www.youtube.com/watch?v=oVUe-HsSmTM'
+  },
+  {
+    id: 'BSXB0fAP-9I',
+    name: 'Volodymyr Zelenskyi met with the defenders of the state border of Ukraine and presented them with awards',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-04-30T17:37:28',
+    topics: ['Герої України'],
+    cities: [],
+    text: `
+"The protection of Ukraine from saboteurs and the enemy's attempts to destroy our supply chains depend on the professionalism and efficiency of the State Border Guard Service. Border guards also provide normal economic ties with our partners in the western and southwestern parts of the border. Your service is one of the fundamental pillars of our protection. And I am grateful to everyone who defends the state border. "
+
+On the Day of the Border Guard, President Volodymyr Zelensky met with the defenders of the state border of Ukraine and presented them with state awards.
+    `,
+    description: 'The protection of Ukraine from saboteurs and the enemy\'s attempts to destroy our supply chains depend on the professionalism and efficiency of the State Border Guard Service.',
+    url: 'https://www.youtube.com/watch?v=BSXB0fAP-9I'
+  },
+  {
+    id: 'Dkd2aidrZxI',
+    name: 'Lend-Lease and other programs in support of Ukraine prove that freedom is still able to defend itself against tyranny',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-29T21:38:33',
@@ -54,7 +159,7 @@ It is thanks to our heroes, thanks to all those who stood up for our state, that
 **Glory to Ukraine!**
     `,
     description: 'На Донбасі окупанти роблять усе, щоб знищити будь-яке життя на цій території. Постійні жорстокі бомбардування, постійні російські удари по інфраструктурі та житлових районах свідчать про те, що Росія хоче зробити цю територію безлюдною.',
-    url: 'https://www.youtube.com/watch?v=F8V9ILCiH1U'
+    url: 'https://www.youtube.com/watch?v=Dkd2aidrZxI'
   },
   {
     id: 'eN15bRQI6W8',
