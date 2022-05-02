@@ -1,5 +1,81 @@
 const source = [
   {
+    id: 'aejEQ1hPJ5w',
+    name: 'Interview with Volodymyr Zelenskyi of the 60 Minutes project of the Australian TV channel Nine Network',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-02T08:16:14',
+    topics: [],
+    cities: [],
+    text: `
+Frankly about the war with Russia. Interview of Volodymyr Zelenskyi with the journalist of the 60 Minutes project of the Australian TV channel Nine Network.
+    `,
+    description: 'Frankly about the war with Russia. Interview of Volodymyr Zelenskyi with the journalist of the 60 Minutes project of the Australian TV channel Nine Network.',
+    url: 'https://www.youtube.com/watch?v=aejEQ1hPJ5w'
+  },
+  {
+    id: 'fczj-3zriCg',
+    name: 'Today we finally managed to start the evacuation of people from Azovstal, we will continue to do everything to evacuate our people from Mariupol',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-01T20:41:51',
+    topics: ['Гуманітарні коридори', 'Міжнародна підтримка', 'Ленд-ліз', 'Міжнародні санкції', 'Герої України'],
+    cities: ['Маріуполь', 'Запоріжжя'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+Today we finally managed to start the evacuation of people from Azovstal. After many weeks of negotiations, after many attempts, different meetings, people, calls, countries, proposals. Finally! There was not a single day when we did not try to find a solution that would save our people.
+
+Today, for the first time in all the days of the war, this vital corridor has started working. For the first time there were two days of real ceasefire on this territory. More than a hundred civilians have already been evacuated - women and children first of all. Who were fleeing hostilities there. At Azovstal. 
+
+Given all the complexities of the process, the first evacuees will arrive in Zaporizhzhia tomorrow morning. Hopefully this doesn’t fail. Our team will meet them there. I hope that tomorrow all the necessary conditions will be met to continue the evacuation of people from Mariupol. We plan to start at 8 am.
+
+I am also grateful to all those who participated in the preparation of the rescue of people and who ensure this humanitarian corridor. I am grateful to everyone who held negotiations. To Iryna Vereshchuk as the coordinator of this process.
+
+I am grateful to our intelligence. Our team - David, Andriy. And also to the partners who joined and managed to help. In particular, from the UN and the International Committee of the Red Cross.
+
+We will continue to do everything to evacuate our people from Azovstal, from Mariupol in general. The organization of such humanitarian corridors is one of the elements of the ongoing negotiation process. It is very complex. But no matter how difficult it was, more than 350,000 people were rescued from the areas of hostilities.
+
+I discussed key issues of assistance to our state with Speaker of the US House of Representatives Nancy Pelosi who visited Kyiv together with a US Congress delegation.
+
+We are grateful to all partners who convey such important and powerful signals of support for Ukraine to the world and to Russia by visiting our capital in these conditions and at such a difficult time.
+
+Mrs. Pelosi and I had four hours of very substantive negotiations, as they say, multifaceted. In particular, on defense supplies, macro-financial assistance, sanctions policy, political cooperation with the United States.
+
+I thanked for the revival of the historic Lend-Lease program, which once helped protect freedom in Europe and can certainly do so a second time. We discussed specific areas - how Lend-Lease can work to strengthen our state as much as possible and help in the struggle for freedom.
+
+I also thanked for the preparation of a large package of aid to Ukraine worth 33 billion US dollars.
+
+We discussed how we can strengthen sanctions on Russia in a way that most effectively encourages it to end the war and limits Russia's ability to circumvent existing and future sanctions. I felt the support of our initiatives.
+
+I awarded Mrs. Pelosi with the Order of Princess Olga for her significant personal contribution to strengthening our cooperation and sincere participation in the defense of freedom.
+
+Today, Russian troops continued to strike at the territory of our state. The targets they choose prove once again that the war against Ukraine is a war of extermination for the Russian army. They targeted the warehouses of agricultural enterprises. The grain warehouse was destroyed. The warehouse with fertilizers was also shelled. They continued shelling of residential neighborhoods in the Kharkiv region, Donbas, etc.
+
+They are accumulating forces in the south of the country to try to attack our cities and communities in the Dnipropetrovsk region.
+
+What could be Russia's strategic success in this war? Honestly, I do not know. The ruined lives of people and the burned or stolen property will give nothing to Russia. It will only increase the toxicity of the Russian state and the number of those in the world who will work to isolate Russia.
+
+The Armed Forces of Ukraine respond to all the attacks of the invaders. And they will continue to respond until the occupiers leave our land.
+
+I am grateful to all our defenders. To everyone who has been defending the state since February 24 and since 2014.
+
+In just 67 days of the full-scale war, 143 our warriors have already been awarded the title of Hero of Ukraine. More than 10,600 defenders have been awarded state awards of Ukraine.
+
+**Eternal glory to all who stood up for the state!**
+
+**Eternal memory to all who gave life for Ukraine! Thank you.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The Armed Forces of Ukraine respond to all the attacks of the invaders. And they will continue to respond until the occupiers leave our land.',
+    url: 'https://www.youtube.com/watch?v=fczj-3zriCg'
+  },
+  {
     id: 'cAZZDXPEz9c',
     name: 'Volodymyr Zelenskyi met with the Speaker of the US House of Representatives Nancy Pelosi in Kyiv',
     translated: false,
@@ -15,10 +91,10 @@ Volodymyr Zelenskyi met with the Speaker of the US House of Representatives Nanc
     url: 'https://www.youtube.com/watch?v=cAZZDXPEz9c'
   },
   {
-    id: 'oVUe-HsSmTM',
+    id: '7lAiBARJkzo',
     name: 'We still need to fight and direct all efforts to drive the occupiers out, and we will do it',
     translated: false,
-    russianTimestamp: 'https://youtu.be/oVUe-HsSmTM?t=93',
+    russianTimestamp: 'https://youtu.be/7lAiBARJkzo?t=93',
     speaker: ['Володимир Зеленський'],
     date: '2022-04-30T23:21:31',
     topics: ['Герої України', 'Ракетний удар', 'Міжнародна підтримка', 'Відбудова України', 'Міжнародні переговори', 'Знешкодження вибухівки'],
@@ -85,7 +161,7 @@ I signed a decree on awarding our defenders - warriors of the National Guard of 
 **Glory to Ukraine!**
     `,
     description: 'Kherson, Nova Kakhovka, Melitopol, Berdyansk, Dniprorudne and all other temporarily occupied cities and communities in which the occupiers are now pretending to be "masters" will be liberated.',
-    url: 'https://www.youtube.com/watch?v=oVUe-HsSmTM'
+    url: 'https://www.youtube.com/watch?v=7lAiBARJkzo'
   },
   {
     id: 'BSXB0fAP-9I',
