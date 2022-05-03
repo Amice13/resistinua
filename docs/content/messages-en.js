@@ -1,5 +1,100 @@
 const source = [
   {
+    id: 'TurMflo5fXM',
+    name: 'The whole free world has united so that no one justifies Nazism, kills children or destroys peaceful cities as Russia does',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-02T22:30:38',
+    topics: ['Ракетний удар', 'Вбиті діти', 'Лисичанськ', 'Міжнародні переговори', 'Міжнародні санкції', 'Гуманітарні коридори', 'Герої України'],
+    cities: ['Київ', 'Харків', 'Одеса', 'Бердянськ', 'Токмак', 'Василівка'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+The 68th day of our strong defense is coming to an end. The 68th day of self-destruction of Russia. Self-destruction in every sense of the word. If this country once had what is called a reputation, now Russia does things on a daily basis that simply preclude any adequacy.
+
+Yesterday, for example, Russia's foreign minister openly and without hesitation said that the biggest anti-Semites were allegedly among the Jews themselves. And that Hitler allegedly had Jewish blood. How could this be said on the eve of the anniversary of the victory over Nazism? These words mean that Russia's top diplomat is blaming the Jewish people for Nazi crimes. No words.
+
+Of course, there is a big scandal in Israel today as regards these words. However, no one hears objections or excuses from Moscow. There is silence. Hence, they agree with what their foreign minister said. After the Russian missile attack at Babyn Yar in Kyiv, after the Menorah damaged by shelling at the site of the mass executions in Drobytsky Yar near Kharkiv, after the deaths of ordinary people who survived the Nazi occupation and Nazi concentration camps from Russian shelling, such an anti-Semitic thrust by their minister means Russia has forgotten all the lessons of World War II.
+
+Or maybe they never studied those lessons. So the question is will the Israeli ambassador stay in Moscow knowing their new position? Will relations with Russia remain as usual? Because it's not accidental. The words of the Russian foreign minister - a "great connoisseur of Hitlerism" - are not accidental.
+
+It is no coincidence that the Russian occupiers are creating so-called "filtration camps" on Ukrainian land through which thousands of our Ukrainian citizens are passing. Where our people are killed, tortured and raped. It is no coincidence that the occupiers capture civilians and take them hostage or deport them as free labor.
+
+It is no coincidence that they are waging a so-called total war to destroy all living things, after which only the burned ruins of entire cities and villages remain.
+
+To do this, one must completely reject the moral and achievements of the victors of Nazism. But if such people are in the Russian leadership, it does not mean they can judge others in Europe or in the world according to themselves.
+
+If they send tens of thousands of their citizens to die in a foreign land and do not even take the bodies of those killed from the streets, roads, fields, it does not mean that everyone else is like them.
+
+If there are people among them who come from Ukraine but support the extermination of Ukrainians and everything Ukrainian, it does not mean that everyone else has abandoned normal human morality.
+
+Today, Russian troops launched another missile strike at Odesa. Destroyed the dormitory. A 14-year-old boy was killed. A 17-year-old girl was wounded, she has a shrapnel wound. What is it? For what? What did these children and the dormitory threaten the Russian state with? And that's how they fight. That's all.
+
+A gymnasium founded over a hundred years ago burned down in Lysychansk, Luhansk region, due to Russian shelling. It was built by the Belgians for this city. It withstood two world wars. But, as we see, this gymnasium turned out to be a terrible threat to modern Russia.
+
+220 Ukrainian children have been killed by the Russian army since February 24. And we still don't know about everyone, because we don't have access to the temporarily occupied areas of our state. 1570 educational institutions were destroyed or damaged by shelling. It's in a little over two months!
+
+That is why the whole free world united so that no one justifies Nazism, kills children or destroys peaceful cities as Russia does.
+
+Today in Kyiv I met with the Minister of Foreign Affairs of Denmark. We discussed the whole range of issues of our bilateral relations, especially defense, financial and political cooperation. I see progress in implementing the agreements reached during the talks with the Prime Minister of Denmark. I am grateful. I received good signals.
+
+Plans to rebuild Ukraine after the war were also discussed. And support for our movement towards the European Union. I am grateful that Denmark resumes the work of its embassy in our capital. This is already the 29th foreign mission that returned to Ukraine.
+
+We are working on new sanctions against Russia. We expect a new package from the European Union in the near future. This package should include clear steps to block Russia's energy revenues. We truly believe in this. So that the terrorist state is not given a billion euros a day for fuel.
+
+But it is also worth preparing for the next sanctions steps now. In any case, we will have to block all export-import operations with Russia. Because that's what they make money on in Moscow. And they do not even understand that international law and peace in Europe must be respected.
+
+We continue to do everything to save our people from Mariupol. The evacuation operation continues. Tomorrow we also expect movement through humanitarian corridors from Berdyansk, Tokmak, Vasylivka.
+
+The Armed Forces of Ukraine heroically repel the occupiers' attempts to advance. Kharkiv direction, Donbas, the south of the country - everywhere the situation remains extremely difficult. But I am grateful to each and every one of our defenders who are holding the defense.
+
+I have just signed a large decree to award our military. 438 servicemen of the Armed Forces of Ukraine were awarded state awards.
+
+The title of Hero of Ukraine was awarded to Senior Lieutenant Dmytro Ruslanovych Todorov for his personal courage and extraordinary efficiency in the battles against the occupiers in the Donetsk region.
+
+**Eternal glory to everyone who stood up for our state!**
+
+**Eternal memory to all who died for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The 68th day of our strong defense is coming to an end. The 68th day of self-destruction of Russia. Self-destruction in every sense of the word. If this country once had what is called a reputation, now Russia does things on a daily basis that simply preclude any adequacy.',
+    url: 'https://www.youtube.com/watch?v=TurMflo5fXM'
+  },
+  {
+    id: 'dJDHEM7nlwo',
+    name: 'Interview with Volodymyr Zelenskyi by a journalist of the Greek public broadcaster ERT',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-02T17:33:17',
+    topics: [],
+    cities: [],
+    text: `
+War. Myths of propaganda. Bilateral relations between Ukraine and Greece. President Volodymyr Zelenskyi spoke about this and other issues with a journalist from the Greek public broadcaster ERT.
+    `,
+    description: 'War. Myths of propaganda. Bilateral relations between Ukraine and Greece. President Volodymyr Zelenskyi spoke about this and other issues with a journalist from the Greek public broadcaster ERT.',
+    url: 'https://www.youtube.com/watch?v=dJDHEM7nlwo'
+  },
+  {
+    id: '8xKCecfR-z8',
+    name: 'Andriy Smyrnov\'s briefing on Ukrainian victories on the legal front',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Смирнов'],
+    date: '2022-05-02T15:40:43',
+    topics: [],
+    cities: [],
+    text: `
+Andriy Smyrnov, Deputy Head of the Office of the President, briefed on Ukrainian victories on the legal front.
+    `,
+    description: 'Andriy Smyrnov, Deputy Head of the Office of the President, briefed on Ukrainian victories on the legal front.',
+    url: 'https://www.youtube.com/watch?v=8xKCecfR-z8'
+  },
+  {
     id: 'aejEQ1hPJ5w',
     name: 'Interview with Volodymyr Zelenskyi of the 60 Minutes project of the Australian TV channel Nine Network',
     translated: false,
