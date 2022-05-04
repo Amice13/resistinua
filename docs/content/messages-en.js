@@ -1,5 +1,279 @@
 const source = [
   {
+    id: 'A67aQuG1ObU',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyi at the Wall Street Journal CEO Council Summit',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-04T10:11:40',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `
+"We have already shown the greatest example of heroism in defending our common freedom and common values. And immediately after our victory, we will demonstrate the same example of creating the best conditions for doing business in Europe. That it was comfortable to invest in our country ". Speech by President of Ukraine Volodymyr Zelenskyi at the Wall Street Journal CEO Council Summit.
+    `,
+    description: 'We have already shown the greatest example of heroism in defending our common freedom and common values. And immediately after our victory, we will demonstrate the same example of creating the best conditions for doing business in Europe.',
+    url: 'https://www.youtube.com/watch?v=A67aQuG1ObU'
+  },
+  {
+    id: 'pZqN_pGnplY',
+    name: 'Striking at Ukrainian cities, Russia is trying to vent its powerlessness, because it cannot beat Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-03T23:34:36',
+    topics: ['Гуманітарні коридори', 'Ракетний удар', 'Воєнний злочин', 'Автомобільна аварія', 'Міжнародна підтримка', 'Міжнародні переговори', 'Герої України'],
+    cities: ['Маріуполь', 'Запоріжжя', 'Львів', 'Вінниця', 'Одеса'],
+    text: `
+**I wish you health, Ukrainians!**
+
+**Our defenders!**
+
+We finally have the result, the first result of our evacuation operation from Azovstal in Mariupol, which we have been organizing for a very long time. It took a lot of effort, long negotiations and various mediations.
+
+Today 156 people arrived in Zaporizhzhia. Women and children. They have been in shelters for more than two months. Just imagine! For example, a child is six months old, two of which are underground, fleeing bombs and shelling. Finally, these people are completely safe. They will get help.
+
+And I am grateful to all those on whom the rescue of these people depended. Who agreed and who helped. I am grateful to everyone who ensured the physical transportation of people through the humanitarian corridor.
+
+Of course, we will continue to do everything to get all our people out of Mariupol and Azovstal. It's difficult. But we need everyone who stays there: civilians and military. There was not a day when we did not address this issue, when our people did not try to solve this issue.
+
+Yes, we managed to achieve a ceasefire for almost three days in order to make the humanitarian corridor work.
+
+Currently, Russian troops are not adhering to the agreements. They continue massive strikes at Azovstal. They are trying to storm the complex. But I have been told many times that no one can be saved. That it is impossible. And today 156 people are in Zaporizhzhia. This is not a victory yet, but this is already a result. And I believe that there is a chance to save our other people.
+
+Apparently, the Russian military has reacted extremely nervously to our success today. Various Ukrainian cities have once again become targets for Russian missiles and Russian strikes. Lviv, Vinnytsia, Kyiv region, Dnipropetrovsk region, Odesa, Kharkiv region - such a scale of today's shelling clearly does not indicate that Russia has any special military purpose. Strike at Zakarpattia? What exactly can it give Russia? They are trying to vent their powerlessness. Because they can't beat Ukraine.
+
+But they can - so far - burn children's attractions in Gorky Park in Kharkiv or destroy a bridge. Or a grain warehouse or a house with people.
+
+The more such strikes, the farther Russia is from civilization. From what is called civilizedness.
+
+Today we also have another tragic news. A terrible road accident took place in the Rivne region. A bus, a car and a fuel truck collided. As of this time, 17 people died. But there may be more casualties.
+
+My sincere condolences to all those who lost their loved ones. I commissioned to provide all the necessary assistance to the victims.
+
+I am grateful to the Prime Minister of the United Kingdom and the great friend of Ukraine, Boris Johnson, for his support of Ukraine and our defenders. Today Boris addressed our parliament and our people. These were very important words, warm, friendly, powerful. This is a very sincere gesture. I am also grateful to Britain for the new package of support for our country, which the Prime Minister announced today.
+
+I also addressed the Verkhovna Rada of Ukraine today. For the first time during a full-scale war. I emphasized the main thing - and the main thing not only for me, but also for the whole of Ukraine. I am sure we must maintain maximum unity. Because our success depends on unity. Not only political success, but also the defense of the state, the strength of our people, our society.
+
+I continued the very useful practice of addressing the parliaments of our partner countries. Today (addressed - ed.) the Parliament and the people of Albania. Thanked for the support, including defensive support. Noted the cordiality with which the people of Albania support our people. Other such addresses are also planned.
+
+I also spoke with representatives of the largest global companies - in the CEO Wall Street Journal club (this is a very influential club. Three trillion dollars is the total turnover of companies whose leaders are in this club). About how to put pressure on Russia to end the war. About how to rebuild Ukraine after the war together. About what the post-war model of the Ukrainian economy can be. I believe that such economic diplomacy is one of our most important tasks.
+
+I spoke today with Polish President Andrzej Duda. I congratulated him and the entire Polish people on the national holiday - the Constitution Day of Poland. We discussed further cooperation, concrete steps and support for our defense.
+
+I informed him about the current situation in the areas of hostilities. About what is happening in Mariupol. About the evacuation of Ukrainians. And about what else we can do together to help protect our state and our common freedom - freedom of Ukrainians and Poles, all Europeans.
+
+Traditionally, before delivering the address, I signed decrees awarding our heroes. 185 servicemen of the Armed Forces of Ukraine were awarded state awards, two of them posthumously. Two more of our defenders were awarded the title of Hero of Ukraine.
+
+**Eternal glory to all our heroes!**
+
+**Eternal memory to everyone who gave life for our state!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Apparently, the Russian military has reacted extremely nervously to our success today. Various Ukrainian cities have once again become targets for Russian missiles and Russian strikes.',
+    url: 'https://www.youtube.com/watch?v=pZqN_pGnplY'
+  },
+  {
+    id: '50LPBVLFKxA',
+    name: 'Andriy Yermak met with Kimbal Musk, a member of the board of directors of Tesla and SpaceX',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Кирило Тимошенко'],
+    date: '2022-05-03T18:40:52',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `
+Andriy Yermak met with Tesla and SpaceX board member Kimbal Mas “We really appreciate this real support of Ukraine during this terrible war with Russia. We are grateful for the high-speed Internet thanks to Starlink, which we received from you. Very grateful! Everyone knows what a great role you played in this help. "
+
+The Head of the Office of the President of Ukraine Andriy Yermak met in the format of a video conference with the American businessman, member of the Board of Directors of Tesla and SpaceX Kimbal Maskom.com
+    `,
+    description: 'We very much appreciate this real support of Ukraine during this terrible war with Russia.',
+    url: 'https://www.youtube.com/watch?v=50LPBVLFKxA'
+  },
+  {
+    id: 'ItqW555SDiw',
+    name: 'Briefing by Kyrylo Tymoshenko, Deputy Head of the President\'s Office',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Кирило Тимошенко'],
+    date: '2022-05-03T16:06:53',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `
+Kyrylo Tymoshenko, Deputy Head of the President's Office, briefed on the process of restoring the territories liberated from the occupier.
+    `,
+    description: 'Kyrylo Tymoshenko, Deputy Head of the President\'s Office, briefed on the process of restoring the territories liberated from the occupier.',
+    url: 'https://www.youtube.com/watch?v=ItqW555SDiw'
+  },
+  {
+    id: 'dQG3abeRUQk',
+    name: 'Speech by the President of Ukraine in the Parliament of Albania',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-03T15:46:35',
+    topics: ['Ракетний удар', 'Вбиті діти', 'Воєнний злочин', 'Міжнародні санкції', 'Нафтове ембарго', 'Вступ до ЄС'],
+    cities: ['Одеса', 'Маріуполь'],
+    text: `
+**Dear Mrs. Speaker of Parliament!**
+
+**Dear Mr. Prime Minister!**
+
+**Dear ladies and gentlemen, deputies!**
+
+**The people of Albania!**
+
+Yesterday, Muslims around the world celebrated Eid al-Fitr, which marks the end of Ramadan, the holy month of fasting for Islam. And I congratulate you on this holiday.
+
+I wish you what all Ukrainian men and women wish for each other - peace.
+
+During this month, the Muslims of Ukraine and our entire society have not seen a single calm and peaceful day. That's how we live after February 24. Exactly like that. Russia has turned all our days into a mortal danger.
+
+Yesterday, a 14-year-old boy died as a result of a missile attack on our Odesa, our southern city. A 17-year-old girl was also wounded. Every day we have such a reality.
+
+Every day Ukrainians lose children because of Russian strikes. And more than 600 children have fallen victim to this Russian invasion. 220 children were killed and 406 were injured.
+
+Today is a farewell ceremony for journalist Vira Gyrych who was killed by a Russian missile at her home in the capital of our state, Kyiv. The missile hit her house. An ordinary multi-storey building near the downtown of the capital.
+
+The Russian army is firing at our cities and villages with artillery and aircraft. Does not spare missiles.
+
+In our largest city in the east of the country, in the city of Kharkiv, a fifth of all houses was destroyed. This is more than two and a half thousand houses.
+
+They were burned, destroyed or damaged by Russian shelling.
+
+Once one of the most developed cities on the shore of the Sea of Azov - the city of Mariupol - is completely destroyed. There are no undamaged buildings. None, imagine!
+
+This half-million city has been under siege by the Russian army since early March. They didn’t allow water, food, medicine - nothing and no one. And they didn’t stop bombing it. This is literally a scorched city. But you can take any Ukrainian city or village where the occupiers came and there will be very similar messages.
+
+About destruction and about murders. About tortures. About forced deportation of people to Russia. About total looting of everything on our territory.
+
+Older people who survived two occupations - the Nazi occupation during World War II and now the occupation by the Russian army - say they did not see such atrocities 80 years ago.
+
+Now they saw the Russian military shooting children in the face. Now they saw ordinary people - peasants who had been taken prisoner - being forced to lie on the ground day and night in sub-zero temperatures. It turns out that the Russian troops have a special method of "fighting" the escape of prisoners in the cold season: they are forced to pour water into their shoes, put the shoes on and lie on the ground in the cold.
+
+People stopped feeling their feet, their toes froze. But the occupiers did not even allow them to stand up, let alone to warm up.
+
+In the areas liberated from the Russian army, we constantly find graves of tortured people. They have their hands tied, traces of shots on their arms and legs, and broken ribs. Many were shot in the back of the head.
+
+Often the occupiers did not even allow the bodies of those killed to be buried. Bodies are found in forests, fields, basements, wells.
+
+Retreating from our land, the Russian army left the dead just on the streets as well.
+
+Russia was offered to cease fire at least on Orthodox Easter. There was no answer. It was also offered on Pesach - there was no answer. Russia has also ignored the sanctity of the month of Ramadan.
+
+Just think about it: 86 religious sites were destroyed or damaged by shelling. These are churches, mosques, houses of worship. The Russian army is not trying to protect even the facilities of the Russian church from its shelling!
+
+This is a complete abandonment of morality. Complete rejection of universal values. Complete non-recognition of life as an unconditional value.
+
+And they do not want to stop in Ukraine. They want to go further.
+
+In an attempt to revive the worst-level tyranny seen in the twentieth century, Russia has become the greatest threat to the entire free world.
+
+And I am grateful to every nation that is fighting this tyranny with us.
+
+Because only if we stop Russia now in Ukraine will we be able to save Europe from the coming of a new era - the era of non-freedom.
+
+Save it from what your people had to go through, in particular.
+
+**Ladies and Gentlemen!**
+
+**The people of Albania!**
+
+I am grateful to you for not hesitating who to support in this struggle. You are definitely on the side of freedom and truth. Thank you for concrete steps for Ukraine. For defense assistance. For supporting sanctions on Russia. For taking care of our people and hosting our children, especially in Durrës.
+
+This attitude of yours towards Ukrainian men and women in difficult times reminds me of St. Mother Teresa. An Albanian woman whose life has become a symbol of humanism for everyone in the world.
+
+She taught people that good daily efforts can defeat evil and bring them closer to the holiness that people will remember from generation to generation.
+
+I believe that by working together with all Europeans in this way - by our daily good efforts, we will be able not only to stop this war waged by Russia, but also to protect Europe in the future from the recurrence of such a threat.
+
+As the sixth package of sanctions against Russia's aggression is being discussed in the European Union, we must all insist that it includes an oil embargo and a real blockade of any schemes that Russia uses to deceive the free world and ignore sanctions.
+
+Russian banks must be completely disconnected from the global financial system.
+
+However difficult it may be, it is necessary to deliberately restrict trade with the Russian Federation. Because if not today, then tomorrow Russia will consciously use trade ties to hit your market when it wants some political concessions from you. You need to deprive it of this tool in time.
+
+I ask you to close the ports for Russian ships. And limit the arrival of Russian tourists. Because you can never know who came to you... Maybe the killers who were in Bucha? Or maybe the tormentors of Mariupol? Or maybe someone who is already working to undermine your country?
+
+I am grateful to Albania for its cooperation within the United Nations platform. Especially now when your country is a non-permanent member of the UN Security Council.
+
+We need to do a principled thing and stop using UN funds to sponsor Russia. If it violates the UN Charter, threatens the world's food security and destroys peace in Europe, it has no right to receive a single cent from the UN.
+
+Since 2014, when Russia seized our Crimean peninsula and started the war in Donbas, the UN has purchased goods and services from it for at least two and a half billion dollars. This is simply unfair. Wrong.
+
+Decades ago, Ukraine and Albania chose the path of democracy and European integration. We did not deviate from this path. Together we are committed to the development of freedom and a united Europe. And I believe that when the time comes to decide on Ukraine's accession to the European Union, your vote will be able to sound in our support.
+
+I am sure that right now everyone in the world is showing their true character.
+
+Someone is big in size, but very small when you have to be bold. And someone is small on the map, but its cordiality is one of the greatest.
+
+**Thank you, Albania!**
+
+**Thank you for your support. Thank you for your cordiality.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I believe that by working together with all Europeans in this way - by our daily good efforts, we will be able not only to stop this war waged by Russia, but also to protect Europe in the future from the recurrence of such a threat.',
+    url: 'https://www.youtube.com/watch?v=dQG3abeRUQk'
+  },
+  {
+    id: '0VaZzgcBHrM',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy in the Verkhovna Rada',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-03T15:12:25',
+    topics: ['Міжнародна підтримка', 'Міжнародні санкції', 'Нафтове ембарго'],
+    cities: [],
+    text: `
+**Dear Mr. Prime Minister!**
+
+**Dear Mr. Chairman!**
+
+**Dear people's deputies of Ukraine!**
+
+**Ladies and Gentlemen!**
+
+First of all, I would like to thank the leader of the United Kingdom, Boris Johnson, and all the people of the United Kingdom. For the words we hear. For the actions we see. For the support we feel. For the help we actually receive. For the victory that we will definitely gain together!
+
+On October 8, 2020, our countries became strategic partners. And on February 24, 2022, we proved that our partnership is not on paper. Our partnership is on the battlefield. In the battles for common ideals, battles for a common future.
+
+It has been almost ten weeks since the Russian Federation declared full-scale war against them and invaded our beautiful Ukrainian land. During this time, Ukraine and Britain have gone a path from partners to friends and brothers. And the one who lied that he is a friend and a brother has gone a path from a neighbor to an occupier and a terrorist. Is it sad? Yes. Is it scary? No. Because these almost ten weeks have proved: it is not scary when such an evil enemy is against you if such a good friend is next to you. Such as Great Britain. And leader Boris Johnson.
+
+And these words are not flattery, not courtesy, they are reality. We are together. Almost every day. We are in touch. Daily. If we don't have a conversation today, it means only one thing: we are busy with what we agreed on yesterday. And it is so almost all these weeks, all this difficult time. For the sake of one goal, one moment - the first second of victory. And for the sake of one epoch - the epoch where peace reigns. In Ukraine, and therefore in Europe, and therefore in the world.
+
+I would like to thank the United Kingdom, which is bringing this moment closer with us and which is ready to guarantee our security. And this gratitude of mine is not a formality. Because I know that the guarantees of Great Britain will never be a formality for Ukraine. Because these almost ten weeks have proved that your word is solid and your actions are decisive. Without any "almost". I hate that word - "almost".
+
+As well as our interaction and support of British allies. First of all, it is a weapon and equipment for our military, which protects both Ukraine, Europe and the whole world from the Russian occupiers. I will not voice all the details to the public - let it be an unpleasant surprise for the aggressor every day.
+
+Instead, I can speak openly about all other forms of support. This is humanity. And help for our refugees and internally displaced persons. Medicines, food, ambulances and fire engines and other large humanitarian aid. This is justice. And assistance in the investigation of war crimes of the Russian Federation in Ukraine. This is resilience. Macro-financial assistance for our economy. This is the abolition of customs duties, the abolition of quotas for our bilateral trade. This is the reconstruction of our land, this is the reconstruction of Kyiv and the Kyiv region, which will be joined by Great Britain.
+
+These are important global things. Sanctions against the Russian Federation, energy embargo, asset blocking. These are ordinary, very simple human, but no less important, symbolic things. Blue and yellow flags on Trafalgar Square and Downing Street. When we are supported by London, Edinburgh, Cardiff, Belfast, supported by Liverpool, Manchester and hundreds of other cities in this great state.
+
+When Ukraine is supported by the Duke and Duchess of Cambridge.
+
+Sir Paul McCartney, Elton John and Sting. Richard Branson, Joanne Rowling, the Beckhams, Benedict Cumberbatch, Queen, Pink Floyd, Deep Purple. Ed Sheeran, Hugh Laurie, Stephen Fry, Kit Harington, Emilia Clarke, Daniel Radcliffe and, of course, Her Majesty Queen Elizabeth II.
+
+It is also very important - the return of Melinda Simmons, and the recent visit of Prime Minister Johnson. At a very difficult time and at a very necessary moment. Our walk in the streets of Kyiv showed the world that the heart of Ukraine feels. Pain. But the people we met there, their words, their eyes, smiles and gifts - already famous roosters, the same as in Borodyanka - all this showed the world what our Ukrainian soul feels. Indomitability. Unbreakability. Therefore, hope for victory. Today, I, our parliament and the entire Ukrainian people can say one thing: thank you, Britain! Thank you, friends!
+
+**Dear people's deputies of Ukraine!**
+
+Please agree, when there is such unity in this hall, it is priceless! During these almost ten weeks, I have addressed the House of Commons, the US Congress, the European Parliament, the Bundestag, the Knesset, the Seimas, and many other parliamentarians and parliaments. But I did not address you. And this is not contempt, on the contrary - it is a great trust in you. You are here. And you know very well what is happening in our country. We are all citizens of this great state, and you know exactly what to do. I believe that has not changed in these almost ten weeks. I will be happy if the following becomes obvious and indisputable for you.
+
+You are the people's deputies of the greatest state in the modern world! I'm sure of it! You are the people's deputies of Ukraine. Keywords are "people" and "Ukraine". I think we will abandon trifles, political speculation until peacetime, although it is better to abandon them forever. The agenda of the Verkhovna Rada is obvious. The keyword is "order". Because there is no time for spam, quarrels and PR - everyone already knows you. I think wise rationalism and sound nationalism are important. All this is very important for us today.
+
+You are part of a large Ukrainian army. Your frontline is a legislative field in which you must work for our people, for each of us, for our state, for our victory. Like our army, like the whole country. Work 24/7. No days off, no unnecessary emotions, slogans, etc. Today we all have one party, and this party is Ukraine. One faction - Ukraine. One majority - Ukraine. One, strong, independent. And everything that does not help it or, God forbid, harms, weakens or splits, must be not in the minority, no. This must be a thing of the past.
+
+Just like someone's hopes of sitting out somewhere. Currently, the absence of a deputy is justified by only two things: his work abroad or in the regions for the interests of our state or his death for the interests of the state. The rest is of no interest to Ukraine today. It doesn't need anything else, it won't have anything else! Anything else follows the Russian warship!
+
+Please do not waste time on unnecessary laws. There are important priorities for the state. I know that you are professionals, you will do it. The state is waiting. Please do not waste your time, my time, the time of the people of Ukraine on minor initiatives and unimportant things. It seems to me that laws should be as timely as Lend-Lease. Accurate as our "Stugna" and "Bayraktar". And bring benefits like "Neptune". And glory like our army. And to be such that will go down in history like the people of Ukraine!
+
+**Glory to Ukraine!**
+    `,
+    description: 'On October 8, 2020, our countries became strategic partners. And on February 24, 2022, we proved that our partnership is not on paper. Our partnership is on the battlefield. In the battles for common ideals, battles for a common future.',
+    url: 'https://www.youtube.com/watch?v=0VaZzgcBHrM'
+  },
+  {
     id: 'TurMflo5fXM',
     name: 'The whole free world has united so that no one justifies Nazism, kills children or destroys peaceful cities as Russia does',
     translated: false,

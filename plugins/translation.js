@@ -4,6 +4,7 @@ const en = {
   },
   'DDOS': 'DDOS',
   'Авдіївка': 'Avdiivka',
+  'Автомобільна аварія': 'Car accident',
   'Андріївка': 'Andriivka',
   'Андрій Єрмак': 'Andrii Yermak',
   'Андрій Сибіга': 'Andrii Sybiha',
