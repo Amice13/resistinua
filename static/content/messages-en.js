@@ -1,5 +1,142 @@
 const source = [
   {
+    id: 'U2xR3Mzlaso',
+    name: 'Remembering the victory over Nazism means never really allowing what the Nazis inflicted on Europe again',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Дніпров'],
+    date: '2022-05-05T00:29:11',
+    topics: ['Герої України', 'Гуманітарні коридори', 'Вбиті діти'],
+    cities: ['Маріуполь', 'Дніпро', 'Миколаїв', 'Одеса', 'Запоріжжя'],
+    text: `
+**Ukrainians!**
+
+Today I will start with a story about one person. About Oleksandr Makhov - a well-known journalist. I'm sure you've seen his reports on Ukraine and Dom TV channels. You may have seen his comments, his posts. He has always been like that - with his own position. Patriotic and sincere. And always without vanity. And he was always among the bravest, among the first. He always worked in the hottest spots. Tried to bring true material. Powerful material.
+
+In 2017, he was the first Ukrainian journalist to visit our station in Antarctica. When COVID came, he was not afraid. He has lived in Sanzhary for two weeks, where Ukrainians were brought to from China. From the first day of the full-scale war, he was on the frontline. Volunteer. ATO veteran. Warrior of the 95th assault brigade.
+
+Born in the Luhansk region. He had a special feeling of what this war means.
+
+Today he died in the Kharkiv region, in the battles near Izium. He was 36 years old. My sincere condolences to relatives and friends. Let his son Vladyslav know: Russia will bear responsibility for this death. We will definitely gain victory for Ukraine. I'm sure it was Oleksandr's dream. And we will make it come true.
+
+Eternal memory to him and to all our heroes who gave lives for Ukraine!
+
+The second stage of our evacuation operation from Mariupol was completed today. 344 people were rescued - from the city and its suburbs. That's how many people departed to Zaporizhzhia today. Our team is getting ready to meet them. Meet in the same way as more than 150 people whom we managed to take out of Azovstal. They all receive the necessary help. All of them will receive the most caring treatment from our state.
+
+I am grateful to all those who make the evacuation operation successful: Iryna Vereshchuk, Andriy Yermak, David Arakhamia, UN representatives, the International Committee of the Red Cross, and everyone who reached an agreement and provided silence and corridors for the people.
+
+We are negotiating and hope to continue rescuing people from Azovstal, from Mariupol. There are still civilians. Women, children.
+
+To save them, we need to continue the silence. The Ukrainian side is ready to provide it. It takes time to just lift people out of those basements, out of those underground shelters. In the current conditions, we cannot use special equipment to clear the debris. Everything is done manually. But we believe that everything will work out.
+
+I spoke today with UN Secretary-General António Guterres. About what has already happened. What we still have to do to save Mariupol residents and defenders of the city. There was not a day when I didn't do it, when we didn't do it. And I am grateful to everyone who helps.
+
+I spoke with Israeli Prime Minister Bennett. I congratulated him on the Independence Day of the State of Israel. We talked about the situation in the east of our country and especially in Mariupol. We also discussed the scandalous and completely unacceptable statements of the Russian Foreign Minister, which outraged the whole world.
+
+I spoke with Prime Minister of the Netherlands Mark Rutte. We agreed on the next diplomatic steps needed for peace. We discussed how to bring to justice all war criminals. Every Russian soldier and every commander who killed, tortured and tormented our people.
+
+Today, the Russian invaders launched another missile strike at our cities. At Dnipro, Mykolaiv, Odesa, Zaporizhzhia. At the cities of Donbas and other regions of our country. All these crimes will get proper answers. Both legal and quite practical - on the battlefield.
+
+I addressed the people of Denmark today on the occasion of Liberation Day. The Nazis were expelled from this country 77 years ago. Every year in May, all Europeans, all decent people on earth recall this feat - victory over the worst evil in human history. Victory in the war against Nazism.
+
+But to recall means not just to remember. This means remembering and really trying to never allow what the Nazis did to Europe again. It is the Ukrainians, together with our friends and partners - the anti-war coalition, as the anti-Hitler once was - that are repelling those who have forgotten exactly why people rejoiced in 1945. Because if everyone in Russia really remembered, this war simply would not have started now.
+
+Traditionally, before delivering the evening address, I signed a decree awarding our defenders. 35 servicemen of the 19th missile brigade of the Ground Forces of the Armed Forces of Ukraine were awarded state awards.
+
+**I am grateful to all our heroes!**
+
+**To all who stood up for our state.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Саме українці й українки разом із нашими друзями та партнерами – антивоєнна коаліція, як свого часу була антигітлерівська – стримують зараз тих, хто точно забув, чому люди раділи в 1945-му.',
+    url: 'https://www.youtube.com/watch?v=U2xR3Mzlaso'
+  },
+  {
+    id: 'DBvwHDwS7Kg',
+    name: 'Address by the President of Ukraine to the Danish people on the anniversary of the liberation of Denmark from the Nazis',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Дніпров'],
+    date: '2022-05-04T23:43:21',
+    topics: ['Ракетний удар', 'Воєнний злочин', 'Вбиті діти'],
+    cities: [],
+    text: `
+**Dear friends!**
+
+**Danish people!**
+
+Today you celebrate the anniversary of the day that was a dream. It has long been a dream of freedom and peace. This dream has become a reality.
+
+Five years. It was on this day that the five long years of Nazi occupation of your country came to an end. They lost. And freedom won. Life won.
+
+Denmark and the whole world then celebrated and hoped that such a brutal war would be the last and that no one would want to destroy peace anymore.
+
+They hoped that there would be no more feeling of mortal danger. That people can get rid of military habits. They hoped to forget forever about the light masking that was required. They hoped that air-raid sirens would no longer sound to report the real threat. That they can be turned on only once a year to remember the war that took place.
+
+But the war came again. It is here and now. It is in Ukraine. And it is not going to stop on our land.
+
+And it has already become as brutal as that war, the victory in which we all remember every year in May.
+
+I remember addressing you and the Folketing on the 34th day of Russia's full-scale invasion of Ukraine.
+
+I said then that Russia used 1370 missiles against our country. Today - already 1993 missiles. Just imagine how many lives they took.
+
+Most of them hit non-military targets.
+
+Then, on March 29, I told you that the Russian occupiers had destroyed 773 educational facilities in our country. And today - twice as much. 1584. These are kindergartens, schools, universities. This is what the Russian army is fighting against in Ukraine.
+
+The invaders have already killed 220 Ukrainian children. And we do not yet know for sure the situation in the occupied territories.
+
+But when I spoke to you last time, there were 144 names on the list of children killed. You see these terrible numbers grow. There were 144. Now - 220 children killed! They did not even have time to feel what life is like.
+
+The Russian state is not yet ready to stop the war. They still dream of capturing Ukraine and other European countries. They still dream that freedom in Europe must disappear. But their dreams must not come true.
+
+The dream of peace must come true. Our and your dream. Just like it was 77 years ago.
+
+Right now in Ukraine it is being decided how people will live on our continent. Whether there will be peace. Not only for us, but also for our neighbors, for you and us.
+
+Evil does not know what state borders are. Tyranny never stops at capturing just one country.
+
+You are already helping us fight. We are grateful to you. Fight with weapons, with your "yes" vote for our accession to the European Union, with honesty in the issue of sanctions and with sincerity towards our people.
+
+The sea of Ukrainian flags here today, the sea of flags on the streets of your cities shows that you understand everything.
+
+No one will now say how many more days this war, unleashed by the Russian Federation, will last. But I believe that our Liberation Day is approaching.
+
+I believe that just as I am addressing your people now, when you celebrate the anniversary of the liberation of your country, your representatives will address the Ukrainian people as we celebrate the anniversary of our peace.
+
+Now, as every year, you light candles across the country in memory of that war and victory over evil.
+
+And I ask you, when you see the warm light of candles, remember, please, about Ukrainian children. About those 220 children whose lives were taken by this war.
+
+Remember that Europe can do its best to keep this horrible list of children killed from growing. Never again.
+
+I am grateful to each and every one of you!
+
+**Thank you, Denmark!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Five years. It was on this day that the five long years of Nazi occupation of your country came to an end. They lost. And freedom won. Life won.',
+    url: 'https://www.youtube.com/watch?v=DBvwHDwS7Kg'
+  },
+  {
+    id: '8QxLb8tFkgg',
+    name: 'Oleksii Dniprov\'s briefing on the situation on the humanitarian front of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Дніпров'],
+    date: '2022-05-04T12:39:30',
+    topics: [],
+    cities: [],
+    text: `
+Oleksii Dniprov, Deputy Head of the Office of the President, briefed on the situation on the humanitarian front of Ukraine.
+    `,
+    description: 'Oleksii Dniprov, Deputy Head of the Office of the President, briefed on the situation on the humanitarian front of Ukraine.',
+    url: 'https://www.youtube.com/watch?v=8QxLb8tFkgg'
+  },
+  {
     id: 'A67aQuG1ObU',
     name: 'Speech by President of Ukraine Volodymyr Zelenskyi at the Wall Street Journal CEO Council Summit',
     translated: false,
@@ -15,9 +152,9 @@ const source = [
     url: 'https://www.youtube.com/watch?v=A67aQuG1ObU'
   },
   {
-    id: 'pZqN_pGnplY',
+    id: 'Tjp71YdstqY',
     name: 'Striking at Ukrainian cities, Russia is trying to vent its powerlessness, because it cannot beat Ukraine',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-03T23:34:36',
@@ -71,7 +208,7 @@ Traditionally, before delivering the address, I signed decrees awarding our hero
 **Glory to Ukraine!**
     `,
     description: 'Apparently, the Russian military has reacted extremely nervously to our success today. Various Ukrainian cities have once again become targets for Russian missiles and Russian strikes.',
-    url: 'https://www.youtube.com/watch?v=pZqN_pGnplY'
+    url: 'https://www.youtube.com/watch?v=Tjp71YdstqY'
   },
   {
     id: '50LPBVLFKxA',
