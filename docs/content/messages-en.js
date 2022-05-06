@@ -1,5 +1,172 @@
 const source = [
   {
+    id: 'wS9pJ_RLkr4',
+    name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Арестович'],
+    date: '2022-05-06T20:30:13',
+    topics: [],
+    cities: [],
+    text: `The situation regarding the Russian invasion is a briefing by Oleksii Arestovych`,
+    description: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
+    url: 'https://www.youtube.com/watch?v=wS9pJ_RLkr4'
+  },
+  {
+    id: 'zEZwNh5b5WI',
+    name: 'Speech by the President of Ukraine in the Althing, the Parliament of Iceland',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-06T20:12:42',
+    topics: ['Викрадення людей', 'Міжнародні санкції', 'Відбудова України'],
+    cities: ['Маріуполь'],
+    text: `
+**Godan dag thetta er Volodymir Zelensky i Kaenugardi!**
+
+I am grateful for the opportunity to address you today in this format. It is a great honor for me to speak in the Althing, the oldest parliament in the free world.
+
+And what else can we talk about now, if not freedom - the most ancient value which people have fought for and continue to fight. Which we are fighting for now in Ukraine.
+
+**Ladies and Gentlemen!**
+
+Ukraine and Iceland actually have very close bonds. Our cultures have been well acquainted with one another for over a thousand years. Our ancestors easily found a common language, and this can be traced now in both our and your language.
+
+We live in different parts of Europe, in different conditions - natural, economic, and security. But we value the same things - in Kaenugardi and in Reykjavik. Undoubtedly, freedom. The land we rightfully own. And our own culture, which not only shows our identity, separating us from neighboring nations, but also maintains for us and our children a connection with all previous generations. All this in Ukraine is under Russian attack.
+
+What will be left of Ukraine if Russia succeeds in its war against our state? The Russian occupiers bring a tyranny that does not allow any freedom. They want to appropriate our land. They have been saying for a long time that Ukraine allegedly has no right to exist independently. And they want to erase any mention of our culture. Despite the fact that our culture has more than 1000-year-old roots!
+
+I know how people live in your country. What is remembered the most is your ability to organize social life in an objectively difficult and demanding natural environment so that happiness is felt, so that there is sufficient security for ordinary people, and so that a true democracy works.
+
+When we see your cities, your communities, your people, we see just that - how freedom works, how culture works. And what a good result they give on earth.
+
+In our part of Europe, natural conditions are objectively easier. More sun, probably more opportunities for agriculture, easier opportunities for contacts between people. We are not threatened by ocean storms and volcanic eruptions. It seems that nature itself here in Ukraine and in the neighboring countries tried to help people.
+
+But look at the full-scale war that is going on in our land. Take a look at what the Russian troops are doing. Even in such comfortable conditions, they managed to create hell.
+
+For what? This is all outright. For us to never have democracy. So that we never have independence. So that our land, our nature can be used against our interests. So that our resources work for another state. And so that our people are just a silent workforce.
+
+Please pay attention to one illustrative fact: more than 500,000 of our people have already been deported to Russia. They were forced to go there. Everything was taken away from them: documents, means of communication. They are sent to remote regions of foreign lands, remote regions of Russia. There is an attempt to assimilate them there. By force!
+
+500,000 deported people. This is a large number. You know that - this is more than the total population of your beautiful country. Extraordinary scale of horror!
+
+I'm sure you know about the murder of tens of thousands of residents of our city of Mariupol by the Russian occupiers. I am sure you have heard about the war crimes that the Russian army is committing against our civilians, particularly in our city of Bucha.
+
+Wherever the occupiers come in Ukraine, they immediately start looking for everyone who worked for our state. Who served in our army. They are looking for journalists, they are looking for activists. They capture representatives of local self-government. That is, all those who can fight for freedom. On their land, on our land. In order to live freely, as people want, as our people want.
+
+**Ladies and Gentlemen!**
+
+It is obvious that Russia's war against Ukraine is not just an attempt to seize one country and destroy life in it. No! This is an encroachment on freedom as such. That is why it is important for all free people of the world that our country is not left alone in the confrontation with Russia. It is important that every nation helps.
+
+I am grateful to your people for the steps you have already taken, in particular by supporting sanctions against the Russian Federation.
+
+I am also grateful for the support you provide to our country at various levels. But I urge you not to stop.
+
+I call on your government, your diplomats and your people to advocate for increasing pressure on Russia. To be advocates of freedom. In all directions. No trade with tyranny. Above all, it is necessary to abandon Russian oil, oil blends and petroleum products. No financial ties with tyranny. No political help for tyranny.
+
+It doesn't matter if the country is big or small. When we defend freedom, the contribution of absolutely everyone matters.
+
+We in Ukraine definitely believe in victory. We are doing everything to drive out the invaders and liberate our land and our people. I can't tell the date when this will happen. But we are already preparing for the reconstruction of our country.
+
+And to ensure a truly free and comfortable life, to guarantee the well-being of our people, we invite our friends and only friends to participate with us in the implementation of Ukraine's reconstruction program.
+
+I invite your country, your companies to take part in the reconstruction of Ukraine, in particular in the energy modernization of our state. So that your energy efficiency experience also helps us, our people.
+
+I am sure we will be able to start this work soon. But first we will defend freedom. Our common freedom. We will do it.
+
+**Thank you, Iceland!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'It is obvious that Russia\'s war against Ukraine is not just an attempt to seize one country and destroy life in it. No! This is an encroachment on freedom as such. That is why it is important for all free people of the world that our country is not left alone in the confrontation with Russia. It is important that every nation helps.',
+    url: 'https://www.youtube.com/watch?v=zEZwNh5b5WI'
+  },
+  {
+    id: 'x-12jqO8BMs',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy at Chatham House',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-06T19:51:29',
+    topics: ['Воєнний злочин', 'Атомна загроза', 'Нафтове ембарго', 'Голод', 'Гуманітарна катастрофа', 'Постачання зброї', 'Міжнародні санкції', 'Міжнародна підтримка', 'United24'],
+    cities: [],
+    text: `
+**I would like to greet everyone and you, dear Mr. Robin!**
+
+**Dear guests, dear friends!**
+
+I am grateful for this opportunity to participate in this discussion.
+
+I am also grateful that Chatham House, one of the most influential think tanks in Europe, set up a special program back in 2015 for independent and in-depth research into the Ukrainian context. This research helps find answers to the most pressing questions. And these are the questions I would like to ask today. I know you will ask me questions, there will be a dialogue.
+
+But I am sure that each and every one of you is well aware of the level of the problems that the Russian invasion of Ukraine has brought. This is the highest priority for us and, I am sure, for the whole world today. It has brought problems not only to our people, but to everyone on the continent and to everyone in the world. I am absolutely sure of that.
+
+This is a full-scale invasion - one that Europe has seen only in the worst times of the 20th century.
+
+I would like to briefly outline some of the challenges.
+
+The first is the extreme brutality of the Russian army and its people who came here, and the Russian state's extreme contempt for all international conventions, the entire system of international law, human rights - for me, this is the most important thing, the inviolability of borders, the integrity of states in Europe.
+
+Why is Russia doing all this? Because they think that if they can be held responsible for such crimes, criminal actions, it will be decades later. They simply do not believe that the international community can hold those responsible for the war crimes to justice as they are hiding behind the nuclear force.
+
+The second challenge is, in fact, nuclear blackmail. For the first time in many decades. Absolutely outright.
+
+Russian state propagandists on their media resources calculate how long it takes for nuclear missiles to hit European capitals. They talk about it publicly, openly. They tell how to detonate nuclear explosives in the ocean to wash away everything in the British Isles with a radioactive wave. They prepare infographics, that is, they are serious about it. They boast that Russia can destroy any state leaving only "nuclear ashes". Moreover, "nuclear ashes" is their quote, which they repeat as a mantra.
+
+Why is this happening? This is a feeling of impunity, and we are sure of it. They are accustomed to the fact that business "as usual" has always returned to the relations of all states with Russia. And even now there are politicians in Europe who are not ashamed of ties with the Russian state after all that the Russian army has done in Ukraine.
+
+The third challenge is that the world is a few steps away from political chaos in dozens of countries, which could be the result of food and inflation crises. By blackmailing Europe into launching the Nord Stream 2 gas pipeline last year, Russia has provoked a price crisis in Europe. Gazprom deliberately did not supply the market with the necessary amount of gas to cover the deficit, and as a result, gas prices in Europe reached a historic maximum. This has affected all Europeans without exception.
+
+Now, as part of a full-scale war against Ukraine, Russia is blocking our ports it has seized.
+
+What does this lead to? The global market is left without sufficient supplies of some key products from Ukraine. This is what we have, what is the priority for the world - grain, sunflower oil, corn, other agricultural products.
+
+What consequences do we see? I'm sure we don't see everything. Because there is not much analytics here. I think we will see all this in the future. In some countries there is a shortage of sunflower oil. In other countries, the chains of agricultural production connected with our supplies are slowing down. In other countries, a shortage of basic food products is expected.
+
+All this together puts pressure on prices. In North Africa, the Middle East, Asia. And then it will affect other regions of the world. And the poorest will suffer. Who always suffers? The poorest. We are sure that the middle class will also suffer. Obviously, the political consequences of this can be dangerous. That is why I say that food security is one of the components of political chaos.
+
+**Dear attendees!**
+
+Russia's war against our state, which at first seemed only a bilateral event to many, some even smiled, some said it was just a conflict, Russia says it is a military operation. Now we all evaluate it differently, more seriously.
+
+But today is already the 72nd day of a full-scale war, and we do not yet see its end. We do not see or feel the willingness of the Russian side. Just as we do not see comprehensive answers to all the threats posed by Russia.
+
+What do we offer?
+
+There has not been a day since February 24 when I and our entire team did not negotiate to obtain the necessary weapons. To agree on the necessary sanctions against Russia. To organize the necessary cooperation to document and investigate war crimes.
+
+There has not been a day since the beginning of the brutal blockade of Mariupol by the Russian army, this is one of the examples, when we did not try to find a diplomatic solution to rescue people and organize humanitarian corridors for this rescue.
+
+We are in contact with everyone who can provide financial support to Ukraine. We have already started preparing a large-scale Recovery Plan for Ukraine, as we have no doubt that we will be able to defend our independence. And we believe in this strength of the world, in our strength. This is not a belief in a miracle. Common sense tells us that the world's response to the aggressor's actions, which Russia is now allowing itself, must be immediate.
+
+And what’s the reality? We've been talking about the same things for months. For example, the oil embargo against Russia, the blocking of the entire banking sector of the terrorist state. For months we have been fighting for a sufficient supply of weapons. And I am grateful to those states that help us from the first days constantly, every day. Because they correctly assessed the threat. But, unfortunately, not all states have assessed it that way. Even now, not everyone evaluates it that way.
+
+Most of Russia-provoked challenges and threats have not been fully addressed. That's the main thing. So, we need new tools, we need to look for them constantly. New determination. Something that can stop not only Russia, but also any potential aggressor.
+
+Ukraine proposes to create just such a tool. We call it U24. United 24. By upgrading the global security system, we must create opportunities to prevent any aggression or at least stop it in 24 hours. Or - in 24 hours to provide such assistance to the victim of aggression, which will restore peace. Or - if it is not a war, but a natural disaster or any social challenge - in 24 hours the world community must provide a country or region with all the necessary assistance to save people.
+
+With such a global response system, we will be able to ensure that millions of people are never again threatened with physical destruction. Or threats of deportation. Or - famine, destruction. Therefore, here are the specific questions that need to be answered by politicians, experts and society.
+
+And the questions I want to ask you now. What exactly can be done to ensure that the responsibility for war crimes is inevitable and comes not after a decade but faster, as in ordinary criminal proceedings?
+
+What specific sanctions against Russia can convince Russia, first of all, and all other potential aggressors in the world that international law must be respected?
+
+What specific global decisions are needed to keep the weapons of mass destruction in the world under control and to prevent their use and relevant blackmail? Even talks about it. And what sanctions should be imposed for nuclear blackmail or blackmail with chemical weapons?
+
+And what will convince the world's politicians that these issues are urgent and practical, and not just for discussion?
+
+I hope you will offer your thoughts, answers to these questions. This is your experience. Because objectively, we all need answers, the world needs them. I am sure that every person who watches us now and who asks himself or herself these questions every day needs the answers.
+
+And I'm sure that the U24 tool we offer can be an important part of your answers. This is an option. We are talking about this, about our initiative. Because I believe that the more initiatives there are, the more people understand the global nature of these challenges, the global nature of these responses.
+
+**Thank you very much for your attention!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Ukraine proposes to create a tool called U24. United 24. By upgrading the global security system, we must create opportunities to prevent any aggression or at least stop it in 24 hours.',
+    url: 'https://www.youtube.com/watch?v=x-12jqO8BMs'
+  },
+  {
     id: '2x2bUaebQls',
     name: 'Address by President Volodymyr Zelenskyy to the participants of the Brave Ukraine Charity Event, the people of Great Britain and the people of Ukraine',
     translated: true,
