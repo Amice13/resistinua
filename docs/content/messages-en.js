@@ -1,8 +1,163 @@
 const source = [
   {
-    id: 'U2xR3Mzlaso',
-    name: 'Remembering the victory over Nazism means never really allowing what the Nazis inflicted on Europe again',
+    id: '2x2bUaebQls',
+    name: 'Address by President Volodymyr Zelenskyy to the participants of the Brave Ukraine Charity Event, the people of Great Britain and the people of Ukraine',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-05T23:52:31',
+    topics: ['Міжнародні переговори', 'Ракетний удар', 'Гуманітарні коридори', 'Відбудова України', 'United24', 'Герої України'],
+    cities: [],
+    text: `
+**Unbreakable people of the bravest country!**
+
+Usually I address Ukrainians at this time and in the same way every night, when I summarize the events of the passing day. Every night - from the first day of this full-scale war of Russia against our state of Ukraine.
+
+Every night I report to the public on what has been done to protect the state. On what the Armed Forces of Ukraine managed to achieve. On how we help our people. And on what international negotiations took place.
+
+For example, today one of the notable news was the news of my conversation with you, Boris. Every time such negotiations take place, it is important for my country, for Ukraine. And no less important, I'm sure, for Britain. Because it is about steadfastness, courage and about the leadership that we demonstrate together - the Ukrainian and British nations. In defense of freedom. Our common freedom.
+
+Russian troops today, as every day during this war, have continued to bomb our cities and our people. For example, my traditional morning meeting with the military, with the leadership of the army, with government officials and diplomats was accompanied by the sound of an air-raid siren. This is our reality. Missile strikes every day.
+
+The day before yesterday - on the day when you, Boris, addressed our parliament, the Russian army launched 15 missile strikes at Ukraine. And this can be called a certain "Russian compliment" to your brilliant speech and our fruitful interstate cooperation. Because yesterday there were only 7 such strikes.
+
+Obviously, Russia is annoyed by our proximity - Ukraine and Britain. So this means that we are really strong in defending freedom in Europe.
+
+In general, during this war, the Russian army has used 2014 missiles against Ukraine already. 2682 appearances of Russian fighter jets in our skies have been recorded. Each of these "arrivals" is the death of our people, the destruction of our infrastructure.
+
+If we take only the medical infrastructure, to date, Russian troops have destroyed or damaged almost 400 health facilities. These are hospitals, maternity hospitals, outpatient clinics.
+
+In the temporarily occupied areas of Ukraine - in the east and south - the situation with access to medical services and medicines is just catastrophic. Even the simplest medications are missing.
+
+Russia has brought to Ukraine and Europe such problems that we could not have imagined a few months ago. This is in fact a complete lack of treatment for cancer patients. This is an extremely difficult or impossible access to insulin for diabetics. It's the inability to perform surgery... It's just a lack of antibiotics! These are the consequences of the Russian occupation for a part of our land, for a part of our people, which we must liberate from the invaders.
+
+And we will definitely do it. In particular, due to your support.
+
+Today the rescue operation from Mariupol was continued. With the assistance of the United Nations and the International Committee of the Red Cross. People are on their way to safe territory.
+
+More than 150 people from Azovstal and more than 300 people from Mariupol and its suburbs who were evacuated by the humanitarian corridor this week are already receiving all the help they need. Medical, document renewal, financial assistance, communication with relatives, friends and families.
+
+Currently, Russian shelling and assault of Azovstal do not stop. But civilians still need to be taken out - women, children. Many children who are still there. Just imagine this hell! And there are children! More than two months of constant shelling, bombing, constant death nearby...
+
+We expect an effective regime of silence. We are doing everything to find a solution to save our military. Heroes who defend Mariupol against the occupiers prevailing in the number of troops. There are different units there. They have many wounded. But they do not give up. They are holding positions.
+
+We do not give up either. Every day, the whole team is looking for an option that will ensure the safety of these people. And I am grateful to everyone who helps. To all those who offered mediation and are making efforts to save Ukrainians.
+
+Today I addressed the participants of the high-level donors' conference held in Warsaw. It is also an element of our protection, an element of protection for the whole of Europe. Because it is not only on the battlefield that the fate of our state and the future of the continent is being decided now. But also in the economic field, in the field of readiness of world leaders to unite to rebuild Ukraine after this war and give stability and security to the center and east of Europe.
+
+We have the result. It has been announced that $ 6.5 billion has been raised at this conference. And this is good. But this is only part of what is really needed to restore normal life throughout the territory where Russia has brought the war.
+
+That is why we need a modern analogue of the Marshall Plan for Ukraine. Stronger participation of the free world and international institutions is needed. I spoke about this today at the conference.
+
+However, we call for the cooperation and support of each and everyone. Everyone for whom freedom matters. That is why United24 was launched today - a global initiative that will unite people from all over the world around the desire to help Ukraine. And I invite you to join this initiative!
+
+The initial component is a platform of the same name to raise funds to support our struggle. United24. Its main goal is to increase donations to Ukraine. Just a few clicks - and everyone can join the direction that they find most useful right now and for themselves.
+
+Because Ukraine needs up to $ 7 billion a month to cover the state budget deficit. In total, it has been calculated that already more than $ 600 billion is needed to rebuild what the Russian army destroyed. Just imagine this scale!
+
+That is why every manifestation of support, every sincere help to Ukraine is important. In particular, yours today.
+
+**Ladies and Gentlemen!**
+
+**Friends!**
+
+If everyone in the world - or at least the vast majority - were steadfast and courageous leaders as Ukraine, as Britain, I am sure we would have already ended this war and restored peace throughout our liberated territory for all our people.
+
+But we still have to fight. Fight. As you, Boris, said, addressing our Verkhovna Rada the day before yesterday, we are still writing one of the most victorious chapters in our history.
+
+And now we can assess the significance of this chapter, in particular, by the following fact: 11,672 of our defenders have already been awarded state awards for courage and effective defense of Ukraine. In a little over ten weeks. 11,672 people.
+
+And a few minutes before this address, I signed a decree awarding another 286 servicemen of the Armed Forces of Ukraine. It is on the shoulders of these brave warriors and their brothers-in-arms that Ukraine and, to be honest, the whole of Europe are now standing.
+
+And I thank you for your really effective support of this struggle.
+
+Bravery is rightly believed the first of human qualities as it guarantees all others.
+
+**Thank you, Britain!**
+
+**Thank you, Boris!**
+
+**Thank you all!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'If everyone in the world - or at least the vast majority - were steadfast and courageous leaders as Ukraine, as Britain, I am sure we would have already ended this war and restored peace throughout our liberated territory for all our people.',
+    url: 'https://www.youtube.com/watch?v=2x2bUaebQls'
+  },
+  {
+    id: 'hG4kXOE_SM',
+    name: 'Speech by President Volodymyr Zelenskyy at the High-Level International Donors\' Conference in Support of Ukraine in Warsaw',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-05T15:15:12',
+    topics: ['Міжнародна підтримка', 'Відбудова України', 'Вступ до ЄС'],
+    cities: [],
+    text: `
+**Ladies and Gentlemen!**
+
+After ten weeks of the full-scale war of the Russian Federation against Ukraine, our meeting in this format and for this purpose proves that Ukraine, Europe and the whole free world are on the way to a common victory.
+
+Our state retains full functionality. Our continent is united. Millions and millions of people around the world support us to make tyranny lose.
+
+The Armed Forces of Ukraine and all our heroic defenders bravely and firmly defend freedom on the battlefield. But how this brutal war will end is decided not only on the battlefield. But also in the aspects of economy, finance, humanitarian support, the ability to ensure a normal life in the territory free from the enemy, in rebuilding what was destroyed by the Russian army.
+
+Freedom must demonstrate that it protects and provides for people better than tyranny, which has enjoyed a massive flow of money for oil, gas and other raw materials for decades.
+
+That's how freedom will win. That is why this conference is important for everyone in Europe. Both strategically and tactically important.
+
+First. Sufficient financial resources are needed so that Ukrainian men and women are provided with everything they need while the war continues. The Ukrainian state, as the administrator of these funds, will ensure all urgent needs - both defensive and social and humanitarian.
+
+Second. We are already preparing a large-scale Recovery Plan for Ukraine after the war and need a strategic international support plan for Ukraine that will be a modern analogue of the historic Marshall Plan. It is money, technology, expertise and growth opportunities that are needed to return to a secure life, to modernization and to social development.
+
+It will be an investment in the stability of the whole of central and eastern Europe. So that the aggressor knows that it will not break the power of Europe and all free nations. And so that everything destroyed by the war is rebuilt at a high level.
+
+The reconstruction of Ukraine must now become the same historical example for our time and for the future as the restoration of European countries after World War II. And such free world’s investments, if they are fast, if they are sufficient, will mean that millions of our people who became IDPs because of this war will be able to return home.
+
+We offer our partners - civilized and responsible states - to take patronage over those regions, over those cities, over those industries of Ukraine that have suffered from the war waged by Russia. Take patronage to work with us to rebuild these regions, our cities, towns and industries.
+
+Such a patronage project can create a new and equally historic example of interaction and partnership between the free world, between the regions, cities and companies of Europe and democratic countries.
+
+Third. Ukraine’s quick movement to the European Union is needed through its candidate status, which must be granted right now - in conditions of war. As part of a special shortened procedure for EU membership. Because this war of Russia against Ukraine was planned as a prelude to a strike at a united Europe. Greater unification is a powerful answer. That is why Ukraine's membership in the European Union must be an absolute reality. Not just promises, not just prospects, but practical steps.
+
+I know we are ready for these steps. And you know it, too. And I am sure that most of you, European leaders, are also ready for this.
+
+**Ladies and Gentlemen!**
+
+I am very grateful to Poland and Sweden, to Prime Minister Mateusz Morawiecki and Prime Minister Magdalena Andersson for organizing this important high-level donor conference.
+
+I am very grateful to President of the European Council Charles Michel and to President of the European Commission Ursula von der Leyen for their leadership, which makes Europe a true defender of the most important thing - freedom.
+
+I am grateful to all the participants of the Conference for being with us in this war for a free and democratic life for millions of people. Not only for Ukraine. But for all of us who may be threatened by tyranny.
+
+I believe that Europe will show its strength today. You will show your strength. In particular, international institutions - UN institutions, whose representatives are here with us now and can be even more effective. Because this is for our common freedom.
+
+**Thank you for your attention.**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I believe that Europe will show its strength today. You will show your strength. In particular, international institutions - UN institutions, whose representatives are here with us now and can be even more effective. Because this is for our common freedom.',
+    url: 'https://www.youtube.com/watch?v=hG4kXOE_SM'
+  },
+  {
+    id: 'wulomUEyUWM',
+    name: 'Briefing by Yulia Sokolovska, Deputy Head of the President\'s Office',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Юлія Соколовська'],
+    date: '2022-05-05T13:36:41',
+    topics: [],
+    cities: [],
+    text: `
+Yulia Sokolovska, Deputy Head of the Office of the President, briefed on the situation with drugs and rehabilitation equipment, the purchase, production and sale of which in Ukraine have significantly decreased as a result of hostilities.
+    `,
+    description: 'On the situation with drugs and rehabilitation equipment, the purchase, production and sale of which in Ukraine have significantly decreased as a result of hostilities.',
+    url: 'https://www.youtube.com/watch?v=wulomUEyUWM'
+  },
+  {
+    id: 'QLYvHyJMW3k',
+    name: 'Remembering the victory over Nazism means never really allowing what the Nazis inflicted on Europe again',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Олексій Дніпров'],
     date: '2022-05-05T00:29:11',
@@ -50,7 +205,7 @@ Traditionally, before delivering the evening address, I signed a decree awarding
 **Glory to Ukraine!**
     `,
     description: 'Саме українці й українки разом із нашими друзями та партнерами – антивоєнна коаліція, як свого часу була антигітлерівська – стримують зараз тих, хто точно забув, чому люди раділи в 1945-му.',
-    url: 'https://www.youtube.com/watch?v=U2xR3Mzlaso'
+    url: 'https://www.youtube.com/watch?v=QLYvHyJMW3k'
   },
   {
     id: 'DBvwHDwS7Kg',
