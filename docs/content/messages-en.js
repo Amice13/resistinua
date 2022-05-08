@@ -1,5 +1,148 @@
 const source = [
   {
+    id: 'jVt3cLR00Bg',
+    name: 'Address by Volodymyr Zelenskyi on the occasion of the Day of Remembrance and Reconciliation',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-08T09:00:09',
+    topics: ['Ракетний удар', 'Воєнний злочин', 'Герої України'],
+    cities: ['Бородянка'],
+    text: `
+"This year we say 'Never again' differently. We hear "Never Again" differently. It sounds painful, cruel. Without an exclamation, but with a question mark. You say: never again? Tell Ukraine about it. " Address by Volodymyr Zelenskyi on the occasion of the Day of Remembrance and Reconciliation. reconciliation
+    `,
+    description: '"This year we say "Never again" differently. We hear "Never Again" differently. It sounds painful, cruel. Without an exclamation, but with a question mark.',
+    url: 'https://www.youtube.com/watch?v=jVt3cLR00Bg'
+  },
+  {
+    id: 'htHPwQK8G64',
+    name: 'Evil returns when human rights and the law are violated and culture is destroyed; this is exactly what happened to Russia',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-07T22:26:28',
+    topics: ['Ракетний удар', 'Гуманітарні коридори', 'Економіка', 'Герої України'],
+    cities: ['Одеса', 'Маріуполь', 'Бородянка'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+Last night, the Russian army fired a missile to destroy the Hryhorii Skovoroda Museum in the Kharkiv region. A missile. To destroy the museum. Museum of the philosopher and poet who lived in the XVIII century. Who taught people what a true Christian attitude to life is and how a person can get to know himself. Well, it seems that this is a terrible danger for modern Russia - museums, the Christian attitude to life and people's self-knowledge.
+
+Every day of this war, the Russian army does something that is beyond words. But every next day it does something that makes you feel it in a new way.
+
+Targeted missile strikes at museums - this is not even every terrorist can think of. But such an army is fighting against us. This is what they want to bring to other European countries.
+
+As of May 7, the Russian army destroyed or damaged nearly 200 cultural heritage sites already.
+
+Today, the invaders launched a missile strike at Odesa. At a city where almost every street has something memorable, something historical. But for the Russian army, it doesn't matter. They would only kill and destroy. Odesa? Kharkiv region? Donbas? They do not care.
+
+Only the Armed Forces of Ukraine and the resistance of our people can stop this inhuman invasion. It's barbarism that has missiles, but has nothing to do with people.
+
+Such actions of the Russian occupiers, especially on the eve of the Day of Remembrance of all victims of World War II and the Day of Victory over Nazism, should remind every state and every nation that it is impossible to defeat evil once and for all.
+
+Unfortunately, evil tends to return when people disrespect other people's rights, disregard the law and destroy culture. This is exactly what happened to the Russian state. That is why we all have to defend ourselves now. Defend our people, our cities and even our museums, which are becoming targets for Russian missile strikes.
+
+I am grateful to the teams of the International Committee of the Red Cross and the United Nations for helping us carry out the first phase of the Azovstal evacuation mission. More than 300 people were saved - women and children. Virtually, we evacuated civilians from Azovstal.
+
+And we are now preparing the second stage of the evacuation mission - the wounded and medics. Of course, if everyone fulfills the agreements. Of course, if there are no lies.
+
+Of course, we are also working to evacuate our military. All heroes who defend Mariupol. This is extremely difficult. But it is important. I'm sure everyone understands the root cause of this complication, as well as where the cause is located. But we do not lose hope. We do not stop. Every day we are looking for a diplomatic option that can work out.
+
+Tomorrow, our team is preparing the further work of humanitarian corridors for all residents of Mariupol and surrounding settlements.
+
+I held a meeting today on the activities of the executive branch. The main issues are economic. In particular, on providing Ukrainians with fuel. On overcoming the fuel shortage that arose after Russian missiles destroyed our Kremenchuk plant and oil depots across the country.
+
+I heard reports on what is being done specifically to organize the supply of sufficient gasoline and other fuel types to Ukraine. The key task for government officials is to speed up the transportation of fuel from European ports to our consumers. The volume of such transportation should increase daily.
+
+I also heard a report from the Minister of Finance on the execution of the state budget.
+
+We are doing everything to ensure that the state fulfills all its social obligations despite the budget deficit and the deliberate destruction of our economy by the Russian army.
+
+The preparation of the Post-War Recovery Plan was also discussed. This is a very large-scale task. But I have no doubt that we will implement it.
+
+Today I was in Borodyanka, Kyiv region. Which is gradually returning to normal life.
+
+Head of the President's Office Andriy Yermak together with Minister of Infrastructure Oleksandr Kubrakov inspected the restored railway bridge over the Irpin River - it is already open for transport. Today we can say that the cities and communities of the Kyiv region liberated from the occupiers are provided with normal transport connections.
+
+I also traditionally signed decrees in the evening to award our defenders.
+
+216 servicemen of the Armed Forces of Ukraine were awarded state awards. The title of Hero of Ukraine was awarded to Colonel Oleh Irodiyovych Hehechkora (posthumously), Commander of the helicopter squadron of the 11th separate brigade of the army aviation of the Ground Forces of the Armed Forces of Ukraine.
+
+**Eternal glory to all who stood up for our state!**
+
+**Eternal memory to everyone who gave life for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Targeted missile strikes at museums - this is not even every terrorist can think of. But such an army is fighting against us. This is what Russians want to bring to other European countries.',
+    url: 'https://www.youtube.com/watch?v=pqsHnCq48OA'
+  },
+  {
+    id: 'pqsHnCq48OA',
+    name: 'Ukraine is defending itself against the onslaught of tyranny, and this struggle for freedom is comprehensible in every corner of the globe',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-06T23:20:49',
+    topics: ['Герої України', 'Гуманітарні коридори', 'Ракетний удар', 'Знешкодження вибухівки', 'Міжнародні санкції'],
+    cities: ['Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+**I wish you health!**
+
+Today was a busy day, which began and ended with awarding our heroes, our defenders.
+
+On the occasion of Infantry Day - a professional holiday of Ukrainian warriors who are the foundation of the army, I met with our servicemen in the morning. Thanked them for their service. Presented awards. Including our new - combat - award.
+
+You know that since independence there have been no combat awards in our country. And today I had the honor to finally present such an award. The Cross of Military Merit. And the first person to whom I decided to present this Cross was General Valerii Zaluzhny, Commander-in-Chief of the Armed Forces of Ukraine. For courage, for wisdom, for organizing an effective rebuff to the Russian invasion. I am sure the Russian army will remember such a rebuff for a long time.
+
+Deputy Commander-in-Chief of the Armed Forces of Ukraine, Lieutenant General Yevhen Moysiuk, combat medic of the 72nd separate mechanized brigade, Sergeant Dariya Mazurenko, Commander of the 14th separate mechanized brigade, Colonel Oleksandr Okhrimenko, Deputy Commander of the mechanized battalion of the 72nd separate mechanized brigade, Captain Vladyslav Kaliyevsky received the same award. 
+
+Combat awards are a fair new tradition for the state, which defends its independence on the battlefield.
+
+A special award "For Courage and Bravery" was also established for combat units that showed extraordinary courage and effectiveness in the battles for Ukraine. It was received by 7 brigades.
+
+I also presented the Orders of the Golden Star to our defenders who were awarded the title of Hero of Ukraine. And also to the relatives of those of our heroes who were posthumously awarded this title.
+
+We continue the evacuation mission from Mariupol, from Azovstal, with the mediation of the United Nations and the International Committee of the Red Cross. During the day, our team organized rescue for more than 40 civilians - women and children. We hope that soon they will be able to arrive in a safe area after two months of shelling, just underground - in shelters.
+
+We are also working on diplomatic options to save our military who still remain at Azovstal. Influential mediators are involved. Influential states.
+
+Russian troops continued the shelling of our territory, including missile and air strikes. I ask all our citizens - especially these days - not to ignore the air raid sirens. Please, this is your life, the life of your children. Also, strictly follow the public order and curfew regulations in cities and communities.
+
+Be sure to comply with the ban on visiting forests in the territories that were occupied. A great threat of mines and tripwire mines left after the Russian military remains there.
+
+I met in Kyiv with the foreign ministers of the three Baltic states. They consistently support our struggle against the Russian invasion. Support from the first day. I am very grateful. And today, as always, we talked thoroughly and for the benefit of Ukraine. We are coordinating our steps to increase pressure on Russia.
+
+And this is especially important now - when the European Union is preparing a new, already sixth, sanctions package on Russia.
+
+I also took part in a discussion at the very influential British expert platform Chatham House. It is one of the most important international platforms for political work and lobbying - in the good sense of the word - useful government decisions. I have outlined our initiative to update the global security architecture. So that the tools for a really quick reaction to any external aggression finally appear in the world.
+
+Addressed the Parliament of Iceland. Thanked the Government and the people of Iceland for supporting the sanctions that are needed to deter Russia. I also called on Icelandic politicians, diplomats and ordinary citizens to help defend our freedom. Urged them to be advocates of freedom. Advocates of Ukraine. Because we have a common freedom with them. Just as with all other nations of the free world.
+
+This is the extraordinary strength of the Ukrainian position. We defend ourselves against the onslaught of tyranny craving to destroy everything that freedom gives to people and states. And such a struggle - for freedom and against tyranny - is quite comprehensible for any society, in any corner of our planet.
+
+In the evening I signed decrees on awarding our heroes. Our brave defenders thanks to whom Ukraine has survived and is holding on despite everything that Russia is trying to do to break us.
+
+Therefore, 203 servicemen of the Armed Forces of Ukraine were awarded. And 16 servicemen of the Main Intelligence Directorate.
+
+Once again, I congratulate all warriors in infantry units on their professional holiday.
+
+**Glory to all our defenders!**
+
+**Eternal memory to everyone who gave their lives for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'This is the extraordinary strength of the Ukrainian position. We defend ourselves against the onslaught of tyranny craving to destroy everything that freedom gives to people and states.',
+    url: 'https://www.youtube.com/watch?v=pqsHnCq48OA'
+  },
+  {
     id: 'wS9pJ_RLkr4',
     name: 'The situation regarding the Russian invasion is a briefing by Oleksii Arestovych',
     translated: false,
@@ -13,9 +156,9 @@ const source = [
     url: 'https://www.youtube.com/watch?v=wS9pJ_RLkr4'
   },
   {
-    id: 'zEZwNh5b5WI',
+    id: '_G-PYp4VoUw',
     name: 'Speech by the President of Ukraine in the Althing, the Parliament of Iceland',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-06T20:12:42',
@@ -79,7 +222,7 @@ I am sure we will be able to start this work soon. But first we will defend free
 **Glory to Ukraine!**
     `,
     description: 'It is obvious that Russia\'s war against Ukraine is not just an attempt to seize one country and destroy life in it. No! This is an encroachment on freedom as such. That is why it is important for all free people of the world that our country is not left alone in the confrontation with Russia. It is important that every nation helps.',
-    url: 'https://www.youtube.com/watch?v=zEZwNh5b5WI'
+    url: 'https://www.youtube.com/watch?v=_G-PYp4VoUw'
   },
   {
     id: 'x-12jqO8BMs',
