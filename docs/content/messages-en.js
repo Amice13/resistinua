@@ -1,23 +1,299 @@
 const source = [
   {
-    id: 'jVt3cLR00Bg',
-    name: 'Address by Volodymyr Zelenskyi on the occasion of the Day of Remembrance and Reconciliation',
+    id: 'LhQvCB3_D3s',
+    name: 'Ukraine is already a full-fledged part of the free world and a united Europe',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-08T23:18:12',
+    topics: ['Знешкодження вибухівки', 'Економіка', 'Міжнародні санкції', 'Постачання зброї', 'Ракетний удар'],
+    cities: ['Білогорівка'],
+    text: `
+**Ukrainians!**
+
+**Our defenders.**
+
+Today is an important day, very important. For us. For our people. For our freedom. It was here, at the Mariyinsky Palace, that I held talks today with my friend, Prime Minister of Canada Justin Trudeau.
+
+I am grateful to Justin for visiting our country. Exactly now, exactly on this day. A powerful sign of support and faith in the future of our people.
+
+The Ukrainian and Canadian delegations held bilateral talks. We agreed to expand economic and defense cooperation. We have an extremely important decision by Canada to remove all barriers to trade for one year. Thank you, Canada. This agreement was reached in negotiations with Mr. Trudeau and will work in the interests of both the Ukrainian and Canadian people.
+
+Among other things, Canada has a strong potential in mine clearance. We expect that this potential will be used in Ukraine - where the Russian occupiers left thousands of mines, tripwire mines, shells.
+
+In the presence of Mr. Prime Minister, I awarded our sappers today. In particular, a small but very famous sapper - Patron. A dog who helps clean our land from the traces of the occupiers. And who also helps teach children mine safety. Due to the Russian invaders, this is now one of the most urgent tasks - to teach children to recognize and avoid explosive objects. This is the "liberation" from a safe life for Ukrainian children that Russia has brought to Ukraine.
+
+For the first time, Ukraine took part in a meeting of G7 leaders. The world's largest democracies. I outlined our vision of what needs to be done for freedom to win and to guarantee Ukraine's security.
+
+I called for increasing sanctions on Russia and creating conditions for Ukraine so that the war ends as soon as possible with the liberation of our land and our people. In particular, this applies to the embargo on Russian oil, oil blends and petroleum products.
+
+I invited the leading states - our friends - to take part in the reconstruction of Ukraine after the war.
+
+We agreed on a joint statement by the G7 on the war, global threats posed by Russia and our respect for the common historical heritage, our common values and the importance of freedom. The statement is in the interests of Ukraine as much as possible and will become the basis of our further cooperation.
+
+And the main thing I felt today was the world's even greater willingness to help us. And the fact that we have already achieved a historic result, because it is clear to the whole free world that Ukraine is the party of good in this war. And Russia will lose, because evil always loses.
+
+I am grateful to the First Lady of the United States Jill Biden for her visit to Ukraine, to Uzhhorod today. For security reasons, this visit and meeting with the First Lady of Ukraine was not announced in advance, and journalists were not invited. But I know that Mrs. Biden has received as much information as possible about what Ukrainian men and women need now. And I am grateful to her for the sincere support of our people.
+
+I held talks with Prime Minister of Croatia Andrej Plenković in Kyiv. Croatia fundamentally and strongly supports our state in the struggle for independence. I am grateful to Croatia for everything we have already received. And I hope that in the future the cooperation will only grow.
+
+I also had a meeting with the President of the Norwegian Storting in Kyiv. The conversation was very emotional, so that you feel: they are worried about us, our fate as about themselves. And really try to help. I am grateful for that.
+
+I also spoke with the President of the German Bundestag. First of all, about Germany's further defensive assistance in our fight against tyranny. About how German leadership in the European Union can help us.
+
+Bono, U2, also visited Ukraine today. I am grateful to him for supporting our people and drawing even more attention to the need to help our people.
+
+Well, I am sure that this day in Ukraine has shown that we are already a full-fledged part of the free world and a united Europe. This is an obvious contrast to Moscow's loneliness in evil and hatred that everyone will see tomorrow.
+
+The Russian army would not be itself if it did not kill today - on the eve of certainly important days for any European.
+
+As a result of the Russian air strike at Bilohorivka, Luhansk region, about 60 people were killed. Civilians who simply hid in the school from the shelling. It was a targeted strike at the school. Another crime of the occupiers.
+
+Another missile strike at the Odesa region, again hitting a residential building. Again shelling in the Sumy region. Violent shelling in Donbas and the Kharkiv region. As if today is not May 8. As if tomorrow is not May 9, when peace should be the main word. For all normal people.
+
+Russia has forgotten everything that was important to the victors of World War II. But Ukraine and the whole free world will remind it.
+
+So that then no one will forget. So that really important words - "never again" - which are repeated all over the free world every year on the days of remembrance of the victims of World War II regain their weight again.
+
+I am grateful to all our defenders who are defending and saving Ukraine from the modern descendants of that old evil.
+
+**Eternal glory to all our heroes! Eternal glory to all our warriors!**
+
+**I am grateful to all the friends of Ukraine and freedom!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Russia has forgotten everything that was important to the victors of World War II. But Ukraine and the whole free world will remind it. So that then no one will forget.',
+    url: 'https://www.youtube.com/watch?v=LhQvCB3_D3s'
+  },
+  {
+    id: 'bhucb0zZjhk',
+    name: 'Following the meeting, Volodymyr Zelenskyi and Justin Trudeau talked to the media',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-08T22:43:40',
+    topics: [],
+    cities: [],
+    text: `
+Following the meeting, President of Ukraine Volodymyr Zelenskyi and Prime Minister of Canada Justin Trudeau spoke to the media.
+    `,
+    description: 'Following the meeting, President of Ukraine Volodymyr Zelenskyi and Prime Minister of Canada Justin Trudeau spoke to the media.',
+    url: 'https://www.youtube.com/watch?v=bhucb0zZjhk'
+  },
+  {
+    id: 'KXT4GZvIXf0',
+    name: 'Speech by the President of Ukraine at the video conference of the G7 leaders',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-08T22:04:04',
+    topics: ['Ракетний удар', 'Викрадення людей', 'Постачання зброї', 'Міжнародні санкції', 'Відбудова України', 'Голод', 'Гарантії безпеки'],
+    cities: ['Білогорівка', 'Одеса'],
+    text: `
+**I would like to thank you for the invitation. Mr. Chancellor, thank you.**
+
+I am thankful to all the respected leaders for this opportunity and for the fact that it is happening today, on this day exactly. This is a powerful support for our state.
+
+**Dear friends!**
+
+We are meeting on this day in such a format to determine what needs to be done to stop Russia's war against Ukraine.
+
+Today, May 8, is a key day of remembrance for all the victims of World War II, for the fragility of peace and the inadmissibility of any anti-humanist regimes. But what is remembrance for others today, for our people is, unfortunately, just news, every day.
+
+Just yesterday in the village of Bilohorivka, Luhansk region, a Russian bomb killed 60 people. Civilians. They were hiding from shelling in the building of a regular school, which was attacked by a Russian air strike.
+
+To do so is to imitate precisely the evil that the Nazis brought to Europe. The missile strikes at Odesa and our other cities are an imitation of how the Nazis tried to bomb and destroy European cities by bombardment.
+
+The deportation of more than 500,000 Ukrainians to Russia and the so-called "filtration camps" set up by Russian troops in the occupied territories of Ukraine are imitations of the deportations and concentration camps that the Nazis organized in Europe.
+
+Every day our people see and die from what must have been left in the distant past. What definitely shouldn’t have returned to Europe 77 years after.
+
+But, unfortunately, I state: it's back. That is why the solidarity of the whole free world has returned. That is why such historical concepts as "Lend-Lease" and "Marshall Plan" have returned. I am grateful to the United States and our European colleagues for these initiatives. That is why we are reunited in an anti-war coalition to save democracy and freedom in Europe, to guarantee peace and security. I am grateful to you for this solidarity and for this unification.
+
+But what do we need now to gain victory in defending freedom? Freedom of Ukraine and the whole world?
+
+**First of all, weapons.**
+
+I am grateful to you for the defensive assistance we have already received. Because, as in World War II, the fate of freedom is decided on the battlefield. So Ukraine must get all the weapons and all the defense equipment that will help defeat tyranny. In particular, the M142 HIMARS, M270 MLRS and other weapons that Ukraine has requested from your powerful states.
+
+If we had them, we would have been able to save many people. In all those cities, in all those communities that fell victim to the Russian occupiers, like Bilohorivka, which I mentioned at the beginning, or Mariupol.
+
+**The second is sanctions.**
+
+Ukraine will always be grateful to you for unprecedented sanctions in the interests of peace. But the war still continues. Hence, a special international group of experts chaired by Michael McFaul and Andriy Yermak has developed an Action Plan to strengthen sanctions on Russia for this war. It is necessary - I beg you - to implement these sanctions and at least give your feedback.
+
+No export-import operations with Russia! As long as Russia is spending the money it has earned on destroying freedom in Ukraine and throughout Europe. The democratic world must be principled in defending itself.
+
+We need to look for ways to influence those politicians and those companies that help Russia circumvent sanctions. For example, we transport oil to Hungary through our pipeline. And the politicians of this country not only block the supply of fuel to our territory, but also try to slow down every sanction step against Russia, including the oil embargo. The free world must not allow itself to be manipulated.
+
+Also, all Russian officials, law enforcement officials and, importantly, judges who work for tyranny must be on the sanctions list. They are not there yet.
+
+Every Russian war criminal must be brought to justice and convicted through international cooperation.
+
+Visa restrictions are also needed for Russian citizens so that they do not use the free world for entertainment and shopping. Everyone must fight against tyranny, not adapt to it.
+
+**The third important point is financial support for Ukraine now and post-war reconstruction.**
+
+Just as the Marshall Plan played a historic role in rebuilding Europe and creating new conditions for development and growth after World War II, a similar Plan is needed and it is needed now. For the world to see that freedom wins not only on the battlefield, but also in life.
+
+As long as the war continues, we need $ 5 billion to $ 7 billion a month in support. When the war is over, we will have to rebuild everything destroyed by Russia for a sum exceeding $ 600 billion.
+
+This is a lot for our state. This is not possible for Ukraine. But this is possible for you. And it's not just expenditures for you.
+
+Financial assistance to Ukraine and assistance with post-war reconstruction is the prevention of much greater losses of the free world in the future.
+
+Russia wants to move on to Europe, and all the potential aggressors in the world, who also want to ruin the lives of their neighbors, are looking to see if Russia succeeds now and if they are able to repeat it.
+
+We must organize the work on the reconstruction of Ukraine after the war so that the best experience of democratic countries can be applied with maximum efficiency.
+
+In particular, we invite the friends of Ukraine to join the reconstruction, taking patronage over the regions, cities or industries in our country that have suffered from the war, that are destroyed. For example, the United Kingdom has already been invited to take patronage over the restoration of the de-occupied Kyiv region.
+
+And today, given Germany's presidency in the G7, I propose to apply the format of cooperation that has shown its effectiveness in the unification of the German state.
+
+When it is clearly set who is involved in the restoration and reintegration of the normal life of each region, each city, each community it guarantees efficiency.
+
+Such cooperation will strengthen economic and technological ties in Europe and will benefit not only our country, but also your countries, your regions and your companies.
+
+I am also grateful to the European Union and the United Kingdom for their decision to abolish tariffs and quotas on our trade. This is a powerful step in support of our state and freedom in general. And this is the decision that would be fair to expect from our other partners.
+
+I appeal to all participants of the G7. It is time to remove bilateral barriers in trade.
+
+Everything I have said now is, in fact, elements of one question.
+
+The question is how long this war will last and how much destruction, how many victims Ukraine will suffer.
+
+We must do everything we can to end the war as soon as possible with the victory of freedom. For the longer the war, the greater the benefits of tyranny and the greater the loss of freedom. And not only in Ukraine, but throughout Europe.
+
+The lives of more than ten million people in Ukraine who have become IDPs have already been destroyed. But the world is also on the verge of a food crisis because of Russia's actions. The Chancellor also spoke about this now. So how many more millions of lives will be lost in dozens of countries in Africa and Asia as a result of food shortages and political chaos that will follow rising food prices?
+
+We need an effective tool for the world's food security. And we propose to create it.
+
+If we have an Organization of grain exporting countries that respect international law, value democracy and strive to protect human rights, including the right to life and guaranteed well-being, we will be able to provide food stability and a historic victory over famine.
+
+Ukraine is ready to present all the details of this proposal at the appropriate working level.
+
+**Friends!**
+
+I commend the efforts of each of you. I am grateful to each of you for the weapons, sanctions and support. But I'm sure you realize that we need more weapons, more sanctions, more support to guarantee the protection of freedom. And to fix security for decades by concluding a relevant effective agreement with clear guarantees for Ukraine.
+
+I offer your states - the world's largest democracies - to become guarantors of security for Ukraine. Because this is what guarantees security for the whole center and east of Europe. Therefore, guarantees the confidence of your people that freedom always wins.
+
+**Thanks again to every country, to every leader present.**
+
+**Thank you for your attention!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We must do everything we can to end the war as soon as possible with the victory of freedom. For the longer the war, the greater the benefits of tyranny and the greater the loss of freedom.',
+    url: 'https://www.youtube.com/watch?v=KXT4GZvIXf0'
+  },
+  {
+    id: 'hcXh_LUw6mc',
+    name: 'Volodymyr Zelenskyi and Andrey Plenkovych after the meeting talked to media representatives',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-08T14:02:08',
+    topics: [],
+    cities: [],
+    text: `
+Following the meeting, President of Ukraine Volodymyr Zelenskyi and Prime Minister of Croatia Andriy Plenkovych spoke to the media.
+    `,
+    description: 'Following the meeting, President of Ukraine Volodymyr Zelenskyi and Prime Minister of Croatia Andriy Plenkovych spoke to the media.',
+    url: 'https://www.youtube.com/watch?v=hcXh_LUw6mc'
+  },
+  {
+    id: 'yp1sApQuTRI',
+    name: 'Address by the President of Ukraine on the Day of Remembrance and Reconciliation',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-08T09:00:09',
     topics: ['Ракетний удар', 'Воєнний злочин', 'Герої України'],
-    cities: ['Бородянка'],
+    cities: ['Бородянка', 'Маріуполь', 'Харків', 'Миколаїв', 'Краматорськ', 'Чернігів', 'Запоріжжя', 'Буча', 'Ірпінь', 'Волноваха', 'Тростянець', 'Вінниця'],
     text: `
-"This year we say 'Never again' differently. We hear "Never Again" differently. It sounds painful, cruel. Without an exclamation, but with a question mark. You say: never again? Tell Ukraine about it. " Address by Volodymyr Zelenskyi on the occasion of the Day of Remembrance and Reconciliation. reconciliation
+Can spring be black and white? Is there eternal February? Are golden words devalued? Unfortunately, Ukraine knows the answers to all these questions. Unfortunately, the answers are “yes”.
+
+Every year on May 8, together with the entire civilized world, we honor everyone who defended the planet from Nazism during World War II. Millions of lost lives, crippled destinies, tortured souls and millions of reasons to say to evil: never again!
+
+We knew the price our ancestors paid for this wisdom. We knew how important it is to preserve it and pass it on to posterity. But we had no idea that our generation would witness the desecration of the words, which, as it turned out, are not the truth for everyone.
+
+This year we say "Never again" differently. We hear "Never again" differently. It sounds painful, cruel. Without an exclamation, but with a question mark. You say: never again? Tell Ukraine about it.
+
+On February 24, the word "never" was erased. Shot and bombed. By hundreds of missiles at 4 am, which woke up the entire Ukraine. We heard terrible explosions. We heard: again!
+
+The city of Borodyanka is one of the many victims of this crime! Behind me is one of many witnesses! Not a military facility, not a secret base, but a simple nine-story building. Can it pose a security threat to Russia, to 1/8 of the land, the world's second army, a nuclear state? Can anything be more absurd than this question? It can.
+
+250kg high explosive bombs, with which the superpower shelled this small town. And it went numb. It cannot say today: never again! It cannot say anything today. But here everything is clear without words.
+
+Just look at this house. There used to be walls here. They once had photos on them. And in the photos there were those who once went through the hell of war. Fifty men who were sent to Germany for forced labor. Those who were burned alive when the Nazis burned more than 100 houses here.
+
+250 soldiers who died on the fronts of World War II, and a total of almost 1000 residents of Borodyanka who fought and defeated Nazism. To ensure: never again. They fought for the future of children, for the life that was here until February 24.
+
+Imagine people going to bed in each of these apartments. They wish good night to each other. Turn off the light. Hug their loved ones. Close their eyes. They dream of something. There is complete silence. They all fall asleep, not knowing that not everyone will wake up. They sleep soundly. They have a dream of something pleasant. But in a few hours they will be awakened by missile explosions. And someone will never wake up again. Never again.
+
+The word "never" was dropped from this slogan. Amputated during the so-called special operation. They stabbed a knife in the heart and, looking into the eyes, said: "It's not us!" Tortured with the words "not everything is so unambiguous." Killed "Never again", saying: "We can repeat."
+
+And so it happened. And the monsters began to repeat. And our cities, which survived such a heinous occupation that 80 years are not enough to forget about it, saw the occupier again. And got the second date of occupation in their history. And some cities, such as Mariupol, got the third. During the two years of occupation, the Nazis killed 10,000 civilians there. In two months of occupation, Russia killed 20,000.
+
+Decades after World War II, darkness returned to Ukraine. And it became black and white again. Again! Evil has returned. Again! In a different uniform, under different slogans, but for the same purpose. A bloody reconstruction of Nazism was organized in Ukraine. A fanatical repetition of this regime. Its ideas, actions, words and symbols. Maniacal detailed reproduction of its atrocities and "alibi", which allegedly give an evil sacred purpose. Repetition of its crimes and even attempts to surpass the "teacher" and move him from the pedestal of the greatest evil in human history. Set a new world record for xenophobia, hatred, racism and the number of victims they can cause.
+
+Never again! It was an ode of a wise man! Anthem of the civilized world! But someone sang out of tune. Distorted "Never again" with notes of doubt. Silenced, beginning his deadly aria of evil. And this is clear to all countries that have seen the horrors of Nazism with their own eyes. And today they are experiencing a terrible deja vu. See it again!
+
+All nations who have been branded "third-class", slaves without the right to their own state or to exist at all hear statements that exalt one nation and erase others with ease. They claim that you don't really exist, you are artificially created, and therefore you have no rights. Everyone hears the language of evil. Again!
+
+And together they acknowledge the painful truth: we have not withstood even a century. Our Never again was enough for 77 years. We missed the evil. It was reborn. Again and now!
+
+This is understood by all countries and nations who support Ukraine today. And despite the new mask of the beast, they recognized him. Because, unlike some, they remember what our ancestors fought for and against. They did not confuse the first with the second, did not change their places, did not forget.
+
+The Poles didn’t forget, on whose land the Nazis began their march and fired the first shot of World War II. Didn't forget how evil first accuses you, provokes you, calls you an aggressor, and then attacks at 4:45 am saying it's self-defense. And they saw how it repeated on our land. They remember the Nazi-destroyed Warsaw. And they see what was done to Mariupol.
+
+The British people did not forget how the Nazis wiped out Coventry, which was bombed 41 times. How the "Moonlight Sonata" from the Luftwaffe sounded, when the city was continuously bombed for 11 hours. How its historic center, factories, St. Michael's Cathedral were destroyed. And they saw missiles hit Kharkiv. How its historic center, factories and the Assumption Cathedral were damaged. They remember London being bombed for 57 nights in a row. Remember how V-2 hit Belfast, Portsmouth, Liverpool. And they see cruise missiles hit Mykolaiv, Kramatorsk, Chernihiv. They remember how Birmingham was bombed. And they see its sister city Zaporizhzhia being damaged.
+
+The Dutch remember this. How Rotterdam became the first city to be completely destroyed when the Nazis dropped 97 tons of bombs on it.
+
+The French remember this. Remember Oradour-sur-Glane, where the SS burned half a thousand women and children alive. Mass hangings in Tulle, the massacre in the village of Ascq. Thousands of people at a resistance rally in occupied Lille. They saw what was done in Bucha, Irpin, Borodyanka, Volnovakha and Trostyanets. They see the occupation of Kherson, Melitopol, Berdyansk and other cities where people do not give up. And thousands of them go to peaceful rallies, which are beyond the power of the occupiers, and all they can do is shoot at civilians.
+
+The Czechs have not forgotten this. How in less than a day, the Nazis destroyed Lidice, leaving only ashes from the village. They saw Popasna destroyed. There are not even ashes left from it. The Greeks, who survived massacres and executions throughout the territory, the blockade and the Great Famine, have not forgotten.
+
+This is remembered by Americans who fought evil on two fronts. Who passed Pearl Harbor and Dunkirk with the Allies. And together we are going through new, no less difficult battles.
+
+This is remembered by all Holocaust survivors - how one nation can hate another.
+
+Lithuanians, Latvians, Estonians, Danes, Georgians, Armenians, Belgians, Norwegians and many others have not forgotten this - all those who suffered from Nazism on their land and all those who defeated it in the anti-Hitler coalition.
+
+Unfortunately, there are those who, having survived all these crimes, having lost millions of people who fought for victory and gained it, have desecrated the memory of them and their feat today.
+
+The one who allowed the shelling of the cities of Ukraine from his land. The cities that, along with our ancestors, were liberated by his ancestors.
+
+The one who spat in the face of his "Immortal Regiment", placing torturers from Bucha next to it.
+
+And challenged all mankind. But forgot the main thing: any evil always ends the same - it ends.
+
+**Fellow Ukrainians!**
+
+Today, on the Day of Remembrance and Reconciliation, we pay homage to all those who defended their homeland and the world from Nazism. We note the feat of the Ukrainian people and their contribution to the victory of the anti-Hitler coalition.
+
+Explosions, shots, trenches, wounds, famine, bombing, blockades, mass executions, punitive operations, occupation, concentration camps, gas chambers, yellow stars, ghettos, Babyn Yar, Khatyn, captivity, forced labor. They died so that each of us knows what these words mean from books, not from our own experience. But it happened differently. This is unfair to them all. But the truth will win. And we will overcome everything!
+
+And the proof of this is called "Werewolf". This is Hitler's former headquarters and bunker near Vinnytsia. And all that is left of it is a few stones. Ruins. The ruins of a person who considered himself great and invincible. This is a guide for all of us and future generations. What our ancestors fought for. And proved that no evil can avoid responsibility. Will not be able to hide in the bunker. There will be no stone left of it. So we will overcome everything. And we know this for sure, because our military and all our people are descendants of those who overcame Nazism. So they will win again.
+
+**And there will be peace again. Finally again!**
+
+We will overcome the winter, which began on February 24, lasts on May 8, but will definitely end, and the Ukrainian sun will melt it! And we will meet our dawn together with the whole country. And family and loved ones, friends and relatives will be together again! Finally again! And over the temporarily occupied cities and villages our flag will fly again. Finally again! And we will get together. And there will be peace! Finally again! And no more black and white dreams, only a blue and yellow dream. Finally again! Our ancestors fought for this.
+
+**Eternal honor to all who fought against Nazism!**
+
+**Eternal memory to all those killed during World War II!**
     `,
-    description: '"This year we say "Never again" differently. We hear "Never Again" differently. It sounds painful, cruel. Without an exclamation, but with a question mark.',
-    url: 'https://www.youtube.com/watch?v=jVt3cLR00Bg'
+    description: 'This year we say "Never again" differently. We hear "Never again" differently. It sounds painful, cruel. Without an exclamation, but with a question mark.',
+    url: 'https://www.youtube.com/watch?v=yp1sApQuTRI'
   },
   {
-    id: 'htHPwQK8G64',
+    id: 'l-m8-EQbcaU',
     name: 'Evil returns when human rights and the law are violated and culture is destroyed; this is exactly what happened to Russia',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-07T22:26:28',
@@ -77,7 +353,7 @@ I also traditionally signed decrees in the evening to award our defenders.
 **Glory to Ukraine!**
     `,
     description: 'Targeted missile strikes at museums - this is not even every terrorist can think of. But such an army is fighting against us. This is what Russians want to bring to other European countries.',
-    url: 'https://www.youtube.com/watch?v=pqsHnCq48OA'
+    url: 'https://www.youtube.com/watch?v=l-m8-EQbcaU'
   },
   {
     id: 'pqsHnCq48OA',

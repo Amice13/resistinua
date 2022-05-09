@@ -19,6 +19,7 @@ const en = {
   'Бервиці': 'Bervytsi',
   'Бердянськ': 'Berdiansk',
   'Біженці': 'Refugees',
+  'Білогорівка': 'Bilohorivka',
   'Білорусь': 'Belarus',
   'Більше трьох днів назад': 'More than three days ago',
   'Благодійність': 'Charity',
