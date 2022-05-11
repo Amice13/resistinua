@@ -1,6 +1,343 @@
 const source = [
   {
-    id: 'LhQvCB3_D3s',
+    id: 'I5dbITb-1lg',
+    name: 'The Armed Forces of Ukraine are doing everything to liberate all our cities and our people',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-10T22:42:11',
+    topics: ['Міжнародні переговори', 'Міжнародні санкції', 'Відбудова України'],
+    cities: ['Херсон', 'Мелітополь', 'Бердянськ', 'Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**All our defenders!**
+
+Today has been a difficult day. There was news - both ordinary and tragic. I'll start with international contacts. I continued to address foreign parliaments. Those states and nations whose support is important to us. And especially now.
+
+In my address to the Slovak Parliament, I thanked for the strong defense, sanctions and other support. I explained our view on why energy cooperation with Russia cannot be considered in isolation from the aggressive policy of this country. And on the Ukrainian example, recalling the history of so-called gas friendship with Russia, I showed what mistakes should be avoided.
+
+Addressing the Maltese Parliament, I recalled the heroic battle for Malta in World War II, which is very similar in fact to our current struggle in the war for independence and freedom against Russia.
+
+Then, 80 years ago, the fate of the entire confrontation in the Mediterranean depended on the battle for Malta. The Allies won. The Nazis lost.
+
+We are doing everything to ensure that the confrontation on our land ends in this way now as well.
+
+And for this we need principled support and sanctions. In particular, from Malta.
+
+I held talks in Kyiv with the foreign ministers of Germany and the Netherlands. We talked about the strengthening of Ukraine, about the faster end of this war. We also discussed the details of how our friends can join the post-war reconstruction of Ukraine.
+
+I am also grateful to them for resuming the work of embassies in our capital. This is an important gesture that confirms Europe's confidence in Ukraine's future.
+
+In total, 36 foreign missions are already operating in the capital.
+
+The Armed Forces of our state provided us all with good news from the Kharkiv region. The occupiers are gradually being pushed away from Kharkiv.
+
+I am grateful to all our defenders who are holding the line and demonstrating truly superhuman strength to drive out the army of invaders. Once the second most powerful army in the world.
+
+But I also want to urge all our people, and especially those in the rear, not to spread excessive emotions. We shouldn’t create an atmosphere of specific moral pressure, when certain victories are expected weekly and even daily.
+
+The Armed Forces of Ukraine are doing everything to liberate our land and our people. To liberate all our cities - Kherson, Melitopol, Berdyansk, Mariupol and all others.
+
+Today, a special group of international experts chaired by Michael McFaul and Andriy Yermak proposed a roadmap for energy sanctions. This is a detailed document that describes what needs to be done to make it really difficult for Russia to finance this war, but at the same time - so that the global economy does not suffer losses due to restrictions on Russian energy resources.
+
+This is a rationally drafted document, and work has already begun on its implementation.
+
+And the tragic news on which I want to end this address today. The first President of Ukraine Leonid Makarovych Kravchuk died today.
+
+He was not just a politician. And not just a historical figure. He was the man who knew how to find wise words and say them so that all Ukrainians could hear them.
+
+This is especially important in difficult, crisis moments. When the future of an entire country may depend on the wisdom of one person.
+
+Leonid Makarovych showed just such wisdom in the late 1980s, when the Ukrainian movement emerged. He passed 1991 brilliantly, and it is only now that it may seem as if it was easy for him then.
+
+And no matter what happened later, Leonid Kravchuk always stayed with Ukraine.
+
+Perhaps it was because of his wisdom that he was cheerful in a special way. He always valued life, every minute of it. But he always found much more than one minute to help sort things out and give advice. And I am personally grateful to him in particular for that.
+
+As a child he survived World War II, survived the occupation. Leonid Makarovych knew what freedom costs. And with all his heart he wanted peace for Ukraine. I'm sure we will implement it. We will achieve our victory and our peace.
+
+**Eternal honor and memory to the first President of independent Ukraine!**
+
+**Eternal memory to all who defended Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'I am grateful to all our defenders who are holding the line and demonstrating truly superhuman strength to drive out the army of invaders.',
+    url: 'https://www.youtube.com/watch?v=I5dbITb-1lg'
+  },
+  {
+    id: 'qLVIc5ArfcI',
+    name: 'Address of the President of Ukraine Volodymyr Zelenskyi to the politicians and people of Malta',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-10T18:35:42',
+    topics: ['Воєнний злочин', 'Постачання зброї', 'Міжнародні санкції', 'Вступ до ЄС', 'Економіка'],
+    cities: [],
+    text: `
+"Just as the fate of Europe depended on the resilience and courage of Malta in 1940-1942, today the resilience and courage of Ukrainians determine whether freedom will win on our continent. Because we are once again opposed to tyranny, and this tyranny has very far-reaching ambitions. By attacking Ukraine, Russia has only just begun its aggression against a united Europe. "
+
+Address of the President of Ukraine Volodymyr Zelenskyi to the politicians and people of Malta.
+    `,
+    description: 'We are once again opposed to tyranny, and this tyranny has very far-reaching ambitions.',
+    url: 'https://www.youtube.com/watch?v=qLVIc5ArfcI'
+  },
+  {
+    id: 'luMibVfL9SI',
+    name: 'Speech by the President of Ukraine at the National Council of the Slovak Republic',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-10T14:38:13',
+    topics: ['Воєнний злочин', 'Постачання зброї', 'Міжнародні санкції', 'Вступ до ЄС', 'Економіка'],
+    cities: [],
+    text: `
+**Dear Mr. Speaker of the National Council!**
+
+**Dear Mr. Prime Minister!**
+
+**Dear parliamentarians!**
+
+**Dear journalists!**
+
+**Dear Slovak people!**
+
+**Pozdravujem Vás s Kyjiva!**
+
+It is an honor for me to address you today. And I want to start with words of gratitude for all the help that Slovakia has given to Ukraine. We greatly appreciate your defense support. And your determination in this support, which proves that you realize that freedom without force is just a fantasy and nothing more.
+
+It would be good if some other countries in Europe and the world learn this from you.
+
+We appreciate your solidarity with Ukraine at the level of the European Union. This was the case before February 24, when Russia launched a full-scale war and so it is now.
+
+Last year, we, with your President, Ms. Zuzana Čaputová, signed a Declaration of Recognition of the European Perspective of Ukraine. The significance of that step has now only grown stronger.
+
+Russia's war against our state is not only an attempt to seize our land, subdue our people and erase Ukrainian identity.
+
+Russia went to war in fact against all of united Europe, starting with Ukraine. This war is actually being waged by Russia against each of the states that want to live freely and choose their own future. That want to choose which unions to be in, who to be friends with and how to trade.
+
+This war is against the very project of a common alliance based on common values on our continent.
+
+What are these values? Respect for life, human rights, inviolability of borders and freedom.
+
+The Prime Minister of Slovakia, Mr. Eduard Heger, was one of our first foreign friends to visit the suburbs of Kyiv and see with his own eyes what the Russian occupiers have done there.
+
+Last week, Bucha and Borodyanka were also visited by your colleagues from the Slovak Parliament. They also saw with their own eyes what evil Russia is carrying.
+
+Thousands of crimes by Russian occupiers against civilians have been recorded in the Kyiv region alone.
+
+Murders, torture, abductions, looting and robberies have been reported. It is recorded that the occupiers tried to destroy everything that is connected not only with the Ukrainian national idea, but also simply with culture.
+
+What is the point of shelling and destroying schools in the area where the occupiers entered? They even destroyed schools! What does this mean? That we are at the epicenter of the confrontation of two ideas: the European democratic idea that the freedom and life of everyone matters and the cruel tyrannical idea that only a person who can subdue other people matters.
+
+That's what we need to stop together. Everyone in Europe. Because if we don't stop it, Russian troops will repeat the crimes they committed in Bucha and Borodyanka on the land of every state they can reach, in particular on the territory of your state.
+
+So the first and foremost tool to win this confrontation is weapons. And I can say on behalf of all our people that Ukrainians will always remember how Slovakia gave our country at a crucial time what really helped us. And there is potential to continue this cooperation, in particular, in the issue of aviation – aircraft, helicopters.
+
+You know, our flag, which is now very often seen by all Europeans in their cities – I am grateful to them – it reflects our fertile land – fields of yellow wheat. And also our beautiful blue sky. We have people to defend our land. But in the skies we need more support, including yours.
+
+The second tool is sanctions against Russia. Together with the use of effective weapons by our Armed Forces, sanctions create a truly reliable protection for the European idea.
+
+Because if the source of aggression weakens, life becomes more secure for everyone in Europe.
+
+The European Union is now agreeing on the sixth package of sanctions against Russia. And this is the required package, including the energy restrictions that are provided for in it. I understand that this is a challenge for you and some other countries. For Slovakia, the issue of Russian oil and the possibility of its replacement is not a matter of immediate action. We understand everything.
+
+But I want to give you, as our friends, one Ukrainian example. To make you better understand us.
+
+For a long time, Russian politicians have been fighting for the supply of Russian gas to Ukraine.
+
+They offered various supposedly profitable options – completely non-market, cheap and convenient, especially for Moscow. They offered to get a political decision from us about a larger volume of supplies and an easier scheme of payment for Russian gas.
+
+Not so long ago, Ukraine was one of the biggest sales destinations for Gazprom. What did it lead to?
+
+Ukraine depended not only on Russian gas, but also on Russian political decisions. And any attempt to move at least to market conditions in supply ended in gas wars, and ultimately in a bonded gas agreement, which posed a direct threat to our sovereignty.
+
+Ukrainian politicians have also been playing for a long time with the issue of placing the Russian Black Sea Fleet on the territory of Ukraine – in our Crimea.
+
+In particular, they talked about the conditions of the so-called lease for the fleet, linking the gas issue to this. It seems that there may be some benefit to the state from the feigned discount on Russian gas when the Russian fleet remains on Ukrainian territory.
+
+While this fleet was just a cover to capture a territory. An umbrella for issuing passports to our people by Russia – our people in Crimea. For propaganda and creeping annexation, which could only be completed by the invasion, and it happened in 2014.
+
+That's what happened in our history. And this is what I advise all our friends, who may become at least one percent more politically dependent on Russia, to avoid.
+
+We were the first to see Russia breaking agreements when it simply stopped liking them. We saw Russia turn commercial ties into a chain to keep another state close to it.
+
+The Russian Black Sea Fleet was used to capture Crimea. And now it is blocking the sea for us and firing missiles at our peaceful cities.
+
+Well, Russia is trying to use gas now to have the entire European continent obedient.
+
+**Ladies and Gentlemen!**
+
+**Dear Slovak people!**
+
+Ukraine has gone through the mistakes that our friends can learn. Russian energy is not just a commodity. It should be abandoned, especially oil, because it's really a question of freedom. Yes, protecting freedom has a price.
+
+And the third aspect I would like to talk about today. This is the future of the European Union. Russia's attempts to blackmail, split and weaken Europeans clearly show that all of us on the continent must respond with even greater unity. Even greater integration. Even with greater joint protection of our values. This is an important element of the very force that makes freedom not just a fantasy.
+
+Even more unity in Europe is possible only in one case – if Ukraine right now, in the conditions of war, gets a real opportunity to move faster to the European Union.
+
+The issue of granting EU membership candidate status to Ukraine in June this year is a matter of protecting the entire European project.
+
+As well as the issue of economic support for Ukraine. It is impossible to fight without the economy. And Russia is doing everything to destroy our economy. As an example, most of the Russian missiles that hit Ukrainian land hit the economic infrastructure.
+
+Therefore, the priority is to establish alternative routes for our exports, in particular, through the territory of Slovakia. And greater financial support for Ukraine from the European Union.
+
+And I ask you to be our voice in the European Union when it comes to defending the relevant positions from the destructive doubts of those who value freedom less than you.
+
+After more than two months of the full-scale war, Ukrainians, together with all our friends on the European continent who have shown solidarity in defending freedom, have proved that Moscow will never be able to repeat what it did in 1968 and all other attempts to spread tyranny.
+
+By the way, this is how I interpret the decision to award me your State Award of Alexander Dubček. I am grateful for it.
+
+But to really fully respond to the mockery of freedom then, in 1968, and to the attempts to mock freedom now, we still have to fight.
+
+We must strengthen our unity and put pressure on Russia until we see that victory has been achieved.
+
+I know that a donors' conference will be held in Bratislava in June to activate assistance for Ukraine.
+
+I am grateful to everyone who participates in its organization, including the GLOBSEC think tank. And I believe that we will be able to discuss specific projects to restore normal life in different regions of Ukraine at this Bratislava site.
+
+Because the more actively we cooperate, the more we put pressure on Russia. And the more we strengthen European unity, the clearer the contours of our victory are.
+
+**Our victory.**
+
+**Thank you, Slovakia!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Russia went to war in fact against all of united Europe, starting with Ukraine.',
+    url: 'https://www.youtube.com/watch?v=luMibVfL9SI'
+  },
+  {
+    id: 'Ix6joXhFkn0',
+    name: 'Kyrylo Tymoshenko\'s briefing on the results of infrastructure reconstruction in occupied cities and villages',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Кирило Тимошенко'],
+    date: '2022-05-10T14:20:06',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `
+Briefing of the Deputy Head of the Office of the President of Ukraine Kyrylo Tymoshenko on the results of the restoration of critical infrastructure in deoccupied cities and villages.
+    `,
+    description: 'Briefing of the Deputy Head of the Office of the President of Ukraine Kyrylo Tymoshenko on the results of the restoration of critical infrastructure in deoccupied cities and villages.',
+    url: 'https://www.youtube.com/watch?v=Ix6joXhFkn0'
+  },
+  {
+    id: 'FBuJkvoZpkU',
+    name: 'Russia is the only culprit that peace has been destroyed, and this is its historical responsibility',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-09T23:17:07',
+    topics: ['Вступ до ЄС', 'Голод'],
+    cities: ['Одеса', 'Херсон', 'Мелітополь', 'Бердянськ', 'Енергодар', 'Маріуполь'],
+    text: `
+**Ukrainians!**
+
+**Unbreakable people of our country!**
+
+Today, we have taken another step - a very important and not just a formal step - on our path to the European Union. Ukraine has submitted the second part of the answers to a special questionnaire to be completed by each country aspiring to be part of the European Union. It usually takes months. But we did everything in a few weeks. This is a document that contains thousands of pages.
+
+And it was today that I held talks about our European integration with both Charles Michel, President of the European Council, and Ursula von der Leyen, President of the European Commission. I thanked them on behalf of the entire Ukrainian people for their support for our country. For attention to our needs and especially now - in this difficult time of war.
+
+They are well aware that this war is not only for our freedom, but also for the freedom of all Europeans. Mrs. Ursula said she was impressed with the speed with which our government officials filled out the questionnaire. And I was glad to hear from her that our speed encourages the European Commission to act just as quickly. We expect to receive a positive response in June regarding the acquisition of EU candidate status by our country.
+
+I also thanked the President of the European Commission for the work on creating a Trust Fund for the reconstruction of Ukraine after the war, after the victory. And for the efforts needed to agree on a new package of sanctions on Russia.
+
+President Charles Michel visited our Odesa today. He saw with his own eyes what the blocked sea means. For the first time in decades there is no usual movement of the merchant fleet, no usual port functioning in Odesa. Probably this has never happened in Odesa since World War II.
+
+Ordinary life related to the sea is blocked by Russia. Exactly Russia. And this affects not only Ukraine.
+
+Without our agricultural exports, dozens of countries in different parts of the world are already on the brink of food shortages. And over time, the situation can become downright terrible.
+
+Politicians are already discussing the possible consequences of the price crisis and famine in Africa and Asia. This is a direct consequence of Russian aggression, which can be overcome only together - by all Europeans, by the whole free world. It can be overcome by putting pressure on Russia, by effectively forcing Russia to stop this disgraceful war.
+
+And, by the way, today - despite the presence of the President of the European Council - the Russian military again launched a missile strike at the Odesa region. This is the real attitude of Russia to Europe. And it has always been so. Whatever they say in Moscow.
+
+I met in Kyiv with Secretary General of the Council of Europe Marija Pejčinović Burić. We discussed what can be done for peace in Ukraine and Europe with the tools of this esteemed institution. I am grateful for the support of our state by visiting our capital on this day. Europe Day. And Day of Victory over Nazism.
+
+Usually on May 9, Europeans recalled the price of peace that was paid by all the nations of our continent 77 years ago. They talked about how to prevent the recurrence of such a terrible war.
+
+It is clear that now everything is different. In European capitals, the main topic is the price of peace that will have to be paid to stop the war unleashed by Russia. And also the price for Russia for bringing the evil of total war of destruction of our people to Europe again.
+
+I'm sure this is also the main topic in Moscow now. They can show anything in propaganda - let it be. And make any political statements. But the reality cannot be changed. Reality requires peace. And the only culprit that peace has been destroyed is and will be the Russian state. This is a historical responsibility of Russia.
+
+Well, we, Ukrainians, continue to work for our defense, victory and restoration of justice. Today, tomorrow and any other day needed for the liberation of Ukraine from the occupiers.
+
+I am grateful to all our defenders.
+
+I am grateful to all those who defend the Kharkiv region, defend Donbas, defend the south of Ukraine. Who do not give up and are waiting for the Ukrainian flag in all those cities that are temporarily - I emphasize this: temporarily - captured by the occupiers. Kherson, Melitopol, Berdyansk, Enerhodar, Mariupol, all other cities, all our other communities. The Ukrainian flag will return. Because this is our country. Free European country. Our state.
+
+**Glory to Ukraine!**
+    `,
+    description: 'We, Ukrainians, continue to work for our defense, victory and restoration of justice. Today, tomorrow and any other day needed for the liberation of Ukraine from the occupiers.',
+    url: 'https://www.youtube.com/watch?v=FBuJkvoZpkU'
+  },
+  {
+    id: 'naP7CkR4-aY',
+    name: 'Briefing by Serhiy Leshchenko, Adviser to the Head of the Office of the President',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-09T19:30:28',
+    topics: [],
+    cities: ['Ялта', 'Сімферополь', 'Керч'],
+    text: `
+Serhiy Leshchenko, adviser to the head of the President's Office, spoke about fakes and propaganda of the occupiers.
+    `,
+    description: 'Serhiy Leshchenko, adviser to the head of the President\'s Office, spoke about fakes and propaganda of the occupiers.',
+    url: 'https://www.youtube.com/watch?v=naP7CkR4-aY'
+  },
+  {
+    id: 'QQFSupESHw0',
+    name: 'Address by the President of Ukraine on the Day of Victory over Nazism in World War II',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-09T09:01:31',
+    topics: [],
+    cities: ['Ялта', 'Сімферополь', 'Керч'],
+    text: `
+**Great people of great Ukraine!**
+
+On August 24, 2021, the whole country celebrated the 30th anniversary of our independence! Our soldiers, our defenders, our equipment were moving along the Khreshchatyk, our "Mriya" was flying in the sky!
+
+"There is nothing more dangerous than an insidious enemy, but there is nothing more poisonous than a feigned friend." These are the words of the great Ukrainian philosopher Hryhorii Skovoroda. On February 24, we realized this truth when a feigned friend started a war against Ukraine.
+
+This is not a war of two armies. This is a war of two worldviews. The war waged by barbarians who shell the Skovoroda Museum and believe that their missiles can destroy our philosophy. It annoys them. It is unfamiliar to them. It scares them. Its essence is that we are free people who have their own path. Today we are waging war on this path and we will not give anyone a single piece of our land.
+
+Today we celebrate the Day of Victory over Nazism. And we will not give anyone a single piece of our history. We are proud of our ancestors who, together with other nations in the anti-Hitler coalition, defeated Nazism. And we will not allow anyone to annex this victory, we will not allow it to be appropriated.
+
+Our enemy dreamed that we would refuse to celebrate May 9 and the victory over Nazism. So that the word "denazification" gets a chance. Millions of Ukrainians fought Nazism and went through a difficult and long journey. The Nazis were expelled from Luhansk, the Nazis were expelled from Donetsk, and Kherson, Melitopol and Berdyansk were liberated from the occupiers.
+
+The Nazis were expelled from Yalta, Simferopol, Kerch and the entire Crimea. Mariupol was liberated from the Nazis. They expelled the Nazis from all over Ukraine, but the cities I named are especially inspiring us today. They give us faith that we will drive the occupiers out of our own land for sure.
+
+On the Day of Victory over Nazism, we are fighting for a new victory. The road to it is difficult, but we have no doubt that we will win. What is our advantage over the enemy? We are smarter by one book. This is a textbook on the history of Ukraine. We would not know grief if all our enemies could read and draw the right conclusions.
+
+On February 24, Russia launched an offensive. Treading on the same rake. Every occupier who comes to our land treads on it. We have been through different wars. But they all had the same final.
+
+Our land was sown with bullets and shells, but no enemy was able to take root here. Enemy chariots and tanks drove through our fields, but it did not bear fruit. Enemy arrows and missiles flew in our skies, but no one will be able to overshadow our blue sky.
+
+There are no shackles that can bind our free spirit. There is no occupier who can take root in our free land. There is no invader who can rule over our free people. Sooner or later we win. Despite the horde, despite Nazism, despite the mixture of the first and the second, which is the current enemy, we win, because this is our land.
+
+Because someone is fighting for the father tsar, the führer, the party and the chief, and we are fighting for the Homeland. We have never fought against anyone. We always fight for ourselves. For our freedom. For our independence. So that the victory of our ancestors was not in vain. They fought for freedom for us and won. We are fighting for freedom for our children, and therefore we will win. We will never forget what our ancestors did in World War II. Where more than eight million Ukrainians died. And every fifth Ukrainian didn’t return home. In total, the war claimed at least 50 million lives. We do not say "we can repeat". Because only a madman can wish to repeat the 2194 days of war. The one who is repeating the horrific crimes of Hitler’s regime today, following Nazi philosophy, copying everything they did. He is doomed. Because he was cursed by millions of ancestors when he began to imitate their killer. And therefore he will lose everything.
+
+And very soon there will be two Victory Days in Ukraine. And someone will not have even one left.
+
+**We won then. We will win now, too!**
+
+**And Khreshchatyk will see the parade of victory - the victory of Ukraine!**
+
+**Congratulations on the Victory Day over Nazism!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Росія забула все, що було важливим для переможців у Другій світовій війні. Але Україна й увесь вільний світ нагадають. Так, що потім уже ніхто не забуде.',
+    url: 'https://www.youtube.com/watch?v=QQFSupESHw0'
+  },
+  {
+    id: 'u-ej47dVuyE',
     name: 'Ukraine is already a full-fledged part of the free world and a united Europe',
     translated: false,
     russianTimestamp: '',
@@ -64,7 +401,7 @@ I am grateful to all our defenders who are defending and saving Ukraine from the
 **Glory to Ukraine!**
     `,
     description: 'Russia has forgotten everything that was important to the victors of World War II. But Ukraine and the whole free world will remind it. So that then no one will forget.',
-    url: 'https://www.youtube.com/watch?v=LhQvCB3_D3s'
+    url: 'https://www.youtube.com/watch?v=u-ej47dVuyE'
   },
   {
     id: 'bhucb0zZjhk',
@@ -82,9 +419,9 @@ Following the meeting, President of Ukraine Volodymyr Zelenskyi and Prime Minist
     url: 'https://www.youtube.com/watch?v=bhucb0zZjhk'
   },
   {
-    id: 'KXT4GZvIXf0',
+    id: 'bqReAfaePfM',
     name: 'Speech by the President of Ukraine at the video conference of the G7 leaders',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-08T22:04:04',
@@ -186,7 +523,7 @@ I offer your states - the world's largest democracies - to become guarantors of 
 **Glory to Ukraine!**
     `,
     description: 'We must do everything we can to end the war as soon as possible with the victory of freedom. For the longer the war, the greater the benefits of tyranny and the greater the loss of freedom.',
-    url: 'https://www.youtube.com/watch?v=KXT4GZvIXf0'
+    url: 'https://www.youtube.com/watch?v=bqReAfaePfM'
   },
   {
     id: 'hcXh_LUw6mc',

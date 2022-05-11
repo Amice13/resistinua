@@ -134,6 +134,7 @@ const en = {
   'Ірпінь': 'Irpin',
   'Кам\'янське': 'Kamianske',
   'Каховка': 'Kakhovka',
+  'Керч': 'Kerch',
   'Київ': 'Kyiv',
   'Кирило Тимошенко': 'Kyrylo Tymoshenko',
   'Козаровичі': 'Kozarovychi',
