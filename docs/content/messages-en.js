@@ -1,5 +1,260 @@
 const source = [
   {
+    id: 'ZrIJp_ys7nw',
+    name: 'Speech by the President of Ukraine at The Atlantic Council’s Distinguished Leadership Awards',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-12T08:31:34',
+    topics: ['Герої України'],
+    cities: ['Маріуполь', 'Херсон', 'Мелітополь', 'Бердянськ', 'Енергодар'],
+    text: `
+**Ladies and Gentlemen!**
+
+On behalf of all Ukrainians, I would like to thank you for this award. It is a fair and correct gesture to honor with this award all the people of Ukraine, because courage is our national trait of character. Today the whole world witnesses this and admires the heroism of Ukrainians.
+
+At the same time, I want it not to become something ordinary for everyone. And for this we must say and remember that behind the courage and wisdom of our people, there are thousands of real stories, names and heroic feats.
+
+The world should know about them and to have a clear idea and understanding about the people of Ukraine. First of all, we are the nation of the best defenders. These are our ground forces, air and naval forces, airborne assault troops, special operations forces, the National Guard, intelligence, border guards, and territorial defense fighters.
+
+This is Vitalii Skakun, who blew up a bridge sacrificing himself to stop a column of Russian tanks. 
+
+This is 21-year-old lieutenant Vitalii Sapilo, who neutralized 30 units of equipment of the enemy and died from an air strike.
+
+Serhiy Pantelyuk, who was injured while repelling the attack and died at the hospital while his first daughter was being born.
+
+These are the border guards of Zmiinyi Island, who were not afraid of the flagship of the Russian fleet - cruiser Moskva - and sent a Russian ship in a direction that became world-famous.
+
+These are the indomitable defenders of Mariupol and Azovstal, who have been holding the line there for several months.
+
+These are all our fighters who died defending Ukraine, hence defending Europe. I would like to ask you to honor their memory with a moment of silence.
+
+Thank you.
+
+The Ukrainian people are people who do not spare themselves for the sake of others. This is combat medic Diana Kukurudziak, who pulled 16 wounded soldiers off the battlefield in one day.
+
+Paramedic Serhiy Chornobryvets in Mariupol, who has been on duty for 22 days since the beginning of the war.
+
+The Ukrainian people are a nation of courageous children.
+
+This is 11-year-old Maksym, who said nothing to his mother, ran away from home and came to ask for permission to be a part of territorial defense.
+
+This is 7-year-old Varya from Kropyvnytskyi who gave her money saved for a smartphone to buy bulletproof vests, and then sold flowers and drawings. 
+
+This is a 15-year-old girl from the Luhansk region who was driving a car with shot legs and took out four wounded.
+
+A 15-year-old boy who carried his wounded mother in his arms for 3 kilometers to the evacuation point.
+
+Our people are also elderly people who have experienced too many ordeals.
+
+This is Borys Romanchenko, who passed through the hell of Buchenwald and died at the age of 96, at home, during the shelling of Kharkiv by the Russian Federation.
+
+This is Vanda Obiedkova, who as a child, hiding in the basement, survived the Holocaust and the Nazi occupation of Mariupol, saw the second occupation of the city in 2014, and the third - this year. At the age of 91, she had to hide in the basement again, where she died on the 40th day of the war.
+
+This is 87-year-old Halyna Kotubey from Mykolaiv region, who remained the only and last resident of her village, but refused to leave. 
+
+The Ukrainian people are a nation where hundreds of thousands fight and millions help.
+
+This is a business that has shifted to the needs of the country. Clothing designers sew military uniforms, restaurateurs feed free lunches, bakeries bake bread for IDPs and lonely people.
+
+This is a university professor who continues to lecture to his students in the trenches. A violinist playing for people during an air alarm in a bomb shelter.
+
+These are civilians of Ukrainian cities and villages, who became a living wall on the way of the occupiers – stopping military machines and turning tanks in the opposite direction.
+
+These are inhabitants of Demydivka, who flooded their own village not to let the occupier into Kyiv.
+
+Those who despite threats, shots and stun grenades go to peaceful rallies, reminding the occupants that this is Ukraine: Kherson, Melitopol, Berdyansk, Enerhodar, Mariupol and all other cities and villages of Ukraine occupied not for a long time. 
+
+These are millions of Ukrainians who are now defending their Homeland and the whole world.
+
+Do not be afraid and come to Ukraine. Hear thousands of similar stories about us, Ukrainians. Look into their brave eyes, shake their strong hands, and you will see that they are doing all this not for glory, that they need not only awards, but also concrete help and support.
+
+Weapons, equipment, financial support, sanctions on Russia, and the most important: the feeling that in this difficult struggle they are not alone, that they are supported by you, by the whole world – free states and free nations of our planet.
+
+**Thank you!**
+
+**Thank you for your attention!**
+
+**Thank you for your support!**
+
+**Thank you for the award and welcome to Ukraine!**
+    `,
+    description: 'We must say and remember that behind the courage and wisdom of our people, there are thousands of real stories, names and heroic feats.',
+    url: 'https://www.youtube.com/watch?v=ZrIJp_ys7nw'
+  },
+  {
+    id: '8ynXWlwLdrU',
+    name: 'We will liberate our land and people, and with the help of the free world it will be easier to do',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-11T22:11:26',
+    topics: ['Постачання зброї', 'Міжнародний трибунал', 'Ленд-ліз', 'Гарантії безпеки', 'Герої України'],
+    cities: [],
+    text: `
+**Ukrainians!**
+
+**Unbreakable people of our country!**
+
+We have a series of important news - clearly positive for our defense.
+
+First. The House of Representatives of the United States Congress voted for a new and significant package of support for our state and global democracy. Almost $ 40 billion. A second vote will be held soon in the US Senate. This decision will then be signed by President Biden and will take effect.
+
+I am grateful to the people of America and to all our friends in Congress and Administration for their support.
+
+What exactly is positive? These funds will be used as quickly as possible and without bureaucracy to strengthen Ukraine's defense. First of all, it is weapons and ammunition for us, equipment. But not only that. It is also a support for the investigation of war crimes of the Russian Federation, the occupiers, support for diplomatic work and more.
+
+The second decision is important and even historic. This is an update of America's famous Lend-Lease program. People who remember history well know that Lend-Lease was one of the key preconditions for the Allied victory in World War II. Lend-Lease assistance from the United States to the United Kingdom and the Soviet Union has dramatically changed the balance of power in Europe. Europeans then received a wide range of products under Lend-Lease - from aircraft to trucks, from aviation fuel to communication means. By the way, American radio stations and other things provided under Lend-Lease worked for the Soviet people long after the war. For decades. Hitler's Germany, even with all the resources in the occupied territories, could do nothing to counter this potential of the Allies on the basis of American productive capacities.
+
+And it is no coincidence that the new Ukraine Democracy Defense Lend-Lease Act was signed on May 9. I am personally grateful to President Biden for this support, for this decision and for such symbolism.
+
+Because we are now defending freedom and the right to life for all free nations in the war against tyranny, which poses no less of a threat to Europe than it did 80 years ago.
+
+Simply put, Lend-Lease is a scheme to give us everything we need for defense. Although formally it is like a loan, in fact it is so profitable that it is incorrect to call it a loan.
+
+Firstly, we will have access to modern weapons, ammunition, equipment, and we do not need to look for options to pay for it all.
+
+Secondly, now the President of the United States will not have to agree with Congress on the assistance he provides. This will speed up the delivery.
+
+And there is one more thing that should be said separately. Ukraine is constantly discussing security guarantees for itself with our friends in a very substantive way. The G7 meeting on May 8, in which our state took part for the first time at the level of leaders, was first and foremost about that. We are negotiating with the world's leading nations to give Ukraine confidence in security for decades to come.
+
+This is the first time in the history of our state when it is possible to fix such guarantees. Not something in the memorandum, not some declarative desire for some kind of course, but specific guarantees. Not only legally significant, but also spelled out so that it is clear: what exactly, who exactly and how exactly guarantees us. God willing.
+
+Of course, all these things will not work in one or several days. But I am sure that this May will be of special significance in Ukrainian history.
+
+Yes, Russian troops are still on our land. Those outcasts whom the Russian state has found for itself as collaborators make statements of cosmic scale and cosmic stupidity, as their level was characterized in "Heart of a Dog". But no matter what the occupiers do, it doesn't mean anything. They stand no chance. I am confident that we will liberate our land and people. By the way, today in communication with students of French universities I felt such confidence in their questions. And with new support from the United States, with Lend-Lease, with all the help we get from the UK and the European Union, from Canada, Japan, Australia – without exaggeration, from the whole free world – it will be easier for us.
+
+I also spoke today with German Chancellor Olaf Scholz. On defense assistance to Ukraine, energy cooperation and new sanctions. New – against Russia. Step by step, we are doing everything to make the aggressor most hurt by aggression.
+
+However, speaking about the help of partners, we must not forget that victory is gained directly by Ukrainians who are fighting. By all who beat the enemy and strengthen the defense.
+
+Just yesterday, 404 servicemen of the Armed Forces of Ukraine were awarded state awards.
+
+The title of Hero of Ukraine (posthumously) was awarded to Colonel Ihor Bedzay, Chief of the Aviation Security Service - Senior Inspector-Pilot of the Naval Command. In total, more than 13,000 of our servicemen received state awards during the full-scale war.
+
+This definitely characterizes the courage of all our defenders.
+
+**I am grateful to each and every one of them! Very grateful.**
+
+**Eternal glory to all who fight for freedom!**
+
+**Eternal memory to all who gave their lives for us, for everyone. For Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'We have a series of important news - clearly positive for our defense.',
+    url: 'https://www.youtube.com/watch?v=8ynXWlwLdrU'
+  },
+  {
+    id: 'GQdfA48HGl4',
+    name: 'Speech by President of Ukraine Volodymyr Zelenskyy to students of leading French universities',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-11T18:45:39',
+    topics: ['Воєнний злочин', 'Міжнародний трибунал'],
+    cities: ['Волноваха', 'Маріуполь'],
+    text: `
+**I am glad to greet you from our capital, from Kyiv.**
+
+Today is the 77th day of Russia's full-scale war against our state. And it happens 77 years after the end of the largest war in Europe - World War II.
+
+When that war ended, political leaders and nations sought to create a security architecture that would make it impossible to repeat the war in Europe. And when I say the word "security" now, I use it in the broad sense of the word. It is not only a military component, but also economic, political, educational, cultural and memorial.
+
+Europeans have done a lot to ensure that the continent always has the opportunity to resolve any issues through dialogue. Through communication. So that it is not possible for one politician, one person or a group of politicians to provoke a large-scale war again, which will take thousands or even millions of lives.
+
+And, by the way, the contribution of students, including French students, to such changes in Europe is extremely significant. Since May 1968, there has been no politician who would not fear that people would come to him and say: it is forbidden to forbid. But why, despite all this, all this history, do we in Europe now have no tool to stop Russian aggression, except the courage and wisdom of Ukrainian men and women who defend our state?
+
+How did it happen that the whole security architecture that was created in Europe after World War II did not work? And not only did not work, but to a large extent did not even try.
+
+77 days of brutal Russian war, which can truly be called a total war to destroy the Ukrainian people. Cities and villages in Ukraine were destroyed. You know this. There is nothing left of the city of Volnovakha in Donbas. Before this war about 20 thousand people lived there. Now it's all ashes. The half-million city of Mariupol is now just ruins. How many people are there now? Several tens of thousands out of half a million. At least 20,000 Mariupol residents were killed by Russian strikes at the city. Unfortunately, there are many such examples in Ukraine.
+
+Today, 12 million people have been forced to flee the war and become internally displaced persons.
+
+More than 10,000 Russian military crimes have been recorded. And this is just what is legally recorded as of this day.
+
+How did all this become possible? And why are no global or European institutions enough now to stop this war?
+
+You know, I don't want these questions to remain rhetorical. These questions really need to be answered, because these questions are actually about you and me, about Europe. About how we all live. From the Atlantic region to our cities, our communities in the Kharkiv region and in Donbas, which right now, right now, while we are here with you, are being fired upon by Russian troops from artillery, aircraft, and so on.
+
+I was told that the rules of our meeting today provide for my address and the opportunity for five students to ask certain questions. I think this is still an unfair regulation. Five questions are not enough to understand a person and to understand the situation. And it will look like a privilege for a few when thousands listen to us. But I understand that you and I have limited time.
+
+I'm also interested in asking you questions to hear what you think. So that it is really communication.
+
+For example, about NATO. About world security. About the architecture of this security. About the 5th article of the Treaty. For years, Europe has feared Ukraine's accession to NATO, because if a war broke out with Russia - they said so - everyone would have to fight against it. I would rather say - for Ukraine.
+
+But isn't that the point of NATO? Isn't that all for one? And if Russia goes further, for example to the Baltic countries, Lithuania, Latvia, Estonia - any country. Will NATO fight against Russia, for example, for Latvia? Will Article 5 work then, given that most of you have never been to Latvia and may not even have ties to that country?
+
+There is also another aspect to this. Russia has already started a war against Ukraine, but we are not in NATO. And then why are we not in the European Union? Russia has already started a war. And you see how it fights.
+
+What else can you be afraid of now? And why does our common European home still have an internal division between those who were admitted and Ukraine? Which is behind the door, but at the same time fighting, defending European values, EU values: freedom and other fundamental values.
+
+And here is my second question to you: why did one person, Vladimir Putin, decide to start a war? It was a wrong and catastrophic decision. But why did he still approve it?
+
+And is there now in Europe, perhaps even in France or in any other country, a man or woman who can also start such a war against neighbors? Of course, I don't want that for anyone. But are we protected from this? Are you protected from this?
+
+One more question of mine to you - why did the Russian military, when occupying the territory of Ukraine, torment people with such pleasure and so massively? Why didn't they just shoot or capture or kill people like in war. Why did they rape, why did they torture people? Why did they cut off people's heads, fingers, why did they break legs? Why did Russian soldiers rape children in front of their parents? How can you - already adults - explain this? In your opinion, did they have just such an order or are they just like that?
+
+For example, a nine-year-old girl. Or an eleven-year-old boy. What should be in the head of a Russian soldier who rapes them in front of their parents, in front of their mother? Hundreds of such crimes have been recorded. There was even a Russian soldier who raped a baby and recorded a video of it, and then showed it to everyone. And how many such cases were in the occupied territories, about which we do not know yet?
+
+During World War II, the Nazis committed horrific crimes against all the nations of Europe. In particular, against Ukrainians and against Russians. For 77 years, much has been done to preserve the memory of those terrible crimes, which would ensure that they will never happen again. But why did the Russian military, when they came to Ukraine, start doing what the Nazis did? How did this become possible?
+
+My next question to you is: when will justice be restored? Why is there still no tool in the world that can bring all war criminals to justice quickly? Exactly quickly.
+
+Of course, our state will do everything to bring to justice every war criminal. And I am grateful to everyone who helps us. In particular, France. But there is an aspect of time. How long will it last? When will murderers and torturers receive sentences? And how to get them for trial, if they hide in Russia and if nothing changes there?
+
+There are many people of the future and different professions among you, and there are lawyers among you. Let them find the answer.
+
+So what can we do to speed up international justice? And what punishment do these criminals deserve? Specifically which one? What could be enough punishment for raping a child or shooting cars with refugees right on the roads just for fun? There were hundreds and thousands of such cases.
+
+And my fifth question to you is not difficult - personal. What influences politics and what influences the decision whether to engage in politics? Are you ready to get involved in politics? Would you like your father to be President? President of a state that defends itself in war and fights not just for independence, but literally for the right to life for its people? Or President of France - a state in peace?
+
+I want to explain my feelings to you. The feelings when you have a double responsibility - both for the state, because you are the President, and for your family, which found itself in a very special situation.
+
+When I decided to run for president, my daughter (she’s now 18) was against it - totally. She was aware of how much life would change. It is a question of publicity, a question of security, certain responsibility - of the children of the President already.
+
+What do you think about it? And how would you feel now if you were the son or daughter of the President?
+
+So, as I understand, we have little time. And I would like you to give answers to my questions. And I can answer yours. It is important for this meeting of ours to be truly communication. And I would like to hear from you.
+
+At the end, I can ask the last question. If I get all the information from you.
+
+**Thank you for your attention!**
+    `,
+    description: 'Of course, our state will do everything to bring to justice every war criminal. And I am grateful to everyone who helps us.',
+    url: 'https://www.youtube.com/watch?v=GQdfA48HGl4'
+  },
+  {
+    id: 'L3lLAEyKrDU',
+    name: 'Briefing by Deputy Head of the Office of the President Rostyslav Shurma',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Ростислав Шурма'],
+    date: '2022-05-11T13:50:27',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `
+Deputy Head of the Office of the President Rostyslav Shurma briefed on the reconstruction of the infrastructure for the supply of oil products.
+    `,
+    description: 'Deputy Head of the Office of the President Rostyslav Shurma briefed on the reconstruction of the infrastructure for the supply of oil products.',
+    url: 'https://www.youtube.com/watch?v=L3lLAEyKrDU'
+  },
+  {
+    id: 'NN9cV3W0Jjg',
+    name: 'Briefing by Deputy Head of the Office of the President Oleksii Dniprov',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Олексій Дніпров'],
+    date: '2022-05-11T11:42:13',
+    topics: [],
+    cities: [],
+    text: `
+"Today, the Putin regime terrifies the whole world with its resemblance to Hitler's." Briefing by Deputy Head of the Office of the President Oleksii Dniprov.
+    `,
+    description: '"Today, the Putin regime terrifies the whole world with its resemblance to Hitler\'s." Briefing by Deputy Head of the Office of the President Oleksii Dniprov.',
+    url: 'https://www.youtube.com/watch?v=NN9cV3W0Jjg'
+  },
+  {
     id: 'I5dbITb-1lg',
     name: 'The Armed Forces of Ukraine are doing everything to liberate all our cities and our people',
     translated: true,
