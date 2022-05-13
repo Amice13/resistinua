@@ -1,8 +1,95 @@
 const source = [
   {
-    id: 'ZrIJp_ys7nw',
-    name: 'Speech by the President of Ukraine at The Atlantic Council’s Distinguished Leadership Awards',
+    id: 'wGgqy_KVd8s',
+    name: 'Russia\'s strategic defeat is obvious to everyone in the world, Russia simply lacks courage to admit it so far',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-12T23:09:30',
+    topics: ['Охорона здоров\'я', 'Ракетний удар', 'Воєнний злочин', 'Вступ до ЄС', 'Герої України'],
+    cities: ['Чернігів', 'Харків', 'Київ'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+I do not tire of repeating these words, addressing everyone - everyone who defends the state. Today these words sound special. On the International Nurses Day. The professional holiday of tens of thousands of Ukrainian women, as well as Ukrainian paramedic officers who are doing one of the most important things for victory - saving the lives of our soldiers, our civilians.
+
+Today I had the honor to present state awards to the representatives of this profession. Those who did not stop working and rescuing people under enemy fire and during the occupation.
+
+Tetiana Tarasenko, Alla Chernets and Liudmyla Husak from the Sumy region. Vira Tselyk, Oksana Umanets and Iryna Vernyhora from Chernihiv. Oksana Balandina from the Luhansk region. Svitlana Klymenko and Maria Adamenko from the Kyiv region. Natalia Abashnyk from Kharkiv.
+
+With all my heart I thank all the nurses, all the medical workers who help Ukrainians fight every day and every night. And today I urge everyone who has not yet thanked them to do so. Eight years of war in Donbas, two years of pandemic, the third month of full-scale war and all their professional life they dedicate to you, us, everyone - society. So that Ukraine lives.
+
+I was very pleased to see the working conditions of our doctors at the Center for Pediatric Cardiology and Cardiac Surgery in Kyiv. The new building of the Center was built as part of our Large Construction program. And this is a truly modern building. There you feel that our medical system, our medicine can really be on a par with the world's best medical systems.
+
+We invested in the development of medicine and all social infrastructure before the war, and we will definitely continue to do so after the war. Let the occupiers not hope that they will stop us.
+
+During the fighting since February 24, Russian troops have destroyed 570 healthcare facilities. 101 hospitals were completely destroyed. What is it? This is nonsense. This is barbarism. This is the self-destruction of Russia as a state that at least someone in the world could look at as a cultural nation.
+
+Tonight they struck at the Chernihiv region, at schools. Of course, the Russian state is in such conditions that any education only hinders it. But what can be achieved by destroying Ukrainian schools?
+
+All Russian commanders who give such orders are just sick. Incurably.
+
+But all the hospitals that the occupiers destroyed, all the schools, all the universities that they bombed, all the houses, bridges, businesses - we will rebuild everything.
+
+The occupiers struck today at the Poltava region, at Kremenchuk. Again at the plant, so that people do not have fuel. Really sick. At the Zaporizhzhia region, at the cities and villages of Donbas. But what does it give them?
+
+Russia's strategic defeat is already obvious to everyone in the world and even to those who still continue to communicate with them. Russia simply lacks courage to admit it so far. They are cowards. And they are trying to hide the truth behind missile, air and artillery strikes. Therefore, our task is to fight until we achieve our goals in this war. Free our land, our people and reliably ensure our security.
+
+I spoke with the President of Finland. We discussed Ukraine's European integration and defense cooperation.
+
+I also spoke with Slovak President Zuzana Čaputová. I thanked her for the support provided to Ukraine. We agreed on the next steps in the whole spectrum of relations: defense, sanctions, economy, including fuel imports, and further rapprochement with the European Union.
+
+I am preparing to continue special formats of communication with friendly societies, in particular with students from partner countries. I will address American students soon. And students from European countries as well. We must spread our Ukrainian ideas and explain at all levels how we, Ukrainians, see life in Europe and the world after this war. A war that changes everything in world politics.
+
+I am grateful to the friend of Ukraine, Prime Minister of the Netherlands Mark Rutte, for today's address to the Verkhovna Rada of Ukraine. This is an important gesture of support. More importantly, the Netherlands is advocating the abandonment of Russian oil and is ready to do so without delay.
+
+I signed decrees awarding our defenders. The title of Hero of Ukraine was awarded to Colonel Kachur Roman Volodymyrovych, Commander of the 55th separate artillery brigade of the Operational Command "East" of the Ground Forces. 269 servicemen of the Armed Forces of Ukraine were awarded state awards, 14 of them posthumously.
+
+**Eternal glory to all who stood up for Ukraine!**
+
+**Eternal memory to everyone who gave life for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Про основні здобутки на зовнішньополітичному фронті – брифінг заступника керівника Офісу Президента України Андрія Сибіги.',
+    url: 'https://www.youtube.com/watch?v=wGgqy_KVd8s'
+  },
+  {
+    id: '0zrgYNFjuCE',
+    name: 'Andrii Sibiga\'s briefing on the main achievements on the foreign policy front',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Сибіга'],
+    date: '2022-05-12T13:29:43',
+    topics: ['Охорона здоров\'я'],
+    cities: [],
+    text: `
+On the main achievements on the foreign policy front - a briefing by Deputy Head of the Office of the President of Ukraine Andrii Sibiga.
+    `,
+    description: 'On the main achievements on the foreign policy front - a briefing by Deputy Head of the Office of the President of Ukraine Andrii Sibiga.',
+    url: 'https://www.youtube.com/watch?v=0zrgYNFjuCE'
+  },
+  {
+    id: 'L1E4RLskUr8',
+    name: 'Briefing by Deputy Head of the Office of the President Yulia Sokolovska',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Юлія Соколовська'],
+    date: '2022-05-12T12:58:13',
+    topics: ['Охорона здоров\'я'],
+    cities: [],
+    text: `
+A briefing by Deputy Head of the Office of the President Yulia Sokolovska on the strategic importance of the work of doctors and other health care workers.
+    `,
+    description: 'A briefing by Deputy Head of the Office of the President Yulia Sokolovska on the strategic importance of the work of doctors and other health care workers.',
+    url: 'https://www.youtube.com/watch?v=L1E4RLskUr8'
+  },
+  {
+    id: 'WywCdioQty4',
+    name: 'Speech by the President of Ukraine at The Atlantic Council’s Distinguished Leadership Awards',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-12T08:31:34',
@@ -80,12 +167,12 @@ Weapons, equipment, financial support, sanctions on Russia, and the most importa
 **Thank you for the award and welcome to Ukraine!**
     `,
     description: 'We must say and remember that behind the courage and wisdom of our people, there are thousands of real stories, names and heroic feats.',
-    url: 'https://www.youtube.com/watch?v=ZrIJp_ys7nw'
+    url: 'https://www.youtube.com/watch?v=WywCdioQty4'
   },
   {
-    id: '8ynXWlwLdrU',
+    id: 'vaMvDAeu95c',
     name: 'We will liberate our land and people, and with the help of the free world it will be easier to do',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-11T22:11:26',
@@ -143,7 +230,7 @@ This definitely characterizes the courage of all our defenders.
 **Glory to Ukraine!**
     `,
     description: 'We have a series of important news - clearly positive for our defense.',
-    url: 'https://www.youtube.com/watch?v=8ynXWlwLdrU'
+    url: 'https://www.youtube.com/watch?v=vaMvDAeu95c'
   },
   {
     id: 'GQdfA48HGl4',

@@ -203,6 +203,7 @@ const en = {
   'Освіта': 'Education',
   'Офіційні звернення': 'Official Addresses',
   'Офіційні': 'Official',
+  'Охорона здоров\'я': 'Healthcare',
   'Охтирка': 'Okhtyrka',
   'Переклад': 'Translator',
   'Перемовини': 'Negotiations',
