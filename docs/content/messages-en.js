@@ -1,8 +1,91 @@
 const source = [
   {
-    id: 'wGgqy_KVd8s',
-    name: 'Russia\'s strategic defeat is obvious to everyone in the world, Russia simply lacks courage to admit it so far',
+    id: 'SRJ2RhD4KrA',
+    name: 'To work every day to make the war shorter - this is our priority',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-13T23:04:54',
+    topics: ['Міжнародні санкції', 'Голод', 'Контратака', 'Гуманітарні коридори', 'Герої України'],
+    cities: ['Херсон', 'Мелітополь', 'Бердянськ', 'Енергодар', 'Маріуполь'],
+    text: `
+**Unbreakable people of our most beautiful country!**
+
+**Our defenders!**
+
+Today we can report on the 200th downed Russian military aircraft. Russia has not lost so many aircraft in any war in decades. And Russia has lost almost 27,000 soldiers, many of them young conscripts. Russia has lost more than three thousand tanks, armored combat vehicles, a large number of conventional military vehicles, helicopters, drones and all its prospects as a state.
+
+And why all this? For a monument to Lenin to stand in the temporarily occupied Henichesk for a little longer? There is no other result for Russia and there will not be any.
+
+In fact, no one today can predict how long this war will last. But we are doing everything we can to liberate our land quickly. This is our priority - to work every day to make the war shorter.
+
+However, this depends, unfortunately, not only on our people, who are already doing the maximum. It also depends on our partners. On European countries, on the countries of the whole free world.
+
+I am grateful to all those who are working to strengthen sanctions on Russia and to increase defense and financial support for us, for Ukraine. This is the only recipe for defending freedom in the face of Russia's invasion. And for Western countries, it's not just expenditures. It is not about accounting. It is about the future.
+
+The world has already recognized that Russia's blockade of our ports and this war are provoking a large-scale food crisis. Russian officials are also openly threatening the world that there will be famine in dozens of countries. And what could be the consequences of such a famine? What political instability and migration flows will this lead to? How much will you have to spend then to overcome the consequences?
+
+These are the questions that need to be answered by those who are delaying sanctions on Russia or trying to postpone aid to Ukraine.
+
+Every day of war is an increase in global threats, it is a new opportunity for Russia to provoke instability in other parts of the world, not only here in Europe. And these are new lost lives in Ukraine: Ukrainian men and women who give their lives so that everyone can live freely. I emphasize this: everyone, especially in those countries where they still find time to argue instead of investing in aid as much as possible.
+
+Therefore, much more pressure on Russia is needed. And I talk about it openly and daily to everyone on whom it depends.
+
+We continue to restore the de-occupied territories of Ukraine. As of today, 1015 settlements have been de-occupied, which is plus six in the past 24 hours. We return electricity, water supply, communications, transport, social services there. It is important.
+
+Of course, we remember every city and every community that is still under occupation. Kherson, Melitopol, Berdyansk, Enerhodar, Mariupol and all cities and towns of Donbas... The gradual liberation of the Kharkiv region proves that we will not leave anyone to the enemy.
+
+We do not stop trying to save all our people from Mariupol and Azovstal. Currently, very difficult negotiations are underway on the next stage of the evacuation mission - the rescue of the seriously wounded, medics. It is a large number of people. Of course, we are doing everything to evacuate everyone else, each of our defenders. Everyone in the world who can be the most influential mediator has already been involved in the relevant negotiations.
+
+Already 37 foreign missions have resumed their work in Kyiv. And I am grateful to all of them, because this is 37 proofs that Ukraine stands strong and has prospects in contrast to the Russian Federation. I am sure that other foreign missions will return to the capital soon.
+
+It is worth returning to work for all Ukrainian businesses that have not yet resumed operations, although they may do so in a safe area. Providing jobs and adjusting economic activity to the existing conditions is also a big contribution to defense, to our future.
+
+Traditionally, I signed a decree on awarding our heroes. 212 servicemen of the Armed Forces of Ukraine were awarded state awards.
+
+**Eternal glory to everyone who defends our state!**
+
+**Eternal memory to all who gave lives for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The world has already recognized that Russia\'s blockade of our ports and this war are provoking a large-scale food crisis. Russian officials are also openly threatening the world that there will be famine in dozens of countries.',
+    url: 'https://www.youtube.com/watch?v=SRJ2RhD4KrA'
+  },
+  {
+    id: 'bufLlkUIbvo',
+    name: 'Interview of the President for the Porta a Porta project of the Italian TV channel Rai 1',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-13T11:46:42',
+    topics: ['Гуманітарні коридори'],
+    cities: ['Маріуполь'],
+    text: `
+The course of negotiations with Russia, the role of Italy as a mediator, steps to evacuate the wounded from Azovstal. Volodymyr Zelenskyi talks about these and other issues in an interview for the Porta a Porta project of the Italian TV channel Rai 1.
+    `,
+    description: 'The course of negotiations with Russia, the role of Italy as a mediator, steps to evacuate the wounded from Azovstal.',
+    url: 'https://www.youtube.com/watch?v=bufLlkUIbvo'
+  },
+  {
+    id: 'U6OwMhb2dTg',
+    name: 'Andriy Yermak discussed with European officials and diplomats a plan to strengthen sanctions against Russia',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Андрій Єрмак'],
+    date: '2022-05-13T09:55:52',
+    topics: ['Міжнародні санкції'],
+    cities: [],
+    text: `
+"It would be naive to expect that the Russian leadership will abandon its plans due to lower living standards. So we need to make sure that the financial system does not cope with this burden, that Russian industry does not have the technical capabilities, technology and materials to produce weapons of war. Therefore, sanctions should be long-term, "said Andriy Yermak, head of the Office of the President of Ukraine, during an online meeting with influential European officials and diplomats.
+    `,
+    description: 'It would be naive to expect that the Russian leadership will abandon its plans due to lower living standards',
+    url: 'https://www.youtube.com/watch?v=U6OwMhb2dTg'
+  },
+  {
+    id: 'ngbLNJhj_sI',
+    name: 'Russia\'s strategic defeat is obvious to everyone in the world, Russia simply lacks courage to admit it so far',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-12T23:09:30',
@@ -54,7 +137,7 @@ I signed decrees awarding our defenders. The title of Hero of Ukraine was awarde
 **Glory to Ukraine!**
     `,
     description: 'Про основні здобутки на зовнішньополітичному фронті – брифінг заступника керівника Офісу Президента України Андрія Сибіги.',
-    url: 'https://www.youtube.com/watch?v=wGgqy_KVd8s'
+    url: 'https://www.youtube.com/watch?v=ngbLNJhj_sI'
   },
   {
     id: '0zrgYNFjuCE',
