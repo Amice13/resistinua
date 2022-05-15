@@ -1,5 +1,52 @@
 const source = [
   {
+    id: 'yNkifbk66jU',
+    name: 'Support for Ukraine means working to prevent a global famine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-14T22:11:12',
+    topics: ['Міжнародні переговори', 'Постачання зброї', 'Голод'],
+    cities: ['Одеса', 'Харків', 'Київ', 'Херсон'],
+    text: `
+**Wise people of our bravest country!**
+
+**All our defenders!**
+
+Last year, on May 14, the Day of Remembrance of Ukrainians who saved Jews during World War II was celebrated in our country for the first time. 2659 Ukrainian men and women received the title of Righteous Among the Nations. Our country is the fourth in the world in the number of the Righteous. People who risked their lives, the lives of their loved ones, but still saved those who were threatened with imminent death at the hands of the Nazis. Rescued children, adults, whole families.
+
+Each of these rescue stories is impressive. It strikes with courage, because there was total evil around, and people still kept good in their hearts. It strikes with belief that humanity will still win despite the then occupation and the power of the Nazis.
+
+The Righteous were in all regions of our state - from Zakarpattia to Crimea, from Odesa to Kharkiv. And we do not know all the stories of salvation. There were many who simply did not have time to tell thanks to whom their life was saved. They also rescued very young children who simply could not understand what was really happening to them.
+
+We must always remember that our people have such Righteous among them and that even in the darkest circumstances there are people who carry light. This is exactly the same striving for good that we see today in Ukrainian men and women who help save people from the occupiers, from the same Nazis.
+
+I am grateful to all journalists and just all caring people who document modern stories of salvation and record for all generations of our people what Ukraine has to go through and how people show their best qualities saving others - acquaintances and strangers, relatives, children, adults.
+
+I held talks today with a delegation of US senators led by Senate Republican Minority Leader Mitchell McConnell in Kyiv. I believe that this visit once again demonstrates the strength of bipartisan support for our state, the strength of ties between the Ukrainian and American nations.
+
+We discussed various areas of support for our state, including defensive and financial. As well as tightening sanctions on Russia. I expressed gratitude for the historic decision to renew the Lend Lease program. I called for the official recognition of Russia as a terrorist state.
+
+One of the issues I deal with on a daily basis is food security. More and more countries around the world are realizing that Russia, by blocking the Black Sea for us and continuing this war, puts dozens of other countries at risk of a price crisis in the food market and even famine. This is another incentive for our anti-war coalition to act more decisively together.
+
+Now support for Ukraine - and especially with weapons - means working to prevent global famine. The sooner we liberate our land and guarantee Ukraine's security, the sooner the normal state of the food market can be restored.
+
+The situation in Donbas remains very difficult. Russian troops are still trying to show at least some victory. On the 80th day of the full-scale invasion, it looks especially insane, but they do not stop all these efforts.
+
+I am grateful to everyone who holds the line and brings closer to Donbas, Pryazovia and Kherson the same thing that is happening now in the Kharkiv region. Step by step we are forcing the occupiers to leave our land. We will make them leave the Ukrainian sea as well.
+
+By the way, now in many cities and communities of Ukraine there are discussions about renaming streets and squares. My advice is to turn to the stories of the Ukrainian Righteous and perpetuate their memory. Because it is about the courage and humanity of Ukrainians who have already proved that the evil that comes to our land will inevitably lose.
+
+**Eternal glory to all our defenders!**
+
+**Eternal memory to all who gave lives for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The sooner we liberate our land and guarantee Ukraine\'s security, the sooner the normal state of the food market can be restored.',
+    url: 'https://www.youtube.com/watch?v=yNkifbk66jU'
+  },
+  {
     id: 'SRJ2RhD4KrA',
     name: 'To work every day to make the war shorter - this is our priority',
     translated: true,
