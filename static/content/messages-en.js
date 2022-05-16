@@ -1,8 +1,63 @@
 const source = [
   {
-    id: 'yNkifbk66jU',
-    name: 'Support for Ukraine means working to prevent a global famine',
+    id: '6RyrRhJ-cys',
+    name: 'We are doing everything to maintain the world\'s maximum attention to Ukraine and our needs',
     translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-14T22:11:12',
+    topics: ['Міжнародні переговори', 'Міжнародна підтримка', 'Міжнародні санкції', 'Нафтове ембарго', 'Вступ до ЄС', 'Відбудова України', 'Контратака', 'Гуманітарні коридори', 'Ленд-ліз'],
+    cities: ['Маріуполь', 'Херсон', 'Мелітополь', 'Гуляйполе', 'Сєвєродонецьк', 'Лисичанськ'],
+    text: `
+**Ukrainians!**
+
+**All our defenders!**
+
+The 81st day of our defense is coming to an end and another week of round-the-clock work for Ukraine and victory is beginning.
+
+This week, as always, there will be a lot of international activity in which I will take part. The key is weapons and financial support for Ukraine. Finances not only to maintain stability now, but also to begin rebuilding what Russia has ruined.
+
+We are also working to strengthen sanctions on Russia. Partners need to make decisions that limit Russia's ties to the world every week. The occupiers must feel the rising cost of war for them, feel it constantly.
+
+Now the priority is the oil embargo. No matter how hard Moscow tries to disrupt this decision, the time of Europe's dependence on Russian energy resources is coming to an end. And that can’t be changed.
+
+Another task, which becomes even more important the longer the war lasts, is to do everything to maintain the world's maximum attention to us, to Ukraine. Information about our needs should be in the news of all countries that are important to us constantly and every day.
+
+In particular, for this purpose - for greater information and political support of Ukraine - on Monday I will communicate with students of leading American universities. These are 63 US universities and two Canadian universities, which unite hundreds of thousands of students and are a large expert and research community. Their voice will definitely strengthen our capabilities. A separate address to Stanford University students is also planned for the end of May.
+
+I am also preparing to communicate with Ukrainian students from the leading universities of our country. In my address to them I will answer some important difficult questions that already exist in our society, which are already visible. And I expect profound questions from them, from our students.
+
+I will definitely continue to address the parliaments of Ukraine's European partner states. Our task is the status of a candidate for EU membership for Ukraine, and later - accession to the European Union under the fast-track procedure. Every state matters. Every vote counts. It is equally important to have the maximum consent of European countries in the issue of strengthening sanctions on Russia. That is why I will be addressing the Luxembourg Parliament in the near future.
+
+By the way, we are also working to expand the geography of such special speeches in the parliaments of Africa and Asia.
+
+An address to the participants of the Davos Forum is scheduled for May 23. This year the conference will be especially important for our country. Post-war reconstruction will be discussed. We are doing our best to fully gather the support of the world, and participation in the Davos Forum is one of the best opportunities for that.
+
+We continue very complicated and delicate negotiations to save our people from Mariupol, from Azovstal. We deal with this issue on a daily basis. And the main thing is for the agreements to be fulfilled.
+
+We expect the United States to adopt important decisions for our country. A new significant package of support and detailed elaboration of the renewed historical program of the Lend-Lease.
+
+We are preparing for new attempts by Russia to attack in Donbas, to somehow intensify its movement in the south of Ukraine. The occupiers still do not want to admit that they are in a dead end and their so-called "special operation" has already gone bankrupt. But the moment will surely come when the Ukrainian people will force the invaders to fully recognize reality.
+
+No matter how "creative" they are in Kherson and Melitopol, no matter how they portray their alleged "power" in the occupied areas of Pryazovia and Donbas, they are there temporarily. The Ukrainian flag, Ukrainian law, Ukrainian life will still be there anyway.
+
+Today's Russian missile strikes at the Lviv region, shelling of Hulyaipole, Severodonetsk, Lysychansk, cities and communities of the Donetsk region - all this brutality of the occupiers, which Ukraine is experiencing every day, will only lead to the fact that Russian surviving soldiers will bring this evil back to Russia.
+
+They will bring it back because they will retreat. This is how all the feverish activity of the Russian military we see now will end. And I am grateful to all the Ukrainians who are bringing this time closer.
+
+**Eternal glory to all who defend the state!**
+
+**Eternal memory to everyone who gave life for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The 81st day of our defense is coming to an end and another week of round-the-clock work for Ukraine and victory is beginning.',
+    url: 'https://www.youtube.com/watch?v=6RyrRhJ-cys'
+  },
+  {
+    id: 'o69Ez-Uks5s',
+    name: 'Support for Ukraine means working to prevent a global famine',
+    translated: true,
     russianTimestamp: '',
     speaker: ['Володимир Зеленський'],
     date: '2022-05-14T22:11:12',
@@ -44,7 +99,7 @@ By the way, now in many cities and communities of Ukraine there are discussions 
 **Glory to Ukraine!**
     `,
     description: 'The sooner we liberate our land and guarantee Ukraine\'s security, the sooner the normal state of the food market can be restored.',
-    url: 'https://www.youtube.com/watch?v=yNkifbk66jU'
+    url: 'https://www.youtube.com/watch?v=o69Ez-Uks5s'
   },
   {
     id: 'SRJ2RhD4KrA',
