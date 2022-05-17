@@ -1,5 +1,149 @@
 const source = [
   {
+    id: 'ySx3hwJxjaQ',
+    name: 'Ukraine needs Ukrainian heroes alive - this is our principle',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-17T11:03:51',
+    topics: ['Гуманітарний коридор', 'Міжнародні санкції', 'Нафтове ембарго', 'Герої України'],
+    cities: ['Маріуполь', 'Київ', 'Сєвєродонецьк'],
+    text: `
+**Ukrainians!**
+
+**Our defenders!**
+
+The 82nd day of our defense is coming to an end. A difficult day. But this day, like all others, is aimed precisely at saving our country and our people.
+
+Regarding the situation in Mariupol.
+
+Thanks to the actions of the Ukrainian military - the Armed Forces of Ukraine, intelligence, the negotiating team, the International Committee of the Red Cross and the United Nations, we hope that we will be able to save the lives of our guys. Among them are the seriously wounded, they are being provided with medical aid.
+
+I want to emphasize: Ukraine needs Ukrainian heroes alive. This is our principle. I think that every adequate person will understand these words.
+
+The operation to rescue the defenders of Mariupol was started by our military and intelligence officers. To bring the boys home, the work continues, and this work needs delicacy. And time.
+
+We also maintain maximum diplomatic activity in other areas in the interests of Ukraine.
+
+I spoke today with IMF Managing Director Kristalina Georgieva. On how to speed up the provision of financial assistance to Ukraine, given the state budget deficit during the war, which is about $ 5 billion a month. We also talked about the main directions of further cooperation.
+
+On the eve of the meeting of the G7 finance ministers, these talks with the IMF Managing Director are a direct preparation for very important decisions for Ukraine.
+
+A high-ranking Polish delegation worked in Kyiv. Consultations with them were held regarding cooperation at the European Union level. In particular, it concerns the acceleration of our integration into the European Union and the expected decision on the candidate status for Ukraine.
+
+We are also working to ensure that the European Union agrees on a sixth package of sanctions on Russia. The oil embargo must be a part of it, and it is in the interests not only of our state, but also of the whole of Europe. I am grateful to those leaders of the continent who are aware of this and help promote the respective decision.
+
+I addressed the student community of the United States of America - representatives of leading universities. I also talked to the rectors and presidents of these educational institutions. The key issue is to involve American universities in rebuilding our education system after the war. In addition, we discussed political issues, including the protection of democracy, countering Russian propaganda and fakes.
+
+The Armed Forces of Ukraine are repelling constant attacks in those areas where Russia is still trying to advance. Severodonetsk and other cities in Donbas remain the main targets for the occupiers. We do everything to protect our land and our people.
+
+I signed decrees on awarding our heroes. 201 servicemen of the Armed Forces of Ukraine were awarded state awards. The title of Hero of Ukraine was awarded to **Senior Lieutenant Ahasyiev Kyrylo Yashar oğlu** - platoon commander of the 92nd separate mechanized brigade. And posthumously to Lieutenant Colonel **Yerk Vyacheslav Volodymyrovych**, commander of the aviation squadron of the 40th tactical aviation brigade.
+
+Eternal glory to everyone who stood up for our state!
+
+**Eternal memory to all who gave lives for Ukraine!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'The operation to rescue the defenders of Mariupol was started by our military and intelligence officers. To bring the boys home, the work continues, and this work needs delicacy. And time.',
+    url: 'https://www.youtube.com/watch?v=ySx3hwJxjaQ'
+  },
+  {
+    id: '_lfphSteoTQ',
+    name: 'Address by President of Ukraine Volodymyr Zelenskyy to American students during online communication with the US university community',
+    translated: true,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-16T20:32:19',
+    topics: [],
+    cities: [],
+    text: `
+**Ladies and Gentlemen,**
+
+**Dear friends!**
+
+I am grateful for this opportunity, I am grateful for the honor to address the students today, to answer your questions.
+
+Not all of you, however, look like students. You are already rectors, already heads of educational institutions, presidents. But as far as I understand, the student community hears us and it is very important that it sees us. This is really important. Because my speech is dedicated to them and then I will be ready for a dialogue. To them exactly, because the speech is about choice. This is the age when you have to make a choice.
+
+The main choice that everyone makes in one way or another in his life. Makes at this, I would say, golden age, student age. Or even earlier. When choosing the answer to the question of who he is. Who are you? What are you like?
+
+I will give you my example so that you can feel what I am talking about and what I wanted to tell you.
+
+Who am I? I am the President of Ukraine.
+
+I studied law. Then practiced in court. Then I became an artist, producer, businessman. And then I became a President - the President of our beautiful state.
+
+And each of these stages was supposedly a different life. But in fact, it's one life. This is the answer to the question of who you are in life. Are you a subject or are you just watching?
+
+Are you trying to change something or not? Are you worried - and that's all, or are you worried and trying to help, fix, do something?
+
+It is a choice that determines life. What you will be. What your country will be like.
+
+Each of you, students, even if you don't realize it, makes that choice. Every day.
+
+And then it becomes your character, it becomes your destiny.
+
+For example, each and every one of you in life has probably been in a situation where there is hatred next to you.
+
+When a person insults another person in word or deed. When another person is humiliated. When someone is trying to take something from another person.
+
+Are there many who will help in this situation?
+
+There are those who just watch. Someone will shoot a video with a smartphone, it is very popular now, and then post it on Instagram or YouTube. Someone may just laugh. And someone will still help. Stop the humiliation. Stop the hatred. Help a person feel dignity again.
+
+There are many situations when the word can mean salvation for a person. Who feels that life is not going in the right direction. Or when a mistake is made. Seemingly a terrible and fatal mistake. After which you may not want to live at all. We have all seen such situations in the movies. When a person may attempt suicide. And some have seen it in real life. And some have faced a choice - whether to try to help or not? Or just to walk by?
+
+Whether to shoot a video of what you see and then collect likes and shares on your social network? It is good that there are people who do not stay away. Those who take the situation into their own hands and help.
+
+I remember a terrible day for your nation and for the whole democratic world - 9/11. I then watched the attack on the "twins" on TV - with my friends. And some of them just couldn't believe what was happening. Some even said that this could only happen in America. And he was told very quickly that it could happen in any country, it could happen to anyone. Because terror knows no borders.
+
+I remembered how shortly before September 11 I was in New York, I was there - in the "twins". And I felt that it could happen when I was there. That I could be among thousands of people - either in the towers or next to them. And I would be faced with the same choice - how to escape? How to save others? Who to help? And could I be able to help myself?
+
+When one day you decide for yourself that you have to be the master of your life, then you always stay with that power and look for what to do. After the full-scale invasion of Russia, I heard a lot of advice. All of them came down to the fact that we have to accept that Ukraine has become a victim. Victim of the occupation of Russia. That there is almost no chance for resistance. That the Russian army will allegedly take down all our resistance very quickly - three or five days. And that it is supposedly better for me to just leave Ukraine, because no one will be able to stop Russia.
+
+I was offered help with transport instead of help with weapons!
+
+But it was just not about us. These were completely wrong proposals. They did not take into account who we are. Who I am. How we see life here in Ukraine. Our country will never be a victim again. It will not just be an observer of life - including its own life. We can, want to and will be subjects in life. We made this choice.
+
+This is my choice. And the choice of the vast majority of Ukrainian citizens.
+
+This is where our strength comes from, our strong desire for the freedom we are fighting for. And I am grateful to those who made that choice with us. Who also decided to be the subject of life and the struggle for principles, and they are the same for us - the struggle for freedom.
+
+There is case law in your country. If once - even a long time ago - a decision was made at the appropriate level by a proper court, similar cases are decided according to this precedent. This is always taken into account.
+
+The same is true, in fact, in international politics.
+
+What is Russia doing now?
+
+It is trying to set a precedent. If it manages to break the statehood of the neighboring nation, other states will do the same.
+
+What is Ukraine doing now with its partners?
+
+Trying to set another precedent. So that all the aggressors in the world once and for all see that the war will create the biggest problems for them - for the aggressors. So that they know that the hatred they spread against ordinary people like you and me, against other nations, will strike first and foremost at themselves when the free world refuses to deal with those who spread such hatred.
+
+This is a very transparent process of struggle. And everyone chooses a role in it. There are states that are trying to stay away. Be supposedly neutral. And not help fight for our common values. It's the same as in life, when help is needed, and there is only a crowd of people watching instead of helping.
+
+And there are states that contribute as much as possible to protect freedom. To stop the aggression. To guarantee the force of international law.
+
+It is this role that the United States has chosen, and I am very grateful to your people, to your leaders for that choice.
+
+After all, it is also the answer to who you want to be in life. Those who do not want to be just a victim or an indifferent observer. But those who can and do defend democracy, because that is how they protect themselves as well. Their freedom, their way of life, their people. Their worldview in which there should be no room for individual violence or brutal wars.
+
+Each of you right now - at this age and in the position you are in - chooses this for yourself. How do you respond to challenges? What do you do when you see injustice?
+
+And I really want you to choose this path for yourself. The path of clear awareness of who you are. The path of agency. Because if it is your choice, it will always be the choice of your country.
+
+Just as it is the choice of our country.
+
+**Thank you very much!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'When one day you decide for yourself that you have to be the master of your life, then you always stay with that power and look for what to do.',
+    url: 'https://www.youtube.com/watch?v=_lfphSteoTQ'
+  },
+  {
     id: '6RyrRhJ-cys',
     name: 'We are doing everything to maintain the world\'s maximum attention to Ukraine and our needs',
     translated: false,
@@ -802,11 +946,11 @@ I am grateful to all those who defend the Kharkiv region, defend Donbas, defend 
     url: 'https://www.youtube.com/watch?v=FBuJkvoZpkU'
   },
   {
-    id: 'naP7CkR4-aY',
+    id: 'GONHEKbXfkw',
     name: 'Briefing by Serhiy Leshchenko, Adviser to the Head of the Office of the President',
-    translated: false,
+    translated: true,
     russianTimestamp: '',
-    speaker: ['Володимир Зеленський'],
+    speaker: ['Сергій Лещенко'],
     date: '2022-05-09T19:30:28',
     topics: [],
     cities: ['Ялта', 'Сімферополь', 'Керч'],
@@ -814,7 +958,7 @@ I am grateful to all those who defend the Kharkiv region, defend Donbas, defend 
 Serhiy Leshchenko, adviser to the head of the President's Office, spoke about fakes and propaganda of the occupiers.
     `,
     description: 'Serhiy Leshchenko, adviser to the head of the President\'s Office, spoke about fakes and propaganda of the occupiers.',
-    url: 'https://www.youtube.com/watch?v=naP7CkR4-aY'
+    url: 'https://www.youtube.com/watch?v=GONHEKbXfkw'
   },
   {
     id: 'QQFSupESHw0',

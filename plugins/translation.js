@@ -242,6 +242,7 @@ const en = {
   'Світ': 'World',
   'Секторальні санкції': 'Sectoral sanctions',
   'Сервіс': 'Service',
+  'Сергій Лещенко': 'Serhii Leschenko',
   'Сєвєродонецьк': 'Severodonetsk',
   'Сімферополь': 'Simferopol',
   'Скрипт': 'Script',
