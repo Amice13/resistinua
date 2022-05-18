@@ -1,5 +1,170 @@
 const source = [
   {
+    id: 'HKFB5PFN2Wg',
+    name: 'Missile shelling of a number of regions and subversive activity at the border are an attempt of the Russian army to compensate for a series of failures in the east and south of Ukraine',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-17T23:48:46',
+    topics: ['Ракетний удар', 'Міжнародні санкції', 'Міжнародні переговори', 'Гуманітарні коридори', 'Герої України'],
+    cities: ['Київ'],
+    text: `
+Ukrainians!
+
+Our defenders!
+
+The 83rd day of our defense began with a rather powerful combination of Russian strikes at Ukraine. Missile shelling of the Lviv region, Sumy region, Chernihiv region. Air strikes in the Luhansk region. Specific sabotage activity in the border areas of Ukraine.
+
+All this is not just creating tension for our state, not just testing our strength. This is a kind of attempt of the Russian army to compensate for a series of failures in the east and south of our country.
+
+They cannot demonstrate success with general military action in the areas where they are trying to advance. So they are trying to show success through their missiles and other activities. To no avail as well.
+
+These strikes, like many previous ones, do not change anything radically. Especially since our air defense and anti-sabotage measures are becoming stronger.
+
+I had a conversation today with German Chancellor Olaf Scholz. Quite productive. First of all, about the defense support for Ukraine, about our cooperation at the EU level. I informed him about the current situation on the battlefield and the possible development of this situation.
+
+I had a conversation with President of France Emmanuel Macron. Substantive and long. We discussed the sixth package of sanctions being prepared in the European Union. We also discussed the negotiation process with Russia and evacuation of our heroes from Azovstal. The evacuation mission continues, it is overseen by our military and intelligence. The most influential international mediators are involved.
+
+We also spoke separately and substantively with the President of France about our European integration steps and the consideration of Ukraine's application for EU candidate status.
+
+I continue to gather the largest possible international audience for Ukraine. To support our state at all levels. And to put pressure on Russia at all levels.
+
+Information, diplomatic and cultural pressure is what we need. So that, as in the days of World War II, the struggle for freedom can rely in particular on the power of art.
+
+So today, during the opening ceremony of the Cannes Film Festival, I addressed the world filmmaking community. I reminded that now, as in the 1940s, it is necessary to boldly and openly defend freedom and fight the dictatorship. Right now is the time. When the language of cinematography can and should become the language of the struggle for freedom.
+
+Today I signed decrees on awarding our heroes. 165 servicemen of the Armed Forces of Ukraine were awarded state awards, 13 of them posthumously.
+
+The title of Hero of Ukraine was awarded to 3 servicemen of the 24th separate mechanized brigade. To those who showed extraordinary courage and efficiency in the battles in Donbas.
+
+Today I bid farewell to the first President of Ukraine Leonid Makarovych Kravchuk. The ceremony took place in Kyiv. In Kyiv, which will remain Ukrainian. The capital of an independent state. From 1991 and forever.
+
+**Eternal glory to all who stood up for Ukraine!**
+
+**Eternal memory to everyone who fought for independence!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Information, diplomatic and cultural pressure is what we need. So that, as in the days of World War II, the struggle for freedom can rely in particular on the power of art.',
+    url: 'https://www.youtube.com/watch?v=HKFB5PFN2Wg'
+  },
+  {
+    id: 'q3J2FFKr6gE',
+    name: 'Today there is a war for freedom again, and again it is necessary for cinematography not to be dumb',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Володимир Зеленський'],
+    date: '2022-05-17T22:40:25',
+    topics: ['Ракетний удар', 'Вбиті діти', 'Викрадення людей'],
+    cities: [],
+    text: `
+**It is a great honor for me to address you.**
+
+**Ladies and Gentlemen,**
+
+**Friends!**
+
+I will tell you a story. Indeed, a lot of stories begin with the words "I will tell you a story". But in this one, the finale will be much more important than the beginning. And this will not be an open ending. Finally, it can put an end to a battle that has lasted more than a hundred years.
+
+This battle began with the arrival of the train. The hero and the antagonist came out of it. And so the confrontation on the screen was born, which turned into real life. First, cinematography appeared in our life, then it became our life. And then, what the future would be like depended on cinematography as well.
+
+My story today is about this battle. About the battle. And about the future.
+
+The worst dictators of the 20th century loved cinematography. It is known about them. But the most important thing left after them is the eerie documentary footage of the newsreel. As well as movies that challenged these dictators.
+
+The first festival was to begin on September 1, 1939 in Cannes. But World War II broke out. For six years, cinematography has been on the frontlines of this war, along with all mankind. For six years, cinematography has been fighting for freedom, and also, unfortunately, for the benefit of the dictatorship.
+
+Now, going back to that movie, we can see how freedom was moving towards victory. And in the end, it did not allow dictators to capture people's hearts.
+
+There were many important points along the way. However, the most outstanding was in 1940. When, in contrast to the antagonist, the world saw, at first glance, an inconspicuous guy who did not look like a hero at all. But he turned out to be so.
+
+"The Great Dictator" by Charlie Chaplin did not destroy the real dictator then. But thanks to it, cinematography ceased to be dumb. Dumb in every sense of the word. Cinematography spoke, and it was the voice of the future victory of freedom.
+
+Even then, in 1940. When the screens sounded:
+
+*“The hate of men will pass, and dictators die, and the power they took from the people will return to the people. And so long as men die, liberty will never perish…”*
+
+Since then - since those words of the hero played by Chaplin - mankind has produced many beautiful movies. It seemed that everyone already understood that one can conquer people with the beautiful, gathering them near the screens, and not with the ugly, gathering them in bomb shelters.
+
+It seemed that everyone already believed that the horror in the form of a full-scale war that could cover the entire continent would not have continuation.
+
+But again, as then, there is a dictator. Again, as then, there is a war for freedom. Again, as then, it is necessary for cinematography not to be dumb.
+
+On February 24, 2022, Russia launched a full-scale war against Ukraine. Planning to go further to Europe. And what kind of war is this? I want to answer this question as clearly as possible. Armed with the words that were said by cinematography in the years after the previous continental war.
+
+You have already heard most of these words. They sound eerie. On the screen. But, unfortunately, this has become a reality.
+
+Remember that? Remember how it sounded in the movies?
+
+*“You smell that? Napalm, son. Nothing else in the world smells like that. I love the smell of napalm in the morning…”*
+
+Yes, it started in Ukraine in the morning.
+
+At four o'clock, when we heard the first missile explosions. When the air strikes began. And when death, going to Ukraine across the border, marked its equipment with the swastika analogue - the "Z" symbol.
+
+*"They all want to be better Nazis than Hitler..."*
+
+Now, there is not a single week passing without mass graves of killed and tortured people found in the territory where Russian troops were or still are. 229 children were killed as a result of the Russian invasion.
+
+*“They can't get anywhere but kill, kill, kill! They have sown Europe with corpses…”*
+
+You saw what the Russian military did in the small town of Bucha. You saw Mariupol. Saw Azovstal. Saw the theater blown up by a Russian bomb. By the way, it was similar to where you are now. Ordinary civilians were hiding there from the shelling. Two large and noticeable inscriptions "Children". They were on the asphalt near the theater. And we will never forget it, because it is not even Hell.
+
+*“War isn't Hell. War is war, and Hell is Hell. And of the two, war is a lot worse…”*
+
+More than 2,000 Russian missiles have already hit Ukraine. Dozens of cities were completely destroyed. Scorched villages.
+
+More than 500,000 Ukrainians have been deported to Russia by force. Tens of thousands are in Russian camps created on the model of Nazi camps.
+
+No one knows how many prisoners will survive there. But everyone knows who is to blame.
+
+*“You think soap can wash you?”*
+
+Unlikely.
+
+The worst war since World War II is already in Europe. First of all, because of one person who is in Moscow. Other people die every day. And they will not come to life after the phrase "Stop, cut!".
+
+But what do we hear about it now? Will the movie be silent or will it speak?
+
+If there is a dictator, if there is a war for freedom and if again, as then, everything depends on our unity, will cinematography remain outside this unity?
+
+Our cities are not destroyed by virtual graphics. Many Ukrainians have become Guido and are trying to explain to children why they have to hide in the basement.
+
+Many Ukrainians have become like Aldo Raine. The land of our country is already streaked with thousands of trenches.
+
+Of course, we will continue to fight. And we have no alternative but to fight for freedom. And I am sure that the dictator will lose.
+
+But words should sound like in 1940. Sound from all screens of the free world. We need a new Chaplin, who will prove again that cinematography is no longer dumb.
+
+Remember how it sounded then:
+
+*“Greed has poisoned men’s souls, has barricaded the world with hate, has goose-stepped us into misery and bloodshed. We have developed speed, but we have shut ourselves in. Machinery that gives abundance has left us in want. Our knowledge has made us cynical. Our cleverness, hard and unkind. We think too much and feel too little. More than machinery we need humanity. More than cleverness we need kindness and gentleness… To those who can hear me, I say - do not despair… The hate of men will pass, and dictators die.”*
+
+We must finally win this battle. And we need cinematography that will provide just such a finale. So that every voice is on the side of freedom. And, as it has always been seen, first of all the voice of cinematography.
+
+**I thank you all!**
+
+**Glory to Ukraine!**
+    `,
+    description: 'Address by the President of Ukraine to the filmmaking community at the opening of the 75th Cannes International Film Festival',
+    url: 'https://www.youtube.com/watch?v=q3J2FFKr6gE'
+  },
+  {
+    id: 'q3J2FFKr6gE',
+    name: 'Briefing by Deputy Head of the Office of the President Kyrylo Tymoshenko',
+    translated: false,
+    russianTimestamp: '',
+    speaker: ['Кирило Тимошенко'],
+    date: '2022-05-17T17:51:36',
+    topics: ['Відбудова України'],
+    cities: [],
+    text: `
+On the restoration work in the occupied territories - a briefing by Deputy Head of the Office of the President Kirill Tymoshenko.
+    `,
+    description: 'On the restoration work in the occupied territories - a briefing by Deputy Head of the Office of the President Kirill Tymoshenko.',
+    url: 'https://www.youtube.com/watch?v=q3J2FFKr6gE'
+  },
+  {
     id: 'ySx3hwJxjaQ',
     name: 'Ukraine needs Ukrainian heroes alive - this is our principle',
     translated: false,
