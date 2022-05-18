@@ -7,7 +7,7 @@
           <div class="fill-height d-flex">
             <v-icon class="mr-4">mdi-message-reply-outline</v-icon> {{ $t('Офіційні звернення') }}
           </div>
-          <p>THIS ARCHIVE DOES NOT RECEIVE UPDATES SINCE MAY, 18. You can watch the latest videos on the <a href="https://www.youtube.com/user/PresidentGovUa/videos">official YouTube Channel of the Office of the President of Ukaine</a> and read articles on the <a href="https://www.president.gov.ua/news/speeches">official website.</a></p>
+          <p class="subtitle-1 mt-4">THIS ARCHIVE DOES NOT RECEIVE UPDATES SINCE MAY, 18. You can watch the latest videos on the <a href="https://www.youtube.com/user/PresidentGovUa/videos">official YouTube Channel of the Office of the President of Ukaine</a> and read articles on the <a href="https://www.president.gov.ua/news/speeches">official website.</a></p>
         </v-card-text>
       </v-card>
     </v-col>
