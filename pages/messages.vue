@@ -7,6 +7,7 @@
           <div class="fill-height d-flex">
             <v-icon class="mr-4">mdi-message-reply-outline</v-icon> Офіційні звернення
           </div>
+          <p>З 18 ТРАВНЯ ПРАЦЮЄ ТІЛЬКИ В РЕЖИМІ АРХІВУ. Ви можете ознаймитися із останніми відео на <a href="https://www.youtube.com/user/PresidentGovUa/videos">офіційному каналі Офісу Президента України</a> та прочитати матеріали на <a href="https://www.president.gov.ua/news/speeches">офіційному сайті.</a></p>
         </v-card-text>
       </v-card>
     </v-col>

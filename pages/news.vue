@@ -15,7 +15,7 @@
     <v-col cols="12" md="8">
       <v-card class="text-justify ma-0" flat>
         <v-card-text>
-          <p>Оперативні новини з офіційних джерел</p>
+          <p>Оперативні новини з офіційних джерел.</p>
         </v-card-text>
       </v-card>
     </v-col>
